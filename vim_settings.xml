@@ -115,7 +115,7 @@
         <mark key="]" line="51" column="45" />
         <mark key="." line="51" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/include/devicelayerloader/PluginDeviceLayerLoader.h" timestamp="1490968940182">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/include/devicelayerloader/PluginDeviceLayerLoader.h" timestamp="1490972596682">
         <mark key="'" line="28" column="43" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -287,13 +287,6 @@
         <mark key="]" line="15" column="35" />
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" timestamp="1487698790423">
-        <mark key="'" line="742" column="30" />
-        <mark key="[" line="192" column="39" />
-        <mark key="]" line="192" column="45" />
-        <mark key="^" line="192" column="45" />
-        <mark key="." line="192" column="45" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/include/DeviceLibraryProxy.h" timestamp="1490964333641">
         <mark key="'" line="35" column="0" />
@@ -711,11 +704,12 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" timestamp="1490969550599">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="78" column="55" />
-        <mark key="]" line="78" column="55" />
-        <mark key="." line="78" column="55" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" timestamp="1490972593354">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="76" column="8" />
+        <mark key="]" line="76" column="62" />
+        <mark key="." line="76" column="62" />
+        <mark key="^" line="76" column="62" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.views/src/bindings/sm/ViewsExtension.cpp" timestamp="1486642648022">
         <mark key="'" line="0" column="0" />
@@ -724,10 +718,10 @@
         <mark key="^" line="627" column="39" />
         <mark key="." line="627" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" timestamp="1490968733845">
-        <mark key="'" line="106" column="5" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" timestamp="1490972600610">
+        <mark key="'" line="78" column="8" />
+        <mark key="[" line="49" column="33" />
+        <mark key="]" line="49" column="69" />
         <mark key="^" line="56" column="34" />
         <mark key="." line="28" column="0" />
       </file>
@@ -872,19 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="62" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
-      <jump line="12" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
-      <jump line="26" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
-      <jump line="84" column="74" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
-      <jump line="80" column="102" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
-      <jump line="81" column="74" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
-      <jump line="29" column="10" filename="$USER_HOME$/dev/ig/tools/CMakeLists.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeLists.txt" />
-      <jump line="83" column="89" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
-      <jump line="41" column="72" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CMakeLists.txt" />
-      <jump line="16" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/DeviceLibraryProxy.cpp" />
-      <jump line="4" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/include/devicelayerloader/PluginDeviceLayerLoader.h" />
       <jump line="35" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/DeviceLayerTestBase.h" />
       <jump line="47" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CMakeLists.txt" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
@@ -958,7 +939,6 @@
       <jump line="89" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
       <jump line="88" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
-      <jump line="82" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
       <jump line="76" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
       <jump line="36" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/include/devicelayerloader/PluginDeviceLayerLoader.h" />
       <jump line="50" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
@@ -970,8 +950,22 @@
       <jump line="25" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CommonApiTest.cpp" />
       <jump line="63" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
       <jump line="106" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
-      <jump line="28" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/include/devicelayerloader/PluginDeviceLayerLoader.h" />
       <jump line="65" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/tests/sm/SpiderMonkeyEnvironmentTest.cpp" />
+      <jump line="465" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="434" column="56" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="312" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/tests/sm/SpiderMonkeyEnvironmentTest.cpp" />
+      <jump line="311" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/tests/sm/SpiderMonkeyEnvironmentTest.cpp" />
+      <jump line="351" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/tests/sm/SpiderMonkeyEnvironmentTest.cpp" />
+      <jump line="452" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="499" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="352" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/tests/sm/SpiderMonkeyEnvironmentTest.cpp" />
+      <jump line="472" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="58" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
+      <jump line="82" column="45" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
+      <jump line="101" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
+      <jump line="28" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/include/devicelayerloader/PluginDeviceLayerLoader.h" />
+      <jump line="78" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -983,8 +977,8 @@
           <key char="126" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>non-existing-library</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">NTE5ICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHM0L3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAKNTIwICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHMzL3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAK</text>
@@ -1015,46 +1009,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>non-existing-library</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2NrSW5pdEFwaVw+</text>
+        <text encoding="base64">XDxFWFBFQ1RfREVCVUdfREVBVEhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VEVTVF9GKFBsdWdpbkRldmljZUxheWVyTG9hZGVyVGVzdCwgY2FsbHNfYXZfaW5pdF9hbmRfZGVpbml0KQp7CglFWFBFQ1RfQ0FMTCgqbW9ja0luaXRBcGksIENhbGwoXywgXykpLldpbGxPbmNlKFJldHVybihBVl9PSykpOwoJRVhQRUNUX0NBTEwoKm1vY2tVbmluaXRBcGksIENhbGwoXykpLldpbGxPbmNlKFJldHVybihBVl9PSykpOwoKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwoKCUVYUEVDVF9OT19USFJPVyhkZXZpY2VsYXllcmxvYWRlci0+c3RhcnQoKSk7CglFWFBFQ1RfTk9fVEhST1coZGV2aWNlbGF5ZXJsb2FkZXItPnN0b3AoKSk7CgoJZGVsZXRlIGRldmljZWxheWVybG9hZGVyOwp9Cg==</text>
+        <text encoding="base64">CVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7Y29yZTo6bWVtb3J5Ojptb3ZlKHByb3h5KX07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UGx1Z2luRGV2aWNlTGF5ZXJMb2FkZXI6OlBsdWdpbkRldmljZUxheWVyTG9hZGVyKGNvcmU6Om1lbW9yeTo6VW5pcXVlUHRyPERldmljZUxpYnJhcnlQcm94eT4mJiBwcm94eSkgOgoJCV9wcm94eShjb3JlOjptZW1vcnk6Om1vdmUocHJveHkpKQp7CglfaW5pdFBsdWdpbkRldmljZUxheWVyTG9hZGVyKCk7Cn0KCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CVBsdWdpbkRldmljZUxheWVyTG9hZGVyKGNvcmU6Om1lbW9yeTo6VW5pcXVlUHRyPERldmljZUxpYnJhcnlQcm94eT4mJiBwcm94eSk7Cg==</text>
+        <text encoding="base64">CWRlbGV0ZSBkZXZpY2VsYXllcmxvYWRlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VEVTVF9GKFBsdWdpbkRldmljZUxheWVyTG9hZGVyVGVzdCwgY3Jhc2hlc1dpdGhvdXREZXZpY2VMaWJyYXJ5KQp7CglQbHVnaW5EZXZpY2VMYXllckxvYWRlciogZGV2aWNlbGF5ZXJsb2FkZXIgPSBuZXcgUGx1Z2luRGV2aWNlTGF5ZXJMb2FkZXIgewoJCQljb3JlOjptZW1vcnk6OlVuaXF1ZVB0cjxEZXZpY2VMaWJyYXJ5UHJveHk+IHtuZXcgRGV2aWNlTGlicmFyeVByb3h5IHsKCQkJCQkibm9uLWV4aXN0aW5nLWxpYnJhcnkifX19OwoKCUVYUEVDVF9ERUJVR19ERUFUSChkZXZpY2VsYXllcmxvYWRlci0+c3RhcnQoKSwKCQkJIkRldmljZSBMYXllciBMaWJyYXJ5IGlzIG5vdCBsb2FkZWQuIik7CgoJZGVsZXRlIGRldmljZWxheWVybG9hZGVyOwp9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ClRFU1RfRihQbHVnaW5EZXZpY2VMYXllckxvYWRlclRlc3QsIGNyYXNoZXNXaXRob3V0RGV2aWNlTGlicmFyeSkKewoJUGx1Z2luRGV2aWNlTGF5ZXJMb2FkZXIqIGRldmljZWxheWVybG9hZGVyID0gbmV3IFBsdWdpbkRldmljZUxheWVyTG9hZGVyIHsKCQkJY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8RGV2aWNlTGlicmFyeVByb3h5PiB7bmV3IERldmljZUxpYnJhcnlQcm94eSB7CgkJCQkJIm5vbi1leGlzdGluZy1saWJyYXJ5In19fTsKCglFWFBFQ1RfREVCVUdfREVBVEgoZGV2aWNlbGF5ZXJsb2FkZXItPnN0YXJ0KCksCgkJCSJEZXZpY2UgTGF5ZXIgTGlicmFyeSBpcyBub3QgbG9hZGVkLiIpOwoKCWRlbGV0ZSBkZXZpY2VsYXllcmxvYWRlcjsKfQo=</text>
+        <text encoding="base64">CWF1dG8gcHJveHkgPSBjb3JlOjptZW1vcnk6OlVuaXF1ZVB0cjxEZXZpY2VMaWJyYXJ5UHJveHk+IHtuZXcgRGV2aWNlTGlicmFyeVByb3h5IHsibm9uLWV4aXN0aW5nLWxpYnJhcnkifX07Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ClRFU1RfRihQbHVnaW5EZXZpY2VMYXllckxvYWRlclRlc3QsIGNyYXNoZXNXaXRob3V0RGV2aWNlTGlicmFyeSkKewoJUGx1Z2luRGV2aWNlTGF5ZXJMb2FkZXIqIGRldmljZWxheWVybG9hZGVyID0gbmV3IFBsdWdpbkRldmljZUxheWVyTG9hZGVyIHsKCQkJY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8RGV2aWNlTGlicmFyeVByb3h5PiB7bmV3IERldmljZUxpYnJhcnlQcm94eSB7CgkJCQkJIm5vbi1leGlzdGluZy1saWJyYXJ5In19fTsKCglFWFBFQ1RfREVCVUdfREVBVEgoZGV2aWNlbGF5ZXJsb2FkZXItPnN0YXJ0KCksCgkJCSJEZXZpY2UgTGF5ZXIgTGlicmFyeSBpcyBub3QgbG9hZGVkLiIpOwoKCWRlbGV0ZSBkZXZpY2VsYXllcmxvYWRlcjsKfQoKfSAvLyBuYW1lc3BhY2UgZGV2aWNlbGF5ZXJsb2FkZXIKfSAvLyBuYW1lc3BhY2UgaWduaXRpb24K</text>
+        <text encoding="base64">CVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7Y29yZTo6bWVtb3J5Ojptb3ZlKHByb3h5KX07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VEVTVF9GKFBsdWdpbkRldmljZUxheWVyTG9hZGVyVGVzdCwgY3Jhc2hlc1dpdGhvdXREZXZpY2VMaWJyYXJ5KQp7CglQbHVnaW5EZXZpY2VMYXllckxvYWRlciogZGV2aWNlbGF5ZXJsb2FkZXIgPSBuZXcgUGx1Z2luRGV2aWNlTGF5ZXJMb2FkZXIgewoJCQljb3JlOjptZW1vcnk6OlVuaXF1ZVB0cjxEZXZpY2VMaWJyYXJ5UHJveHk+IHtuZXcgRGV2aWNlTGlicmFyeVByb3h5IHsKCQkJCQkibm9uLWV4aXN0aW5nLWxpYnJhcnkifX19OwoKCUVYUEVDVF9ERUJVR19ERUFUSChkZXZpY2VsYXllcmxvYWRlci0+c3RhcnQoKSwKCQkJIkRldmljZSBMYXllciBMaWJyYXJ5IGlzIG5vdCBsb2FkZWQuIik7Cgo=</text>
+        <text encoding="base64">CQkJIkRldmljZSBMYXllciBMaWJyYXJ5IGlzIG5vdCBsb2FkZWQuIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUVYUEVDVF9OT19USFJPVyhkZXZpY2VsYXllcmxvYWRlci0+c3RvcCgpKTsK</text>
+        <text encoding="base64">UGx1Z2luRGV2aWNlTGF5ZXJMb2FkZXI6OlBsdWdpbkRldmljZUxheWVyTG9hZGVyKGNvcmU6Om1lbW9yeTo6VW5pcXVlUHRyPERldmljZUxpYnJhcnlQcm94eT4mJiBwcm94eSkgOgoJCV9wcm94eShjb3JlOjptZW1vcnk6Om1vdmUocHJveHkpKQp7CglfaW5pdFBsdWdpbkRldmljZUxheWVyTG9hZGVyKCk7Cn0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvcmU6Om1lbW9yeTo6VW5pcXVlUHRyPERldmljZUxpYnJhcnlQcm94eQo=</text>
+        <text encoding="base64">CVBsdWdpbkRldmljZUxheWVyTG9hZGVyKGNvcmU6Om1lbW9yeTo6VW5pcXVlUHRyPERldmljZUxpYnJhcnlQcm94eT4mJiBwcm94eSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VEVTVF9GKFBsdWdpbkRldmljZUxheWVyTG9hZGVyVGVzdCwgY3Jhc2hlc1dpdGhvdXREZXZpY2VMaWJyYXJ5KQp7CglQbHVnaW5EZXZpY2VMYXllckxvYWRlciogZGV2aWNlbGF5ZXJsb2FkZXIgPSBuZXcgUGx1Z2luRGV2aWNlTGF5ZXJMb2FkZXIgewoJCQljb3JlOjptZW1vcnk6OlVuaXF1ZVB0cjxEZXZpY2VMaWJyYXJ5UHJveHk+IHtuZXcgRGV2aWNlTGlicmFyeVByb3h5IHsKCQkJCQkibm9uLWV4aXN0aW5nLWxpYnJhcnkifX19OwoKCUVYUEVDVF9ERUJVR19ERUFUSChkZXZpY2VsYXllcmxvYWRlci0+c3RhcnQoKSwKCQkJIkRldmljZSBMYXllciBMaWJyYXJ5IGlzIG5vdCBsb2FkZWQuIik7CgoJZGVsZXRlIGRldmljZWxheWVybG9hZGVyOwp9Cgo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">Y29yZTo6ZnVuY3Rpb248ZGVjbHR5cGUoYXZTdG9yYWdlQmFja2VuZENyZWF0ZUNvbnRleHQpPg==</text>
@@ -1064,9 +1058,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2NrSW5pdEFwaVw+</last-search>
+      <last-search encoding="base64">XDxFWFBFQ1RfREVCVUdfREVBVEhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2NrSW5pdEFwaVw+</last-pattern>
+      <last-pattern encoding="base64">XDxFWFBFQ1RfREVCVUdfREVBVEhcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1074,7 +1068,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc3ltYm9sTG9hZGVyXD4=</entry>
         <entry encoding="base64">XDxfbGliXD4=</entry>
         <entry encoding="base64">XDxsaWJQcm94eVw+</entry>
         <entry encoding="base64">XDxsb2FkXD4=</entry>
@@ -1094,6 +1087,7 @@
         <entry encoding="base64">XDxfaW5pdEFwaVw+</entry>
         <entry encoding="base64">XDxJbml0QXBpXD4=</entry>
         <entry encoding="base64">XDxtb2NrSW5pdEFwaVw+</entry>
+        <entry encoding="base64">XDxFWFBFQ1RfREVCVUdfREVBVEhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">IGxpc3RlbmVycyk=</entry>
