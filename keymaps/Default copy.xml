@@ -1,0 +1,59 @@
+<keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="CIDR.Lang.ImportsHierarchy" />
+  <action id="EditorPasteFromX11" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="shift button2" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="shift alt j" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="SelectAllOccurrences" />
+  <action id="SelectNextOccurrence" />
+  <action id="ShowReformatFileDialog" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="UnselectPreviousOccurrence" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="context.load" />
+</keymap>
