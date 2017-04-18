@@ -57,8 +57,8 @@
         <mark key="." line="22" column="10" />
         <mark key="^" line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/PluginDeviceLayerLoaderConfig.cmake" timestamp="1490896990095">
-        <mark key="'" line="75" column="9" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/PluginDeviceLayerLoaderConfig.cmake" timestamp="1492529180412">
+        <mark key="'" line="23" column="43" />
         <mark key="[" line="72" column="0" />
         <mark key="]" line="73" column="95" />
         <mark key="." line="67" column="76" />
@@ -206,8 +206,8 @@
         <mark key="^" line="47" column="46" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/external/include/devicelayerloader/IDeviceLayerLoader.h" timestamp="1490972650914">
-        <mark key="'" line="31" column="18" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/external/include/devicelayerloader/IDeviceLayerLoader.h" timestamp="1492529113611">
+        <mark key="'" line="5" column="16" />
         <mark key="[" line="31" column="12" />
         <mark key="]" line="31" column="17" />
         <mark key="^" line="31" column="17" />
@@ -658,7 +658,7 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490975882325">
+      <file name="/Dummy.txt" timestamp="1492527481195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -702,11 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/src/av_common.c" />
-      <jump line="23" column="46" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CommonApiTest.cpp" />
-      <jump line="39" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CommonApiTest.cpp" />
-      <jump line="45" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/SecureStorageBackendFactory.h" />
-      <jump line="51" column="56" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
       <jump line="22" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/platform-layer/include/device/av_secure_storage_backend.h" />
       <jump line="29" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/external/include/devicelayerloader/IDeviceLayerLoader.h" />
       <jump line="12" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/external/include/devicelayerloader/IDeviceLayerLoader.h" />
@@ -802,6 +797,11 @@
       <jump line="57" column="73" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CMakeLists.txt" />
       <jump line="121" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/README.md" />
+      <jump line="5" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/external/include/devicelayerloader/IDeviceLayerLoader.h" />
+      <jump line="68" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/PluginDeviceLayerLoaderConfig.cmake" />
+      <jump line="36" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/PluginDeviceLayerLoaderConfig.cmake" />
+      <jump line="9" column="3" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/PluginDeviceLayerLoaderConfig.cmake" />
+      <jump line="23" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/PluginDeviceLayerLoaderConfig.cmake" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -848,7 +848,7 @@
         <text>interface</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJR05JVElPTl9DT1JFX0JJTl9ESVJcPg==</text>
+        <text encoding="base64">XDxQTFVHSU5ERVZJQ0VMQVlFUkxPQURFUl9JTkNMVURFX0RJUlNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHwgICAgKy0gdGVzdHMK</text>
@@ -894,9 +894,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJR05JVElPTl9DT1JFX0JJTl9ESVJcPg==</last-search>
+      <last-search encoding="base64">XDxQTFVHSU5ERVZJQ0VMQVlFUkxPQURFUl9JTkNMVURFX0RJUlNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJR05JVElPTl9DT1JFX0JJTl9ESVJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxQTFVHSU5ERVZJQ0VMQVlFUkxPQURFUl9JTkNMVURFX0RJUlNcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -904,7 +904,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaWJQcm94eVw+</entry>
         <entry encoding="base64">XDxsb2FkXD4=</entry>
         <entry encoding="base64">XDxDb21tb25UZXN0XD4=</entry>
         <entry encoding="base64">XDxQbHVnaW5EZXZpY2VMYXllckxvYWRlclw+</entry>
@@ -924,6 +923,7 @@
         <entry encoding="base64">XDxtb2NrSW5pdEFwaVw+</entry>
         <entry encoding="base64">XDxFWFBFQ1RfREVCVUdfREVBVEhcPg==</entry>
         <entry encoding="base64">XDxJR05JVElPTl9DT1JFX0JJTl9ESVJcPg==</entry>
+        <entry encoding="base64">XDxQTFVHSU5ERVZJQ0VMQVlFUkxPQURFUl9JTkNMVURFX0RJUlNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">IGxpc3RlbmVycyk=</entry>
