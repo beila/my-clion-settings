@@ -140,8 +140,8 @@
         <mark key="^" line="45" column="109" />
         <mark key="." line="45" column="109" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/configs/linux.dev.config" timestamp="1492687585528">
-        <mark key="'" line="45" column="0" />
+      <file name="$USER_HOME$/dev/ig/tools/configs/linux.dev.config" timestamp="1492700263299">
+        <mark key="'" line="48" column="0" />
         <mark key="[" line="46" column="27" />
         <mark key="]" line="46" column="30" />
         <mark key="." line="46" column="30" />
@@ -750,7 +750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDummyDeviceLayerLoaderTest.cpp" />
       <jump line="3" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/include/devicelayerloader/PluginDummyDeviceLayerLoader.h" />
       <jump line="25" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/include/devicelayerloader/PluginDummyDeviceLayerLoader.h" />
       <jump line="16" column="58" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDummyDeviceLayerLoader.cpp" />
@@ -850,6 +849,7 @@
       <jump line="5" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
       <jump line="24" column="57" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/include/devicelayerloader/PluginDummyDeviceLayerLoader.h" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDummyDeviceLayerLoader.cpp" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/ig/tools/configs/linux.dev.config" />
     </jumps>
     <registers>
       <register name="a" type="4">
