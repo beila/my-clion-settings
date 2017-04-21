@@ -219,12 +219,12 @@
         <mark key="^" line="47" column="46" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/external/include/devicelayerloader/IDeviceLayerLoader.h" timestamp="1492773766823">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/external/include/devicelayerloader/IDeviceLayerLoader.h" timestamp="1492774029134">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="69" />
-        <mark key="]" line="26" column="72" />
-        <mark key="^" line="26" column="72" />
-        <mark key="." line="26" column="72" />
+        <mark key="[" line="28" column="34" />
+        <mark key="]" line="28" column="43" />
+        <mark key="^" line="28" column="43" />
+        <mark key="." line="28" column="43" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDummyDeviceLayerLoaderTest.cpp" timestamp="1492686459190">
         <mark key="'" line="8" column="0" />
@@ -715,7 +715,7 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492769256765">
+      <file name="/Dummy.txt" timestamp="1492774058022">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="53" />
@@ -874,7 +874,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJvZHVjdGlvbiA=</text>
+        <text>n</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">NTE5ICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHM0L3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAKNTIwICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHMzL3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAK</text>
@@ -905,13 +905,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJvZHVjdGlvbiA=</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcnJvclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;Essential API is not provided by device layer. See the API name from log above.&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">CS8vIQlAYnJpZWYgR2V0cyBjb21tb24gY29udGV4dCBwb2ludGVyIGZvciB0aGUgZGV2aWNlIGxheWVyIGxpYnJhcnkKCS8vIQlAcGFyYW1bb3V0XSBjb250ZXh0IFBvaW50ZXIgdG8gY29udGV4dAoJLy8hCUByZXR1cm4gQGMgdHJ1ZSBmb3Igc3VjY2VzcywgZmFsc2UgZm9yIGZhaWx1cmUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CS8vIGZ1bmN0aW9uIHRvIGJlIGZvdW5kCg==</text>
