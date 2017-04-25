@@ -340,10 +340,11 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="85" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/manifest" timestamp="1493035053191">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/manifest" timestamp="1493035813904">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+        <mark key="^" line="10" column="1" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/InitTest.h" timestamp="1490891321944">
         <mark key="'" line="9" column="0" />
@@ -372,6 +373,13 @@
         <mark key="]" line="93" column="78" />
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/device/src/display/DevicePlatformContext.cpp" timestamp="1493114197588">
+        <mark key="'" line="60" column="47" />
+        <mark key="[" line="60" column="47" />
+        <mark key="]" line="60" column="48" />
+        <mark key="^" line="60" column="48" />
+        <mark key="." line="60" column="48" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/src/av_common.c" timestamp="1490898818968">
         <mark key="'" line="11" column="12" />
@@ -708,6 +716,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" timestamp="1493029094063">
         <mark key="'" line="86" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" timestamp="1493114168652">
+        <mark key="'" line="14" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" timestamp="1492783422221">
         <mark key="'" line="212" column="68" />
         <mark key="[" line="194" column="31" />
@@ -809,7 +820,7 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493030818451">
+      <file name="/Dummy.txt" timestamp="1493114111876">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="53" />
@@ -856,11 +867,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CMakeLists.txt" />
-      <jump line="14" column="70" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CMakeLists.txt" />
-      <jump line="17" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CMakeLists.txt" />
-      <jump line="25" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CMakeLists.txt" />
-      <jump line="7" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CMakeLists.txt.in" />
       <jump line="30" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/CMakeLists.txt" />
       <jump line="41" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/tests/CMakeLists.txt" />
       <jump line="55" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/tests/CMakeLists.txt" />
@@ -956,6 +962,11 @@
       <jump line="77" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
       <jump line="86" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
       <jump line="65" column="52" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps4/src/player/PlayerPlatform.cpp" />
+      <jump line="26" column="42" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/device/src/display/DevicePlatformContext.cpp" />
+      <jump line="60" column="47" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/device/src/display/DevicePlatformContext.cpp" />
+      <jump line="31" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" />
+      <jump line="14" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" />
+      <jump line="105" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
