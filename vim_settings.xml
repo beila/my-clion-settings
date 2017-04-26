@@ -380,18 +380,18 @@
         <mark key="^" line="32" column="79" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/manifest" timestamp="1489150209032">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/manifest" timestamp="1493219201810">
         <mark key="'" line="86" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="54" />
         <mark key="^" line="85" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/manifest" timestamp="1493131344513">
-        <mark key="[" line="10" column="82" />
-        <mark key="]" line="10" column="83" />
-        <mark key="." line="10" column="83" />
-        <mark key="^" line="6" column="1" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/manifest" timestamp="1493219195319">
+        <mark key="[" line="10" column="80" />
+        <mark key="]" line="10" column="106" />
+        <mark key="." line="10" column="106" />
+        <mark key="^" line="10" column="106" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/InitTest.h" timestamp="1490891321944">
         <mark key="'" line="9" column="0" />
@@ -648,13 +648,6 @@
         <mark key="^" line="81" column="60" />
         <mark key="." line="81" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" timestamp="1493208095152">
-        <mark key="'" line="0" column="38" />
-        <mark key="[" line="131" column="51" />
-        <mark key="]" line="131" column="51" />
-        <mark key="^" line="68" column="8" />
-        <mark key="." line="131" column="51" />
-      </file>
       <file name="$USER_HOME$/dev/ig/tutorial.lua" timestamp="1483723969520">
         <mark key="'" line="176" column="32" />
         <mark key="[" line="180" column="88" />
@@ -879,7 +872,7 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493217134603">
+      <file name="/Dummy.txt" timestamp="1493219037055">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="16" />
@@ -1053,8 +1046,8 @@
           <key char="126" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ewogICAgImNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLioiOiAiZGV2ZWxvcCIsCiAgICAiY29tLmFtYXpvbi5pZ25pdGlvbi5mcmFtZXdvcmsuY29yZSI6ICJmZWF0dXJlLWRldmljZS1sYXllci1sb2FkZXIiLAoJImNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmRldmljZWxheWVybG9hZGVyIjogImZlYXR1cmUtZGV2aWNlLWxheWVyLWxvYWRlciIsCiAgICAiY29tLmFtYXpvbi5pZ25pdGlvbi5mcmFtZXdvcmsuZGlzcGxheSI6ICJmZWF0dXJlLWlucHV0LXBvcnRpbmctcmVmZXJlbmNlLWltcGxlbWVudGF0aW9uIiwKICAgICJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay5pbnB1dCI6ICJmZWF0dXJlLWlucHV0LXBvcnRpbmctcmVmZXJlbmNlLWltcGxlbWVudGF0aW9uIiwKICAgICJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay5zdG9yYWdlIjogImZlYXR1cmUtYXBpLXdpdGgtZGV2aWNlbGF5ZXJsb2FkZXIiLAogICAgImNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLnRleHR0b3NwZWVjaCI6ICJmZWF0dXJlLXR0cy1wb3J0aW5nLWRldmljZWxheWVybG9hZGVyIiwKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>0.2-</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">NTE5ICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHM0L3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAKNTIwICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHMzL3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAK</text>
@@ -1085,7 +1078,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>feature-device-layer-loader</text>
+        <text>0.2-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXZlbG9wXD4=</text>
