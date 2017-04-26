@@ -74,8 +74,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/PluginDeviceLayerLoaderConfig.cmake" timestamp="1492798182893">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/add-device-layer-interface.cmake" timestamp="1493138774148">
-        <mark key="'" line="10" column="70" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/add-device-layer-interface.cmake" timestamp="1493203414404">
+        <mark key="'" line="21" column="62" />
         <mark key="[" line="35" column="64" />
         <mark key="]" line="35" column="69" />
         <mark key="." line="35" column="69" />
@@ -137,6 +137,13 @@
         <mark key="^" line="27" column="67" />
         <mark key="." line="27" column="67" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/symbols/ISymbolLoader.h" timestamp="1493203061308">
+        <mark key="'" line="14" column="25" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/tests/sm/extensions/ScriptLoadingExtensionTestBase.h" timestamp="1493117018297">
         <mark key="'" line="36" column="20" />
       </file>
@@ -188,7 +195,8 @@
         <mark key="." line="7" column="92" />
         <mark key="^" line="7" column="92" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/CMakeLists.txt" timestamp="1493138682557">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/CMakeLists.txt" timestamp="1493203398980">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="53" />
@@ -349,11 +357,19 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CommonApiTest.cpp" timestamp="1493203633197">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps4/src/player/PlayerPlatform.cpp" timestamp="1493029185185">
         <mark key="'" line="65" column="52" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-target-post-build.cmake" timestamp="1492788546939">
         <mark key="'" line="14" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/cppcompatibility/std/SmartPointers.h" timestamp="1493202909998">
+        <mark key="'" line="3" column="10" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/IStorage.h" timestamp="1492610382933">
         <mark key="'" line="15" column="38" />
@@ -405,6 +421,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/symbols/FunctionMapSymbolLoader.cpp" timestamp="1493139702301">
         <mark key="'" line="47" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_display.h" timestamp="1493128217190" />
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/Ignition.cpp" timestamp="1487844144672">
         <mark key="'" line="326" column="48" />
         <mark key="[" line="147" column="4" />
@@ -561,6 +578,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/external/include/ignition/texttospeech/ITextToSpeech.h" timestamp="1492783901052" />
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.oem.loader/internal/include/oemloader/PluginOEMLoader.h" timestamp="1489491271666">
         <mark key="'" line="26" column="11" />
         <mark key="[" line="5" column="33" />
@@ -578,6 +596,9 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/cppcompatibility/std/UniquePtr.h" timestamp="1493202913277">
+        <mark key="'" line="3" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.core/internal/platform/samsungtv/include/utils/DLogListener.h" timestamp="1481642718994">
         <mark key="'" line="19" column="73" />
         <mark key="[" line="19" column="65" />
@@ -592,15 +613,14 @@
         <mark key="." line="54" column="77" />
         <mark key="^" line="59" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/src/LibraryLoader.cpp" timestamp="1493135689105">
-        <mark key="'" line="56" column="21" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="82" column="5" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="77" column="27" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/src/LibraryLoader.cpp" timestamp="1493203390732">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="64" column="5" />
+        <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/ffi/LuaFFISymbolLoader.cpp" timestamp="1493139638157">
-        <mark key="'" line="16" column="47" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/ffi/LuaFFISymbolLoader.cpp" timestamp="1493203381772">
+        <mark key="'" line="26" column="30" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -648,8 +668,8 @@
         <mark key="^" line="81" column="60" />
         <mark key="." line="81" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" timestamp="1493138451259">
-        <mark key="'" line="131" column="17" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" timestamp="1493203408484">
+        <mark key="'" line="139" column="60" />
         <mark key="[" line="131" column="51" />
         <mark key="]" line="131" column="60" />
         <mark key="^" line="131" column="60" />
@@ -706,13 +726,7 @@
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/CMakeLists.txt" timestamp="1493139559958">
-        <mark key="'" line="19" column="17" />
-        <mark key="[" line="14" column="70" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/CMakeLists.txt" timestamp="1493203402580" />
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/thread/PS3MutexUtils.h" timestamp="1484665320415">
         <mark key="'" line="7" column="8" />
         <mark key="[" line="5" column="25" />
@@ -751,6 +765,9 @@
         <mark key="^" line="71" column="42" />
         <mark key="." line="71" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/include/symbols/LinuxSymbolLoader.h" timestamp="1493202845789">
+        <mark key="'" line="4" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/src/av_common.c" timestamp="1492782207611">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="18" column="19" />
@@ -769,6 +786,10 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" timestamp="1493114734454">
         <mark key="'" line="12" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" timestamp="1493203368299">
+        <mark key="'" line="205" column="0" />
+        <mark key="]" line="199" column="29" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.views/src/bindings/sm/ViewsExtension.cpp" timestamp="1486642648022">
         <mark key="'" line="0" column="0" />
@@ -900,8 +921,8 @@
         <mark key="^" line="127" column="82" />
         <mark key="." line="127" column="82" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/include/plugin/LinuxLibraryProxy.h" timestamp="1493139814974">
-        <mark key="'" line="22" column="16" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/include/plugin/LinuxLibraryProxy.h" timestamp="1493202745147">
+        <mark key="'" line="34" column="16" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.oem.loader/platform-oem/src/global_oem_porting.c" timestamp="1489754168216">
         <mark key="'" line="24" column="0" />
@@ -918,25 +939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="34" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" />
-      <jump line="63" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/extensions/SandboxExtension.cpp" />
-      <jump line="214" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" />
-      <jump line="64" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/extensions/SandboxExtension.cpp" />
-      <jump line="225" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" />
-      <jump line="125" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/thirdparty/spidermonkey/mozjs-45.0.2/dist/include/jsapi.h" />
-      <jump line="226" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" />
-      <jump line="218" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/thirdparty/spidermonkey/mozjs-45.0.2/dist/include/jsapi.h" />
-      <jump line="68" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/extensions/SandboxExtension.cpp" />
-      <jump line="195" column="38" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/JsRuntimeRequest.h" />
-      <jump line="49" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/ScriptRunner.cpp" />
-      <jump line="142" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/JsRuntimeRequest.h" />
-      <jump line="33" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/JsRuntimeRequest.h" />
-      <jump line="377" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
-      <jump line="502" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
-      <jump line="785" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
-      <jump line="780" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
-      <jump line="355" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
-      <jump line="145" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/JsRuntimeRequest.h" />
       <jump line="356" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
       <jump line="767" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
       <jump line="354" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
@@ -967,7 +969,6 @@
       <jump line="156" column="49" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
       <jump line="30" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/external/include/devicelayerloader/IDeviceLayerLoader.h" />
       <jump line="237" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
-      <jump line="139" column="75" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
       <jump line="138" column="113" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
       <jump line="135" column="89" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
       <jump line="134" column="68" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
@@ -982,7 +983,6 @@
       <jump line="22" column="87" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/add-device-layer-interface.cmake" />
       <jump line="28" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/add-device-layer-interface.cmake" />
       <jump line="26" column="63" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/add-device-layer-interface.cmake" />
-      <jump line="21" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/add-device-layer-interface.cmake" />
       <jump line="19" column="63" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/add-device-layer-interface.cmake" />
       <jump line="15" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/add-device-layer-interface.cmake" />
       <jump line="10" column="70" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/add-device-layer-interface.cmake" />
@@ -1018,6 +1018,27 @@
       <jump line="75" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/dispatchers/DeviceEventDispatcher.cpp" />
       <jump line="140" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/dispatchers/DeviceEventDispatcher.cpp" />
       <jump line="86" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
+      <jump line="34" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/include/plugin/LinuxLibraryProxy.h" />
+      <jump line="14" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/include/symbols/LinuxSymbolLoader.h" />
+      <jump line="17" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/symbols/ISymbolLoader.h" />
+      <jump line="4" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/include/symbols/LinuxSymbolLoader.h" />
+      <jump line="4" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/symbols/ISymbolLoader.h" />
+      <jump line="5" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/cppcompatibility/std/DataStructures.h" />
+      <jump line="6" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/symbols/ISymbolLoader.h" />
+      <jump line="6" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/cppcompatibility/std/SmartPointers.h" />
+      <jump line="7" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/symbols/ISymbolLoader.h" />
+      <jump line="16" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/core/IgnitionConfig.h" />
+      <jump line="3" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/cppcompatibility/std/SmartPointers.h" />
+      <jump line="3" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/cppcompatibility/std/UniquePtr.h" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/cppcompatibility/std/Move.h" />
+      <jump line="14" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/symbols/ISymbolLoader.h" />
+      <jump line="206" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
+      <jump line="25" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/ffi/LuaFFISymbolLoader.cpp" />
+      <jump line="89" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/src/LibraryLoader.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/CMakeLists.txt" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/CMakeLists.txt" />
+      <jump line="139" column="60" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
+      <jump line="21" column="62" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/add-device-layer-interface.cmake" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1029,8 +1050,8 @@
           <key char="126" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInBsdWdpbi9QbHVnaW5NYW5hZ2VyLmgiCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">NTE5ICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHM0L3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAKNTIwICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHMzL3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAK</text>
@@ -1061,7 +1082,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaWJyYXJ5UHJveHlGYWN0b3J5XD4=</text>
