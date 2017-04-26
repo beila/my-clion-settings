@@ -188,12 +188,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/JsRuntimeRequest.h" timestamp="1493117937547">
         <mark key="'" line="142" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/ig/ignitiondepooverrides/overrides.json" timestamp="1493218361104">
-        <mark key="'" line="1" column="46" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="1" column="46" />
-        <mark key="." line="1" column="46" />
+      <file name="$USER_HOME$/dev/ig/ignitiondepooverrides/overrides.json" timestamp="1493219919784">
+        <mark key="'" line="0" column="46" />
+        <mark key="[" line="3" column="83" />
+        <mark key="]" line="3" column="84" />
+        <mark key="^" line="3" column="84" />
+        <mark key="." line="3" column="84" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/CMakeLists.txt" timestamp="1493208440751">
         <mark key="'" line="7" column="27" />
@@ -872,7 +872,7 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493219037055">
+      <file name="/Dummy.txt" timestamp="1493219276228">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="16" />
@@ -1047,7 +1047,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0.2-</text>
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">NTE5ICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHM0L3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAKNTIwICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHMzL3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAK</text>
@@ -1078,7 +1078,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0.2-</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXZlbG9wXD4=</text>
