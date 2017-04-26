@@ -628,6 +628,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" timestamp="1493114747847">
         <mark key="'" line="56" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" timestamp="1493221059963">
+        <mark key="'" line="43" column="53" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/avInputTests.cpp" timestamp="1493034932285">
         <mark key="[" line="32" column="11" />
         <mark key="]" line="32" column="11" />
@@ -935,8 +938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/symbols/ISymbolLoader.h" />
-      <jump line="16" column="47" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/ffi/LuaFFISymbolLoader.cpp" />
       <jump line="13" column="49" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/src/symbols/SymbolLoaderFactory.cpp" />
       <jump line="15" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/symbols/GlobalSymbolTableSymbolLoader.h" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/src/symbols/SymbolLoaderFactory.cpp" />
@@ -1035,6 +1036,8 @@
       <jump line="7" column="0" filename="$USER_HOME$/dev/ig/ignitiondepooverrides/overrides.json" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/ig/ignitiondepooverrides/overrides.json" />
       <jump line="1" column="46" filename="$USER_HOME$/dev/ig/ignitiondepooverrides/overrides.json" />
+      <jump line="37" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" />
+      <jump line="43" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1081,7 +1084,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXZlbG9wXD4=</text>
+        <text encoding="base64">XDxNT05PTElUSF9QWVRIT05fRVJST1JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay5jb3JlIjogImZlYXR1cmUtZGV2aWNlLWxheWVyLWxvYWRlciIsCg==</text>
@@ -1127,9 +1130,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZXZlbG9wXD4=</last-search>
+      <last-search encoding="base64">XDxNT05PTElUSF9QWVRIT05fRVJST1JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXZlbG9wXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxNT05PTElUSF9QWVRIT05fRVJST1JcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1137,7 +1140,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxERVNUX0ZJTEVfUkVMQVRJVkVcPg==</entry>
         <entry encoding="base64">XDxERVZJQ0VfSU5URVJGQUNFX0RFU1RfRElSX1BSRUZJWFw+</entry>
         <entry encoding="base64">XDxERVZJQ0VfSU5URVJGQUNFX0RVTU1ZX0xJQlJBUllfRElSXD4=</entry>
         <entry encoding="base64">XDxfZmZpR2V0U3ltRGVmYXVsdFw+</entry>
@@ -1157,6 +1159,7 @@
         <entry>return</entry>
         <entry encoding="base64">XDxsb2FkZXJcPg==</entry>
         <entry encoding="base64">XDxkZXZlbG9wXD4=</entry>
+        <entry encoding="base64">XDxNT05PTElUSF9QWVRIT05fRVJST1JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
