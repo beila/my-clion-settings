@@ -27,8 +27,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-files.cmake" timestamp="1492788660568">
         <mark key="'" line="59" column="67" />
       </file>
-      <file name="$USER_HOME$/local/depo/src/depo/git/GitRepo.py" timestamp="1490874085845">
-        <mark key="'" line="164" column="47" />
+      <file name="$USER_HOME$/local/depo/src/depo/git/GitRepo.py" timestamp="1493216649725">
+        <mark key="'" line="91" column="15" />
         <mark key="[" line="49" column="8" />
         <mark key="]" line="91" column="15" />
         <mark key="." line="91" column="15" />
@@ -87,11 +87,6 @@
         <mark key="]" line="37" column="14" />
         <mark key="." line="35" column="17" />
         <mark key="^" line="37" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/CMakeLists.txt" timestamp="1492702968116">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/symbols/FunctionMapSymbolLoader.h" timestamp="1493139707926">
         <mark key="'" line="28" column="10" />
@@ -193,12 +188,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/JsRuntimeRequest.h" timestamp="1493117937547">
         <mark key="'" line="142" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/ig/ignitiondepooverrides/overrides.json" timestamp="1490807962707">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="64" />
-        <mark key="]" line="7" column="92" />
-        <mark key="." line="7" column="92" />
-        <mark key="^" line="7" column="92" />
+      <file name="$USER_HOME$/dev/ig/ignitiondepooverrides/overrides.json" timestamp="1493217201875">
+        <mark key="'" line="7" column="77" />
+        <mark key="[" line="4" column="70" />
+        <mark key="]" line="4" column="71" />
+        <mark key="." line="4" column="71" />
+        <mark key="^" line="4" column="71" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/CMakeLists.txt" timestamp="1493208440751">
         <mark key="'" line="7" column="27" />
@@ -352,11 +347,6 @@
         <mark key="]" line="27" column="36" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="60" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CommonApiTest.cpp" timestamp="1493203633197">
-        <mark key="[" line="26" column="28" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="22" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps4/src/player/PlayerPlatform.cpp" timestamp="1493029185185">
         <mark key="'" line="65" column="52" />
@@ -700,11 +690,10 @@
         <mark key="^" line="64" column="71" />
       </file>
       <file name="$USER_HOME$/local/depo/src/depo/commands/CurrentRevCommand.py" timestamp="1490872064547">
-        <mark key="'" line="29" column="82" />
-        <mark key="[" line="55" column="8" />
-        <mark key="]" line="55" column="12" />
-        <mark key="." line="55" column="12" />
-        <mark key="^" line="55" column="12" />
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="12" />
+        <mark key="." line="28" column="12" />
+        <mark key="^" line="28" column="12" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/identity/CachedSerialNumberProvider.h" timestamp="1493028160364">
         <mark key="'" line="16" column="36" />
@@ -890,7 +879,7 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493216418904">
+      <file name="/Dummy.txt" timestamp="1493217134603">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="16" />
@@ -953,9 +942,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/ffi/LuaFFISymbolLoader.cpp" />
-      <jump line="2" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/ffi/LuaFFISymbolLoader.cpp" />
-      <jump line="5" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/include/ffi/LuaFFISymbolLoader.h" />
       <jump line="3" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/ffi/LuaFFISymbolLoader.cpp" />
       <jump line="6" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/symbols/SymbolLoaderFactory.h" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/core/IgnitionConfig.h" />
@@ -1053,6 +1039,9 @@
       <jump line="103" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/avTextToSpeechTest.cpp" />
       <jump line="52" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/DeviceLayerTestBase.h" />
       <jump line="116" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/avDisplayTests.cpp" />
+      <jump line="91" column="15" filename="$USER_HOME$/local/depo/src/depo/git/GitRepo.py" />
+      <jump line="4" column="64" filename="$USER_HOME$/dev/ig/ignitiondepooverrides/overrides.json" />
+      <jump line="7" column="77" filename="$USER_HOME$/dev/ig/ignitiondepooverrides/overrides.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1064,8 +1053,8 @@
           <key char="126" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>, &quot;FIXME&quot; : &quot;Use tag&quot;,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay50ZXh0dG9zcGVlY2giOiAiZGV2ZWxvcCIsCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">NTE5ICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHM0L3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAKNTIwICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHMzL3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAK</text>
@@ -1096,46 +1085,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, &quot;FIXME&quot; : &quot;Use tag&quot;,</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>return</text>
+        <text encoding="base64">XDxsb2FkZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUFTU0VSVF9BTExfVFJVRShfZGlzcGxheUNyZWF0ZUNvbnRleHRGdW5jLCBfZGlzcGxheURlc3Ryb3lDb250ZXh0RnVuYyk7Cg==</text>
+        <text encoding="base64">ImNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmRpc3BsYXkiOiAiZmVhdHVyZS1pbnB1dC1wb3J0aW5nLXJlZmVyZW5jZS1pbXBsZW1lbnRhdGlvbiIsCiJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay5pbnB1dCI6ICJmZWF0dXJlLWlucHV0LXBvcnRpbmctcmVmZXJlbmNlLWltcGxlbWVudGF0aW9uIiwKImNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLnN0b3JhZ2UiOiAiZmVhdHVyZS1hcGktd2l0aC1kZXZpY2VsYXllcmxvYWRlciIsCiJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay50ZXh0dG9zcGVlY2giOiAiZmVhdHVyZS10dHMtcG9ydGluZy1kZXZpY2VsYXllcmxvYWRlciIsIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUFTU0VSVF9UUlVFKChib29sKV9kaXNwbGF5RGVzdHJveUNvbnRleHRGdW5jKTsK</text>
+        <text encoding="base64">ICAgICJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay50ZXh0dG9zcGVlY2giOiAiZGV2ZWxvcCIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUVYUEVDVF9UUlVFKChib29sKV9kaXNwbGF5Q3JlYXRlQ29udGV4dEZ1bmMpcy4K</text>
+        <text encoding="base64">ICAgICJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay50ZXh0dG9zcGVlY2giOiAiZmVhdHVyZS10dHMtcG9ydGluZy1kZXZpY2VsYXllcmxvYWRlciIsIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUFTU0VSVF9UUlVFKChib29sKV9kaXNwbGF5Q3JlYXRlQ29udGV4dEZ1bmMpOwo=</text>
+        <text encoding="base64">ICAgICJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay50ZXh0dG9zcGVlY2giOiAiZmVhdHVyZS10dHMtcG9ydGluZy1kZXZpY2VsYXllcmxvYWRlciIsIAogICAgImNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLnN0eWxlIjogImRldmVsb3AiLAogICAgImNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLnN0eWxlLmxvZ2ljIjogImRldmVsb3AiLAogICAgImNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLnRlbGVtZXRyeSI6ICJkZXZlbG9wIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVjbHR5cGUoYXZEaXNwbGF5RGVzdHJveUNvbnRleHQpIGZmZiA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay5zdG9yYWdlIjogImZlYXR1cmUtZGV2aWNlLWxheWVyLWxvYWRlciIsCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RGlzcGxheURlc3Ryb3kK</text>
+        <text encoding="base64">ICAgICJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay5zdG9yYWdlIjogImZlYXR1cmUtYXBpLXdpdGgtZGV2aWNlbGF5ZXJsb2FkZXIiLAogICAgImNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLnRleHR0b3NwZWVjaCI6ICJmZWF0dXJlLXR0cy1wb3J0aW5nLWRldmljZWxheWVybG9hZGVyIiwgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay5pbnB1dCI6ICJkZXZlbG9wIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TUVTU0FHRShGQVRBTF9FUlJPUiAiJHtERVZJQ0VfSU5URVJGQUNFX0lOQ0xVREVfRklMRVN9IikgI0ZJWE1FCg==</text>
+        <text encoding="base64">ICAgICJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay5pbnB1dCI6ICJmZWF0dXJlLWlucHV0LXBvcnRpbmctcmVmZXJlbmNlLWltcGxlbWVudGF0aW9uIiwKICAgICJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay5zdG9yYWdlIjogImZlYXR1cmUtYXBpLXdpdGgtZGV2aWNlbGF5ZXJsb2FkZXIiLAogICAgImNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLnRleHR0b3NwZWVjaCI6ICJmZWF0dXJlLXR0cy1wb3J0aW5nLWRldmljZWxheWVybG9hZGVyIiwgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay5kaXNwbGF5IjogImRldmVsb3AiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TElTVChBUFBFTkQgREVWSUNFX0lOVEVSRkFDRV9JTkNMVURFX0ZJTEVTIGluY2x1ZGUvZGV2aWNlL2F2X2NvbW1vbi5oKQoK</text>
+        <text encoding="base64">ImNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLnN0eWxlIjogImRldmVsb3AiLAoiY29tLmFtYXpvbi5pZ25pdGlvbi5mcmFtZXdvcmsuc3R5bGUubG9naWMiOiAiZGV2ZWxvcCIsCiJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay50ZWxlbWV0cnkiOiAiZGV2ZWxvcCIsCg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">Y29yZTo6ZnVuY3Rpb248ZGVjbHR5cGUoYXZTdG9yYWdlQmFja2VuZENyZWF0ZUNvbnRleHQpPg==</text>
@@ -1145,9 +1134,9 @@
       </register>
     </registers>
     <search>
-      <last-search>return</last-search>
+      <last-search encoding="base64">XDxsb2FkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>return</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkZXJcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1155,7 +1144,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxERVZJQ0VMQVlFUkxPQURFUl9DT0xMRUNURURfRklMRVNfUkVMQVRJVkVcPg==</entry>
         <entry encoding="base64">XDxERVNUX0ZJTEVfUkVMQUlWRVw+</entry>
         <entry encoding="base64">XDxERVNUX0ZJTEVfUkVMQVRJVkVcPg==</entry>
         <entry encoding="base64">XDxERVZJQ0VfSU5URVJGQUNFX0RFU1RfRElSX1BSRUZJWFw+</entry>
@@ -1175,6 +1163,7 @@
         <entry encoding="base64">XDxfZGlzcGxheURlc3Ryb3lDb250ZXh0RnVuY1w+</entry>
         <entry encoding="base64">XDxDSEVDS19UVFNfU1VQUE9SVEVEX09SX1NLSVBfVEVTVFw+</entry>
         <entry>return</entry>
+        <entry encoding="base64">XDxsb2FkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWVtb3J5OjpTaGFyZWRQdHI8SUxvZ0xpc3RlbmVyPiBsaXN0ZW5lciA9IGxpc3RlbmVyV2Vha1B0ci5sb2NrKCk7</entry>
