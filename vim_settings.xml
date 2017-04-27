@@ -489,8 +489,12 @@
         <mark key="." line="44" column="77" />
         <mark key="^" line="44" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" timestamp="1493300034022">
-        <mark key="'" line="95" column="26" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" timestamp="1493300914936">
+        <mark key="'" line="153" column="0" />
+        <mark key="[" line="297" column="5" />
+        <mark key="]" line="297" column="4" />
+        <mark key="^" line="297" column="4" />
+        <mark key="." line="297" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/SymbolLoader.cpp" timestamp="1490885874170">
         <mark key="'" line="0" column="20" />
@@ -999,7 +1003,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/avDisplayTests.cpp" />
       <jump line="73" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_display.h" />
       <jump line="227" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/avDisplayTests.cpp" />
       <jump line="55" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/src/ignition/texttospeech/engine/LoggingTextToSpeech.cpp" />
@@ -1099,6 +1102,7 @@
       <jump line="95" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
       <jump line="46" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/DeviceSecureStorageBackend.h" />
       <jump line="91" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/StorageBackend.h" />
+      <jump line="153" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
