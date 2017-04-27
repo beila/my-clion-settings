@@ -682,6 +682,7 @@
         <mark key="^" line="22" column="23" />
         <mark key="." line="22" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.texttospeech/internal/platform/lg/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" timestamp="1493283861406" />
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/glx/LinuxPlatformContext.cpp" timestamp="1490797602076">
         <mark key="'" line="242" column="14" />
       </file>
@@ -718,11 +719,11 @@
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/avTextToSpeechTest.cpp" timestamp="1493225742807">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/avTextToSpeechTest.cpp" timestamp="1493283402184">
         <mark key="'" line="113" column="4" />
-        <mark key="[" line="59" column="49" />
-        <mark key="]" line="59" column="5" />
-        <mark key="." line="59" column="5" />
+        <mark key="[" line="212" column="27" />
+        <mark key="]" line="212" column="27" />
+        <mark key="." line="212" column="27" />
         <mark key="^" line="59" column="5" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/CMakeLists.txt" timestamp="1493208475935">
@@ -899,7 +900,7 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493219276228">
+      <file name="/Dummy.txt" timestamp="1493283767059">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="16" />
@@ -927,9 +928,6 @@
         <mark key="]" line="291" column="57" />
         <mark key="." line="291" column="57" />
         <mark key="^" line="291" column="57" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/src/ignition/texttospeech/engine/DeviceTextToSpeechEngine.cpp" timestamp="1493226465575">
-        <mark key="'" line="40" column="15" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/CMakeLists.txt" timestamp="1489147872426">
         <mark key="'" line="342" column="4" />
@@ -966,7 +964,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/include/report/dispatchers/IReportDispatcher.h" />
       <jump line="75" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/dispatchers/DeviceEventDispatcher.cpp" />
       <jump line="140" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/dispatchers/DeviceEventDispatcher.cpp" />
       <jump line="86" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
@@ -1066,6 +1063,7 @@
       <jump line="20" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/avDisplayTests.cpp" />
       <jump line="73" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_display.h" />
       <jump line="227" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/avDisplayTests.cpp" />
+      <jump line="55" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/src/ignition/texttospeech/engine/LoggingTextToSpeech.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1077,8 +1075,8 @@
           <key char="126" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">NTE5ICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHM0L3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAKNTIwICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHMzL3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAK</text>
@@ -1109,7 +1107,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXNwbGF5RXZlbnRDYWxsYmFja1w+</text>
