@@ -50,7 +50,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/symbols/FunctionMapSymbolLoader.h" timestamp="1493139707926">
         <mark key="'" line="28" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/internal/include/TTSContext.h" timestamp="1493216347350" />
       <file name="$USER_HOME$/dev/igbuild/linux/debug/proj_tmp/com.amazon.ignition.framework.lua/luajit/src/lauxlib.h" timestamp="1493289934190">
         <mark key="'" line="54" column="21" />
       </file>
@@ -61,12 +60,12 @@
         <mark key="." line="48" column="61" />
         <mark key="^" line="45" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/include/LibraryLoader.h" timestamp="1492796885399">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/include/LibraryLoader.h" timestamp="1493310236075">
         <mark key="'" line="44" column="10" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="35" />
-        <mark key="." line="1" column="50" />
-        <mark key="^" line="44" column="52" />
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="37" column="30" />
+        <mark key="." line="37" column="30" />
+        <mark key="^" line="37" column="30" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/tests/sm/extensions/ScriptLoadingExtensionTestBase.h" timestamp="1493117018297">
         <mark key="'" line="36" column="20" />
@@ -115,6 +114,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/tests/ignition/texttospeech/engine/DeviceTextToSpeechEngineTest.cpp" timestamp="1493307844002">
+        <mark key="'" line="71" column="24" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/utils/StreamLogListener.h" timestamp="1481642637625">
         <mark key="'" line="19" column="9" />
@@ -260,6 +262,13 @@
         <mark key="." line="21" column="59" />
         <mark key="^" line="21" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/delegates/DeviceDelegate.cpp" timestamp="1493307290975">
+        <mark key="'" line="311" column="4" />
+        <mark key="[" line="441" column="15" />
+        <mark key="]" line="441" column="14" />
+        <mark key="." line="441" column="14" />
+        <mark key="^" line="441" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/tests/ignition/texttospeech/bindings/sm/SMTextToSpeechBindingTest.cpp" timestamp="1490376586294">
         <mark key="'" line="94" column="18" />
         <mark key="[" line="0" column="75" />
@@ -318,12 +327,19 @@
         <mark key="." line="19" column="73" />
         <mark key="^" line="20" column="75" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/src/LibraryLoader.cpp" timestamp="1493310126892">
+        <mark key="'" line="54" column="6" />
+        <mark key="[" line="61" column="5" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/StorageBackendTest.cpp" timestamp="1493297141724">
-        <mark key="'" line="71" column="32" />
-        <mark key="[" line="75" column="1" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+        <mark key="'" line="75" column="32" />
+        <mark key="[" line="79" column="1" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" timestamp="1493114747847">
         <mark key="'" line="56" column="29" />
@@ -333,6 +349,9 @@
         <mark key="]" line="32" column="11" />
         <mark key="." line="32" column="11" />
         <mark key="^" line="32" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/devicelinux/tests/avTextToSpeechTest.cpp" timestamp="1493307931795">
+        <mark key="'" line="52" column="20" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/IPlugin.h" timestamp="1488285387444">
         <mark key="'" line="78" column="29" />
@@ -477,7 +496,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493293688703">
+      <file name="/Dummy.txt" timestamp="1493309994868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="16" />
@@ -489,12 +508,12 @@
         <mark key="." line="44" column="77" />
         <mark key="^" line="44" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" timestamp="1493300914936">
-        <mark key="'" line="153" column="0" />
-        <mark key="[" line="297" column="5" />
-        <mark key="]" line="297" column="4" />
-        <mark key="^" line="297" column="4" />
-        <mark key="." line="297" column="4" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" timestamp="1493309450059">
+        <mark key="'" line="343" column="31" />
+        <mark key="[" line="343" column="14" />
+        <mark key="]" line="343" column="13" />
+        <mark key="^" line="343" column="13" />
+        <mark key="." line="343" column="13" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/SymbolLoader.cpp" timestamp="1490885874170">
         <mark key="'" line="0" column="20" />
@@ -626,7 +645,7 @@
         <mark key="." line="3" column="48" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/include/av_text_to_speech.h" timestamp="1493286088052">
-        <mark key="'" line="28" column="0" />
+        <mark key="'" line="21" column="0" />
         <mark key="[" line="65" column="47" />
         <mark key="]" line="65" column="47" />
         <mark key="." line="65" column="47" />
@@ -878,13 +897,15 @@
         <mark key="^" line="68" column="8" />
         <mark key="." line="131" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.texttospeech/internal/platform/lg/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" timestamp="1493283861406" />
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/SqliteStorageBackend.cpp" timestamp="1488984298563">
         <mark key="'" line="208" column="52" />
         <mark key="[" line="129" column="10" />
         <mark key="]" line="129" column="9" />
         <mark key="." line="129" column="9" />
         <mark key="^" line="129" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/devicelinux/tests/avSecureStorageBackendTest.cpp" timestamp="1493308027960">
+        <mark key="'" line="56" column="41" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.oem.loader/platform-oem/include/global_oem_porting.h" timestamp="1489141646860">
         <mark key="'" line="64" column="66" />
@@ -939,7 +960,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" timestamp="1493029094063">
         <mark key="'" line="86" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/DeviceSecureStorageBackend.cpp" timestamp="1493297291444" />
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" timestamp="1493114734454">
         <mark key="'" line="12" column="44" />
       </file>
@@ -981,7 +1001,6 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/include/ignition/texttospeech/engine/TextToSpeechEngine.h" timestamp="1493284075359" />
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/StorageBackend.cpp" timestamp="1493296592596">
         <mark key="'" line="26" column="40" />
       </file>
@@ -1003,35 +1022,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_display.h" />
-      <jump line="227" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/avDisplayTests.cpp" />
-      <jump line="55" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/src/ignition/texttospeech/engine/LoggingTextToSpeech.cpp" />
-      <jump line="57" column="0" filename="$USER_HOME$/dev/ig/devicelinux/include/av_text_to_speech.h" />
-      <jump line="56" column="0" filename="$USER_HOME$/dev/ig/devicelinux/include/av_text_to_speech.h" />
-      <jump line="49" column="0" filename="$USER_HOME$/dev/ig/devicelinux/include/av_text_to_speech.h" />
-      <jump line="43" column="0" filename="$USER_HOME$/dev/ig/devicelinux/include/av_text_to_speech.h" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/ig/devicelinux/include/av_text_to_speech.h" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/ig/devicelinux/include/av_text_to_speech.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/src/filesystem/LinuxFileSystemFacade.cpp" />
-      <jump line="282" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/src/filesystem/LinuxFileSystemFacade.cpp" />
-      <jump line="359" column="15" filename="/usr/include/unistd.h" />
-      <jump line="56" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/include/IScene.h" />
-      <jump line="483" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.style/src/rules/RuleDefinitionManager.cpp" />
-      <jump line="487" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.style/src/rules/RuleDefinitionManager.cpp" />
-      <jump line="102" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.style/include/rules/RuleDefinitionManager.h" />
-      <jump line="72" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/include/LuaState.h" />
-      <jump line="85" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/LuaState.cpp" />
-      <jump line="88" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/utils/LuaLibraryLoader.cpp" />
-      <jump line="30" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/utils/LuaLibraryLoader.cpp" />
-      <jump line="36" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/utils/LuaLibraryLoader.cpp" />
-      <jump line="6" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/utils/LuaLibraryLoader.cpp" />
-      <jump line="37" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/utils/LuaLibraryLoader.cpp" />
-      <jump line="55" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/utils/LuaLibraryLoader.cpp" />
-      <jump line="41" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/utils/LuaLibraryLoader.cpp" />
-      <jump line="24" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/utils/LuaLibraryLoader.cpp" />
-      <jump line="94" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/utils/LuaLibraryLoader.cpp" />
-      <jump line="35" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/utils/LuaLibraryLoader.cpp" />
-      <jump line="93" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/utils/LuaLibraryLoader.cpp" />
       <jump line="25" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/utils/LuaLibraryLoader.cpp" />
       <jump line="28" column="20" filename="$USER_HOME$/dev/igbuild/linux/debug/proj_tmp/com.amazon.ignition.framework.lua/luajit/src/lualib.h" />
       <jump line="21" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/thirdparty/lua/luajit/src/lib_init.c" />
@@ -1103,6 +1093,35 @@
       <jump line="46" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/DeviceSecureStorageBackend.h" />
       <jump line="91" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/StorageBackend.h" />
       <jump line="153" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
+      <jump line="418" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/delegates/DeviceDelegate.cpp" />
+      <jump line="24" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/delegates/DeviceDelegate.cpp" />
+      <jump line="352" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/delegates/DeviceDelegate.cpp" />
+      <jump line="309" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/delegates/DeviceDelegate.cpp" />
+      <jump line="310" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/delegates/DeviceDelegate.cpp" />
+      <jump line="311" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/delegates/DeviceDelegate.cpp" />
+      <jump line="163" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/tests/ignition/texttospeech/engine/DeviceTextToSpeechEngineTest.cpp" />
+      <jump line="71" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/tests/ignition/texttospeech/engine/DeviceTextToSpeechEngineTest.cpp" />
+      <jump line="266" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
+      <jump line="113" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
+      <jump line="39" column="8" filename="$USER_HOME$/dev/ig/devicelinux/tests/avTextToSpeechTest.cpp" />
+      <jump line="54" column="22" filename="$USER_HOME$/dev/ig/devicelinux/tests/avTextToSpeechTest.cpp" />
+      <jump line="78" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/avTextToSpeechTest.cpp" />
+      <jump line="90" column="41" filename="$USER_HOME$/dev/ig/devicelinux/tests/avTextToSpeechTest.cpp" />
+      <jump line="93" column="29" filename="$USER_HOME$/dev/ig/devicelinux/tests/avTextToSpeechTest.cpp" />
+      <jump line="100" column="41" filename="$USER_HOME$/dev/ig/devicelinux/tests/avTextToSpeechTest.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/avTextToSpeechTest.cpp" />
+      <jump line="83" column="41" filename="$USER_HOME$/dev/ig/devicelinux/tests/avTextToSpeechTest.cpp" />
+      <jump line="52" column="20" filename="$USER_HOME$/dev/ig/devicelinux/tests/avTextToSpeechTest.cpp" />
+      <jump line="35" column="20" filename="$USER_HOME$/dev/ig/devicelinux/tests/avSecureStorageBackendTest.cpp" />
+      <jump line="56" column="41" filename="$USER_HOME$/dev/ig/devicelinux/tests/avSecureStorageBackendTest.cpp" />
+      <jump line="118" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
+      <jump line="209" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/DeviceSecureStorageBackend.cpp" />
+      <jump line="173" column="54" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/DeviceSecureStorageBackend.cpp" />
+      <jump line="343" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
+      <jump line="101" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/StorageBackend.h" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/src/LibraryLoader.cpp" />
+      <jump line="65" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/src/LibraryLoader.cpp" />
+      <jump line="54" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/src/LibraryLoader.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1115,7 +1134,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>dynamic_cast</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">NTE5ICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHM0L3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAKNTIwICAgIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcHMzL3NyYy9wbHVnaW4vTGlicmFyeVByb3h5RmFjdG9yeS5jcHAK</text>
@@ -1146,10 +1165,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>dynamic_cast</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkSmF2YVNjcmlwdEZpbGVcPg==</text>
+        <text encoding="base64">XDxfY29tbW9uQ29udGV4dFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay5jb3JlIjogImZlYXR1cmUtZGV2aWNlLWxheWVyLWxvYWRlciIsCg==</text>
@@ -1195,9 +1214,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkSmF2YVNjcmlwdEZpbGVcPg==</last-search>
+      <last-search encoding="base64">XDxfY29tbW9uQ29udGV4dFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkSmF2YVNjcmlwdEZpbGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfY29tbW9uQ29udGV4dFw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1205,10 +1224,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfVEVTVF9TT1VSQ0VTXD4=</entry>
-        <entry encoding="base64">XDxfZGlzcGxheUNyZWF0ZUNvbnRleHRGdW5jXD4=</entry>
-        <entry encoding="base64">XDxfZGlzcGxheURlc3Ryb3lDb250ZXh0RnVuY1w+</entry>
-        <entry encoding="base64">XDxDSEVDS19UVFNfU1VQUE9SVEVEX09SX1NLSVBfVEVTVFw+</entry>
         <entry>return</entry>
         <entry encoding="base64">XDxsb2FkZXJcPg==</entry>
         <entry encoding="base64">XDxkZXZlbG9wXD4=</entry>
@@ -1225,6 +1240,10 @@
         <entry encoding="base64">XDxsal9zdHJmbXRfcHVzaHZmXD4=</entry>
         <entry encoding="base64">XDxfcG9zdEpzUnVudGltZVJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxsb2FkSmF2YVNjcmlwdEZpbGVcPg==</entry>
+        <entry encoding="base64">XDxfS2V5RXZlbnRDYWxsYmFja1w+</entry>
+        <entry encoding="base64">XDxfaW5wdXRDYWxsYmFja0Z1bmN0aW9uc1w+</entry>
+        <entry encoding="base64">XDxfY3JlYXRlQ29udGV4dFw+</entry>
+        <entry encoding="base64">XDxfY29tbW9uQ29udGV4dFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
