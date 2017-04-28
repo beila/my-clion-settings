@@ -67,6 +67,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" timestamp="1493389623810">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/tests/ffi/LuaFFILibWrapperTest.cpp" timestamp="1493402549290">
+        <mark key="'" line="49" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/ig/mtk-ignition/mtk_porting.h" timestamp="1487936184034">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="37" column="14" />
@@ -912,7 +915,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
       <jump line="195" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
       <jump line="31" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/include/LibraryLoader.h" />
       <jump line="54" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/src/LibraryLoader.cpp" />
@@ -1012,6 +1014,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CMakeLists.txt" />
       <jump line="18" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/include/devicelayerloader/PluginDeviceLayerLoader.h" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
+      <jump line="49" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/tests/ffi/LuaFFILibWrapperTest.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
