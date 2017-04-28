@@ -7,15 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cmake,*.txt,*.config" />
+    <option name="FILE_MASK" value="*.cmake,*.txt,*.config,manifest*" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.lua</mask>
-      <mask>*.h</mask>
-      <mask>*.cmake</mask>
-      <mask>*.cpp</mask>
-      <mask>*.cpp,*.h</mask>
       <mask>jj*.cmake,*.txt</mask>
       <mask>j*.cmake,*.txt</mask>
       <mask>*.cmake,*.txt</mask>
@@ -39,6 +32,13 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.cmake,*.txt,*.config</mask>
+      <mask>*.cmake,*.txt,*.config,</mask>
+      <mask>*.cmake,*.txt,*.config,m</mask>
+      <mask>*.cmake,*.txt,*.config,ma</mask>
+      <mask>*.cmake,*.txt,*.config,mani</mask>
+      <mask>*.cmake,*.txt,*.config,manife</mask>
+      <mask>*.cmake,*.txt,*.config,manifest</mask>
+      <mask>*.cmake,*.txt,*.config,manifest*</mask>
     </recentFileMasks>
   </component>
 </application>
