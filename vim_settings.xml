@@ -219,6 +219,9 @@
         <mark key="^" line="51" column="44" />
         <mark key="." line="210" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/devicelinux/include/av_display.h" timestamp="1493734469271">
+        <mark key="'" line="82" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/SystemInit.cpp" timestamp="1485259996138">
         <mark key="'" line="17" column="10" />
         <mark key="[" line="17" column="0" />
@@ -932,9 +935,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
-      <jump line="101" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
-      <jump line="50" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
       <jump line="14" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
       <jump line="28" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
       <jump line="114" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
@@ -1032,6 +1032,9 @@
       <jump line="292" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/src/ignition/texttospeech/engine/DeviceTextToSpeechEngine.cpp" />
       <jump line="48" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/src/ignition/texttospeech/engine/DeviceTextToSpeechEngine.cpp" />
       <jump line="236" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/src/ignition/texttospeech/engine/DeviceTextToSpeechEngine.cpp" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/ig/devicelinux/include/av_display.h" />
+      <jump line="56" column="13" filename="$USER_HOME$/dev/ig/devicelinux/include/av_display.h" />
+      <jump line="82" column="13" filename="$USER_HOME$/dev/ig/devicelinux/include/av_display.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1072,7 +1075,7 @@
         <text encoding="base64">ID0gMDs=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaGFzVmFsaWRBcGlzXD4=</text>
+        <text encoding="base64">XDxhdkRpc3BsYXlHZXRTY3JlZW5SZXNvbHV0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
         <text>PluginDummyDeviceLayerLoader::</text>
@@ -1119,9 +1122,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaGFzVmFsaWRBcGlzXD4=</last-search>
+      <last-search encoding="base64">XDxhdkRpc3BsYXlHZXRTY3JlZW5SZXNvbHV0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaGFzVmFsaWRBcGlzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhdkRpc3BsYXlHZXRTY3JlZW5SZXNvbHV0aW9uXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1129,7 +1132,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsdWFfcHVzaGZzdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxsal9zdHJmbXRfcHVzaHZmXD4=</entry>
         <entry encoding="base64">XDxfcG9zdEpzUnVudGltZVJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxsb2FkSmF2YVNjcmlwdEZpbGVcPg==</entry>
@@ -1149,6 +1151,7 @@
         <entry encoding="base64">XDxzZXR1cFw+</entry>
         <entry encoding="base64">XDxJR05JVElPTl9ERVZJQ0VMQVlFUkxPQURFUl9MSUJSQVJZX0hcPg==</entry>
         <entry encoding="base64">XDxfaGFzVmFsaWRBcGlzXD4=</entry>
+        <entry encoding="base64">XDxhdkRpc3BsYXlHZXRTY3JlZW5SZXNvbHV0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
