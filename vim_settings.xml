@@ -157,12 +157,12 @@
         <mark key="^" line="45" column="109" />
         <mark key="." line="45" column="109" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/configs/linux.dev.config" timestamp="1492781701185">
+      <file name="$USER_HOME$/dev/ig/tools/configs/linux.dev.config" timestamp="1493740712883">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="0" />
+        <mark key="[" line="47" column="49" />
+        <mark key="]" line="47" column="50" />
+        <mark key="." line="47" column="50" />
+        <mark key="^" line="47" column="50" />
       </file>
       <file name="$USER_HOME$/dev/ig/ignitiondepooverrides/overrides.json" timestamp="1493219919784">
         <mark key="'" line="0" column="46" />
@@ -705,13 +705,6 @@
         <mark key="^" line="71" column="42" />
         <mark key="." line="71" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/src/av_common.c" timestamp="1493405692059">
-        <mark key="'" line="24" column="5" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/oem-layer/tests/CMakeLists.txt.in" timestamp="1488978333315">
         <mark key="'" line="9" column="38" />
         <mark key="[" line="10" column="34" />
@@ -721,13 +714,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/platform/ps4/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" timestamp="1493736340568">
         <mark key="'" line="75" column="9" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" timestamp="1493406535428">
-        <mark key="'" line="145" column="29" />
-        <mark key="[" line="141" column="41" />
-        <mark key="]" line="141" column="49" />
-        <mark key="." line="141" column="49" />
-        <mark key="^" line="141" column="49" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.views/src/bindings/sm/ViewsExtension.cpp" timestamp="1486642648022">
         <mark key="'" line="0" column="0" />
@@ -833,7 +819,7 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493723993518">
+      <file name="/Dummy.txt" timestamp="1493740719589">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="16" />
@@ -852,12 +838,12 @@
         <mark key="^" line="343" column="13" />
         <mark key="." line="343" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/DeviceLayerTestBase.cpp" timestamp="1493394060948">
-        <mark key="'" line="38" column="55" />
-        <mark key="[" line="38" column="37" />
-        <mark key="]" line="38" column="37" />
-        <mark key="^" line="34" column="28" />
-        <mark key="." line="38" column="55" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/DeviceLayerTestBase.cpp" timestamp="1493740689597">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="0" column="77" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/avCommonApiTests.cpp" timestamp="1493313045435">
         <mark key="'" line="21" column="0" />
@@ -880,7 +866,11 @@
         <mark key="." line="291" column="57" />
         <mark key="^" line="291" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/src/ignition/texttospeech/engine/DeviceTextToSpeechEngine.cpp" timestamp="1493737077081" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/src/ignition/texttospeech/engine/DeviceTextToSpeechEngine.cpp" timestamp="1493740687481">
+        <mark key="'" line="167" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="77" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/CMakeLists.txt" timestamp="1489147872426">
         <mark key="'" line="342" column="4" />
         <mark key="[" line="127" column="81" />
@@ -917,8 +907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="1" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/include/devicelayerloader/PluginDeviceLayerLoader.h" />
-      <jump line="87" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
       <jump line="22" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/src/Library.cpp" />
       <jump line="5" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/DeviceLayerTestBase.h" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/DeviceLayerTestBase.h" />
@@ -1017,13 +1005,15 @@
       <jump line="75" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/platform/ps4/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" />
       <jump line="179" column="11" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.texttospeech/internal/platform/android/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" />
       <jump line="184" column="11" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.texttospeech/internal/platform/android/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" />
+      <jump line="167" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/src/ignition/texttospeech/engine/DeviceTextToSpeechEngine.cpp" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/DeviceLayerTestBase.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUVYUEVDVF9FUShBVl9PSywgcmVzdWx0KTsK</text>
+      <register name="&quot;" type="4">
+        <text>YES</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1054,13 +1044,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gMDs=</text>
+        <text>YES</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsQm9vbGVhblRleHRUb1NwZWVjaE1ldGhvZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>PluginDummyDeviceLayerLoader::</text>
+      <register name="0" type="2">
+        <text encoding="base64">LyogQ29weXJpZ2h0IDIwMTcgQW1hem9uLmNvbSwgSW5jLiBvciBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4gKi8K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CUVYUEVDVF9FUShBVl9PSywgcmVzdWx0KTsK</text>
