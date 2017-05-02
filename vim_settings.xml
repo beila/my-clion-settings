@@ -299,6 +299,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/Storage.cpp" timestamp="1493724604582">
         <mark key="'" line="169" column="69" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/manifest" timestamp="1493741411623">
+        <mark key="[" line="17" column="69" />
+        <mark key="]" line="17" column="70" />
+        <mark key="." line="17" column="70" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/SecureStorageBackend.h" timestamp="1490011713219">
         <mark key="'" line="15" column="18" />
         <mark key="[" line="15" column="25" />
@@ -733,6 +738,10 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.core/internal/platform/android/cmakescripts/config.cmake" timestamp="1493399700798">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="68" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/manifest" timestamp="1489163572366">
         <mark key="'" line="12" column="91" />
         <mark key="[" line="12" column="91" />
@@ -819,7 +828,7 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493740719589">
+      <file name="/Dummy.txt" timestamp="1493741422821">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="16" />
@@ -867,7 +876,6 @@
         <mark key="^" line="291" column="57" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/src/ignition/texttospeech/engine/DeviceTextToSpeechEngine.cpp" timestamp="1493740687481">
-        <mark key="'" line="167" column="20" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="77" />
       </file>
@@ -1013,7 +1021,7 @@
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>YES</text>
+        <text encoding="base64">ICJGSVhNRSIgOiAiVXNlIHRhZyIs</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1044,13 +1052,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>YES</text>
+        <text encoding="base64">ICJGSVhNRSIgOiAiVXNlIHRhZyIs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsQm9vbGVhblRleHRUb1NwZWVjaE1ldGhvZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LyogQ29weXJpZ2h0IDIwMTcgQW1hem9uLmNvbSwgSW5jLiBvciBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4gKi8K</text>
+      <register name="0" type="4">
+        <text>&quot;com.amazon.ignition.framework.core@0.22.1&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CUVYUEVDVF9FUShBVl9PSywgcmVzdWx0KTsK</text>
