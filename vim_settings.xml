@@ -856,6 +856,9 @@
         <mark key="." line="44" column="77" />
         <mark key="^" line="44" column="77" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" timestamp="1493751692346">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/DeviceLayerTestBase.cpp" timestamp="1493740689597">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="0" column="77" />
@@ -884,8 +887,8 @@
         <mark key="." line="291" column="57" />
         <mark key="^" line="291" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/src/ignition/texttospeech/engine/DeviceTextToSpeechEngine.cpp" timestamp="1493742850398">
-        <mark key="'" line="112" column="12" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/src/ignition/texttospeech/engine/DeviceTextToSpeechEngine.cpp" timestamp="1493751810834">
+        <mark key="'" line="238" column="19" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="77" />
       </file>
@@ -919,11 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CommonApiTest.cpp" />
-      <jump line="88" column="55" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/tests/SecureStorageBackendTest.cpp" />
-      <jump line="46" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/DeviceLayerTestBase.h" />
-      <jump line="15" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CommonApiTest.cpp" />
-      <jump line="66" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/tests/SecureStorageBackendTest.cpp" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/DeviceLayerTestBase.h" />
       <jump line="40" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/DeviceLayerTestBase.cpp" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CommonApiTest.cpp" />
@@ -1019,6 +1017,11 @@
       <jump line="16" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/CMakeLists.txt" />
       <jump line="17" column="3" filename="$USER_HOME$/dev/ig/tools/pluginbootstrap/tests/CMakeLists.txt" />
       <jump line="25" column="3" filename="$USER_HOME$/dev/ig/tools/pluginbootstrap/tests/CMakeLists.txt" />
+      <jump line="456" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
+      <jump line="292" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
+      <jump line="293" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
+      <jump line="238" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/src/ignition/texttospeech/engine/DeviceTextToSpeechEngine.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1059,7 +1062,7 @@
         <text encoding="base64">REVGSU5FRCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxURVNUX0xJTktfTElCUkFSSUVTXD4=</text>
+        <text encoding="base64">XDxzZXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SUYgKERFRklORUQgVEVTVF9MSU5LX0xJQlJBUklFUykK</text>
@@ -1106,9 +1109,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxURVNUX0xJTktfTElCUkFSSUVTXD4=</last-search>
+      <last-search encoding="base64">XDxzZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxURVNUX0xJTktfTElCUkFSSUVTXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1116,7 +1119,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQbHVnaW5EZXZpY2VMYXllckxvYWRlclw+</entry>
         <entry encoding="base64">XDxuZXdcPg==</entry>
         <entry encoding="base64">XDxEVU1NWV9TUkNfRklMRVNcPg==</entry>
         <entry encoding="base64">RFVNTVlfU1JDX0ZJTEVTXD4=</entry>
@@ -1136,6 +1138,7 @@
         <entry encoding="base64">XDxURVNUX0lOQ0xVREVfRElSU1w+</entry>
         <entry encoding="base64">XDxURVNUX0xJTktfRElSRUNUT1JJRVNcPg==</entry>
         <entry encoding="base64">XDxURVNUX0xJTktfTElCUkFSSUVTXD4=</entry>
+        <entry encoding="base64">XDxzZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
