@@ -143,12 +143,6 @@
         <mark key="." line="32" column="73" />
         <mark key="^" line="32" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CMakeLists.txt" timestamp="1493399916254">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="8" column="50" />
-        <mark key="." line="8" column="50" />
-      </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.core/internal/platform/android/include/utils/AndroidLogListener.h" timestamp="1481643068724">
         <mark key="'" line="23" column="55" />
         <mark key="[" line="23" column="47" />
@@ -549,7 +543,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/TextToSpeechTest.cpp" timestamp="1493726157233">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/TextToSpeechTest.cpp" timestamp="1493736291751">
         <mark key="'" line="99" column="31" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.oem.loader/internal/include/oemloader/PluginOEMLoader.h" timestamp="1489491271666">
@@ -572,12 +566,6 @@
         <mark key="]" line="20" column="75" />
         <mark key="." line="19" column="73" />
         <mark key="^" line="20" column="75" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/include/Library.h" timestamp="1493398718625">
-        <mark key="'" line="2" column="8" />
-        <mark key="[" line="39" column="45" />
-        <mark key="]" line="39" column="45" />
-        <mark key="." line="39" column="45" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/src/LibraryLoader.cpp" timestamp="1493385919297">
         <mark key="'" line="33" column="42" />
@@ -682,12 +670,6 @@
         <mark key="." line="212" column="27" />
         <mark key="^" line="59" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/CMakeLists.txt" timestamp="1493399906773">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/thread/PS3MutexUtils.h" timestamp="1484665320415">
         <mark key="'" line="7" column="8" />
         <mark key="[" line="5" column="25" />
@@ -736,6 +718,9 @@
         <mark key="]" line="10" column="34" />
         <mark key="." line="10" column="34" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/platform/ps4/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" timestamp="1493736340568">
+        <mark key="'" line="75" column="9" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" timestamp="1493406535428">
         <mark key="'" line="145" column="29" />
@@ -806,6 +791,9 @@
         <mark key="]" line="65" column="12" />
         <mark key="^" line="65" column="12" />
         <mark key="." line="65" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.texttospeech/internal/platform/android/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" timestamp="1493736403808">
+        <mark key="'" line="184" column="11" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/bindings/sm/JsSceneGraphCallback.cpp" timestamp="1486642866518">
         <mark key="'" line="0" column="0" />
@@ -892,6 +880,7 @@
         <mark key="." line="291" column="57" />
         <mark key="^" line="291" column="57" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/src/ignition/texttospeech/engine/DeviceTextToSpeechEngine.cpp" timestamp="1493737077081" />
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/CMakeLists.txt" timestamp="1489147872426">
         <mark key="'" line="342" column="4" />
         <mark key="[" line="127" column="81" />
@@ -928,14 +917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
-      <jump line="28" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
-      <jump line="114" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
-      <jump line="36" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
-      <jump line="127" column="58" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
-      <jump line="124" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
-      <jump line="41" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/include/devicelayerloader/PluginDeviceLayerLoader.h" />
-      <jump line="101" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
       <jump line="47" column="1" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/include/devicelayerloader/PluginDeviceLayerLoader.h" />
       <jump line="87" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
       <jump line="22" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/src/Library.cpp" />
@@ -1028,6 +1009,14 @@
       <jump line="4" column="0" filename="$USER_HOME$/dev/ig/devicelinux/include/av_display.h" />
       <jump line="56" column="13" filename="$USER_HOME$/dev/ig/devicelinux/include/av_display.h" />
       <jump line="82" column="13" filename="$USER_HOME$/dev/ig/devicelinux/include/av_display.h" />
+      <jump line="290" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/platform/ps4/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" />
+      <jump line="298" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/platform/ps4/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" />
+      <jump line="210" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/platform/ps4/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" />
+      <jump line="216" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/platform/ps4/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" />
+      <jump line="249" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/platform/ps4/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" />
+      <jump line="75" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/platform/ps4/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" />
+      <jump line="179" column="11" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.texttospeech/internal/platform/android/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" />
+      <jump line="184" column="11" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.texttospeech/internal/platform/android/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1068,7 +1057,7 @@
         <text encoding="base64">ID0gMDs=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdkRpc3BsYXlHZXRTY3JlZW5SZXNvbHV0aW9uXD4=</text>
+        <text encoding="base64">XDxjYWxsQm9vbGVhblRleHRUb1NwZWVjaE1ldGhvZFw+</text>
       </register>
       <register name="0" type="4">
         <text>PluginDummyDeviceLayerLoader::</text>
@@ -1115,9 +1104,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdkRpc3BsYXlHZXRTY3JlZW5SZXNvbHV0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxjYWxsQm9vbGVhblRleHRUb1NwZWVjaE1ldGhvZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdkRpc3BsYXlHZXRTY3JlZW5SZXNvbHV0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxsQm9vbGVhblRleHRUb1NwZWVjaE1ldGhvZFw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1125,9 +1114,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsal9zdHJmbXRfcHVzaHZmXD4=</entry>
-        <entry encoding="base64">XDxfcG9zdEpzUnVudGltZVJlcXVlc3RcPg==</entry>
-        <entry encoding="base64">XDxsb2FkSmF2YVNjcmlwdEZpbGVcPg==</entry>
         <entry encoding="base64">XDxfS2V5RXZlbnRDYWxsYmFja1w+</entry>
         <entry encoding="base64">XDxfaW5wdXRDYWxsYmFja0Z1bmN0aW9uc1w+</entry>
         <entry encoding="base64">XDxfY3JlYXRlQ29udGV4dFw+</entry>
@@ -1145,6 +1131,9 @@
         <entry encoding="base64">XDxJR05JVElPTl9ERVZJQ0VMQVlFUkxPQURFUl9MSUJSQVJZX0hcPg==</entry>
         <entry encoding="base64">XDxfaGFzVmFsaWRBcGlzXD4=</entry>
         <entry encoding="base64">XDxhdkRpc3BsYXlHZXRTY3JlZW5SZXNvbHV0aW9uXD4=</entry>
+        <entry encoding="base64">XDxzdG9wQWxsXD4=</entry>
+        <entry encoding="base64">XDxfb3BlbmVkXD4=</entry>
+        <entry encoding="base64">XDxjYWxsQm9vbGVhblRleHRUb1NwZWVjaE1ldGhvZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
