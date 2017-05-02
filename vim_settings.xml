@@ -64,6 +64,9 @@
         <mark key="." line="7" column="50" />
         <mark key="^" line="28" column="69" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" timestamp="1493389623810">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/tests/ffi/LuaFFILibWrapperTest.cpp" timestamp="1493402549290">
         <mark key="'" line="49" column="6" />
       </file>
@@ -716,6 +719,9 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/DeviceSecureStorageBackend.cpp" timestamp="1493376030499">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" timestamp="1493406535428">
         <mark key="'" line="145" column="29" />
         <mark key="[" line="141" column="41" />
@@ -804,12 +810,8 @@
         <mark key="." line="38" column="23" />
         <mark key="^" line="38" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDummyDeviceLayerLoader.cpp" timestamp="1493715797585">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDummyDeviceLayerLoader.cpp" timestamp="1493718092022">
         <mark key="'" line="32" column="95" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="32" column="16" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.oem.loader/platform-oem/tests/CMakeLists.txt" timestamp="1489430693980">
         <mark key="'" line="44" column="4" />
@@ -832,7 +834,7 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493715811997">
+      <file name="/Dummy.txt" timestamp="1493718556540">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="16" />
@@ -1014,8 +1016,9 @@
       <register name="a" type="2">
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dm9pZCogUGx1Z2luRHVtbXlEZXZpY2VMYXllckxvYWRlcjo6X2dldERldmljZUxheWVyQXBpKGNvbnN0IHN0ZDo6c3RyaW5nJiBuYW1lLCBib29sIGlzRXNzZW50aWFsKSBjb25zdAo=</text>
+      <register name="&quot;" type="4">
+        <text>{
+	return</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1054,38 +1057,39 @@
       <register name="0" type="4">
         <text>PluginDummyDeviceLayerLoader::</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dm9pZCogUGx1Z2luRHVtbXlEZXZpY2VMYXllckxvYWRlcjo6X2dldERldmljZUxheWVyQXBpKGNvbnN0IHN0ZDo6c3RyaW5nJiBuYW1lLCBib29sIGlzRXNzZW50aWFsKSBjb25zdAo=</text>
+      <register name="1" type="4">
+        <text>{
+	return</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZvaWQqIF9nZXREZXZpY2VMYXllckFwaShjb25zdCBzdGQ6OnN0cmluZyYgbmFtZSwgYm9vbCBpc0Vzc2VudGlhbCkgY29uc3Qgb3ZlcnJpZGU7Cg==</text>
+        <text encoding="base64">dm9pZCogUGx1Z2luRHVtbXlEZXZpY2VMYXllckxvYWRlcjo6X2dldERldmljZUxheWVyQXBpKGNvbnN0IHN0ZDo6c3RyaW5nJiBuYW1lLCBib29sIGlzRXNzZW50aWFsKSBjb25zdAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CXZvaWQqIF9nZXREZXZpY2VMYXllckFwaShjb25zdCBzdGQ6OnN0cmluZyYgbmFtZSwgYm9vbCBpc0Vzc2VudGlhbCkgY29uc3Qgb3ZlcnJpZGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWlmICghX2RldmljZUxheWVySW5pdGlhbGlzZWQpCgl7CgkJcmV0dXJuOwoJfTsKCg==</text>
+        <text encoding="base64">CXZvaWQqIF9nZXREZXZpY2VMYXllckFwaShjb25zdCBzdGQ6OnN0cmluZyYgbmFtZSwgYm9vbCBpc0Vzc2VudGlhbCkgY29uc3Qgb3ZlcnJpZGU7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWlmICghX2RldmljZUxheWVySW5pdGlhbGlzZWQpCgl7CgkJcmV0dXJuOwoJfTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWludCB1bmluaXRpYWxpc2VkQ29udGV4dDsKCUF2Q29tbW9uQ29udGV4dCBjb24gPSBzdGF0aWNfY2FzdDxBdkNvbW1vbkNvbnRleHQ+KCZ1bmluaXRpYWxpc2VkQ29udGV4dCk7CglFWFBFQ1RfVEhBVChkZXZpY2VsYXllcmxvYWRlci0+Z2V0RGV2aWNlTGF5ZXJDb250ZXh0KCZjb24pLCBFcShmYWxzZSkpOwoJRVhQRUNUX1RIQVQoY29uLCBFcSgmdW5pbml0aWFsaXNlZENvbnRleHQpKTsgICAgLy8gY29uIHNob3VsZCBub3QgYmUgY2hhbmdlZAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUVYUEVDVF9DQUxMKCptb2NrVW5pbml0QXBpLCBDYWxsKF8pKS5XaWxsT25jZShSZXR1cm4oQVZfT0spKTsK</text>
+        <text encoding="base64">CWludCB1bmluaXRpYWxpc2VkQ29udGV4dDsKCUF2Q29tbW9uQ29udGV4dCBjb24gPSBzdGF0aWNfY2FzdDxBdkNvbW1vbkNvbnRleHQ+KCZ1bmluaXRpYWxpc2VkQ29udGV4dCk7CglFWFBFQ1RfVEhBVChkZXZpY2VsYXllcmxvYWRlci0+Z2V0RGV2aWNlTGF5ZXJDb250ZXh0KCZjb24pLCBFcShmYWxzZSkpOwoJRVhQRUNUX1RIQVQoY29uLCBFcSgmdW5pbml0aWFsaXNlZENvbnRleHQpKTsgICAgLy8gY29uIHNob3VsZCBub3QgYmUgY2hhbmdlZAoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CUVYUEVDVF9DQUxMKCptb2NrVW5pbml0QXBpLCBDYWxsKF8pKS5XaWxsT25jZShSZXR1cm4oQVZfT0spKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VUKENNQUtFX0NfU1RBTkRBUkQgOTkpCgo=</text>
+        <text encoding="base64">CUVYUEVDVF9DQUxMKCptb2NrVW5pbml0QXBpLCBDYWxsKF8pKS5XaWxsT25jZShSZXR1cm4oQVZfT0spKTsK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">Y29yZTo6ZnVuY3Rpb248ZGVjbHR5cGUoYXZTdG9yYWdlQmFja2VuZENyZWF0ZUNvbnRleHQpPg==</text>
