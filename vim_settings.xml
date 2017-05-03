@@ -366,6 +366,12 @@
         <mark key="." line="16" column="54" />
         <mark key="^" line="85" column="71" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/manifest" timestamp="1493810872617">
+        <mark key="[" line="10" column="81" />
+        <mark key="]" line="10" column="82" />
+        <mark key="." line="10" column="82" />
+        <mark key="^" line="10" column="82" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/InitTest.h" timestamp="1490891321944">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="41" column="14" />
@@ -624,10 +630,7 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/CMakeLists.txt" timestamp="1493804055895">
         <mark key="'" line="16" column="4" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="54" />
         <mark key="^" line="10" column="31" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/SymbolLoader.h" timestamp="1490885867081">
         <mark key="'" line="11" column="16" />
@@ -1054,8 +1057,8 @@
       <register name="a" type="2">
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">TUVTU0FHRShGQVRBTF9FUlJPUiAke1RFU1RfTElOS19ESVJFQ1RPUklFU30pICAgI0ZJWE1FCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1086,7 +1089,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>IF</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
