@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/services/DefaultPlatformServicesProvider.cpp" timestamp="1493904393781">
+        <mark key="'" line="12" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CommonTest.cpp" timestamp="1490895018565">
         <mark key="'" line="7" column="44" />
         <mark key="[" line="16" column="1" />
@@ -97,6 +100,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" timestamp="1493904388333">
+        <mark key="'" line="42" column="41" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/platform-oem/amazon/tests/CMakeLists.txt" timestamp="1490700243709">
         <mark key="'" line="43" column="45" />
@@ -428,6 +434,9 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDeviceProperties.cpp" timestamp="1493904562102">
+        <mark key="'" line="163" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/src/av_common.c" timestamp="1490898818968">
         <mark key="'" line="11" column="12" />
         <mark key="[" line="11" column="4" />
@@ -577,6 +586,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="6" column="43" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/PluginDeviceInfo.cpp" timestamp="1493910600731">
+        <mark key="[" line="50" column="30" />
+        <mark key="]" line="50" column="30" />
+        <mark key="^" line="50" column="30" />
+        <mark key="." line="50" column="30" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/avDisplayTests.cpp" timestamp="1493227358962">
         <mark key="'" line="110" column="53" />
@@ -896,7 +911,7 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493897453366">
+      <file name="/Dummy.txt" timestamp="1493904385421">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="16" />
@@ -965,8 +980,8 @@
         <mark key="." line="119" column="39" />
         <mark key="^" line="119" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1493814609711">
-        <mark key="'" line="63" column="8" />
+      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1493899911266">
+        <mark key="'" line="114" column="68" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/Library.cpp" timestamp="1493388262255">
         <mark key="'" line="14" column="17" />
@@ -977,12 +992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/include/devicelayerloader/PluginDeviceLayerLoader.h" />
-      <jump line="33" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
-      <jump line="49" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/tests/ffi/LuaFFILibWrapperTest.cpp" />
-      <jump line="24" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/src/av_common.c" />
-      <jump line="100" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
-      <jump line="152" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
       <jump line="153" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
       <jump line="145" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/include/devicelayerloader/PluginDeviceLayerLoader.h" />
@@ -1077,6 +1086,12 @@
       <jump line="131" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" />
       <jump line="650" column="45" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" />
       <jump line="139" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" />
+      <jump line="114" column="68" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="196" column="3" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" />
+      <jump line="42" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" />
+      <jump line="12" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/services/DefaultPlatformServicesProvider.cpp" />
+      <jump line="140" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDeviceProperties.cpp" />
+      <jump line="163" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDeviceProperties.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1117,7 +1132,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWFkXD4=</text>
+        <text encoding="base64">XDxfY3JlYXRlRnJvbUpzb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SUYoVEVTVF9MSU5LX0RJUkVDVE9SSUVTKQo=</text>
@@ -1164,9 +1179,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWFkXD4=</last-search>
+      <last-search encoding="base64">XDxfY3JlYXRlRnJvbUpzb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWFkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfY3JlYXRlRnJvbUpzb25cPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1174,8 +1189,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcmVhZFw+</entry>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxnZXRGdW5jdGlvbkFkZHJlc3NcPg==</entry>
         <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxpbml0XD4=</entry>
@@ -1194,6 +1207,8 @@
         <entry encoding="base64">XDxwbGF0Zm9ybV9zb3VyY2Vfcm9vdF9kaXJcPg==</entry>
         <entry encoding="base64">XDxfcmVhZEZyb21GaWxlXD4=</entry>
         <entry encoding="base64">XDxyZWFkXD4=</entry>
+        <entry encoding="base64">XDxVU0VfREVGQVVMVF9ERVZJQ0VfUFJPUEVSVElFU19QUk9WSURFUlw+</entry>
+        <entry encoding="base64">XDxfY3JlYXRlRnJvbUpzb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
