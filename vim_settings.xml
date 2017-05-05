@@ -169,10 +169,10 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/cmakescripts/build/spidermonkey.cmake" timestamp="1493911196156">
         <mark key="'" line="394" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CMakeLists.txt" timestamp="1493913078200">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CMakeLists.txt" timestamp="1493975229227">
         <mark key="'" line="31" column="55" />
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="8" column="50" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="52" />
         <mark key="." line="8" column="50" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" timestamp="1493896819981">
@@ -192,8 +192,8 @@
         <mark key="^" line="45" column="109" />
         <mark key="." line="45" column="109" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" timestamp="1493916239217">
-        <mark key="'" line="53" column="26" />
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" timestamp="1493974960195">
+        <mark key="'" line="34" column="53" />
         <mark key="[" line="58" column="39" />
         <mark key="]" line="58" column="42" />
         <mark key="." line="58" column="42" />
@@ -1012,11 +1012,11 @@
         <mark key="." line="34" column="31" />
         <mark key="^" line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/CMakeLists.txt" timestamp="1493915263486">
-        <mark key="'" line="31" column="42" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/CMakeLists.txt" timestamp="1493975230078">
+        <mark key="'" line="32" column="42" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="52" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/SymbolLoader.cpp" timestamp="1490885874170">
         <mark key="'" line="0" column="20" />
@@ -1157,7 +1157,6 @@
       <jump line="20" column="52" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
       <jump line="51" column="22" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
       <jump line="32" column="10" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
-      <jump line="34" column="58" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
       <jump line="58" column="22" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
       <jump line="37" column="22" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
       <jump line="53" column="26" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
@@ -1168,13 +1167,14 @@
       <jump line="354" column="19" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
       <jump line="206" column="16" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
       <jump line="308" column="16" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
+      <jump line="34" column="53" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>remove `av` prefix from test files</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9IC1zdGQ9YysrMTEiKQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1208,10 +1208,10 @@
         <text>remove `av` prefix from test files</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcHVibGlzaFNETEV2ZW50XD4=</text>
+        <text>NULL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUxJTlVYX0RFVklDRV9MQVlFUl9ESVNQTEFZX1BBUkFNRVRFUl9JTlZBTElELAo=</text>
+        <text encoding="base64">U0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9IC1zdGQ9YysrMTEiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CUxJTlVYX0RFVklDRV9MQVlFUl9ESVNQTEFZX0NPTlRFWFRfU0VUVVBfRkFJTCwK</text>
@@ -1259,9 +1259,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcHVibGlzaFNETEV2ZW50XD4=</last-search>
+      <last-search>NULL</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcHVibGlzaFNETEV2ZW50XD4=</last-pattern>
+      <last-pattern>NULL</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1269,7 +1269,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUSElTX1BMVUdJTl9MSUJSQVJZXD4=</entry>
         <entry encoding="base64">XDxUSElTX1BMVUdJTl9MSUJSQVJZ</entry>
         <entry encoding="base64">XDxwbGF0Zm9ybV9zb3VyY2Vfcm9vdF9kaXJcPg==</entry>
         <entry encoding="base64">XDxDT1JFX1BMQVRGT1JNX0NNQUtFX0ZJTEVcPg==</entry>
@@ -1289,6 +1288,7 @@
         <entry encoding="base64">XDxkaXNwbGF5Q29udGV4dFw+</entry>
         <entry encoding="base64">XDxfY29tbW9uQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxfcHVibGlzaFNETEV2ZW50XD4=</entry>
+        <entry>NULL</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
