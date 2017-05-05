@@ -105,7 +105,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" timestamp="1493979326987">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" timestamp="1493979634443">
         <mark key="'" line="38" column="54" />
         <mark key="[" line="37" column="5" />
         <mark key="]" line="37" column="5" />
@@ -470,8 +470,8 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDeviceProperties.cpp" timestamp="1493979177715">
-        <mark key="'" line="213" column="16" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDeviceProperties.cpp" timestamp="1493980291901">
+        <mark key="'" line="94" column="34" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/src/av_common.c" timestamp="1490898818968">
         <mark key="'" line="11" column="12" />
@@ -521,8 +521,8 @@
         <mark key="." line="21" column="59" />
         <mark key="^" line="21" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDevicePropertiesProvider.cpp" timestamp="1493979114652">
-        <mark key="'" line="17" column="37" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDevicePropertiesProvider.cpp" timestamp="1493980317637">
+        <mark key="'" line="17" column="53" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/delegates/DeviceDelegate.cpp" timestamp="1493307290975">
         <mark key="'" line="311" column="4" />
@@ -990,7 +990,7 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493976505610">
+      <file name="/Dummy.txt" timestamp="1493979535453">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="16" />
@@ -1075,9 +1075,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/cmakescripts/build/spidermonkey.cmake" />
-      <jump line="347" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="384" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
       <jump line="355" column="65" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
       <jump line="356" column="66" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
       <jump line="360" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
@@ -1172,9 +1169,12 @@
       <jump line="308" column="16" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
       <jump line="34" column="53" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
       <jump line="38" column="54" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" />
-      <jump line="17" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDevicePropertiesProvider.cpp" />
       <jump line="135" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDeviceProperties.cpp" />
       <jump line="213" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDeviceProperties.cpp" />
+      <jump line="67" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" />
+      <jump line="17" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDevicePropertiesProvider.cpp" />
+      <jump line="94" column="34" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDeviceProperties.cpp" />
+      <jump line="16" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/properties/DefaultDeviceProperties.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
