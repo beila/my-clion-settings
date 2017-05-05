@@ -188,12 +188,12 @@
         <mark key="^" line="45" column="109" />
         <mark key="." line="45" column="109" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" timestamp="1493982708747">
-        <mark key="'" line="74" column="7" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="58" column="42" />
-        <mark key="^" line="58" column="42" />
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" timestamp="1493986362478">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="56" column="42" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/tools/configs/linux.dev.config" timestamp="1493740712883">
         <mark key="'" line="0" column="0" />
@@ -392,13 +392,13 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/src/cache/cacheable/CacheableBuffer.cpp" timestamp="1493896695260">
         <mark key="'" line="183" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" timestamp="1493982669075">
-        <mark key="'" line="122" column="0" />
-        <mark key="g" line="138" column="63" />
-        <mark key="[" line="138" column="63" />
-        <mark key="]" line="138" column="112" />
-        <mark key="." line="138" column="112" />
-        <mark key="^" line="138" column="112" />
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" timestamp="1493986350974">
+        <mark key="'" line="66" column="16" />
+        <mark key="g" line="136" column="63" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="136" column="112" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/LibraryProxy.cpp" timestamp="1490895425502">
         <mark key="'" line="22" column="14" />
@@ -407,12 +407,12 @@
         <mark key="." line="26" column="17" />
         <mark key="^" line="26" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avInput.cpp" timestamp="1493982698491">
-        <mark key="'" line="17" column="34" />
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="35" />
-        <mark key="." line="17" column="35" />
-        <mark key="^" line="79" column="95" />
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avInput.cpp" timestamp="1493986359118">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="77" column="95" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.platform.ps4/PluginPs4.cpp" timestamp="1486658416446">
         <mark key="'" line="44" column="0" />
@@ -708,12 +708,12 @@
         <mark key="^" line="81" column="60" />
         <mark key="." line="81" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avSecureStorageBackend.cpp" timestamp="1493982687155">
-        <mark key="'" line="14" column="36" />
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="37" />
-        <mark key="." line="14" column="37" />
-        <mark key="^" line="70" column="88" />
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avSecureStorageBackend.cpp" timestamp="1493986355878">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="68" column="88" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/TTSContext.h" timestamp="1493982746867">
         <mark key="'" line="5" column="16" />
@@ -914,12 +914,12 @@
         <mark key="^" line="635" column="45" />
         <mark key="." line="635" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avCommon.cpp" timestamp="1493982722667">
-        <mark key="'" line="2" column="16" />
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="16" />
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avCommon.cpp" timestamp="1493986366110">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="57" />
+        <mark key="^" line="43" column="57" />
+        <mark key="." line="43" column="57" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/filesystem/FileSystemUtils.h" timestamp="1493120170384">
         <mark key="'" line="65" column="31" />
@@ -975,6 +975,9 @@
         <mark key="]" line="17" column="73" />
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1493986344464">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.inspector/internal/include/inspector/channels/log/LogChannelNotifier.h" timestamp="1484671827895">
         <mark key="'" line="28" column="18" />
@@ -1050,10 +1053,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="53" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
-      <jump line="38" column="54" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" />
-      <jump line="135" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDeviceProperties.cpp" />
-      <jump line="213" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDeviceProperties.cpp" />
       <jump line="67" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" />
       <jump line="17" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDevicePropertiesProvider.cpp" />
       <jump line="94" column="34" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DefaultDeviceProperties.cpp" />
@@ -1098,7 +1097,6 @@
       <jump line="13" column="35" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
       <jump line="55" column="87" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
       <jump line="62" column="46" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="66" column="61" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
       <jump line="14" column="39" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
       <jump line="67" column="104" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
       <jump line="74" column="46" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
@@ -1150,13 +1148,18 @@
       <jump line="5" column="16" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SDLDisplayContext.h" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SDLCommonContext.h" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/ig/devicelinux/CMakeLists.txt" />
+      <jump line="66" column="16" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avSecureStorageBackend.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avInput.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
+      <jump line="45" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avCommon.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Rm9sbG93IGxhdGVzdCBkZXZpY2UtbGF5ZXItc2tlbGV0b24KCiogZm9sbG93IGRldmljZS1sYXllci1za2VsZXRvbiBzdHJ1Y3R1cmUKICAgICogbW92ZSBgaW5jbHVkZWAgdG8gYGludGVyZmFjZS9pbmNsdWRlL2RldmljZWAKICAgICogbW92ZSBgc3JjYCB0byBgaW1wbGVtZW50YXRpb24vbGludXgvc3JjYAogICAgKiBtb3ZlIGBpbnRlcm5hbGAgdG8gYGltcGxlbWVudGF0aW9uL2xpbnV4L2ludGVybmFsYAogICAgKiBtb3ZlIGB0aGlyZHBhcnR5YCB0byBgaW1wbGVtZW50YXRpb24vbGludXgvdGhpcmRwYXJ0eWAKICAgICogaW5jbHVkZSBgZGV2aWNlLyouaGAKKiBtZXJnZSBsYXRlc3QgZGV2aWNlLWxheWVyLXNrZWxldG9uCiAgICAqIGFwcGx5IGNoYW5nZWQgaGVhZGVyLCB0ZXN0IGZpbGVzCiAgICAqIGFkZCBnbW9jayBzb3VyY2UgY29kZQoqIGFwcGx5IGludGVyZmFjZSBjaGFuZ2VzCiAgICAqIHJlbW92ZSBgQVZfRkFJTGAgaW4gYGF2RGlzcGxheS5jcHBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1187,16 +1190,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>STRINGS</text>
+        <text>AV_FAIL</text>
       </register>
       <register name="/" type="4">
         <text>call_av_display_setup_null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CW1lc3NhZ2UoU1RBVFVTICJGSUxFX1JFTEFUSVZFOiAiICR7RklMRV9SRUxBVElWRX0pCg==</text>
+        <text encoding="base64">CURFVklDRV9MQVlFUl9DT01NT05fQ09OVEVYVF9JTlZBTElECg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rm9sbG93IGxhdGVzdCBkZXZpY2UtbGF5ZXItc2tlbGV0b24KCiogZm9sbG93IGRldmljZS1sYXllci1za2VsZXRvbiBzdHJ1Y3R1cmUKICAgICogbW92ZSBgaW5jbHVkZWAgdG8gYGludGVyZmFjZS9pbmNsdWRlL2RldmljZWAKICAgICogbW92ZSBgc3JjYCB0byBgaW1wbGVtZW50YXRpb24vbGludXgvc3JjYAogICAgKiBtb3ZlIGBpbnRlcm5hbGAgdG8gYGltcGxlbWVudGF0aW9uL2xpbnV4L2ludGVybmFsYAogICAgKiBtb3ZlIGB0aGlyZHBhcnR5YCB0byBgaW1wbGVtZW50YXRpb24vbGludXgvdGhpcmRwYXJ0eWAKICAgICogaW5jbHVkZSBgZGV2aWNlLyouaGAKKiBtZXJnZSBsYXRlc3QgZGV2aWNlLWxheWVyLXNrZWxldG9uCiAgICAqIGFwcGx5IGNoYW5nZWQgaGVhZGVyLCB0ZXN0IGZpbGVzCiAgICAqIGFkZCBnbW9jayBzb3VyY2UgY29kZQoqIGFwcGx5IGludGVyZmFjZSBjaGFuZ2VzCiAgICAqIHJlbW92ZSBgQVZfRkFJTGAgaW4gYGF2RGlzcGxheS5jcHBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1207,31 +1210,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CW1lc3NhZ2UoU1RBVFVTICJGSUxFX1JFTEFUSVZFOiAiICR7RklMRV9SRUxBVElWRX0pCg==</text>
+        <text encoding="base64">I2RlZmluZSBBVl9GQUlMICgtMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW1lc3NhZ2UoU1RBVFVTICJGSUxFX0FCU09MVVRFOiAiICR7RklMRV9BQlNPTFVURX0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CW1lc3NhZ2UoU1RBVFVTICJGSUxFX0FCU09MVVRFOiAiICR7RklMRV9BQlNPTFVURX0pCg==</text>
+        <text encoding="base64">I2RlZmluZSBBVl9GQUlMICgtMSkK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CURFVklDRV9MQVlFUl9ESVNQTEFZX05PVF9TVVBQT1JURURfUFJPUEVSVFkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CURFVklDRV9MQVlFUl9ESVNQTEFZX1BBUkFNRVRFUl9JTlZBTElELAo=</text>
+        <text encoding="base64">I2RlZmluZSBBVl9GQUlMICgtMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CURFVklDRV9MQVlFUl9ESVNQTEFZX1BSRVNFTlRfRkFJTCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CURFVklDRV9MQVlFUl9ESVNQTEFZX0hBTkRMRV9FVkVOVFNfRkFJTCwK</text>
+        <text encoding="base64">I2RlZmluZSBBVl9GQUlMICgtMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CURFVklDRV9MQVlFUl9ESVNQTEFZX1NFVFVQX0ZBSUwsCg==</text>
+        <text encoding="base64">CURFVklDRV9MQVlFUl9ESVNQTEFZX0NPTlRFWFRfTk9fTUFUQ0gsCglERVZJQ0VfTEFZRVJfRElTUExBWV9SRUxFQVNFX0ZBSUwsCglERVZJQ0VfTEFZRVJfRElTUExBWV9TRVRVUF9GQUlMLAoJREVWSUNFX0xBWUVSX0RJU1BMQVlfSEFORExFX0VWRU5UU19GQUlMLAoJREVWSUNFX0xBWUVSX0RJU1BMQVlfUFJFU0VOVF9GQUlMLAoJREVWSUNFX0xBWUVSX0RJU1BMQVlfUEFSQU1FVEVSX0lOVkFMSUQsCglERVZJQ0VfTEFZRVJfRElTUExBWV9OT1RfU1VQUE9SVEVEX1BST1BFUlRZCg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">Y29yZTo6ZnVuY3Rpb248ZGVjbHR5cGUoYXZTdG9yYWdlQmFja2VuZENyZWF0ZUNvbnRleHQpPg==</text>
