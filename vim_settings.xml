@@ -685,7 +685,7 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/Library.h" timestamp="1493982516851">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/CMakeLists.txt" timestamp="1494004306694">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/CMakeLists.txt" timestamp="1494250948597">
         <mark key="'" line="59" column="21" />
         <mark key="[" line="21" column="21" />
         <mark key="]" line="21" column="23" />
@@ -1145,9 +1145,9 @@
       <jump line="1587" column="42" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/renderer/SceneGraphRenderer.cpp" />
       <jump line="30" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/api/RendererObjectFactory.h" />
       <jump line="36" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/utils/ForwardDeclarations.h" />
-      <jump line="59" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/CMakeLists.txt" />
       <jump line="60" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/api/RendererObjectFactory.cpp" />
       <jump line="308" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RenderStateManager.cpp" />
+      <jump line="59" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
