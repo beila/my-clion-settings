@@ -74,8 +74,8 @@
         <mark key="." line="7" column="50" />
         <mark key="^" line="28" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/get-plugin-platform-dir.cmake" timestamp="1493913568130">
-        <mark key="'" line="26" column="13" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/get-plugin-platform-dir.cmake" timestamp="1494251398101">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="44" />
         <mark key="]" line="17" column="68" />
         <mark key="^" line="17" column="68" />
@@ -145,11 +145,6 @@
         <mark key="]" line="23" column="12" />
         <mark key="^" line="23" column="12" />
         <mark key="." line="23" column="12" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SDLInputContext.h" timestamp="1493982753163">
-        <mark key="'" line="5" column="16" />
-        <mark key="[" line="5" column="10" />
-        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/SecureStorageBackend.cpp" timestamp="1493374769753">
         <mark key="'" line="274" column="0" />
@@ -388,14 +383,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/src/cache/cacheable/CacheableBuffer.cpp" timestamp="1493896695260">
         <mark key="'" line="183" column="47" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" timestamp="1493986350974">
-        <mark key="'" line="66" column="16" />
-        <mark key="g" line="136" column="63" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="136" column="112" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/LibraryProxy.cpp" timestamp="1490895425502">
         <mark key="'" line="22" column="14" />
@@ -692,8 +679,8 @@
         <mark key="^" line="21" column="23" />
         <mark key="." line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" timestamp="1493913571266">
-        <mark key="'" line="0" column="92" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" timestamp="1494251414197">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="81" />
         <mark key="]" line="0" column="92" />
         <mark key="^" line="0" column="92" />
@@ -720,13 +707,8 @@
         <mark key="^" line="68" column="88" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/TTSContext.h" timestamp="1493982746867">
-        <mark key="'" line="5" column="16" />
-        <mark key="[" line="5" column="10" />
-        <mark key="." line="5" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" timestamp="1493913600546">
-        <mark key="'" line="134" column="61" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" timestamp="1494251403821">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
@@ -760,11 +742,6 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="64" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SecureStorageBackendContext.h" timestamp="1493982750163">
-        <mark key="'" line="5" column="16" />
-        <mark key="[" line="5" column="10" />
-        <mark key="." line="5" column="16" />
-      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_input_defs.h" timestamp="1493982621819">
         <mark key="'" line="0" column="0" />
       </file>
@@ -791,11 +768,6 @@
         <mark key="]" line="16" column="16" />
         <mark key="." line="25" column="16" />
         <mark key="^" line="16" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SDLDisplayContext.h" timestamp="1493982756067">
-        <mark key="'" line="5" column="16" />
-        <mark key="[" line="5" column="10" />
-        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/thread/PS3MutexUtils.h" timestamp="1484665320415">
         <mark key="'" line="7" column="8" />
@@ -834,6 +806,9 @@
         <mark key="]" line="71" column="42" />
         <mark key="^" line="71" column="42" />
         <mark key="." line="71" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/tools/generate_vs_projects.py" timestamp="1494251440949">
+        <mark key="'" line="80" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/src/av_common.c" timestamp="1493405692059">
         <mark key="'" line="24" column="5" />
@@ -972,11 +947,6 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494004293683">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.inspector/internal/include/inspector/channels/log/LogChannelNotifier.h" timestamp="1484671827895">
         <mark key="'" line="28" column="18" />
         <mark key="[" line="44" column="69" />
@@ -1039,6 +1009,13 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1494004145101">
         <mark key="'" line="313" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1494252320024">
+        <mark key="'" line="267" column="0" />
+        <mark key="[" line="120" column="36" />
+        <mark key="]" line="120" column="65" />
+        <mark key="." line="120" column="88" />
+        <mark key="^" line="120" column="88" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/Library.cpp" timestamp="1493388262255">
         <mark key="'" line="14" column="17" />
         <mark key="[" line="24" column="14" />
@@ -1048,38 +1025,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="104" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="74" column="46" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="78" column="65" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="15" column="41" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="79" column="110" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="86" column="46" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="97" column="22" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="16" column="57" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="91" column="125" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="98" column="46" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="102" column="66" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="103" column="119" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="111" column="46" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="115" column="80" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="18" column="43" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="116" column="126" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="123" column="46" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="129" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="19" column="53" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
-      <jump line="226" column="8" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
-      <jump line="150" column="59" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
-      <jump line="99" column="39" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
-      <jump line="11" column="12" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SDLCommonContext.h" />
-      <jump line="18" column="36" filename="$USER_HOME$/dev/ig/devicelinux/CMakeLists.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/TextToSpeechTest.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/test_files.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/SecureStorageBackendTest.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/Library.h" />
-      <jump line="37" column="6" filename="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_text_to_speech.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_input_defs.h" />
-      <jump line="73" column="4" filename="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_display_defs.h" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/CMakeLists.txt" />
       <jump line="128" column="112" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
       <jump line="122" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
@@ -1148,13 +1093,45 @@
       <jump line="60" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/api/RendererObjectFactory.cpp" />
       <jump line="308" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RenderStateManager.cpp" />
       <jump line="59" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/CMakeLists.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/get-plugin-platform-dir.cmake" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
+      <jump line="80" column="4" filename="$USER_HOME$/dev/ig/tools/generate_vs_projects.py" />
+      <jump line="84" column="49" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="135" column="44" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="143" column="10" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="144" column="4" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="54" column="8" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="56" column="8" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="159" column="59" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="164" column="16" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="165" column="46" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="158" column="16" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="157" column="7" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="35" column="19" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="63" column="8" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="113" column="11" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="114" column="71" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="189" column="15" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="190" column="37" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="65" column="8" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="119" column="11" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="120" column="71" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="196" column="37" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="64" column="8" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="115" column="11" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="116" column="71" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="195" column="15" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="211" column="1" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="267" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>FALSE</text>
+        <text>IGNITION_DEVICE_LAYER_ROOT_DIR</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1185,13 +1162,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FALSE</text>
+        <text>platform_source_root_dir</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaW5pdFw+</text>
+        <text encoding="base64">XDxwbGF0Zm9ybV9zb3VyY2Vfcm9vdF9kaXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2V0KEZSVUlUX1VTRVNfQk9PU1QgVFJVRSBDQUNIRSBCT09MCg==</text>
+        <text encoding="base64">aWYgW1sgLW4gIiRwbGF0Zm9ybV9zb3VyY2Vfcm9vdF9kaXIiIF1dOyB0aGVuCglDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRElHTklUSU9OX1BMQVRGT1JNX1NPVVJDRV9ST09UX0RJUj0kcGxhdGZvcm1fc291cmNlX3Jvb3RfZGlyIgpmaQoK</text>
       </register>
       <register name="1" type="4">
         <text>Follow latest device-layer-skeleton
@@ -1251,9 +1228,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaW5pdFw+</last-search>
+      <last-search encoding="base64">XDxwbGF0Zm9ybV9zb3VyY2Vfcm9vdF9kaXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaW5pdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwbGF0Zm9ybV9zb3VyY2Vfcm9vdF9kaXJcPg==</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -1261,12 +1238,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMSU5VWF9ERVZJQ0VfTEFZRVJfRElTUExBWV9DT05URVhUX1NFVFVQX0ZBSUxcPg==</entry>
-        <entry encoding="base64">XDxMSU5VWF9ERVZJQ0VfTEFZRVJfRElTUExBWV9DT05URVhUX0hBTkRMRV9FVkVOVFNfRkFJTFw+</entry>
-        <entry encoding="base64">XDxMSU5VWF9ERVZJQ0VfTEFZRVJfRElTUExBWV9DT05URVhUX1BSRVNFTlRfRkFJTFw+</entry>
-        <entry encoding="base64">XDxzZGxDb21tb25Db250ZXh0XD4=</entry>
-        <entry encoding="base64">XDxkaXNwbGF5Q29udGV4dFw+</entry>
-        <entry encoding="base64">XDxfY29tbW9uQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxfcHVibGlzaFNETEV2ZW50XD4=</entry>
         <entry>NULL</entry>
         <entry encoding="base64">XDxMSU5VWF8=</entry>
@@ -1281,6 +1252,12 @@
         <entry encoding="base64">XDxKU19MSU5LX0xJQlJBUklFU1w+</entry>
         <entry encoding="base64">XDxKU19MSU5LX0RJUlNcPg==</entry>
         <entry encoding="base64">XDxfaW5pdFw+</entry>
+        <entry encoding="base64">XDx0YXJnZXRfZGlyXD4=</entry>
+        <entry encoding="base64">XDxzZGtfcm9vdFw+</entry>
+        <entry encoding="base64">XDxORUVEU19UT09MQ0hBSU5cPg==</entry>
+        <entry encoding="base64">XDx2ZXJib3NlX291dHB1dFw+</entry>
+        <entry encoding="base64">XDxkZXZpY2VfbGF5ZXJfcm9vdF9kaXJcPg==</entry>
+        <entry encoding="base64">XDxwbGF0Zm9ybV9zb3VyY2Vfcm9vdF9kaXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hc29ydCAtayAy</entry>
