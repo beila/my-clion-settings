@@ -1004,7 +1004,7 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494259355182">
+      <file name="/Dummy.txt" timestamp="1494338687126">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.inspector/internal/include/inspector/channels/log/LogChannelNotifier.h" timestamp="1484671827895">
@@ -1075,12 +1075,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1494004145101">
         <mark key="'" line="313" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1494256856105">
-        <mark key="'" line="120" column="36" />
-        <mark key="[" line="120" column="36" />
-        <mark key="]" line="120" column="65" />
-        <mark key="." line="120" column="88" />
-        <mark key="^" line="120" column="88" />
+      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1494339379178">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="51" column="34" />
+        <mark key="]" line="51" column="35" />
+        <mark key="." line="51" column="35" />
+        <mark key="^" line="51" column="35" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/Library.cpp" timestamp="1493388262255">
         <mark key="'" line="14" column="17" />
@@ -1091,7 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
       <jump line="80" column="4" filename="$USER_HOME$/dev/ig/tools/generate_vs_projects.py" />
       <jump line="84" column="49" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
@@ -1191,6 +1190,7 @@
       <jump line="170" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascriptdebugger/internal/src/javascriptdebugger/DebuggerJsCompartment.cpp" />
       <jump line="218" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascriptdebugger/internal/src/javascriptdebugger/DebuggerJsCompartment.cpp" />
       <jump line="232" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascriptdebugger/internal/src/javascriptdebugger/DebuggerJsCompartment.cpp" />
+      <jump line="122" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
     </jumps>
     <registers>
       <register name="a" type="2">
