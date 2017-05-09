@@ -1075,12 +1075,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1494004145101">
         <mark key="'" line="313" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1494339379178">
+      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1494339997507">
         <mark key="'" line="122" column="0" />
-        <mark key="[" line="51" column="34" />
-        <mark key="]" line="51" column="35" />
-        <mark key="." line="51" column="35" />
-        <mark key="^" line="51" column="35" />
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="44" column="83" />
+        <mark key="." line="44" column="83" />
+        <mark key="^" line="44" column="83" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/Library.cpp" timestamp="1493388262255">
         <mark key="'" line="14" column="17" />
@@ -1197,7 +1197,7 @@
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>com.amazon.ignition.framework.core@0.22.9</text>
+        <text>n</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1228,7 +1228,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>com.amazon.ignition.framework.core@0.22.9</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfUk9PVF9ESVJcPg==</text>
