@@ -359,7 +359,7 @@
         <mark key="^" line="21" column="23" />
         <mark key="." line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" timestamp="1494417374798">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" timestamp="1494418319264">
         <mark key="'" line="13" column="25" />
         <mark key="[" line="13" column="28" />
         <mark key="]" line="13" column="64" />
@@ -517,7 +517,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494416833223">
+      <file name="/Dummy.txt" timestamp="1494418320415">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.inspector/internal/include/inspector/channels/log/LogChannelNotifier.h" timestamp="1484671827895">
@@ -1001,8 +1001,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/CMakeLists.txt" timestamp="1494001973585">
         <mark key="'" line="285" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/CMakeLists.txt" timestamp="1494257254066">
-        <mark key="'" line="19" column="21" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/CMakeLists.txt" timestamp="1494418404488">
+        <mark key="'" line="18" column="24" />
         <mark key="[" line="3" column="39" />
         <mark key="]" line="3" column="44" />
         <mark key="." line="3" column="44" />
@@ -1136,7 +1136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/assets/launch" />
       <jump line="32" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/assets/launch" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/assets/launch" />
       <jump line="242" column="8" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
@@ -1236,6 +1235,7 @@
       <jump line="98" column="63" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
       <jump line="101" column="46" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
       <jump line="105" column="47" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
+      <jump line="18" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
