@@ -81,6 +81,9 @@
         <mark key="^" line="136" column="24" />
         <mark key="." line="136" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/thirdparty/spidermonkey/mozjs-45.0.2/dist/include/js/Value.h" timestamp="1494414600151">
+        <mark key="'" line="1195" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/cmakescripts/build/spidermonkey.cmake" timestamp="1493911196156">
         <mark key="'" line="394" column="11" />
       </file>
@@ -1109,10 +1112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="68" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
-      <jump line="128" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
-      <jump line="129" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
       <jump line="7" column="39" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
       <jump line="12" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/PluginDeviceLayerLoaderConfig.cmake" />
@@ -1209,6 +1208,10 @@
       <jump line="103" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" />
       <jump line="110" column="39" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" />
       <jump line="117" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/thirdparty/spidermonkey/mozjs-45.0.2/dist/include/js/Value.h" />
+      <jump line="1287" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/thirdparty/spidermonkey/mozjs-45.0.2/dist/include/js/Value.h" />
+      <jump line="1195" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/thirdparty/spidermonkey/mozjs-45.0.2/dist/include/js/Value.h" />
+      <jump line="848" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/thirdparty/spidermonkey/mozjs-45.0.2/dist/include/js/Value.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
