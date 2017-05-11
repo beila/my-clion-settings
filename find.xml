@@ -7,17 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.cmake,*.txt,*.config,manifest*,*.sh,*.py" />
     <recentFileMasks>
-      <mask>jj*.cmake,*.txt</mask>
-      <mask>j*.cmake,*.txt</mask>
-      <mask>*.cmake,*.txt</mask>
-      <mask>*.cmake,*.txt,</mask>
-      <mask>*.cmake,*.txt,*</mask>
-      <mask>*.cmake,*.txt,*.</mask>
-      <mask>*.cmake,*.txt,*.c</mask>
-      <mask>*.cmake,*.txt,*.co</mask>
-      <mask>*.cmake,*.txt,*.con</mask>
-      <mask>*.cmake,*.txt,*.confi</mask>
       <mask>*.cmaFIXME ke,*.txt,*.config</mask>
       <mask>*.cmaFIXME FIXME ke,*.txt,*.config</mask>
       <mask>*.cmaFIXME FIXME ke,*.txt,*.confi</mask>
@@ -38,6 +29,16 @@
       <mask>*.cmake,*.txt,*.config,manife</mask>
       <mask>*.cmake,*.txt,*.config,manifest</mask>
       <mask>*.cmake,*.txt,*.config,manifest*</mask>
+      <mask>*.cmake,*.txt,*.config,manifest*,</mask>
+      <mask>*.cmake,*.txt,*.config,manifest*,*</mask>
+      <mask>*.cmake,*.txt,*.config,manifest*,*.</mask>
+      <mask>*.cmake,*.txt,*.config,manifest*,*.s</mask>
+      <mask>*.cmake,*.txt,*.config,manifest*,*.sh</mask>
+      <mask>*.cmake,*.txt,*.config,manifest*,*.sh,</mask>
+      <mask>*.cmake,*.txt,*.config,manifest*,*.sh,*</mask>
+      <mask>*.cmake,*.txt,*.config,manifest*,*.sh,*.</mask>
+      <mask>*.cmake,*.txt,*.config,manifest*,*.sh,*.p</mask>
+      <mask>*.cmake,*.txt,*.config,manifest*,*.sh,*.py</mask>
     </recentFileMasks>
   </component>
 </application>
