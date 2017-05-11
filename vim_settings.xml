@@ -291,12 +291,12 @@
         <mark key="." line="27" column="55" />
         <mark key="^" line="27" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" timestamp="1494504868981">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="12" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="6" column="12" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" timestamp="1494511983260">
+        <mark key="'" line="93" column="42" />
+        <mark key="[" line="51" column="13" />
+        <mark key="]" line="51" column="13" />
+        <mark key="^" line="84" column="59" />
+        <mark key="." line="51" column="13" />
       </file>
       <file name="$USER_HOME$/dev/luajit-2.0/src/lj_lib.c" timestamp="1489582664635">
         <mark key="'" line="230" column="7" />
@@ -809,8 +809,8 @@
         <mark key="." line="19" column="51" />
         <mark key="^" line="17" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-target-post-build.cmake" timestamp="1494504398764">
-        <mark key="'" line="15" column="31" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-target-post-build.cmake" timestamp="1494504925534">
+        <mark key="'" line="14" column="31" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -1086,6 +1086,9 @@
         <mark key="." line="39" column="20" />
         <mark key="^" line="39" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-resource-post-build.cmake" timestamp="1494505072261">
+        <mark key="'" line="25" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_display_defs.h" timestamp="1493982637419">
         <mark key="'" line="73" column="4" />
       </file>
@@ -1153,17 +1156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="40" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
-      <jump line="23" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
-      <jump line="19" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-target-post-build.cmake" />
-      <jump line="465" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="435" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="478" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="453" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="448" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="22" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/CMakeLists.txt" />
-      <jump line="25" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/CMakeLists.txt" />
-      <jump line="26" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/CMakeLists.txt" />
       <jump line="29" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/CMakeLists.txt" />
       <jump line="33" column="46" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/CMakeLists.txt" />
       <jump line="38" column="46" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/CMakeLists.txt" />
@@ -1227,7 +1219,6 @@
       <jump line="36" column="84" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="37" column="57" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="41" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
-      <jump line="28" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="52" column="46" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="31" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="10" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-target-post-build.cmake" />
@@ -1253,13 +1244,25 @@
       <jump line="12" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="106" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
+      <jump line="18" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
+      <jump line="28" column="64" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
+      <jump line="32" column="70" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
+      <jump line="89" column="64" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
+      <jump line="93" column="42" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
+      <jump line="13" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-resource-post-build.cmake" />
+      <jump line="32" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-resource-post-build.cmake" />
+      <jump line="1" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-resource-post-build.cmake" />
+      <jump line="7" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-resource-post-build.cmake" />
+      <jump line="14" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-resource-post-build.cmake" />
+      <jump line="20" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-resource-post-build.cmake" />
+      <jump line="25" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-resource-post-build.cmake" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>INSTALL_IGNITION_PLUGIN_CXXTESTS</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1293,16 +1296,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>INSTALL_SUBDIR</text>
+        <text>INSTALL_IGNITION_PLUGIN_CXXTESTS</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxURVNUX0lOU1RBTExfU1VCRElSXD4=</text>
+        <text encoding="base64">UkVTT1VSQ0VfRElSRUNUT1JZXD4=</text>
       </register>
       <register name="0" type="4">
         <text>${TESTS_INSTALL_DIRECTORY}/${TEST_INSTALL_SUBDIR}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbWVzc2FnZShGQVRBTF9FUlJPUiAiJHtJR05JVElPTl9URVNUX1RBUkdFVF9OQU1FfSIpCSNGSVhNRQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1313,31 +1316,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SUYgKE5PVCBDT01NQU5EIElOU1RBTExfSUdOSVRJT05fQ1hYVEVTVFMpCglNQUNSTyhJTlNUQUxMX0lHTklUSU9OX0NYWFRFU1RTKQoJCUlGKElHTklUSU9OX1RFU1RfRVhJU1RTKQoJCQlTRVQoVEVTVF9TSU5HTEVfQVJHUyBUQVJHRVRfTkFNRSBJRCkKCQkJU0VUKFRFU1RfTVVMVElfQVJHUyBSRVNPVVJDRVMpCgkJCUNNQUtFX1BBUlNFX0FSR1VNRU5UUyhJR05JVElPTl9URVNUICIiICIke1RFU1RfU0lOR0xFX0FSR1N9IiAiJHtURVNUX01VTFRJX0FSR1N9IiAke0FSR059KQoKCQkJRk9SRUFDSChURVNUX0xJTktfTElCUkFSWSAke0lHTklUSU9OX0FMTF9URVNUX0xJTktfTElCUkFSSUVTfSkKCQkJCUlGKFRBUkdFVCAke1RFU1RfTElOS19MSUJSQVJZfSkKCQkJCQlJTlNUQUxMX1RFU1RfVEFSR0VUX1BPU1RfQlVJTEQoVEFSR0VUX1RPX0lOU1RBTEwgJHtURVNUX0xJTktfTElCUkFSWX0KCQkJCQkJVEFSR0VUX0RFUEVOREVOQ1kgJHtJR05JVElPTl9URVNUX1RBUkdFVF9OQU1FfQoJCQkJCQlJTlNUQUxMX1NVQkRJUiAibGliIikKCQkJCUVORElGKCkKCQkJRU5ERk9SRUFDSCgpCgoJCQlJTlNUQUxMX1RFU1RfVEFSR0VUX1BPU1RfQlVJTEQoVEFSR0VUX1RPX0lOU1RBTEwgJHtJR05JVElPTl9URVNUX1RBUkdFVF9OQU1FfQoJCQkJVEFSR0VUX0RFUEVOREVOQ1kgJHtJR05JVElPTl9URVNUX1RBUkdFVF9OQU1FfQoJCQkJSU5TVEFMTF9TVUJESVIgImJpbiIpCgoJCQlJR05JVElPTl9HRVRfUExVR0lOX1BST0pFQ1RfRElSKCR7SUdOSVRJT05fVEVTVF9JRH0gUExVR0lOX1BST0pFQ1RfUEFUSCkKCQkJSUdOSVRJT05fR0VUX1BMVUdJTl9ESVJOQU1FKCR7SUdOSVRJT05fVEVTVF9JRH0gUExVR0lOX0RJUk5BTUUpCgoJCQlGT1JFQUNIKFRFU1RfUkVTT1VSQ0UgJHtJR05JVElPTl9URVNUX1JFU09VUkNFU30pCgkJCQlJTlNUQUxMX1RFU1RfUkVTT1VSQ0VfUE9TVF9CVUlMRChSRVNPVVJDRV9ESVJFQ1RPUlkgJHtQTFVHSU5fUFJPSkVDVF9QQVRIfQoJCQkJCVJFU09VUkNFICR7VEVTVF9SRVNPVVJDRX0KCQkJCQlJTlNUQUxMX1NVQkRJUiAke1BMVUdJTl9ESVJOQU1FfQoJCQkJCVRBUkdFVF9ERVBFTkRFTkNZICR7SUdOSVRJT05fVEVTVF9UQVJHRVRfTkFNRX0pCgkJCUVOREZPUkVBQ0goKQoKCQkJIyBjcmVhdGUgYSBoaWRkZW4gZmlsZSB3aGljaCBjb250YWlucyB0aGUgbmFtZSBvZiB0aGUgdW5pdCB0ZXN0cyBiaW5hcnkgc28gaXQgY2FuCgkJCSMgYmUgY29waWVkIHRvIHRoZSBwbHVnaW4gdGVzdCBpbnN0YWxsIGRpcmVjdG9yeSBhbmQgdXNlZCB0byBmaWd1cmUgb3V0IHdoaWNoCgkJCSMgdW5pdCB0ZXN0IGJpbmFyeSBzaG91bGQgYmUgcnVuIGZyb20gdGhlcmUKCQkJU0VUKFRFU1RfQklOQVJZX1BMQUNFSE9MREVSX0ZJTEUgIi50ZXN0X2JpbmFyeV9uYW1lIikKCQkJRklMRShXUklURQoJCQkJJHtDTUFLRV9DVVJSRU5UX0JJTkFSWV9ESVJ9LyR7VEVTVF9CSU5BUllfUExBQ0VIT0xERVJfRklMRX0KCQkJCSR7SUdOSVRJT05fVEVTVF9UQVJHRVRfTkFNRX0pCgkJCUFERF9DVVNUT01fQ09NTUFORChUQVJHRVQgJHtJR05JVElPTl9URVNUX1RBUkdFVF9OQU1FfQoJCQkJUE9TVF9CVUlMRAoJCQkJQ09NTUFORCAke0NNQUtFX0NPTU1BTkR9IC1FIG1ha2VfZGlyZWN0b3J5ICR7VEVTVFNfSU5TVEFMTF9ESVJFQ1RPUll9LyR7UExVR0lOX0RJUk5BTUV9CgkJCQlDT01NQU5EICR7Q01BS0VfQ09NTUFORH0gLUUgY29weSAke0NNQUtFX0NVUlJFTlRfQklOQVJZX0RJUn0vJHtURVNUX0JJTkFSWV9QTEFDRUhPTERFUl9GSUxFfSAke1RFU1RTX0lOU1RBTExfRElSRUNUT1JZfS8ke1BMVUdJTl9ESVJOQU1FfSkKCgkJRU5ESUYoKQoJRU5ETUFDUk8oSU5TVEFMTF9JR05JVElPTl9DWFhURVNUUykKRU5ESUYoKQo=</text>
+        <text encoding="base64">IwkJbWVzc2FnZShGQVRBTF9FUlJPUiAiJHtURVNUU19JTlNUQUxMX0RJUkVDVE9SWX0iKQkjRklYTUUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CklGIChOT1QgQ09NTUFORCBJTlNUQUxMX0lHTklUSU9OX1BMVUdJTl9DWFhURVNUUykKCU1BQ1JPKElOU1RBTExfSUdOSVRJT05fUExVR0lOX0NYWFRFU1RTKQoJCUlGKElHTklUSU9OX1RFU1RfRVhJU1RTKQoJCQlTRVQoVEVTVF9TSU5HTEVfQVJHUyBOQU1FIElEKQoJCQlTRVQoVEVTVF9NVUxUSV9BUkdTIFJFU09VUkNFUykKCQkJQ01BS0VfUEFSU0VfQVJHVU1FTlRTKElHTklUSU9OX1RFU1QgIiIgIiR7VEVTVF9TSU5HTEVfQVJHU30iICIke1RFU1RfTVVMVElfQVJHU30iICR7QVJHTn0pCgkJCQoJCQlTRVQoVU5JVF9URVNUU19UQVJHRVRfTkFNRSAke0lHTklUSU9OX1RFU1RfTkFNRX1fdW5pdF90ZXN0cykKICAgICAgCgkJCUZPUkVBQ0goVEVTVF9MSU5LX0xJQlJBUlkgJHtJR05JVElPTl9BTExfVEVTVF9MSU5LX0xJQlJBUklFU30pCgkJCQlJRihUQVJHRVQgJHtURVNUX0xJTktfTElCUkFSWX0pCgkJCQkJSU5TVEFMTF9URVNUX1RBUkdFVF9QT1NUX0JVSUxEKFRBUkdFVF9UT19JTlNUQUxMICR7VEVTVF9MSU5LX0xJQlJBUll9CgkJCQkJCVRBUkdFVF9ERVBFTkRFTkNZICR7VU5JVF9URVNUU19UQVJHRVRfTkFNRX0KCQkJCQkJSU5TVEFMTF9TVUJESVIgImxpYiIpCgkJCQlFTkRJRigpCgkJCUVOREZPUkVBQ0goKQoKCQkJRk9SRUFDSChURVNUX0VYRUNVVEFCTEUgJHtJR05JVElPTl9URVNUX05BTUV9X3VuaXRfdGVzdHMpCgkJCQlJTlNUQUxMX1RFU1RfVEFSR0VUX1BPU1RfQlVJTEQoVEFSR0VUX1RPX0lOU1RBTEwgJHtURVNUX0VYRUNVVEFCTEV9CgkJCQkJVEFSR0VUX0RFUEVOREVOQ1kgJHtVTklUX1RFU1RTX1RBUkdFVF9OQU1FfQoJCQkJCUlOU1RBTExfU1VCRElSICJiaW4iKQoJCQlFTkRGT1JFQUNIKCkKCgkJCUlHTklUSU9OX0dFVF9QTFVHSU5fUFJPSkVDVF9ESVIoJHtJR05JVElPTl9URVNUX0lEfSBQTFVHSU5fUFJPSkVDVF9QQVRIKQoJCQlJR05JVElPTl9HRVRfUExVR0lOX0RJUk5BTUUoJHtJR05JVElPTl9URVNUX0lEfSBQTFVHSU5fRElSTkFNRSkKICAgICAgCgkJCUZPUkVBQ0goVEVTVF9SRVNPVVJDRSAke0lHTklUSU9OX1RFU1RfUkVTT1VSQ0VTfSkKCQkJCUlOU1RBTExfVEVTVF9SRVNPVVJDRV9QT1NUX0JVSUxEKFJFU09VUkNFX0RJUkVDVE9SWSAke1BMVUdJTl9QUk9KRUNUX1BBVEh9CgkJCQkJUkVTT1VSQ0UgJHtURVNUX1JFU09VUkNFfQoJCQkJCUlOU1RBTExfU1VCRElSICR7UExVR0lOX0RJUk5BTUV9CgkJCQkJVEFSR0VUX0RFUEVOREVOQ1kgJHtJR05JVElPTl9URVNUX05BTUV9X3VuaXRfdGVzdHMpCgkJCUVOREZPUkVBQ0goKQoKCQkJIyBjcmVhdGUgYSBoaWRkZW4gZmlsZSB3aGljaCBjb250YWlucyB0aGUgbmFtZSBvZiB0aGUgdW5pdCB0ZXN0cyBiaW5hcnkgc28gaXQgY2FuCgkJCSMgYmUgY29waWVkIHRvIHRoZSBwbHVnaW4gdGVzdCBpbnN0YWxsIGRpcmVjdG9yeSBhbmQgdXNlZCB0byBmaWd1cmUgb3V0IHdoaWNoCgkJCSMgdW5pdCB0ZXN0IGJpbmFyeSBzaG91bGQgYmUgcnVuIGZyb20gdGhlcmUKCQkJU0VUKFRFU1RfQklOQVJZX1BMQUNFSE9MREVSX0ZJTEUgIi50ZXN0X2JpbmFyeV9uYW1lIikKCQkJRklMRShXUklURQoJCQkJJHtDTUFLRV9DVVJSRU5UX0JJTkFSWV9ESVJ9LyR7VEVTVF9CSU5BUllfUExBQ0VIT0xERVJfRklMRX0KCQkJCSR7VU5JVF9URVNUU19UQVJHRVRfTkFNRX0pCgkJCUFERF9DVVNUT01fQ09NTUFORChUQVJHRVQgJHtVTklUX1RFU1RTX1RBUkdFVF9OQU1FfQoJCQkJUE9TVF9CVUlMRAoJCQkJQ09NTUFORCAke0NNQUtFX0NPTU1BTkR9IC1FIG1ha2VfZGlyZWN0b3J5ICR7VEVTVFNfSU5TVEFMTF9ESVJFQ1RPUll9LyR7UExVR0lOX0RJUk5BTUV9CgkJCQlDT01NQU5EICR7Q01BS0VfQ09NTUFORH0gLUUgY29weSAke0NNQUtFX0NVUlJFTlRfQklOQVJZX0RJUn0vJHtURVNUX0JJTkFSWV9QTEFDRUhPTERFUl9GSUxFfSAke1RFU1RTX0lOU1RBTExfRElSRUNUT1JZfS8ke1BMVUdJTl9ESVJOQU1FfSkKCgkJRU5ESUYoKQoJRU5ETUFDUk8oSU5TVEFMTF9JR05JVElPTl9QTFVHSU5fQ1hYVEVTVFMpCkVORElGKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQltZXNzYWdlKEZBVEFMX0VSUk9SICIke1RFU1RfVEFSR0VUX1RPX0lOU1RBTEx9IikJI0ZJWE1FCg==</text>
+        <text encoding="base64">SUYgKE5PVCBDT01NQU5EIElOU1RBTExfSUdOSVRJT05fQ1hYVEVTVFMpCglNQUNSTyhJTlNUQUxMX0lHTklUSU9OX0NYWFRFU1RTKQoJCUlGKElHTklUSU9OX1RFU1RfRVhJU1RTKQoJCQlTRVQoVEVTVF9TSU5HTEVfQVJHUyBUQVJHRVRfTkFNRSBJRCkKCQkJU0VUKFRFU1RfTVVMVElfQVJHUyBSRVNPVVJDRVMpCgkJCUNNQUtFX1BBUlNFX0FSR1VNRU5UUyhJR05JVElPTl9URVNUICIiICIke1RFU1RfU0lOR0xFX0FSR1N9IiAiJHtURVNUX01VTFRJX0FSR1N9IiAke0FSR059KQoKCQkJRk9SRUFDSChURVNUX0xJTktfTElCUkFSWSAke0lHTklUSU9OX0FMTF9URVNUX0xJTktfTElCUkFSSUVTfSkKCQkJCUlGKFRBUkdFVCAke1RFU1RfTElOS19MSUJSQVJZfSkKCQkJCQlJTlNUQUxMX1RFU1RfVEFSR0VUX1BPU1RfQlVJTEQoVEFSR0VUX1RPX0lOU1RBTEwgJHtURVNUX0xJTktfTElCUkFSWX0KCQkJCQkJVEFSR0VUX0RFUEVOREVOQ1kgJHtJR05JVElPTl9URVNUX1RBUkdFVF9OQU1FfQoJCQkJCQlJTlNUQUxMX1NVQkRJUiAibGliIikKCQkJCUVORElGKCkKCQkJRU5ERk9SRUFDSCgpCgoJCQlJTlNUQUxMX1RFU1RfVEFSR0VUX1BPU1RfQlVJTEQoVEFSR0VUX1RPX0lOU1RBTEwgJHtJR05JVElPTl9URVNUX1RBUkdFVF9OQU1FfQoJCQkJVEFSR0VUX0RFUEVOREVOQ1kgJHtJR05JVElPTl9URVNUX1RBUkdFVF9OQU1FfQoJCQkJSU5TVEFMTF9TVUJESVIgImJpbiIpCgoJCQlJR05JVElPTl9HRVRfUExVR0lOX1BST0pFQ1RfRElSKCR7SUdOSVRJT05fVEVTVF9JRH0gUExVR0lOX1BST0pFQ1RfUEFUSCkKCQkJSUdOSVRJT05fR0VUX1BMVUdJTl9ESVJOQU1FKCR7SUdOSVRJT05fVEVTVF9JRH0gUExVR0lOX0RJUk5BTUUpCgoJCQlGT1JFQUNIKFRFU1RfUkVTT1VSQ0UgJHtJR05JVElPTl9URVNUX1JFU09VUkNFU30pCgkJCQlJTlNUQUxMX1RFU1RfUkVTT1VSQ0VfUE9TVF9CVUlMRChSRVNPVVJDRV9ESVJFQ1RPUlkgJHtQTFVHSU5fUFJPSkVDVF9QQVRIfQoJCQkJCVJFU09VUkNFICR7VEVTVF9SRVNPVVJDRX0KCQkJCQlJTlNUQUxMX1NVQkRJUiAke1BMVUdJTl9ESVJOQU1FfQoJCQkJCVRBUkdFVF9ERVBFTkRFTkNZICR7SUdOSVRJT05fVEVTVF9UQVJHRVRfTkFNRX0pCgkJCUVOREZPUkVBQ0goKQoKCQkJIyBjcmVhdGUgYSBoaWRkZW4gZmlsZSB3aGljaCBjb250YWlucyB0aGUgbmFtZSBvZiB0aGUgdW5pdCB0ZXN0cyBiaW5hcnkgc28gaXQgY2FuCgkJCSMgYmUgY29waWVkIHRvIHRoZSBwbHVnaW4gdGVzdCBpbnN0YWxsIGRpcmVjdG9yeSBhbmQgdXNlZCB0byBmaWd1cmUgb3V0IHdoaWNoCgkJCSMgdW5pdCB0ZXN0IGJpbmFyeSBzaG91bGQgYmUgcnVuIGZyb20gdGhlcmUKCQkJU0VUKFRFU1RfQklOQVJZX1BMQUNFSE9MREVSX0ZJTEUgIi50ZXN0X2JpbmFyeV9uYW1lIikKCQkJRklMRShXUklURQoJCQkJJHtDTUFLRV9DVVJSRU5UX0JJTkFSWV9ESVJ9LyR7VEVTVF9CSU5BUllfUExBQ0VIT0xERVJfRklMRX0KCQkJCSR7SUdOSVRJT05fVEVTVF9UQVJHRVRfTkFNRX0pCgkJCUFERF9DVVNUT01fQ09NTUFORChUQVJHRVQgJHtJR05JVElPTl9URVNUX1RBUkdFVF9OQU1FfQoJCQkJUE9TVF9CVUlMRAoJCQkJQ09NTUFORCAke0NNQUtFX0NPTU1BTkR9IC1FIG1ha2VfZGlyZWN0b3J5ICR7VEVTVFNfSU5TVEFMTF9ESVJFQ1RPUll9LyR7UExVR0lOX0RJUk5BTUV9CgkJCQlDT01NQU5EICR7Q01BS0VfQ09NTUFORH0gLUUgY29weSAke0NNQUtFX0NVUlJFTlRfQklOQVJZX0RJUn0vJHtURVNUX0JJTkFSWV9QTEFDRUhPTERFUl9GSUxFfSAke1RFU1RTX0lOU1RBTExfRElSRUNUT1JZfS8ke1BMVUdJTl9ESVJOQU1FfSkKCgkJRU5ESUYoKQoJRU5ETUFDUk8oSU5TVEFMTF9JR05JVElPTl9DWFhURVNUUykKRU5ESUYoKQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQltZXNzYWdlKEZBVEFMX0VSUk9SICIke1VOSVRfVEVTVFNfVEFSR0VUX05BTUV9IikJI0ZJWE1FCg==</text>
+        <text encoding="base64">CklGIChOT1QgQ09NTUFORCBJTlNUQUxMX0lHTklUSU9OX1BMVUdJTl9DWFhURVNUUykKCU1BQ1JPKElOU1RBTExfSUdOSVRJT05fUExVR0lOX0NYWFRFU1RTKQoJCUlGKElHTklUSU9OX1RFU1RfRVhJU1RTKQoJCQlTRVQoVEVTVF9TSU5HTEVfQVJHUyBOQU1FIElEKQoJCQlTRVQoVEVTVF9NVUxUSV9BUkdTIFJFU09VUkNFUykKCQkJQ01BS0VfUEFSU0VfQVJHVU1FTlRTKElHTklUSU9OX1RFU1QgIiIgIiR7VEVTVF9TSU5HTEVfQVJHU30iICIke1RFU1RfTVVMVElfQVJHU30iICR7QVJHTn0pCgkJCQoJCQlTRVQoVU5JVF9URVNUU19UQVJHRVRfTkFNRSAke0lHTklUSU9OX1RFU1RfTkFNRX1fdW5pdF90ZXN0cykKICAgICAgCgkJCUZPUkVBQ0goVEVTVF9MSU5LX0xJQlJBUlkgJHtJR05JVElPTl9BTExfVEVTVF9MSU5LX0xJQlJBUklFU30pCgkJCQlJRihUQVJHRVQgJHtURVNUX0xJTktfTElCUkFSWX0pCgkJCQkJSU5TVEFMTF9URVNUX1RBUkdFVF9QT1NUX0JVSUxEKFRBUkdFVF9UT19JTlNUQUxMICR7VEVTVF9MSU5LX0xJQlJBUll9CgkJCQkJCVRBUkdFVF9ERVBFTkRFTkNZICR7VU5JVF9URVNUU19UQVJHRVRfTkFNRX0KCQkJCQkJSU5TVEFMTF9TVUJESVIgImxpYiIpCgkJCQlFTkRJRigpCgkJCUVOREZPUkVBQ0goKQoKCQkJRk9SRUFDSChURVNUX0VYRUNVVEFCTEUgJHtJR05JVElPTl9URVNUX05BTUV9X3VuaXRfdGVzdHMpCgkJCQlJTlNUQUxMX1RFU1RfVEFSR0VUX1BPU1RfQlVJTEQoVEFSR0VUX1RPX0lOU1RBTEwgJHtURVNUX0VYRUNVVEFCTEV9CgkJCQkJVEFSR0VUX0RFUEVOREVOQ1kgJHtVTklUX1RFU1RTX1RBUkdFVF9OQU1FfQoJCQkJCUlOU1RBTExfU1VCRElSICJiaW4iKQoJCQlFTkRGT1JFQUNIKCkKCgkJCUlHTklUSU9OX0dFVF9QTFVHSU5fUFJPSkVDVF9ESVIoJHtJR05JVElPTl9URVNUX0lEfSBQTFVHSU5fUFJPSkVDVF9QQVRIKQoJCQlJR05JVElPTl9HRVRfUExVR0lOX0RJUk5BTUUoJHtJR05JVElPTl9URVNUX0lEfSBQTFVHSU5fRElSTkFNRSkKICAgICAgCgkJCUZPUkVBQ0goVEVTVF9SRVNPVVJDRSAke0lHTklUSU9OX1RFU1RfUkVTT1VSQ0VTfSkKCQkJCUlOU1RBTExfVEVTVF9SRVNPVVJDRV9QT1NUX0JVSUxEKFJFU09VUkNFX0RJUkVDVE9SWSAke1BMVUdJTl9QUk9KRUNUX1BBVEh9CgkJCQkJUkVTT1VSQ0UgJHtURVNUX1JFU09VUkNFfQoJCQkJCUlOU1RBTExfU1VCRElSICR7UExVR0lOX0RJUk5BTUV9CgkJCQkJVEFSR0VUX0RFUEVOREVOQ1kgJHtJR05JVElPTl9URVNUX05BTUV9X3VuaXRfdGVzdHMpCgkJCUVOREZPUkVBQ0goKQoKCQkJIyBjcmVhdGUgYSBoaWRkZW4gZmlsZSB3aGljaCBjb250YWlucyB0aGUgbmFtZSBvZiB0aGUgdW5pdCB0ZXN0cyBiaW5hcnkgc28gaXQgY2FuCgkJCSMgYmUgY29waWVkIHRvIHRoZSBwbHVnaW4gdGVzdCBpbnN0YWxsIGRpcmVjdG9yeSBhbmQgdXNlZCB0byBmaWd1cmUgb3V0IHdoaWNoCgkJCSMgdW5pdCB0ZXN0IGJpbmFyeSBzaG91bGQgYmUgcnVuIGZyb20gdGhlcmUKCQkJU0VUKFRFU1RfQklOQVJZX1BMQUNFSE9MREVSX0ZJTEUgIi50ZXN0X2JpbmFyeV9uYW1lIikKCQkJRklMRShXUklURQoJCQkJJHtDTUFLRV9DVVJSRU5UX0JJTkFSWV9ESVJ9LyR7VEVTVF9CSU5BUllfUExBQ0VIT0xERVJfRklMRX0KCQkJCSR7VU5JVF9URVNUU19UQVJHRVRfTkFNRX0pCgkJCUFERF9DVVNUT01fQ09NTUFORChUQVJHRVQgJHtVTklUX1RFU1RTX1RBUkdFVF9OQU1FfQoJCQkJUE9TVF9CVUlMRAoJCQkJQ09NTUFORCAke0NNQUtFX0NPTU1BTkR9IC1FIG1ha2VfZGlyZWN0b3J5ICR7VEVTVFNfSU5TVEFMTF9ESVJFQ1RPUll9LyR7UExVR0lOX0RJUk5BTUV9CgkJCQlDT01NQU5EICR7Q01BS0VfQ09NTUFORH0gLUUgY29weSAke0NNQUtFX0NVUlJFTlRfQklOQVJZX0RJUn0vJHtURVNUX0JJTkFSWV9QTEFDRUhPTERFUl9GSUxFfSAke1RFU1RTX0lOU1RBTExfRElSRUNUT1JZfS8ke1BMVUdJTl9ESVJOQU1FfSkKCgkJRU5ESUYoKQoJRU5ETUFDUk8oSU5TVEFMTF9JR05JVElPTl9QTFVHSU5fQ1hYVEVTVFMpCkVORElGKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkjbWVzc2FnZShGQVRBTF9FUlJPUiAiJHtURVNUX0lOU1RBTExfU1VCRElSfSIpCSNGSVhNRQo=</text>
+        <text encoding="base64">CQltZXNzYWdlKEZBVEFMX0VSUk9SICIke1RFU1RfVEFSR0VUX1RPX0lOU1RBTEx9IikJI0ZJWE1FCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkjbWVzc2FnZShGQVRBTF9FUlJPUiAiJHtURVNUX0lOU1RBTExfU1VCRElSfSIpCSNGSVhNRQo=</text>
+        <text encoding="base64">CQkJCQltZXNzYWdlKEZBVEFMX0VSUk9SICIke1VOSVRfVEVTVFNfVEFSR0VUX05BTUV9IikJI0ZJWE1FCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQltZXNzYWdlKEZBVEFMX0VSUk9SICIke0lHTklUSU9OX1RFU1RfVEFSR0VUX05BTUV9IikJI0ZJWE1FCg==</text>
+        <text encoding="base64">CQkjbWVzc2FnZShGQVRBTF9FUlJPUiAiJHtURVNUX0lOU1RBTExfU1VCRElSfSIpCSNGSVhNRQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJbWVzc2FnZShGQVRBTF9FUlJPUiAiJHtJR05JVElPTl9URVNUX1RBUkdFVF9OQU1FfSIpCSNGSVhNRQo=</text>
+        <text encoding="base64">CQkjbWVzc2FnZShGQVRBTF9FUlJPUiAiJHtURVNUX0lOU1RBTExfU1VCRElSfSIpCSNGSVhNRQo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">Y29yZTo6ZnVuY3Rpb248ZGVjbHR5cGUoYXZTdG9yYWdlQmFja2VuZENyZWF0ZUNvbnRleHQpPg==</text>
@@ -1347,9 +1350,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxURVNUX0lOU1RBTExfU1VCRElSXD4=</last-search>
+      <last-search encoding="base64">UkVTT1VSQ0VfRElSRUNUT1JZXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxURVNUX0lOU1RBTExfU1VCRElSXD4=</last-pattern>
+      <last-pattern encoding="base64">UkVTT1VSQ0VfRElSRUNUT1JZXD4=</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -1357,8 +1360,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxURVNUX1dPUktJTkdfRElSRUNUT1JZXD4=</entry>
-        <entry encoding="base64">XDxXT1JLSU5HX0RJUkVDVE9SWVw+</entry>
         <entry encoding="base64">V09SS0lOR19ESVJFQ1RPUllcPg==</entry>
         <entry encoding="base64">XDxMSVNUXD4=</entry>
         <entry encoding="base64">TElTVFw+</entry>
@@ -1367,7 +1368,6 @@
         <entry encoding="base64">XDxURVNUX1RBUkdFVF9ERVBFTkRFTkNZXD4=</entry>
         <entry encoding="base64">XDxURVNUX0JJTkFSWV9QTEFDRUhPTERFUl9GSUxFXD4=</entry>
         <entry encoding="base64">XDxQTFVHSU5fRElSTkFNRVw+</entry>
-        <entry encoding="base64">XDxQTFVHSU5fUFJPSkVDVF9QQVRIXD4=</entry>
         <entry encoding="base64">XDxJTlNUQUxMX0lHTklUSU9OX1BMVUdJTl9DWFhURVNUU1w+</entry>
         <entry>common</entry>
         <entry>COMMON</entry>
@@ -1377,6 +1377,9 @@
         <entry encoding="base64">TkFNRVw+</entry>
         <entry encoding="base64">XDxJR05JVElPTl9URVNUX05BTUVcPg==</entry>
         <entry encoding="base64">XDxURVNUX0lOU1RBTExfU1VCRElSXD4=</entry>
+        <entry encoding="base64">XDxQTFVHSU5fUFJPSkVDVF9QQVRIXD4=</entry>
+        <entry encoding="base64">XDxSRVNPVVJDRV9ESVJFQ1RPUllcPg==</entry>
+        <entry encoding="base64">UkVTT1VSQ0VfRElSRUNUT1JZXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
