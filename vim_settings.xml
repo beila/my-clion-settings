@@ -298,12 +298,12 @@
         <mark key="." line="27" column="55" />
         <mark key="^" line="27" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" timestamp="1494516557030">
-        <mark key="'" line="42" column="25" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="42" column="25" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" timestamp="1494518116529">
+        <mark key="'" line="23" column="24" />
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="34" />
+        <mark key="^" line="34" column="34" />
+        <mark key="." line="34" column="34" />
       </file>
       <file name="$USER_HOME$/dev/luajit-2.0/src/lj_lib.c" timestamp="1489582664635">
         <mark key="'" line="230" column="7" />
@@ -346,12 +346,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/tests/CMakeLists.txt" timestamp="1494499436457">
         <mark key="'" line="338" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" timestamp="1494517443319">
-        <mark key="'" line="39" column="26" />
-        <mark key="[" line="38" column="84" />
-        <mark key="]" line="42" column="43" />
-        <mark key="." line="42" column="43" />
-        <mark key="^" line="42" column="43" />
+      <file name="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" timestamp="1494517715856">
+        <mark key="'" line="39" column="37" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="43" column="13" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/src/LibraryLoader.cpp" timestamp="1493385919297">
         <mark key="'" line="33" column="42" />
@@ -539,7 +539,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494515673710">
+      <file name="/Dummy.txt" timestamp="1494517851838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.inspector/internal/include/inspector/channels/log/LogChannelNotifier.h" timestamp="1484671827895">
@@ -1163,7 +1163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="5" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="51" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
       <jump line="273" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
@@ -1172,7 +1171,6 @@
       <jump line="46" column="47" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="56" column="39" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="10" column="47" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
-      <jump line="24" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="36" column="84" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="41" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="52" column="46" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
@@ -1205,15 +1203,11 @@
       <jump line="54" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="8" column="38" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="94" column="56" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
-      <jump line="77" column="44" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="118" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
-      <jump line="28" column="64" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="32" column="70" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
-      <jump line="29" column="60" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="90" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="112" column="165" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
-      <jump line="34" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="47" column="88" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="48" column="138" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="59" column="63" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
@@ -1241,7 +1235,6 @@
       <jump line="38" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="93" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="57" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
-      <jump line="23" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="98" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="106" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
@@ -1250,9 +1243,7 @@
       <jump line="49" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="37" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="50" column="66" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
@@ -1262,14 +1253,23 @@
       <jump line="49" column="78" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/config/boost.cmake" />
       <jump line="54" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/config/boost.cmake" />
       <jump line="42" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
-      <jump line="39" column="26" filename="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" />
+      <jump line="39" column="37" filename="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" />
+      <jump line="27" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
+      <jump line="75" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
+      <jump line="24" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
+      <jump line="28" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
+      <jump line="29" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
+      <jump line="34" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
+      <jump line="77" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
+      <jump line="13" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
+      <jump line="23" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQltZXNzYWdlKFNUQVRVUyAiSU5TVEFMTF9JR05JVElPTl9DWFhURVNUUygke0FSR059KSIpCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1303,16 +1303,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>LIBRARY</text>
+        <text>FATAL_ERROR</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCT09TVF9UQVJHRVRfTElCUkFSWVw+</text>
+        <text encoding="base64">XDxJTlNUQUxMX0lHTklUSU9OX0NYWFRFU1RTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlBRERfQ1VTVE9NX1RBUkdFVChidWlsZF9ib29zdCBERVBFTkRTICR7Qk9PU1RfVEFSR0VUX0xJQlJBUll9KQo=</text>
+        <text encoding="base64">CQltZXNzYWdlKFNUQVRVUyAiSU5TVEFMTF9JR05JVElPTl9DWFhURVNUUygke0FSR059KSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQltZXNzYWdlKEZBVEFMX0VSUk9SICIke0FSR059IikJI0ZJWE1FCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1323,31 +1323,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlBRERfREVQRU5ERU5DSUVTKCR7Qk9PU1RfVEFSR0VUX05BTUV9IGJ1aWxkX2Jvb3N0KQo=</text>
+        <text encoding="base64">CW1lc3NhZ2UoRkFUQUxfRVJST1IgIklOU1RBTExfSUdOSVRJT05fSU1QT1JURURfQ1hYVEVTVFMoCgkJVEFSR0VUX05BTUUgaWduaXRpb24tZGV2aWNlLWxheWVyLXRlc3QKCQlQUk9KRUNUX1BBVEggJHtDTUFLRV9DVVJSRU5UX1NPVVJDRV9ESVJ9CgkJSU5TVEFMTF9TVUJESVIgaWduaXRpb24tZGV2aWNlLWxheWVyCgkpIikJI0ZJWE1FCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJbWVzc2FnZShTVEFUVVMgIklOU1RBTExfVEVTVF9UQVJHRVRfUE9TVF9CVUlMRChUQVJHRVRfVE9fSU5TVEFMTCAke0lHTklUSU9OX1RFU1RfVEFSR0VUX05BTUV9CgkJCQlUQVJHRVRfREVQRU5ERU5DWSAke0lHTklUSU9OX1RFU1RfVEFSR0VUX05BTUV9CgkJCQlJTlNUQUxMX1NVQkRJUiAiKQkjRklYTUUKCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQltZXNzYWdlKFNUQVRVUyAiQUREX0NVU1RPTV9UQVJHRVQoYnVpbGRfYm9vc3QgREVQRU5EUyAke0JPT1NUX1RBUkdFVF9MSUJSQVJZfSkiKQkjRklYTUUK</text>
+        <text encoding="base64">CQlBRERfREVQRU5ERU5DSUVTKCR7Qk9PU1RfVEFSR0VUX05BTUV9IGJ1aWxkX2Jvb3N0KQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQltZXNzYWdlKFNUQVRVUyAiQUREX0RFUEVOREVOQ0lFUyhidWlsZF9ib29zdCAke0JPT1NUX1RBUkdFVF9OQU1FfSkiKQkjRklYTUUK</text>
+        <text encoding="base64">CQkJbWVzc2FnZShTVEFUVVMgIklOU1RBTExfVEVTVF9UQVJHRVRfUE9TVF9CVUlMRChUQVJHRVRfVE9fSU5TVEFMTCAke0lHTklUSU9OX1RFU1RfVEFSR0VUX05BTUV9CgkJCQlUQVJHRVRfREVQRU5ERU5DWSAke0lHTklUSU9OX1RFU1RfVEFSR0VUX05BTUV9CgkJCQlJTlNUQUxMX1NVQkRJUiAiKQkjRklYTUUKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IwkJQUREX0RFUEVOREVOQ0lFUygke0JPT1NUX1RBUkdFVF9OQU1FfSBidWlsZF9ib29zdCkK</text>
+        <text encoding="base64">CQltZXNzYWdlKFNUQVRVUyAiQUREX0NVU1RPTV9UQVJHRVQoYnVpbGRfYm9vc3QgREVQRU5EUyAke0JPT1NUX1RBUkdFVF9MSUJSQVJZfSkiKQkjRklYTUUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUlGIChOT1QgVEFSR0VUIGJ1aWxkX2Jvb3N0KQoJCUFERF9DVVNUT01fVEFSR0VUKGJ1aWxkX2Jvb3N0IERFUEVORFMgJHtCT09TVF9UQVJHRVRfTElCUkFSWX0pCglFTFNFKCkKCQlBRERfREVQRU5ERU5DSUVTKGJ1aWxkX2Jvb3N0ICR7Qk9PU1RfVEFSR0VUX0xJQlJBUll9KQoJRU5ESUYoKQoK</text>
+        <text encoding="base64">CQltZXNzYWdlKFNUQVRVUyAiQUREX0RFUEVOREVOQ0lFUyhidWlsZF9ib29zdCAke0JPT1NUX1RBUkdFVF9OQU1FfSkiKQkjRklYTUUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUlGIChOT1QgVEFSR0VUIGJ1aWxkX2Jvb3N0KQoJCUFERF9DVVNUT01fVEFSR0VUKGJ1aWxkX2Jvb3N0IERFUEVORFMgJHtCT09TVF9UQVJHRVRfTElCUkFSWX0pCglFTFNFKCkKCQlBRERfREVQRU5ERU5DSUVTKGJ1aWxkX2Jvb3N0ICR7Qk9PU1RfVEFSR0VUX0xJQlJBUll9KQoJRU5ESUYoKQoK</text>
+        <text encoding="base64">IwkJQUREX0RFUEVOREVOQ0lFUygke0JPT1NUX1RBUkdFVF9OQU1FfSBidWlsZF9ib29zdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlFTkRJRigpCg==</text>
+        <text encoding="base64">CUlGIChOT1QgVEFSR0VUIGJ1aWxkX2Jvb3N0KQoJCUFERF9DVVNUT01fVEFSR0VUKGJ1aWxkX2Jvb3N0IERFUEVORFMgJHtCT09TVF9UQVJHRVRfTElCUkFSWX0pCglFTFNFKCkKCQlBRERfREVQRU5ERU5DSUVTKGJ1aWxkX2Jvb3N0ICR7Qk9PU1RfVEFSR0VUX0xJQlJBUll9KQoJRU5ESUYoKQoK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">Y29yZTo6ZnVuY3Rpb248ZGVjbHR5cGUoYXZTdG9yYWdlQmFja2VuZENyZWF0ZUNvbnRleHQpPg==</text>
@@ -1357,9 +1357,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCT09TVF9UQVJHRVRfTElCUkFSWVw+</last-search>
+      <last-search encoding="base64">XDxJTlNUQUxMX0lHTklUSU9OX0NYWFRFU1RTXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCT09TVF9UQVJHRVRfTElCUkFSWVw+</last-pattern>
+      <last-pattern encoding="base64">XDxJTlNUQUxMX0lHTklUSU9OX0NYWFRFU1RTXD4=</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -1367,7 +1367,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOQU1FXD4=</entry>
         <entry encoding="base64">TkFNRVw+</entry>
         <entry encoding="base64">XDxJR05JVElPTl9URVNUX05BTUVcPg==</entry>
         <entry encoding="base64">XDxURVNUX0lOU1RBTExfU1VCRElSXD4=</entry>
@@ -1387,6 +1386,7 @@
         <entry encoding="base64">VEFSR0VUX05BTUVcPg==</entry>
         <entry encoding="base64">XDxDT01NQU5EXD4=</entry>
         <entry encoding="base64">XDxCT09TVF9UQVJHRVRfTElCUkFSWVw+</entry>
+        <entry encoding="base64">XDxJTlNUQUxMX0lHTklUSU9OX0NYWFRFU1RTXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
