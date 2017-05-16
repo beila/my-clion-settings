@@ -1194,12 +1194,12 @@
         <mark key="." line="291" column="57" />
         <mark key="^" line="291" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1494607952473">
-        <mark key="'" line="313" column="31" />
-        <mark key="[" line="345" column="0" />
-        <mark key="]" line="345" column="0" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1494925053176">
+        <mark key="'" line="16" column="18" />
+        <mark key="[" line="337" column="4" />
+        <mark key="]" line="337" column="4" />
         <mark key="^" line="346" column="36" />
-        <mark key="." line="345" column="0" />
+        <mark key="." line="337" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/PluginRendererConfig.cmake" timestamp="1494604468802">
         <mark key="'" line="31" column="8" />
@@ -1217,12 +1217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
-      <jump line="250" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
-      <jump line="302" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
-      <jump line="331" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
-      <jump line="1164" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
-      <jump line="337" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
       <jump line="30" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/display/GLES2DisplayContext.cpp" />
       <jump line="342" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
       <jump line="311" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RenderStateManager.cpp" />
@@ -1317,13 +1311,19 @@
       <jump line="367" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
       <jump line="313" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
       <jump line="290" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/renderer/SceneGraphRenderer.cpp" />
+      <jump line="337" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="338" column="42" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="570" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="689" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="1191" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="16" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWZydWl0KQo=</text>
+      <register name="&quot;" type="4">
+        <text>D</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1357,10 +1357,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>renderer::</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfb25QbHVnaW5JbnNwZWN0b3JMb2FkZWRcPg==</text>
+        <text encoding="base64">XDxEaXNwbGF5Q29udGV4dFw+</text>
       </register>
       <register name="0" type="4">
         <text>renderObjectFactory</text>
@@ -1411,9 +1411,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfb25QbHVnaW5JbnNwZWN0b3JMb2FkZWRcPg==</last-search>
+      <last-search encoding="base64">XDxEaXNwbGF5Q29udGV4dFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfb25QbHVnaW5JbnNwZWN0b3JMb2FkZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxEaXNwbGF5Q29udGV4dFw+</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -1421,7 +1421,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcmNcPg==</entry>
         <entry encoding="base64">XDxMb2dcPg==</entry>
         <entry encoding="base64">XDxfaW5pdENvbmRpdGlvblw+</entry>
         <entry encoding="base64">XDx3YWl0Rm9ySW5pdGlhbGl6YXRpb25Ub0NvbXBsZXRlXD4=</entry>
@@ -1441,6 +1440,7 @@
         <entry encoding="base64">XDxSZW5kZXJTdGF0ZU1hbmFnZXJcPg==</entry>
         <entry encoding="base64">XDxfcmVuZGVyU3RhdGVNYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxfb25QbHVnaW5JbnNwZWN0b3JMb2FkZWRcPg==</entry>
+        <entry encoding="base64">XDxEaXNwbGF5Q29udGV4dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
