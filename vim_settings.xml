@@ -114,6 +114,9 @@
         <mark key="." line="52" column="6" />
         <mark key="^" line="52" column="6" />
       </file>
+      <file name="$USER_HOME$/local/depo/src/depo/commands/CheckoutCommand.py" timestamp="1494950545096">
+        <mark key="'" line="156" column="51" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CommonApiTest.cpp" timestamp="1492694481696">
         <mark key="'" line="25" column="31" />
         <mark key="[" line="26" column="25" />
@@ -151,6 +154,9 @@
         <mark key="]" line="61" column="55" />
         <mark key="." line="61" column="55" />
         <mark key="^" line="61" column="55" />
+      </file>
+      <file name="$USER_HOME$/local/depo/src/depo.py" timestamp="1494950515264">
+        <mark key="'" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/tests/ignition/texttospeech/engine/DeviceTextToSpeechEngineTest.cpp" timestamp="1493726720298">
         <mark key="'" line="391" column="15" />
@@ -387,12 +393,12 @@
         <mark key="^" line="361" column="33" />
         <mark key="." line="361" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" timestamp="1494948589651">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" timestamp="1494949157563">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="43" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="18" column="17" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/assets/launch" timestamp="1494407539106">
         <mark key="'" line="9" column="0" />
@@ -555,7 +561,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494948239179">
+      <file name="/Dummy.txt" timestamp="1494950547676">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -790,11 +796,6 @@
         <mark key="]" line="45" column="9" />
         <mark key="^" line="45" column="8" />
         <mark key="." line="45" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/properties/DevicePropertiesProvider.h" timestamp="1494926483017">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/include/cache/ICache.h" timestamp="1494001306551">
         <mark key="'" line="15" column="38" />
@@ -1224,9 +1225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="3" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/PluginRendererConfig.cmake" />
-      <jump line="31" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/PluginRendererConfig.cmake" />
-      <jump line="6" column="3" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/PluginRendererConfig.cmake" />
       <jump line="19" column="68" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/PluginRendererConfig.cmake" />
       <jump line="32" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/PluginRendererConfig.cmake" />
       <jump line="361" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/CMakeLists.txt" />
@@ -1324,6 +1322,9 @@
       <jump line="43" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CMakeLists.txt" />
       <jump line="5" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/config/devicelayer.cmake" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
+      <jump line="16" column="18" filename="$USER_HOME$/local/depo/src/depo.py" />
+      <jump line="75" column="74" filename="$USER_HOME$/local/depo/src/depo/commands/CheckoutCommand.py" />
+      <jump line="156" column="51" filename="$USER_HOME$/local/depo/src/depo/commands/CheckoutCommand.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1367,7 +1368,7 @@
         <text encoding="base64">IEFORCBOT1QgRE9fTk9UX0FVVE9SVU5fREVWSUNFX0xBWUVSX1RFU1Q=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxET19OT1RfQVVUT1JVTl9ERVZJQ0VfTEFZRVJfVEVTVFw+</text>
+        <text encoding="base64">XDxpZ25vcmVEZXBlbmRlbmN5Q2xhc2hlc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURFTkFCTEVfUkVOREVSRVJfQVBJX1RFTEVNRVRSWT1OTyIK</text>
@@ -1418,9 +1419,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxET19OT1RfQVVUT1JVTl9ERVZJQ0VfTEFZRVJfVEVTVFw+</last-search>
+      <last-search encoding="base64">XDxpZ25vcmVEZXBlbmRlbmN5Q2xhc2hlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxET19OT1RfQVVUT1JVTl9ERVZJQ0VfTEFZRVJfVEVTVFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpZ25vcmVEZXBlbmRlbmN5Q2xhc2hlc1w+</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -1428,7 +1429,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYm91bmRGcmFtZUJ1ZmZlck9iamVjdFw+</entry>
         <entry encoding="base64">XDxfc2NvcGVkRkJPXD4=</entry>
         <entry encoding="base64">XDxQTFVHSU5SRU5ERVJFUl9MSUJSQVJJRVNcPg==</entry>
         <entry encoding="base64">XDxQTFVHSU5SRU5ERVJFUl9TSEFSRURfTElCUkFSWV9OQU1FXD4=</entry>
@@ -1448,6 +1448,7 @@
         <entry encoding="base64">XDxIQVNfSU1QTEVNRU5UQVRJT05fRk9SX0RFVklDRV9MQVlFUlw+</entry>
         <entry encoding="base64">XDxfZGlzcGxheVNldHVwRnVuY1w+</entry>
         <entry encoding="base64">XDxET19OT1RfQVVUT1JVTl9ERVZJQ0VfTEFZRVJfVEVTVFw+</entry>
+        <entry encoding="base64">XDxpZ25vcmVEZXBlbmRlbmN5Q2xhc2hlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
