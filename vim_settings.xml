@@ -556,7 +556,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494605066492">
+      <file name="/Dummy.txt" timestamp="1494926043095">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -620,6 +620,9 @@
         <mark key="]" line="121" column="59" />
         <mark key="." line="121" column="59" />
         <mark key="^" line="121" column="59" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/cmakescripts/build/luajit.cmake" timestamp="1494439494767">
+        <mark key="'" line="109" column="43" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" timestamp="1494603412671">
         <mark key="'" line="38" column="15" />
@@ -789,6 +792,12 @@
         <mark key="]" line="45" column="9" />
         <mark key="^" line="45" column="8" />
         <mark key="." line="45" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/properties/DevicePropertiesProvider.h" timestamp="1494926228959">
+        <mark key="[" line="15" column="52" />
+        <mark key="]" line="16" column="50" />
+        <mark key="^" line="16" column="50" />
+        <mark key="." line="16" column="50" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/include/cache/ICache.h" timestamp="1494001306551">
         <mark key="'" line="15" column="38" />
@@ -975,6 +984,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" timestamp="1494416948677">
         <mark key="'" line="105" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/PluginDeviceInfo.cpp" timestamp="1494926086359">
+        <mark key="'" line="121" column="68" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/CMakeLists.txt" timestamp="1494597605010">
         <mark key="'" line="81" column="17" />
       </file>
@@ -1123,6 +1135,9 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DevicePropertiesDelegateProvider.cpp" timestamp="1494926370247">
+        <mark key="'" line="15" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/DeviceSecureStorageBackend.cpp" timestamp="1493743370751">
         <mark key="'" line="59" column="17" />
       </file>
@@ -1217,13 +1232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/display/GLES2DisplayContext.cpp" />
-      <jump line="342" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
-      <jump line="311" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RenderStateManager.cpp" />
-      <jump line="318" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RenderStateManager.cpp" />
-      <jump line="293" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RenderStateManager.cpp" />
-      <jump line="848" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RenderStateManager.cpp" />
-      <jump line="317" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RenderStateManager.cpp" />
       <jump line="306" column="86" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RenderStateManager.cpp" />
       <jump line="308" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RenderStateManager.cpp" />
       <jump line="310" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RenderStateManager.cpp" />
@@ -1317,6 +1325,13 @@
       <jump line="689" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
       <jump line="1191" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
       <jump line="16" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="132" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DevicePropertiesDelegate.cpp" />
+      <jump line="10" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/PluginDeviceInfo.cpp" />
+      <jump line="85" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/PluginDeviceInfo.cpp" />
+      <jump line="48" column="51" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/PluginDeviceInfo.cpp" />
+      <jump line="108" column="38" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/PluginDeviceInfo.cpp" />
+      <jump line="121" column="68" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/PluginDeviceInfo.cpp" />
+      <jump line="15" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DevicePropertiesDelegateProvider.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1360,7 +1375,7 @@
         <text>D</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEaXNwbGF5Q29udGV4dFw+</text>
+        <text encoding="base64">XDxnZXREZXZpY2VQcm9wZXJ0aWVzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>renderObjectFactory</text>
@@ -1411,9 +1426,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEaXNwbGF5Q29udGV4dFw+</last-search>
+      <last-search encoding="base64">XDxnZXREZXZpY2VQcm9wZXJ0aWVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEaXNwbGF5Q29udGV4dFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXREZXZpY2VQcm9wZXJ0aWVzXD4=</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -1421,8 +1436,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2dcPg==</entry>
-        <entry encoding="base64">XDxfaW5pdENvbmRpdGlvblw+</entry>
         <entry encoding="base64">XDx3YWl0Rm9ySW5pdGlhbGl6YXRpb25Ub0NvbXBsZXRlXD4=</entry>
         <entry encoding="base64">XDxfaW5pdGlhbGl6ZVBsdWdpblw+</entry>
         <entry encoding="base64">XDxfdGlja1RocmVhZFw+</entry>
@@ -1441,6 +1454,8 @@
         <entry encoding="base64">XDxfcmVuZGVyU3RhdGVNYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxfb25QbHVnaW5JbnNwZWN0b3JMb2FkZWRcPg==</entry>
         <entry encoding="base64">XDxEaXNwbGF5Q29udGV4dFw+</entry>
+        <entry encoding="base64">XDxEZXZpY2VQcm9wZXJ0aWVzRGVsZWdhdGVcPg==</entry>
+        <entry encoding="base64">XDxnZXREZXZpY2VQcm9wZXJ0aWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
