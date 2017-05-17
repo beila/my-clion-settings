@@ -41,11 +41,12 @@
         <mark key="^" line="496" column="13" />
         <mark key="." line="496" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/add-device-layer-interface.cmake" timestamp="1494948237683">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/add-device-layer-interface.cmake" timestamp="1495023742643">
         <mark key="'" line="15" column="79" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="82" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="16" column="81" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" timestamp="1493389623810">
         <mark key="'" line="0" column="0" />
@@ -893,14 +894,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/src/cache/cacheable/CacheableBuffer.cpp" timestamp="1493896695260">
         <mark key="'" line="183" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" timestamp="1494943905809">
-        <mark key="'" line="12" column="34" />
-        <mark key="g" line="136" column="63" />
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="11" column="48" />
-        <mark key="^" line="136" column="112" />
-        <mark key="." line="11" column="36" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/LibraryProxy.cpp" timestamp="1490895425502">
         <mark key="'" line="22" column="14" />
         <mark key="[" line="26" column="12" />
@@ -988,7 +981,7 @@
         <mark key="." line="2" column="56" />
         <mark key="^" line="1" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/CMakeLists.txt" timestamp="1495022907009">
+      <file name="$USER_HOME$/dev/ig/tools/CMakeLists.txt" timestamp="1495023388518">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="58" column="29" />
         <mark key="]" line="58" column="30" />
@@ -1374,8 +1367,8 @@
       <register name="a" type="2">
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Turn on USE_DEVICE_LAYER temporarily</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJbWVzc2FnZShTVEFUVVMgIkNPTkZJR1VSRV9GSUxFKCR7RklMRX0gJHtERVNUX0ZJTEV9IENPUFlPTkxZIikJI0ZJWE1FCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1415,7 +1408,7 @@
         <text encoding="base64">XDxfYnVpbGRlck1hcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUREX0VYRUNVVEFCTEUoaWduaXRpb24tZGV2aWNlLWxheWVyLXRlc3QgJHtJR05JVElPTl9ERVZJQ0VfTEFZRVJfVEVTVF9TT1VSQ0VTfSkK</text>
+        <text encoding="base64">CQkJbWVzc2FnZShTVEFUVVMgIkNPTkZJR1VSRV9GSUxFKCR7RklMRX0gJHtERVNUX0ZJTEV9IENPUFlPTkxZIikJI0ZJWE1FCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBEbyBub3QgcnVuIGlnbml0aW9uLWRldmljZS1sYXllci10ZXN0IHNpbmNlIGxpbnV4IGJ1aWxkIG5vZGUgZG9lc24ndCBoYXZlIGdyYXBoaWNzIHBhY2thZ2VzCg==</text>
