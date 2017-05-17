@@ -748,12 +748,12 @@
         <mark key="." line="32" column="73" />
         <mark key="^" line="32" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CMakeLists.txt" timestamp="1494948575443">
-        <mark key="'" line="43" column="8" />
-        <mark key="[" line="37" column="6" />
-        <mark key="]" line="37" column="6" />
-        <mark key="." line="37" column="6" />
-        <mark key="^" line="37" column="6" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CMakeLists.txt" timestamp="1495021514486">
+        <mark key="'" line="44" column="8" />
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="13" />
+        <mark key="." line="32" column="13" />
+        <mark key="^" line="32" column="13" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" timestamp="1493896819981">
         <mark key="'" line="139" column="27" />
@@ -1380,8 +1380,8 @@
       <register name="a" type="2">
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBEbyBub3QgcnVuIGlnbml0aW9uLWRldmljZS1sYXllci10ZXN0IHNpbmNlIGxpbnV4IGJ1aWxkIG5vZGUgZG9lc24ndCBoYXZlIGdyYXBoaWNzIHBhY2thZ2VzCg==</text>
+      <register name="&quot;" type="4">
+        <text>FATAL_ERROR</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1415,13 +1415,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DO_NOT_AUTORUN_DEVICE_LAYER_TEST</text>
+        <text>FATAL_ERROR</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYnVpbGRlck1hcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURFTkFCTEVfUkVOREVSRVJfQVBJX1RFTEVNRVRSWT1OTyIK</text>
+        <text encoding="base64">QUREX0VYRUNVVEFCTEUoaWduaXRpb24tZGV2aWNlLWxheWVyLXRlc3QgJHtJR05JVElPTl9ERVZJQ0VfTEFZRVJfVEVTVF9TT1VSQ0VTfSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBEbyBub3QgcnVuIGlnbml0aW9uLWRldmljZS1sYXllci10ZXN0IHNpbmNlIGxpbnV4IGJ1aWxkIG5vZGUgZG9lc24ndCBoYXZlIGdyYXBoaWNzIHBhY2thZ2VzCg==</text>
