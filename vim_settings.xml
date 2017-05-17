@@ -574,11 +574,9 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495028680414">
+      <file name="/Dummy.txt" timestamp="1495029728989">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.inspector/internal/include/inspector/channels/log/LogChannelNotifier.h" timestamp="1484671827895">
         <mark key="'" line="28" column="18" />
@@ -745,13 +743,6 @@
         <mark key="]" line="32" column="73" />
         <mark key="." line="32" column="73" />
         <mark key="^" line="32" column="73" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CMakeLists.txt" timestamp="1495028937015">
-        <mark key="'" line="32" column="18" />
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="13" />
-        <mark key="." line="32" column="13" />
-        <mark key="^" line="32" column="13" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" timestamp="1493896819981">
         <mark key="'" line="139" column="27" />
@@ -1094,12 +1085,12 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="16" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" timestamp="1494256895298">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" timestamp="1495030033601">
         <mark key="'" line="80" column="33" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="20" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="8" column="0" />
+        <mark key="[" line="131" column="132" />
+        <mark key="]" line="131" column="141" />
+        <mark key="." line="131" column="141" />
+        <mark key="^" line="131" column="141" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/SqliteStorageBackend.cpp" timestamp="1488984298563">
         <mark key="'" line="208" column="52" />
@@ -1368,7 +1359,7 @@
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton</text>
+        <text>&quot;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1402,13 +1393,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUk9KRUNUU1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CmVjaG8gY29tLmFtYXpvbi5pZ25pdGlvbi5mcmFtZXdvcmsuZGV2aWNlbGF5ZXJsb2FkZXIvZGV2aWNlLWxheWVyLXNrZWxldG9uL3Rlc3RzL3Rlc3RfZmlsZXMudHh0CmNhdCBjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay5kZXZpY2VsYXllcmxvYWRlci9kZXZpY2UtbGF5ZXItc2tlbGV0b24vdGVzdHMvdGVzdF9maWxlcy50eHQgfHwgdHJ1ZQoKZWNobyBjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay5kZXZpY2VsYXllcmxvYWRlci9kZXZpY2UtbGF5ZXItc2tlbGV0b24vaW5jbHVkZV9maWxlcy50eHQKY2F0IGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmRldmljZWxheWVybG9hZGVyL2RldmljZS1sYXllci1za2VsZXRvbi9pbmNsdWRlX2ZpbGVzLnR4dCB8fCB0cnVlCg==</text>
+        <text encoding="base64">CUZJTEUoV1JJVEUgJHtJR05JVElPTl9ERVZJQ0VfTEFZRVJfUk9PVF9ESVJ9L3Rlc3RzL3Rlc3RfZmlsZXMudHh0ICIke0RFVklDRUxBWUVSTE9BREVSX0NPTExFQ1RFRF9GSUxFU19SRUxBVElWRX0iKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZWNobyAiSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSSIK</text>
