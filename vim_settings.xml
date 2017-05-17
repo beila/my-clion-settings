@@ -225,9 +225,6 @@
         <mark key="^" line="22" column="6" />
         <mark key="." line="22" column="6" />
       </file>
-      <file name="/GDB" timestamp="1494936047293">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avInput.cpp" timestamp="1494943917161">
         <mark key="'" line="14" column="4" />
         <mark key="[" line="14" column="38" />
@@ -576,7 +573,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495020023251">
+      <file name="/Dummy.txt" timestamp="1495022193168">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -991,8 +988,8 @@
         <mark key="." line="2" column="56" />
         <mark key="^" line="1" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/CMakeLists.txt" timestamp="1492795411976">
-        <mark key="'" line="29" column="10" />
+      <file name="$USER_HOME$/dev/ig/tools/CMakeLists.txt" timestamp="1495022907009">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="58" column="29" />
         <mark key="]" line="58" column="30" />
         <mark key="." line="58" column="30" />
@@ -1256,9 +1253,6 @@
         <mark key="." line="291" column="57" />
         <mark key="^" line="291" column="57" />
       </file>
-      <file name="/fragment.mm" timestamp="1494601467909">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/PluginRendererConfig.cmake" timestamp="1494604468802">
         <mark key="'" line="31" column="8" />
         <mark key="[" line="31" column="56" />
@@ -1275,7 +1269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/api/RendererObjectFactory.cpp" />
       <jump line="262" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/api/RendererObjectFactory.cpp" />
       <jump line="319" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/api/RendererObjectFactory.cpp" />
       <jump line="290" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/api/RendererObjectFactory.cpp" />
@@ -1375,13 +1368,14 @@
       <jump line="20" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
       <jump line="44" column="47" filename="$USER_HOME$/dev/ig/tools/configs/linux.dev.config" />
       <jump line="38" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/manifest" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/tools/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>FATAL_ERROR</text>
+        <text>Turn on USE_DEVICE_LAYER temporarily</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1415,7 +1409,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FATAL_ERROR</text>
+        <text>Turn on USE_DEVICE_LAYER temporarily</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYnVpbGRlck1hcFw+</text>
