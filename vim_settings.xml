@@ -574,7 +574,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495025885979">
+      <file name="/Dummy.txt" timestamp="1495026019642">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -981,12 +981,12 @@
         <mark key="." line="2" column="56" />
         <mark key="^" line="1" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/CMakeLists.txt" timestamp="1495023388518">
+      <file name="$USER_HOME$/dev/ig/tools/CMakeLists.txt" timestamp="1495026097224">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="29" />
-        <mark key="]" line="58" column="30" />
-        <mark key="." line="58" column="30" />
-        <mark key="^" line="58" column="30" />
+        <mark key="[" line="62" column="16" />
+        <mark key="]" line="62" column="20" />
+        <mark key="." line="62" column="20" />
+        <mark key="^" line="62" column="20" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/README.md" timestamp="1494256869465">
         <mark key="'" line="54" column="24" />
@@ -1367,8 +1367,8 @@
       <register name="a" type="2">
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CW1lc3NhZ2UoU1RBVFVTICJBRERfREVWSUNFX0xBWUVSX0lOVEVSRkFDRSAke0FSR059IikJI0ZJWE1FCg==</text>
+      <register name="&quot;" type="4">
+        <text>BEFORE</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1402,13 +1402,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CONFIGURE_FILE(${FILE} ${DEST_FILE} COPYONLY</text>
+        <text>BEFORE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYnVpbGRlck1hcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJbWVzc2FnZShTVEFUVVMgIkNPTkZJR1VSRV9GSUxFKCR7RklMRX0gJHtERVNUX0ZJTEV9IENPUFlPTkxZIikJI0ZJWE1FCg==</text>
+        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIkJFRk9SRTogJHtQUk9KRUNUX0xJU1R9IikJI0ZJWE1FCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CW1lc3NhZ2UoU1RBVFVTICJBRERfREVWSUNFX0xBWUVSX0lOVEVSRkFDRSAke0FSR059IikJI0ZJWE1FCg==</text>
