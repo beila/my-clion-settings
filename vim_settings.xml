@@ -205,11 +205,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/utils/TaggedBuffer.h" timestamp="1493896572772">
         <mark key="'" line="61" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/manifest" timestamp="1495020018794">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/manifest" timestamp="1495028663919">
         <mark key="'" line="38" column="43" />
-        <mark key="[" line="17" column="55" />
-        <mark key="]" line="17" column="57" />
-        <mark key="." line="17" column="57" />
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="17" column="56" />
         <mark key="^" line="17" column="56" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/SecureStorageBackend.h" timestamp="1490011713219">
@@ -574,7 +574,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495026099452">
+      <file name="/Dummy.txt" timestamp="1495028666325">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -769,12 +769,12 @@
         <mark key="]" line="13" column="51" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/configs/linux.dev.config" timestamp="1495025811641">
+      <file name="$USER_HOME$/dev/ig/tools/configs/linux.dev.config" timestamp="1495028629979">
         <mark key="'" line="44" column="47" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="47" />
+        <mark key="[" line="47" column="49" />
+        <mark key="]" line="47" column="51" />
+        <mark key="." line="47" column="51" />
+        <mark key="^" line="47" column="51" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/CMakeLists.txt" timestamp="1494497684381">
         <mark key="'" line="12" column="0" />
@@ -1367,8 +1367,8 @@
       <register name="a" type="2">
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJbWVzc2FnZShTVEFUVVMgIkNPTkZJR1VSRV9GSUxFKCR7RklMRX0gJHtERVNUX0ZJTEV9IENPUFlPTkxZIikJI0ZJWE1FCg==</text>
+      <register name="&quot;" type="4">
+        <text>com.amazon.ignition.framework.core@0.22.9</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1402,7 +1402,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>INC</text>
+        <text>com.amazon.ignition.framework.core@0.22.9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxERVNUX0ZJTEVfUkVMQVRJVkVcPg==</text>
