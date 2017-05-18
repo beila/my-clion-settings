@@ -782,10 +782,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/tools/configs/linux.dev.config" timestamp="1495028629979">
         <mark key="'" line="44" column="47" />
-        <mark key="[" line="47" column="49" />
-        <mark key="]" line="47" column="51" />
-        <mark key="." line="47" column="51" />
-        <mark key="^" line="47" column="51" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/CMakeLists.txt" timestamp="1494497684381">
         <mark key="'" line="12" column="0" />
@@ -1012,6 +1008,9 @@
         <mark key="]" line="18" column="29" />
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/tools/generate_plugin.sh" timestamp="1495128940748">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/.gitignore" timestamp="1493314366804">
         <mark key="'" line="10" column="0" />
@@ -1266,7 +1265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="34" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avTextToSpeech.cpp" />
       <jump line="11" column="47" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avSecureStorageBackend.cpp" />
       <jump line="14" column="4" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avInput.cpp" />
       <jump line="13" column="40" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
@@ -1366,6 +1364,7 @@
       <jump line="268" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
       <jump line="100" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/tools/generate_plugin.sh" />
     </jumps>
     <registers>
       <register name="a" type="2">
