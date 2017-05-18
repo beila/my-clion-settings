@@ -205,12 +205,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/utils/TaggedBuffer.h" timestamp="1493896572772">
         <mark key="'" line="61" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/manifest" timestamp="1495126196465">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/manifest" timestamp="1495126343471">
         <mark key="'" line="38" column="43" />
-        <mark key="[" line="17" column="70" />
-        <mark key="]" line="17" column="71" />
-        <mark key="." line="17" column="71" />
-        <mark key="^" line="17" column="71" />
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="51" />
+        <mark key="." line="17" column="51" />
+        <mark key="^" line="17" column="51" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/SecureStorageBackend.h" timestamp="1490011713219">
         <mark key="'" line="15" column="18" />
@@ -588,7 +588,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495125057171">
+      <file name="/Dummy.txt" timestamp="1495126222510">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="3" />
       </file>
@@ -1372,7 +1372,7 @@
         <text encoding="base64">CWF1dG8gbGliTG9hZGVyID0gY29yZTo6bWVtb3J5OjpVbmlxdWVQdHI8TGlicmFyeUxvYWRlcj4gewoJCQluZXcgTGlicmFyeUxvYWRlciB7IiJ9fTsKCVBsdWdpbkRldmljZUxheWVyTG9hZGVyKiBkZXZpY2VsYXllcmxvYWRlciA9IG5ldyBQbHVnaW5EZXZpY2VMYXllckxvYWRlciB7CgkJCWNvcmU6Om1lbW9yeTo6bW92ZShsaWJMb2FkZXIpfTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>com.amazon.ignition.framework.core@0.22.8</text>
+        <text>com.amazon.ignition.framework.core@0.22.8-1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CWF1dG8gZGV2aWNlbGF5ZXJsb2FkZXIgPSBjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlcigpOwo=</text>
@@ -1406,7 +1406,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>com.amazon.ignition.framework.core@0.22.8</text>
+        <text>com.amazon.ignition.framework.core@0.22.8-1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdkRpc3BsYXlFdmVudENhbGxiYWNrXD4=</text>
