@@ -54,8 +54,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/tests/ffi/LuaFFILibWrapperTest.cpp" timestamp="1493402549290">
         <mark key="'" line="49" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" timestamp="1495201283282">
-        <mark key="'" line="52" column="8" />
+      <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" timestamp="1495201580315">
+        <mark key="'" line="111" column="20" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/platform-oem/amazon/tests/CMakeLists.txt" timestamp="1490700243709">
         <mark key="'" line="43" column="45" />
@@ -229,8 +229,8 @@
         <mark key="^" line="22" column="6" />
         <mark key="." line="22" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" timestamp="1495201101306">
-        <mark key="'" line="31" column="43" />
+      <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" timestamp="1495201490578">
+        <mark key="'" line="39" column="22" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avInput.cpp" timestamp="1494943917161">
         <mark key="'" line="14" column="4" />
@@ -365,6 +365,9 @@
         <mark key="]" line="127" column="0" />
         <mark key="^" line="127" column="0" />
         <mark key="." line="127" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/FileSystemCleaner.py" timestamp="1495201610283">
+        <mark key="'" line="50" column="17" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/extensions/CommandLineArgsExtension.cpp" timestamp="1494321323849">
         <mark key="'" line="40" column="68" />
@@ -1001,6 +1004,9 @@
         <mark key="." line="62" column="20" />
         <mark key="^" line="62" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition/filesystem/cleaner/ArgumentParser.py" timestamp="1495201457105">
+        <mark key="'" line="28" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/README.md" timestamp="1494256869465">
         <mark key="'" line="54" column="24" />
         <mark key="[" line="43" column="45" />
@@ -1271,29 +1277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
-      <jump line="0" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/config/devicelayer.cmake" />
-      <jump line="156" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/DisplayTests.cpp" />
-      <jump line="68" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/DisplayTests.cpp" />
-      <jump line="56" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/DisplayTests.cpp" />
-      <jump line="80" column="13" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
-      <jump line="79" column="16" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
-      <jump line="62" column="17" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
-      <jump line="46" column="1" filename="$USER_HOME$/dev/ig/tools/configs/linux.dev.config" />
-      <jump line="47" column="68" filename="$USER_HOME$/dev/ig/tools/configs/linux.dev.config" />
-      <jump line="37" column="51" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CMakeLists.txt" />
-      <jump line="1" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/config/devicelayer.cmake" />
-      <jump line="15" column="79" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/add-device-layer-interface.cmake" />
-      <jump line="43" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CMakeLists.txt" />
-      <jump line="5" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/config/devicelayer.cmake" />
-      <jump line="16" column="18" filename="$USER_HOME$/local/depo/src/depo.py" />
-      <jump line="75" column="74" filename="$USER_HOME$/local/depo/src/depo/commands/CheckoutCommand.py" />
-      <jump line="156" column="51" filename="$USER_HOME$/local/depo/src/depo/commands/CheckoutCommand.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="63" column="16" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="109" column="19" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="110" column="77" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="137" column="40" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
       <jump line="98" column="42" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
       <jump line="116" column="42" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
@@ -1367,10 +1350,33 @@
       <jump line="100" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/tools/generate_plugin.sh" />
-      <jump line="31" column="43" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" />
       <jump line="59" column="24" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
       <jump line="35" column="8" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
       <jump line="52" column="8" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="31" column="40" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" />
+      <jump line="38" column="12" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" />
+      <jump line="28" column="7" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition/filesystem/cleaner/ArgumentParser.py" />
+      <jump line="39" column="22" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" />
+      <jump line="18" column="8" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/Cleaner.py" />
+      <jump line="145" column="75" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="149" column="71" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="67" column="33" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="74" column="44" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="120" column="8" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="9" column="4" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="152" column="8" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="133" column="37" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="121" column="20" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="118" column="12" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="116" column="24" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="111" column="20" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="55" column="73" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/FileSystemCleaner.py" />
+      <jump line="32" column="13" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/FileSystemCleaner.py" />
+      <jump line="40" column="13" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/FileSystemCleaner.py" />
+      <jump line="41" column="17" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/FileSystemCleaner.py" />
+      <jump line="49" column="13" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/FileSystemCleaner.py" />
+      <jump line="50" column="17" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/FileSystemCleaner.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1414,7 +1420,7 @@
         <text>com.amazon.ignition.framework.core@0.22.8-1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcGVyZm9ybVNhbml0eUNoZWNrXD4=</text>
+        <text encoding="base64">XDxfZGVsZXRlZEl0ZW1zU2V0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUVORElGKCkK</text>
@@ -1465,9 +1471,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcGVyZm9ybVNhbml0eUNoZWNrXD4=</last-search>
+      <last-search encoding="base64">XDxfZGVsZXRlZEl0ZW1zU2V0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcGVyZm9ybVNhbml0eUNoZWNrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfZGVsZXRlZEl0ZW1zU2V0XD4=</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -1475,10 +1481,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">TkFNRVw+</entry>
-        <entry encoding="base64">XDxERVZJQ0VfTEFZRVJfRElTUExBWV9DT05URVhUX0lOVkFMSURcPg==</entry>
-        <entry encoding="base64">XDxIQVNfSU1QTEVNRU5UQVRJT05fRk9SX0RFVklDRV9MQVlFUlw+</entry>
-        <entry encoding="base64">XDxfZGlzcGxheVNldHVwRnVuY1w+</entry>
         <entry encoding="base64">XDxET19OT1RfQVVUT1JVTl9ERVZJQ0VfTEFZRVJfVEVTVFw+</entry>
         <entry encoding="base64">XDxpZ25vcmVEZXBlbmRlbmN5Q2xhc2hlc1w+</entry>
         <entry>version</entry>
@@ -1495,6 +1497,10 @@
         <entry encoding="base64">XDxhdkRpc3BsYXlFdmVudENhbGxiYWNrXD4=</entry>
         <entry encoding="base64">XDxfZm91bmRQYXR0ZXJuTWF0Y2hcPg==</entry>
         <entry encoding="base64">XDxfcGVyZm9ybVNhbml0eUNoZWNrXD4=</entry>
+        <entry encoding="base64">XDxjbGVhbl9wbGF0Zm9ybV9yZWxvY2F0ZVw+</entry>
+        <entry encoding="base64">XDxleGNsdWRlZFNhbml0eUl0ZW1zU2V0XD4=</entry>
+        <entry encoding="base64">XDxzYW5pdHlJdGVtc1NldFw+</entry>
+        <entry encoding="base64">XDxfZGVsZXRlZEl0ZW1zU2V0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
