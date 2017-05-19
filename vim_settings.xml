@@ -54,6 +54,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/tests/ffi/LuaFFILibWrapperTest.cpp" timestamp="1493402549290">
         <mark key="'" line="49" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" timestamp="1495201283282">
+        <mark key="'" line="52" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/platform-oem/amazon/tests/CMakeLists.txt" timestamp="1490700243709">
         <mark key="'" line="43" column="45" />
         <mark key="[" line="48" column="53" />
@@ -225,6 +228,9 @@
         <mark key="]" line="22" column="6" />
         <mark key="^" line="22" column="6" />
         <mark key="." line="22" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" timestamp="1495201101306">
+        <mark key="'" line="31" column="43" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avInput.cpp" timestamp="1494943917161">
         <mark key="'" line="14" column="4" />
@@ -588,7 +594,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495128989293">
+      <file name="/Dummy.txt" timestamp="1495201244092">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="3" />
       </file>
@@ -1265,10 +1271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="47" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avSecureStorageBackend.cpp" />
-      <jump line="14" column="4" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avInput.cpp" />
-      <jump line="13" column="40" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
-      <jump line="13" column="50" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avCommon.cpp" />
       <jump line="13" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
       <jump line="0" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/config/devicelayer.cmake" />
       <jump line="156" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/DisplayTests.cpp" />
@@ -1365,6 +1367,10 @@
       <jump line="100" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/tools/generate_plugin.sh" />
+      <jump line="31" column="43" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" />
+      <jump line="59" column="24" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="35" column="8" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
+      <jump line="52" column="8" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1408,7 +1414,7 @@
         <text>com.amazon.ignition.framework.core@0.22.8-1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdkRpc3BsYXlFdmVudENhbGxiYWNrXD4=</text>
+        <text encoding="base64">XDxfcGVyZm9ybVNhbml0eUNoZWNrXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUVORElGKCkK</text>
@@ -1459,9 +1465,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdkRpc3BsYXlFdmVudENhbGxiYWNrXD4=</last-search>
+      <last-search encoding="base64">XDxfcGVyZm9ybVNhbml0eUNoZWNrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdkRpc3BsYXlFdmVudENhbGxiYWNrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfcGVyZm9ybVNhbml0eUNoZWNrXD4=</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -1469,8 +1475,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfTE9DQVRJT05cPg==</entry>
-        <entry encoding="base64">XDxOQU1FXD4=</entry>
         <entry encoding="base64">TkFNRVw+</entry>
         <entry encoding="base64">XDxERVZJQ0VfTEFZRVJfRElTUExBWV9DT05URVhUX0lOVkFMSURcPg==</entry>
         <entry encoding="base64">XDxIQVNfSU1QTEVNRU5UQVRJT05fRk9SX0RFVklDRV9MQVlFUlw+</entry>
@@ -1489,6 +1493,8 @@
         <entry encoding="base64">XDxQUk9KRUNUU1w+</entry>
         <entry encoding="base64">XDxBdkRpc3BsYXlDb250ZXh0VGVzdFw+</entry>
         <entry encoding="base64">XDxhdkRpc3BsYXlFdmVudENhbGxiYWNrXD4=</entry>
+        <entry encoding="base64">XDxfZm91bmRQYXR0ZXJuTWF0Y2hcPg==</entry>
+        <entry encoding="base64">XDxfcGVyZm9ybVNhbml0eUNoZWNrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
