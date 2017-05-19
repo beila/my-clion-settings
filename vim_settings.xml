@@ -118,8 +118,8 @@
         <mark key="." line="52" column="6" />
         <mark key="^" line="52" column="6" />
       </file>
-      <file name="$USER_HOME$/local/depo/src/depo/commands/CheckoutCommand.py" timestamp="1494950545096">
-        <mark key="'" line="165" column="51" />
+      <file name="$USER_HOME$/local/depo/src/depo/commands/CheckoutCommand.py" timestamp="1495207639144">
+        <mark key="'" line="54" column="26" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CommonApiTest.cpp" timestamp="1492694481696">
         <mark key="'" line="25" column="31" />
@@ -597,7 +597,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495201244092">
+      <file name="/Dummy.txt" timestamp="1495207641272">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="3" />
       </file>
@@ -1267,8 +1267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="40" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
-      <jump line="98" column="42" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
       <jump line="116" column="42" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
       <jump line="140" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
       <jump line="60" column="59" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/PluginPath.h" />
@@ -1367,6 +1365,8 @@
       <jump line="41" column="17" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/FileSystemCleaner.py" />
       <jump line="49" column="13" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/FileSystemCleaner.py" />
       <jump line="50" column="17" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/FileSystemCleaner.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/local/depo/src/depo/commands/CheckoutCommand.py" />
+      <jump line="54" column="26" filename="$USER_HOME$/local/depo/src/depo/commands/CheckoutCommand.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
