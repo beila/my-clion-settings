@@ -90,6 +90,9 @@
       <file name="$USER_HOME$/local/depo/src/depo/dependencies/OverridesParser.py" timestamp="1495212547243">
         <mark key="'" line="123" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/IgnitionHostMessage.cpp" timestamp="1495458173336">
+        <mark key="'" line="61" column="65" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_input_defs.h" timestamp="1493982621819">
         <mark key="'" line="0" column="0" />
       </file>
@@ -105,12 +108,15 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/include/fruit/impl/util/hash_helpers.h" timestamp="1494596531672">
         <mark key="'" line="26" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495211886717">
+      <file name="/Dummy.txt" timestamp="1495453019907">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" timestamp="1493751692346">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" timestamp="1495453088637">
+        <mark key="'" line="104" column="17" />
       </file>
       <file name="$USER_HOME$/local/depo/src/depo/dependencies/Revision.py" timestamp="1495208819203">
         <mark key="'" line="41" column="39" />
@@ -126,12 +132,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/tests/CMakeLists.txt" timestamp="1493748473755">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CMakeLists.txt" timestamp="1495188503260">
-        <mark key="[" line="41" column="43" />
-        <mark key="]" line="41" column="53" />
-        <mark key="." line="41" column="53" />
-        <mark key="^" line="41" column="53" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" timestamp="1493896819981">
         <mark key="'" line="139" column="27" />
@@ -234,12 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="8" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
-      <jump line="31" column="40" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" />
-      <jump line="38" column="12" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" />
-      <jump line="28" column="7" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition/filesystem/cleaner/ArgumentParser.py" />
-      <jump line="39" column="22" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" />
-      <jump line="18" column="8" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/Cleaner.py" />
       <jump line="145" column="75" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
       <jump line="149" column="71" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
       <jump line="67" column="33" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
@@ -334,6 +328,12 @@
       <jump line="110" column="21" filename="$USER_HOME$/local/depo/src/depo/dependencies/DependencyResolver.py" />
       <jump line="160" column="44" filename="$USER_HOME$/local/depo/src/depo/dependencies/DependencyResolver.py" />
       <jump line="181" column="8" filename="$USER_HOME$/local/depo/src/depo/git/GitRepo.py" />
+      <jump line="90" column="14" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="107" column="23" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="104" column="17" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="101" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/IgnitionHostMessage.cpp" />
+      <jump line="61" column="65" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/IgnitionHostMessage.cpp" />
+      <jump line="17" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/IgnitionHostMessage.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -377,7 +377,7 @@
         <text>com.amazon.ignition.framework.core@0.22.8-1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2hlY2tPdXREZXBlbmRlbmN5XD4=</text>
+        <text encoding="base64">XDxfbG93TWVtb3J5Q2FsbGJhY2tcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUVORElGKCkK</text>
@@ -428,9 +428,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2hlY2tPdXREZXBlbmRlbmN5XD4=</last-search>
+      <last-search encoding="base64">XDxfbG93TWVtb3J5Q2FsbGJhY2tcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2hlY2tPdXREZXBlbmRlbmN5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfbG93TWVtb3J5Q2FsbGJhY2tcPg==</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -438,7 +438,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxERVZJQ0VfSU5URVJGQUNFX0NPTExFQ1RFRF9JTkNfRklMRVNcPg==</entry>
         <entry encoding="base64">XDxERVNUX0ZJTEVfUkVMQVRJVkVcPg==</entry>
         <entry encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfVEVTVF9TT1VSQ0VTXD4=</entry>
         <entry>cd</entry>
@@ -458,6 +457,7 @@
         <entry encoding="base64">XDxfY3VycmVudEdpdFJlZlw+</entry>
         <entry encoding="base64">XDxfY2xvbmVcPg==</entry>
         <entry encoding="base64">XDxfY2hlY2tPdXREZXBlbmRlbmN5XD4=</entry>
+        <entry encoding="base64">XDxfbG93TWVtb3J5Q2FsbGJhY2tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
