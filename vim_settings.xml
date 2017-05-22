@@ -66,6 +66,10 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SecureStorageBackendContext.cpp" timestamp="1493982730931">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/mtk-ignition/com.amazon.ignition.framework.display/internal/platform/mtk/cmakescripts/config.cmake" timestamp="1495460019605" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/cmakescripts/build/platformcontext.cmake" timestamp="1495460067621">
+        <mark key="'" line="5" column="77" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/IBindable.h" timestamp="1494001314887">
         <mark key="'" line="36" column="18" />
       </file>
@@ -108,13 +112,14 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/include/fruit/impl/util/hash_helpers.h" timestamp="1494596531672">
         <mark key="'" line="26" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495453019907">
+      <file name="/Dummy.txt" timestamp="1495460353440">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" timestamp="1493751692346">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/rpi/cmakescripts/build.cmake" timestamp="1495460712133" />
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" timestamp="1495453088637">
         <mark key="'" line="104" column="17" />
       </file>
@@ -232,14 +237,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDummyDeviceLayerLoader.cpp" timestamp="1493718092022">
         <mark key="'" line="32" column="95" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/rpi/cmakescripts/config.cmake" timestamp="1495460688237" />
     </filemarks>
     <jumps>
-      <jump line="145" column="75" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
-      <jump line="149" column="71" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
-      <jump line="67" column="33" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
-      <jump line="74" column="44" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
-      <jump line="120" column="8" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
       <jump line="9" column="4" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
       <jump line="152" column="8" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
       <jump line="133" column="37" filename="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" />
@@ -334,6 +334,12 @@
       <jump line="101" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/IgnitionHostMessage.cpp" />
       <jump line="61" column="65" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/IgnitionHostMessage.cpp" />
       <jump line="17" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/IgnitionHostMessage.h" />
+      <jump line="21" column="3" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/cmakescripts/build/platformcontext.cmake" />
+      <jump line="34" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/cmakescripts/build/platformcontext.cmake" />
+      <jump line="44" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/cmakescripts/build/platformcontext.cmake" />
+      <jump line="54" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/cmakescripts/build/platformcontext.cmake" />
+      <jump line="4" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/cmakescripts/build/platformcontext.cmake" />
+      <jump line="5" column="77" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/cmakescripts/build/platformcontext.cmake" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -377,7 +383,7 @@
         <text>com.amazon.ignition.framework.core@0.22.8-1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbG93TWVtb3J5Q2FsbGJhY2tcPg==</text>
+        <text encoding="base64">XDxQTFVHSU5ESVNQTEFZX1BMQVRGT1JNX0NPTlRFWFRfVFlQRVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUVORElGKCkK</text>
@@ -428,9 +434,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbG93TWVtb3J5Q2FsbGJhY2tcPg==</last-search>
+      <last-search encoding="base64">XDxQTFVHSU5ESVNQTEFZX1BMQVRGT1JNX0NPTlRFWFRfVFlQRVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbG93TWVtb3J5Q2FsbGJhY2tcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxQTFVHSU5ESVNQTEFZX1BMQVRGT1JNX0NPTlRFWFRfVFlQRVw+</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -438,7 +444,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxERVNUX0ZJTEVfUkVMQVRJVkVcPg==</entry>
         <entry encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfVEVTVF9TT1VSQ0VTXD4=</entry>
         <entry>cd</entry>
         <entry encoding="base64">XDxjZFw+</entry>
@@ -458,6 +463,7 @@
         <entry encoding="base64">XDxfY2xvbmVcPg==</entry>
         <entry encoding="base64">XDxfY2hlY2tPdXREZXBlbmRlbmN5XD4=</entry>
         <entry encoding="base64">XDxfbG93TWVtb3J5Q2FsbGJhY2tcPg==</entry>
+        <entry encoding="base64">XDxQTFVHSU5ESVNQTEFZX1BMQVRGT1JNX0NPTlRFWFRfVFlQRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
