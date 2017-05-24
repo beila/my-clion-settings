@@ -603,6 +603,12 @@
         <mark key="^" line="44" column="41" />
         <mark key="." line="44" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/tests/InputTests.cpp" timestamp="1495630822075">
+        <mark key="'" line="99" column="7" />
+        <mark key="[" line="94" column="7" />
+        <mark key="]" line="94" column="7" />
+        <mark key="." line="94" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/renderer/TelemetryRenderer.h" timestamp="1485258325720">
         <mark key="'" line="63" column="14" />
         <mark key="[" line="65" column="14" />
@@ -1075,7 +1081,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/.gitignore" timestamp="1495626258475">
-        <mark key="'" line="11" column="0" />
+        <mark key="'" line="10" column="0" />
         <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="32" />
         <mark key="^" line="5" column="32" />
@@ -1216,9 +1222,6 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" timestamp="1495125026756">
         <mark key="'" line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_display.h" timestamp="1495626135121">
-        <mark key="'" line="103" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/PluginRenderer.h" timestamp="1494602464221">
         <mark key="'" line="153" column="9" />
         <mark key="[" line="206" column="36" />
@@ -1351,11 +1354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="67" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="235" column="4" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="234" column="10" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="232" column="38" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="192" column="124" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="246" column="10" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="247" column="4" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="248" column="76" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
@@ -1451,13 +1449,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_common.h" />
       <jump line="1935" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/Doxyfile" />
       <jump line="739" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/Doxyfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/tests/InputTests.cpp" />
+      <jump line="18" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/tests/InputTests.cpp" />
+      <jump line="66" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/tests/InputTests.cpp" />
+      <jump line="74" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/tests/InputTests.cpp" />
+      <jump line="99" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/tests/InputTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>interface/</text>
+        <text>AvDevice</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1491,10 +1494,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>interface/</text>
+        <text>AvDevice</text>
       </register>
       <register name="/" type="4">
-        <text>INPUT</text>
+        <text encoding="base64">XDxBdkRldmljZUlucHV0VGVzdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8hIEBicmllZiBBIHN0cnVjdHVyZSBmb3IgaG9sZGluZyBjYWxsYmFja3MgYW5kIHVzZXJEYXRhIHRvIGJlIHJlZ2lzdGVyZWQgdG8gYXZJbnB1dENyZWF0ZUNvbnRleHQoKQovLyEgQHNhIEF2RGlzcGxheUV2ZW50Cg==</text>
@@ -1545,9 +1548,9 @@
       </register>
     </registers>
     <search>
-      <last-search>INPUT</last-search>
+      <last-search encoding="base64">XDxBdkRldmljZUlucHV0VGVzdFw+</last-search>
       <last-offset />
-      <last-pattern>INPUT</last-pattern>
+      <last-pattern encoding="base64">XDxBdkRldmljZUlucHV0VGVzdFw+</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -1555,7 +1558,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY3VycmVudEdpdFJlZlw+</entry>
         <entry encoding="base64">XDxfY2xvbmVcPg==</entry>
         <entry encoding="base64">XDxfY2hlY2tPdXREZXBlbmRlbmN5XD4=</entry>
         <entry encoding="base64">XDxfbG93TWVtb3J5Q2FsbGJhY2tcPg==</entry>
@@ -1575,6 +1577,7 @@
         <entry>member</entry>
         <entry>test</entry>
         <entry>INPUT</entry>
+        <entry encoding="base64">XDxBdkRldmljZUlucHV0VGVzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
