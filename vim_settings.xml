@@ -543,6 +543,9 @@
         <mark key="^" line="71" column="42" />
         <mark key="." line="71" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/ig/devicelinux/tests/InputTests.cpp" timestamp="1495634468955">
+        <mark key="'" line="94" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" timestamp="1495125038204">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="277" column="7" />
@@ -643,7 +646,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495625163112">
+      <file name="/Dummy.txt" timestamp="1495634525489">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -811,12 +814,6 @@
         <mark key="]" line="318" column="25" />
         <mark key="^" line="318" column="25" />
         <mark key="." line="318" column="25" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_input.h" timestamp="1495627912748">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="." line="53" column="99" />
-        <mark key="^" line="53" column="99" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/include/report/listeners/LogListener.h" timestamp="1481642674213">
         <mark key="'" line="32" column="73" />
@@ -1305,8 +1302,8 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="56" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_common.h" timestamp="1495626138657">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_common.h" timestamp="1495634464235">
+        <mark key="'" line="85" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.views.logic/scripts/lua/properties/iterator/internal/DynamicSpacingIterator.lua" timestamp="1490359783899">
         <mark key="'" line="17" column="23" />
@@ -1354,9 +1351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="10" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="247" column="4" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="248" column="76" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="135" column="31" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="194" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
@@ -1454,6 +1448,9 @@
       <jump line="66" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/tests/InputTests.cpp" />
       <jump line="74" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/tests/InputTests.cpp" />
       <jump line="99" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/tests/InputTests.cpp" />
+      <jump line="73" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/InputTests.cpp" />
+      <jump line="85" column="0" filename="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_common.h" />
+      <jump line="94" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/InputTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
