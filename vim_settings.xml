@@ -229,8 +229,8 @@
         <mark key="^" line="22" column="6" />
         <mark key="." line="22" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" timestamp="1495733689077">
-        <mark key="'" line="44" column="8" />
+      <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" timestamp="1495790886142">
+        <mark key="'" line="248" column="0" />
       </file>
       <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" timestamp="1495201490578">
         <mark key="'" line="39" column="22" />
@@ -661,7 +661,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495733728493">
+      <file name="/Dummy.txt" timestamp="1495795447799">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1388,8 +1388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1572" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/Doxyfile" />
-      <jump line="1548" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/Doxyfile" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_text_to_speech.h" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_secure_storage_backend.h" />
@@ -1488,6 +1486,8 @@
       <jump line="42" column="19" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
       <jump line="43" column="15" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
       <jump line="44" column="8" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
+      <jump line="252" column="23" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
+      <jump line="248" column="0" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1531,7 +1531,7 @@
         <text>AvDevice</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdHR5RmRcPg==</text>
+        <text encoding="base64">XDxyZWdpc3RlckhhbmRsZXJzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8hIEBicmllZiBBIHN0cnVjdHVyZSBmb3IgaG9sZGluZyBjYWxsYmFja3MgYW5kIHVzZXJEYXRhIHRvIGJlIHJlZ2lzdGVyZWQgdG8gYXZJbnB1dENyZWF0ZUNvbnRleHQoKQovLyEgQHNhIEF2RGlzcGxheUV2ZW50Cg==</text>
@@ -1582,9 +1582,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfdHR5RmRcPg==</last-search>
+      <last-search encoding="base64">XDxyZWdpc3RlckhhbmRsZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdHR5RmRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZWdpc3RlckhhbmRsZXJzXD4=</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -1592,7 +1592,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBdkRldmljZUlucHV0VGVzdFw+</entry>
         <entry encoding="base64">XDxkZXZlbG9wbWVudF9icmFuY2hlc1w+</entry>
         <entry encoding="base64">XDxzdHJpcFBsdWdpbnNcPg==</entry>
         <entry encoding="base64">XDxtZXJnZVBsdWdpbnNcPg==</entry>
@@ -1612,6 +1611,7 @@
         <entry encoding="base64">XDx1bml0VGVzdE1haW5cPg==</entry>
         <entry encoding="base64">XDxMR01FRElBX0xTX0Nvbm5lY3RMdW5hQnVzXD4=</entry>
         <entry encoding="base64">XDxfdHR5RmRcPg==</entry>
+        <entry encoding="base64">XDxyZWdpc3RlckhhbmRsZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
