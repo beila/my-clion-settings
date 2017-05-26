@@ -411,8 +411,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/tests/CMakeLists.txt" timestamp="1494499436457">
         <mark key="'" line="338" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" timestamp="1495626091825">
+      <file name="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" timestamp="1495816631825">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="4" />
+        <mark key="." line="44" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/src/LibraryLoader.cpp" timestamp="1493385919297">
         <mark key="'" line="33" column="42" />
@@ -844,10 +847,10 @@
         <mark key="." line="32" column="73" />
         <mark key="^" line="32" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CMakeLists.txt" timestamp="1495188503260">
-        <mark key="[" line="41" column="43" />
-        <mark key="]" line="41" column="53" />
-        <mark key="." line="41" column="53" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CMakeLists.txt" timestamp="1495816598513">
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="4" />
+        <mark key="." line="44" column="4" />
         <mark key="^" line="41" column="53" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" timestamp="1493896819981">
@@ -1391,7 +1394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="7" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
       <jump line="280" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
       <jump line="251" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
       <jump line="139" column="8" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
@@ -1491,13 +1493,14 @@
       <jump line="72" column="35" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.network/internal/platform/lg/src/PlatformUtils.cpp" />
       <jump line="112" column="49" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
       <jump line="155" column="12" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IExTUmVnaXN0ZXJQYWxtU2VydmljZQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1531,7 +1534,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AvDevice</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnX2lzX2Nvbm5lY3RlZFw+</text>
