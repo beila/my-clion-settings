@@ -411,10 +411,10 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/tests/CMakeLists.txt" timestamp="1494499436457">
         <mark key="'" line="338" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" timestamp="1495816631825">
+      <file name="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" timestamp="1495816653760">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="44" column="4" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="6" />
         <mark key="." line="44" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/src/LibraryLoader.cpp" timestamp="1493385919297">
@@ -664,7 +664,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495799394480">
+      <file name="/Dummy.txt" timestamp="1495816636950">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1499,8 +1499,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWxzZSgpCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1540,7 +1540,7 @@
         <text encoding="base64">XDxnX2lzX2Nvbm5lY3RlZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8hIEBicmllZiBBIHN0cnVjdHVyZSBmb3IgaG9sZGluZyBjYWxsYmFja3MgYW5kIHVzZXJEYXRhIHRvIGJlIHJlZ2lzdGVyZWQgdG8gYXZJbnB1dENyZWF0ZUNvbnRleHQoKQovLyEgQHNhIEF2RGlzcGxheUV2ZW50Cg==</text>
+        <text encoding="base64">ZWxzZSgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CmVjaG8gIkdlbmVyYXRpbmcgdWJlci1wcm9qZWN0OiBSRUxFQVNFICRQTEFURk9STSIKY2QgJEJBU0VfRElSCm1rZGlyIC1wICRQTEFURk9STS9yZWxlYXNlCmNkICRQTEFURk9STS9yZWxlYXNlCmNtYWtlIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICRUT09MQ0hBSU5fT1BUSU9OIC1EQlVJTERfUExBVEZPUk09JFBMQVRGT1JNICRCQVNIX1NDUklQVF9ESVIgJENNQUtFX09QVElPTlMKCmVjaG8gIkdlbmVyYXRpbmcgdWJlci1wcm9qZWN0OiBSRUxFQVNFIFdJVEggREVCVUcgSU5GTyAkUExBVEZPUk0iCmNkICRCQVNFX0RJUgpta2RpciAtcCAkUExBVEZPUk0vcmVsd2l0aGRlYmluZm8KY2QgJFBMQVRGT1JNL3JlbHdpdGhkZWJpbmZvCmNtYWtlIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxXaXRoRGViSW5mbyAkVE9PTENIQUlOX09QVElPTiAtREJVSUxEX1BMQVRGT1JNPSRQTEFURk9STSAkQkFTSF9TQ1JJUFRfRElSICRDTUFLRV9PUFRJT05TCgppZiAkZ2VuZXJhdGVfZWNsaXBzZV9wcm9qZWN0OyB0aGVuCgoJQkFTRV9ESVJfQ09NUExJQU5UPSR7QkFTRV9ESVIvL1wvL1xcXC99CgljYXQgJEJBU0hfU0NSSVBUX0RJUi9lY2xpcHNlL2Nwcm9qZWN0X3RlbXBsYXRlIHwgc2VkICJzL0NNQUtFX0dFTkVSQVRPUl9JTlNUQUxMX0RJUkVDVE9SWS8kQkFTRV9ESVJfQ09NUExJQU5ULyIgPiAkQkFTRV9ESVIvLmNwcm9qZWN0CgljcCAkQkFTSF9TQ1JJUFRfRElSL2VjbGlwc2UvcHJvamVjdF90ZW1wbGF0ZSAkQkFTRV9ESVIvLnByb2plY3QKCXJlZF9jb2xvdXI9J1xlWzA7MzFtJwoJbm9fY29sb3VyPSdcZVswbScKCWVjaG8gIioiCgllY2hvIC1lICIqICR7cmVkX2NvbG91cn0gR2VuZXJhdGVkIEVjbGlwc2UgcHJvamVjdCBmaWxlcyBpbnRvICRCQVNFX0RJUi4gSW1wb3J0IHRoaXMgZGlyZWN0b3J5IGFzIGFuIGV4aXN0aW5nIHByb2plY3QuICR7bm9fY29sb3VyfSIKCWVjaG8gIioiCgpmaQo=</text>
