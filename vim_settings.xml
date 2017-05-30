@@ -238,9 +238,6 @@
       <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" timestamp="1495201490578">
         <mark key="'" line="39" column="22" />
       </file>
-      <file name="/GDB" timestamp="1495641160652">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avInput.cpp" timestamp="1494943917161">
         <mark key="'" line="14" column="4" />
         <mark key="[" line="14" column="38" />
@@ -672,7 +669,7 @@
         <mark key="]" line="32" column="5" />
         <mark key="." line="32" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496160802433">
+      <file name="/Dummy.txt" timestamp="1496163511343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1386,6 +1383,10 @@
         <mark key="." line="291" column="57" />
         <mark key="^" line="291" column="57" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/internal/platform/linux/cmakescripts/config.cmake" timestamp="1496163284336">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="39" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/PluginRendererConfig.cmake" timestamp="1494604468802">
         <mark key="'" line="31" column="8" />
         <mark key="[" line="31" column="56" />
@@ -1513,8 +1514,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U0VUKFBMVUdJTklOUFVUX0hBU19DVVNUT01fREVMRUdBVEVTIE5PKQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
