@@ -229,6 +229,9 @@
         <mark key="^" line="22" column="6" />
         <mark key="." line="22" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" timestamp="1496160603322">
+        <mark key="'" line="358" column="39" />
+      </file>
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" timestamp="1495790886142">
         <mark key="'" line="248" column="0" />
       </file>
@@ -664,7 +667,12 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495816636950">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/PlatformContext.h" timestamp="1496160883238">
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="32" column="5" />
+        <mark key="." line="32" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1496160802433">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -846,6 +854,9 @@
         <mark key="]" line="32" column="73" />
         <mark key="." line="32" column="73" />
         <mark key="^" line="32" column="73" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.display/internal/platform/lg/src/sdl/LGPlatformContext.cpp" timestamp="1496160450345">
+        <mark key="'" line="23" column="22" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CMakeLists.txt" timestamp="1495816598513">
         <mark key="[" line="44" column="4" />
@@ -1056,8 +1067,8 @@
         <mark key="^" line="24" column="38" />
         <mark key="." line="24" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/display/GLES2DisplayContext.cpp" timestamp="1494602676517">
-        <mark key="'" line="30" column="26" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/display/GLES2DisplayContext.cpp" timestamp="1496160751674">
+        <mark key="'" line="30" column="30" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" timestamp="1485794926532">
         <mark key="'" line="330" column="0" />
@@ -1214,6 +1225,9 @@
         <mark key="]" line="16" column="15" />
         <mark key="." line="11" column="17" />
         <mark key="^" line="16" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" timestamp="1496160497114">
+        <mark key="'" line="110" column="27" />
       </file>
       <file name="$USER_HOME$/local/depo/src/depo/versioning/IgnitionVersioningStrategy.py" timestamp="1495208794282">
         <mark key="'" line="12" column="37" />
@@ -1394,17 +1408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
-      <jump line="139" column="8" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
-      <jump line="104" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
-      <jump line="260" column="7" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
-      <jump line="261" column="21" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
-      <jump line="153" column="23" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
-      <jump line="232" column="62" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
-      <jump line="566" column="0" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
-      <jump line="446" column="53" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
-      <jump line="458" column="52" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
-      <jump line="469" column="53" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
       <jump line="478" column="52" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
       <jump line="484" column="53" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
       <jump line="576" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
@@ -1494,13 +1497,24 @@
       <jump line="155" column="12" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/LGMediaLSCall.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" />
       <jump line="347" column="50" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
+      <jump line="23" column="22" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.display/internal/platform/lg/src/sdl/LGPlatformContext.cpp" />
+      <jump line="110" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" />
+      <jump line="604" column="5" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
+      <jump line="221" column="55" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
+      <jump line="223" column="53" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
+      <jump line="350" column="13" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
+      <jump line="351" column="32" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
+      <jump line="353" column="26" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
+      <jump line="354" column="27" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
+      <jump line="358" column="39" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
+      <jump line="30" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/display/GLES2DisplayContext.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWxzZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1534,10 +1548,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnX2lzX2Nvbm5lY3RlZFw+</text>
+        <text encoding="base64">XDxzdXBwb3J0c1VIRFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZWxzZSgpCg==</text>
@@ -1588,9 +1602,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnX2lzX2Nvbm5lY3RlZFw+</last-search>
+      <last-search encoding="base64">XDxzdXBwb3J0c1VIRFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnX2lzX2Nvbm5lY3RlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzdXBwb3J0c1VIRFw+</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -1598,10 +1612,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWtlTHVuYUNhbGxcPg==</entry>
-        <entry encoding="base64">XDxpbml0U3lzdGVtU2V0dGluZ3NcPg==</entry>
-        <entry encoding="base64">XDxzZXRBbGxTaWduYWxzXD4=</entry>
-        <entry encoding="base64">XDx1bml0VGVzdE1haW5cPg==</entry>
         <entry encoding="base64">XDxMR01FRElBX0xTX0Nvbm5lY3RMdW5hQnVzXD4=</entry>
         <entry encoding="base64">XDxfdHR5RmRcPg==</entry>
         <entry encoding="base64">XDxyZWdpc3RlckhhbmRsZXJzXD4=</entry>
@@ -1618,6 +1628,10 @@
         <entry encoding="base64">XDxfaW5pdExHTmV0d29ya01vbml0b3JpbmdcPg==</entry>
         <entry>connect</entry>
         <entry encoding="base64">XDxnX2lzX2Nvbm5lY3RlZFw+</entry>
+        <entry encoding="base64">XDxmbGFnc1w+</entry>
+        <entry encoding="base64">XDxfcGFyc2VTdXBwb3J0c1VIRFw+</entry>
+        <entry encoding="base64">XDxnSXNVSERTdXBwb3J0ZWRcPg==</entry>
+        <entry encoding="base64">XDxzdXBwb3J0c1VIRFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
