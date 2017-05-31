@@ -196,12 +196,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/image/ImageRegistry.cpp" timestamp="1493806617086">
         <mark key="'" line="629" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/IgnitionConfig.cmake" timestamp="1495470694479">
-        <mark key="'" line="38" column="22" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="." line="182" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/external/include/devicelayerloader/IDeviceLayerLoader.h" timestamp="1493715743823">
         <mark key="'" line="40" column="8" />
         <mark key="[" line="51" column="0" />
@@ -415,12 +409,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/tests/CMakeLists.txt" timestamp="1494499436457">
         <mark key="'" line="338" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" timestamp="1495816653760">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="6" />
-        <mark key="." line="39" column="4" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/src/LibraryLoader.cpp" timestamp="1493385919297">
         <mark key="'" line="33" column="42" />
         <mark key="[" line="14" column="0" />
@@ -445,12 +433,6 @@
         <mark key="^" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/config/devicelayer.cmake" timestamp="1494948584619">
-        <mark key="'" line="5" column="35" />
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="7" />
-        <mark key="." line="6" column="7" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererObjectScope.cpp" timestamp="1494604082073">
         <mark key="'" line="19" column="4" />
       </file>
@@ -467,12 +449,6 @@
         <mark key="]" line="361" column="33" />
         <mark key="^" line="361" column="33" />
         <mark key="." line="361" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" timestamp="1495113987051">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="29" column="11" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/assets/launch" timestamp="1494407539106">
         <mark key="'" line="9" column="0" />
@@ -556,24 +532,12 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/InputTests.cpp" timestamp="1495634468955">
         <mark key="'" line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" timestamp="1495125038204">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="277" column="7" />
-        <mark key="]" line="277" column="7" />
-        <mark key="." line="277" column="7" />
-      </file>
       <file name="$USER_HOME$/dev/oem-layer/tests/CMakeLists.txt.in" timestamp="1488978333315">
         <mark key="'" line="9" column="38" />
         <mark key="[" line="10" column="34" />
         <mark key="]" line="10" column="34" />
         <mark key="." line="10" column="34" />
         <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/tools/pluginbootstrap/tests/CMakeLists.txt" timestamp="1494415561001">
-        <mark key="'" line="43" column="34" />
-        <mark key="[" line="43" column="34" />
-        <mark key="]" line="43" column="34" />
-        <mark key="." line="43" column="34" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SDLCommonContext.h" timestamp="1493982759051">
         <mark key="'" line="0" column="0" />
@@ -615,12 +579,6 @@
         <mark key="]" line="44" column="41" />
         <mark key="^" line="44" column="41" />
         <mark key="." line="44" column="41" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/tests/InputTests.cpp" timestamp="1495630822075">
-        <mark key="'" line="99" column="7" />
-        <mark key="[" line="94" column="7" />
-        <mark key="]" line="94" column="7" />
-        <mark key="." line="94" column="7" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/renderer/TelemetryRenderer.h" timestamp="1485258325720">
         <mark key="'" line="63" column="14" />
@@ -823,8 +781,8 @@
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/migrate-platform.sh" timestamp="1495718153295">
-        <mark key="'" line="121" column="5" />
+      <file name="$USER_HOME$/dev/ig/tools/migrate-platform.sh" timestamp="1496247468716">
+        <mark key="'" line="13" column="36" />
         <mark key="[" line="107" column="51" />
         <mark key="]" line="107" column="54" />
         <mark key="^" line="107" column="54" />
@@ -859,12 +817,6 @@
         <mark key="]" line="45" column="109" />
         <mark key="^" line="45" column="109" />
         <mark key="." line="45" column="109" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" timestamp="1495551289543">
-        <mark key="'" line="175" column="6" />
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="13" column="51" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/CMakeLists.txt" timestamp="1494497684381">
         <mark key="'" line="12" column="0" />
@@ -913,12 +865,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/include/cache/ICache.h" timestamp="1494001306551">
         <mark key="'" line="15" column="38" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/CMakeLists.txt" timestamp="1494411625020">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="46" column="4" />
-        <mark key="]" line="46" column="4" />
-        <mark key="." line="46" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/platformfiles.txt" timestamp="1485176120131">
         <mark key="'" line="6" column="100" />
@@ -1157,12 +1103,6 @@
       <file name="/usr/include/c++/4.9/unordered_set" timestamp="1494596511559">
         <mark key="'" line="55" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/include/Library.h" timestamp="1493398718625">
-        <mark key="'" line="2" column="8" />
-        <mark key="[" line="39" column="45" />
-        <mark key="]" line="39" column="45" />
-        <mark key="." line="39" column="45" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/utils/LogTest.cpp" timestamp="1481642659660">
         <mark key="'" line="54" column="77" />
         <mark key="[" line="54" column="69" />
@@ -1387,15 +1327,8 @@
         <mark key="^" line="24" column="28" />
         <mark key="." line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/Doxyfile" timestamp="1495626189667">
-        <mark key="'" line="739" column="6" />
-        <mark key="[" line="745" column="25" />
-        <mark key="]" line="745" column="25" />
-        <mark key="." line="745" column="25" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="17" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
       <jump line="311" column="36" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
       <jump line="55" column="34" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
       <jump line="4" column="15" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
@@ -1495,6 +1428,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelayerskeleton/CMakeLists.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelayerskeleton/tests/test_files.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelayerskeleton/tests/CMakeLists.txt" />
+      <jump line="13" column="36" filename="$USER_HOME$/dev/ig/tools/migrate-platform.sh" />
     </jumps>
     <registers>
       <register name="a" type="2">
