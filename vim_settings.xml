@@ -304,6 +304,9 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/igbuild/linux/debug/CMakeCache.txt" timestamp="1496406514061">
+        <mark key="'" line="396" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/Ignition.cpp" timestamp="1487844144672">
         <mark key="'" line="326" column="48" />
         <mark key="[" line="147" column="4" />
@@ -846,6 +849,12 @@
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.display/internal/platform/lg/src/sdl/LGPlatformContext.cpp" timestamp="1496160450345">
         <mark key="'" line="23" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CMakeLists.txt" timestamp="1495816598513">
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="4" />
+        <mark key="." line="44" column="4" />
+        <mark key="^" line="41" column="53" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" timestamp="1493896819981">
         <mark key="'" line="139" column="27" />
       </file>
@@ -861,6 +870,12 @@
         <mark key="[" line="13" column="40" />
         <mark key="]" line="13" column="51" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/tools/configs/linux.dev.config" timestamp="1496406379741">
+        <mark key="[" line="47" column="50" />
+        <mark key="]" line="47" column="52" />
+        <mark key="^" line="47" column="52" />
+        <mark key="." line="47" column="52" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/CMakeLists.txt" timestamp="1494497684381">
         <mark key="'" line="12" column="0" />
@@ -906,6 +921,12 @@
         <mark key="]" line="45" column="9" />
         <mark key="^" line="45" column="8" />
         <mark key="." line="45" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/internal/platform/rpi/src/PlatformRemoteDelegate.cpp" timestamp="1495642536293">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/include/cache/ICache.h" timestamp="1494001306551">
         <mark key="'" line="15" column="38" />
@@ -1396,11 +1417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="55" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
-      <jump line="223" column="53" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
-      <jump line="350" column="13" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
-      <jump line="351" column="32" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
-      <jump line="353" column="26" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
       <jump line="354" column="27" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
       <jump line="358" column="39" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
       <jump line="30" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/display/GLES2DisplayContext.cpp" />
@@ -1496,13 +1512,18 @@
       <jump line="28" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/util/KeyRepeatManager.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/manifest" />
       <jump line="84" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/igbuild/linux/debug/CMakeCache.txt" />
+      <jump line="1450" column="0" filename="$USER_HOME$/dev/igbuild/linux/debug/CMakeCache.txt" />
+      <jump line="399" column="12" filename="$USER_HOME$/dev/igbuild/linux/debug/CMakeCache.txt" />
+      <jump line="937" column="23" filename="$USER_HOME$/dev/igbuild/linux/debug/CMakeCache.txt" />
+      <jump line="396" column="12" filename="$USER_HOME$/dev/igbuild/linux/debug/CMakeCache.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQltZXNzYWdlKEZBVEFMX0VSUk9SIHNkZ2ZpaCkJI0ZJWE1FCg==</text>
+      <register name="&quot;" type="4">
+        <text>NO</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1536,7 +1557,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>NO</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1576,7 +1597,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZ25pdGlvblw+</text>
+        <text>DEVICE</text>
       </register>
       <register name="0" type="4">
         <text>com.amazon.ignition.framework.core@0.22.0</text>
@@ -1627,9 +1648,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZ25pdGlvblw+</last-search>
+      <last-search>DEVICE</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZ25pdGlvblw+</last-pattern>
+      <last-pattern>DEVICE</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -1637,7 +1658,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHJpbmdNZXNzYWdlRXZlbnRcPg==</entry>
         <entry encoding="base64">XDxzc1w+</entry>
         <entry encoding="base64">XDxwYXJhbXNKc29uXD4=</entry>
         <entry encoding="base64">XDxfcHJvY2Vzc1JlbGF1bmNoTWVzc2FnZVw+</entry>
@@ -1657,6 +1677,7 @@
         <entry encoding="base64">XDxicmllZlw+</entry>
         <entry encoding="base64">XDxwb3J0aW5nXD4=</entry>
         <entry encoding="base64">XDxpZ25pdGlvblw+</entry>
+        <entry>DEVICE</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
