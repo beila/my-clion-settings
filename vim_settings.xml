@@ -536,6 +536,13 @@
         <mark key="." line="212" column="27" />
         <mark key="^" line="59" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/igrpi/tools/generate_projects.sh" timestamp="1495726737142">
+        <mark key="'" line="29" column="10" />
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
+        <mark key="^" line="236" column="113" />
+        <mark key="." line="237" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/src/avCommon.cpp" timestamp="1492706499266">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="6" column="1" />
@@ -661,7 +668,7 @@
         <mark key="]" line="32" column="5" />
         <mark key="." line="32" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496411151918">
+      <file name="/Dummy.txt" timestamp="1496418547292">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -795,8 +802,8 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" timestamp="1493979634443">
-        <mark key="'" line="38" column="54" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" timestamp="1496417735911">
+        <mark key="'" line="11" column="0" />
         <mark key="[" line="37" column="5" />
         <mark key="]" line="37" column="5" />
         <mark key="^" line="37" column="5" />
@@ -1420,8 +1427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
-      <jump line="67" column="58" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
       <jump line="68" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
       <jump line="75" column="115" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
       <jump line="76" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
@@ -1520,6 +1525,8 @@
       <jump line="43" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelayerskeleton/tests/DisplayTests.cpp" />
       <jump line="44" column="6" filename="$USER_HOME$/dev/ig/devicelayerskeleton/tests/CMakeLists.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
