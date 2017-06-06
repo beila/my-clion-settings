@@ -734,8 +734,12 @@
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" timestamp="1495799225481">
         <mark key="'" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1496761942926">
+      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1496764307293">
         <mark key="'" line="200" column="37" />
+        <mark key="[" line="98" column="29" />
+        <mark key="]" line="98" column="29" />
+        <mark key="." line="98" column="29" />
+        <mark key="^" line="102" column="2" />
       </file>
       <file name="$USER_HOME$/local/depo/src/depo/dependencies/Revision.py" timestamp="1495208819203">
         <mark key="'" line="41" column="39" />
@@ -1547,8 +1551,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CW1lc3NhZ2UoRkFUQUxfRVJST1IgRkZGRkZGRkYpCSNGSVhNRQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC1EQ01BS0VfRVhQT1JUX0NPTVBJTEVfQ09NTUFORFM9T04i</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1582,7 +1586,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>NO</text>
+        <text encoding="base64">IC1EQ01BS0VfRVhQT1JUX0NPTVBJTEVfQ09NTUFORFM9T04i</text>
       </register>
       <register name="m" type="4">
         <keys>
