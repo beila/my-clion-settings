@@ -122,6 +122,11 @@
         <mark key="." line="52" column="6" />
         <mark key="^" line="52" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/decoders/libjpeg/JpegDecoder.cpp" timestamp="1496840761459">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CommonApiTest.cpp" timestamp="1492694481696">
         <mark key="'" line="25" column="31" />
         <mark key="[" line="26" column="25" />
@@ -664,6 +669,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/include/fruit/impl/util/hash_helpers.h" timestamp="1494596531672">
         <mark key="'" line="26" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/check-cmake-version.cmake" timestamp="1496845678603">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="8" />
+        <mark key="^" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.oem.loader/platform-oem/tests/CMakeLists.txt" timestamp="1489430693980">
         <mark key="'" line="44" column="4" />
         <mark key="[" line="40" column="42" />
@@ -676,7 +687,7 @@
         <mark key="]" line="32" column="5" />
         <mark key="." line="32" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496833969762">
+      <file name="/Dummy.txt" timestamp="1496845596381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -896,6 +907,12 @@
         <mark key="]" line="13" column="51" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/tools/configs/linux.dev.config" timestamp="1496406379741">
+        <mark key="[" line="47" column="50" />
+        <mark key="]" line="47" column="52" />
+        <mark key="^" line="47" column="52" />
+        <mark key="." line="47" column="52" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/CMakeLists.txt" timestamp="1494497684381">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="12" column="0" />
@@ -940,6 +957,12 @@
         <mark key="]" line="45" column="9" />
         <mark key="^" line="45" column="8" />
         <mark key="." line="45" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/internal/platform/rpi/src/PlatformRemoteDelegate.cpp" timestamp="1495642536293">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/include/cache/ICache.h" timestamp="1494001306551">
         <mark key="'" line="15" column="38" />
@@ -1193,6 +1216,9 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/thirdparty/boost/tools/build/v2/engine/build.sh" timestamp="1496844122638">
+        <mark key="'" line="66" column="8" />
+      </file>
       <file name="/usr/include/c++/4.9/unordered_set" timestamp="1494596511559">
         <mark key="'" line="55" column="25" />
       </file>
@@ -1439,9 +1465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_backend.h" />
-      <jump line="27" column="84" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_backend.h" />
-      <jump line="28" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_backend.h" />
       <jump line="35" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_backend.h" />
       <jump line="44" column="68" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_backend.h" />
       <jump line="45" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_backend.h" />
@@ -1539,13 +1562,16 @@
       <jump line="64" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/Storage.h" />
       <jump line="17" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/Storage.h" />
       <jump line="40" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/external/include/devicelayerloader/IDeviceLayerLoader.h" />
+      <jump line="76" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/thirdparty/boost/tools/build/v2/engine/build.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/thirdparty/boost/tools/build/v2/engine/build.sh" />
+      <jump line="66" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/thirdparty/boost/tools/build/v2/engine/build.sh" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQltZXNzYWdlKEZBVEFMX0VSUk9SICJJTlNUQUxMX0lHTklUSU9OX0xJQlJBUlkoIE5BTUUgJDxUQVJHRVRfRklMRTppZ25pdGlvbi1kZXZpY2UtbGF5ZXI+IElOU1RBTExfRElSICR7SUdOSVRJT05fQ09SRV9CSU5fRElSfSBJTVBPUlRFRCkiKQkjIEZJWE1FCg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1579,7 +1605,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text>#</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1619,7 +1645,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZGV2aWNlTGF5ZXJMb2FkZXJcPg==</text>
+        <text encoding="base64">XDxCT09TVF9KQU1fVE9PTFNFVF9ST09UXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SU5DTFVERSgke0NNQUtFX0NVUlJFTlRfTElTVF9ESVJ9L2NtYWtlc2NyaXB0cy9jb25maWcvZGV2aWNlbGF5ZXIuY21ha2UpCg==</text>
@@ -1670,9 +1696,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZGV2aWNlTGF5ZXJMb2FkZXJcPg==</last-search>
+      <last-search encoding="base64">XDxCT09TVF9KQU1fVE9PTFNFVF9ST09UXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZGV2aWNlTGF5ZXJMb2FkZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxCT09TVF9KQU1fVE9PTFNFVF9ST09UXD4=</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -1680,7 +1706,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMR01FRElBX0xTX0ludm9rZUxTQ2FsbFByaXZhdGVcPg==</entry>
         <entry encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tTdGF0aWNcPg==</entry>
         <entry encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tcPg==</entry>
         <entry encoding="base64">XDxfaW5pdExHTmV0d29ya01vbml0b3JpbmdcPg==</entry>
@@ -1700,6 +1725,7 @@
         <entry encoding="base64">XDxwbGF0Zm9ybV9zb3VyY2Vfcm9vdF9kaXJcPg==</entry>
         <entry encoding="base64">XDxfaW5pdFNlY3VyZVN0b3JhZ2VCYWNrZW5kRGV2aWNlTGF5ZXJEYXRhXD4=</entry>
         <entry encoding="base64">XDxfZGV2aWNlTGF5ZXJMb2FkZXJcPg==</entry>
+        <entry encoding="base64">XDxCT09TVF9KQU1fVE9PTFNFVF9ST09UXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
