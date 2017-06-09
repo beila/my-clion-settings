@@ -217,6 +217,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/utils/TaggedBuffer.h" timestamp="1493896572772">
         <mark key="'" line="61" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/thirdparty/SDL2/cmake/sdlchecks.cmake" timestamp="1497022769343">
+        <mark key="'" line="338" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/manifest" timestamp="1496402680942">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="47" column="1" />
@@ -553,6 +556,9 @@
         <mark key="]" line="237" column="0" />
         <mark key="^" line="236" column="113" />
         <mark key="." line="237" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/thirdparty/SDL2/cmake/macros.cmake" timestamp="1497022728583">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/src/avCommon.cpp" timestamp="1492706499266">
         <mark key="'" line="13" column="0" />
@@ -1462,11 +1468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/device/include/device/av_text_to_speech.h" />
-      <jump line="74" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" />
-      <jump line="66" column="34" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" />
-      <jump line="67" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" />
-      <jump line="75" column="40" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" />
       <jump line="76" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" />
       <jump line="77" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" />
       <jump line="83" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" />
@@ -1562,6 +1563,11 @@
       <jump line="122" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
       <jump line="129" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
       <jump line="152" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/thirdparty/SDL2/cmake/macros.cmake" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/thirdparty/SDL2/cmake/sdlchecks.cmake" />
+      <jump line="342" column="13" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/thirdparty/SDL2/cmake/sdlchecks.cmake" />
+      <jump line="339" column="4" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/thirdparty/SDL2/cmake/sdlchecks.cmake" />
+      <jump line="338" column="4" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/thirdparty/SDL2/cmake/sdlchecks.cmake" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1642,7 +1648,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlclw+</text>
+        <text encoding="base64">XDxjaGVja19pbmNsdWRlX2ZpbGVzXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">SUdOSVRJT05fREVWSUNFX0xBWUVSX1JPT1RfRElSIA==</text>
@@ -1693,9 +1699,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlclw+</last-search>
+      <last-search encoding="base64">XDxjaGVja19pbmNsdWRlX2ZpbGVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja19pbmNsdWRlX2ZpbGVzXD4=</last-pattern>
       <last-replace />
       <last-substitute>rg_etc1_v104</last-substitute>
       <last-dir>1</last-dir>
@@ -1703,8 +1709,6 @@
     </search>
     <history>
       <history-search>
-        <entry>connect</entry>
-        <entry encoding="base64">XDxnX2lzX2Nvbm5lY3RlZFw+</entry>
         <entry encoding="base64">XDxmbGFnc1w+</entry>
         <entry encoding="base64">XDxfcGFyc2VTdXBwb3J0c1VIRFw+</entry>
         <entry encoding="base64">XDxnSXNVSERTdXBwb3J0ZWRcPg==</entry>
@@ -1723,6 +1727,8 @@
         <entry encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfUk9PVF9ESVJcPg==</entry>
         <entry encoding="base64">XDxhdkluaXRcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVQbHVnaW5EZXZpY2VMYXllckxvYWRlclw+</entry>
+        <entry encoding="base64">XDxIQVZFX1hFWFRfSFw+</entry>
+        <entry encoding="base64">XDxjaGVja19pbmNsdWRlX2ZpbGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
