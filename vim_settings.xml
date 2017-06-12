@@ -34,12 +34,12 @@
         <mark key="^" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeMacros.cmake" timestamp="1497280544880">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeMacros.cmake" timestamp="1497282759642">
         <mark key="'" line="348" column="24" />
-        <mark key="[" line="365" column="45" />
-        <mark key="]" line="365" column="303" />
-        <mark key="." line="365" column="45" />
-        <mark key="^" line="365" column="58" />
+        <mark key="[" line="365" column="29" />
+        <mark key="]" line="365" column="43" />
+        <mark key="." line="365" column="43" />
+        <mark key="^" line="365" column="43" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/add-device-layer-interface.cmake" timestamp="1495026835739">
         <mark key="'" line="26" column="73" />
@@ -464,12 +464,6 @@
         <mark key="^" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/config/devicelayer.cmake" timestamp="1497021737518">
-        <mark key="[" line="5" column="48" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-        <mark key="^" line="6" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererObjectScope.cpp" timestamp="1494604082073">
         <mark key="'" line="19" column="4" />
       </file>
@@ -663,12 +657,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/include/fruit/impl/util/hash_helpers.h" timestamp="1494596531672">
         <mark key="'" line="26" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/check-cmake-version.cmake" timestamp="1496845678603">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="8" />
-        <mark key="^" line="10" column="8" />
-        <mark key="." line="10" column="8" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.oem.loader/platform-oem/tests/CMakeLists.txt" timestamp="1489430693980">
         <mark key="'" line="44" column="4" />
@@ -891,12 +879,6 @@
         <mark key="^" line="45" column="109" />
         <mark key="." line="45" column="109" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/configs/linux.dev.config" timestamp="1496406379741">
-        <mark key="[" line="47" column="50" />
-        <mark key="]" line="47" column="52" />
-        <mark key="^" line="47" column="52" />
-        <mark key="." line="47" column="52" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/CMakeLists.txt" timestamp="1494497684381">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="12" column="0" />
@@ -941,12 +923,6 @@
         <mark key="]" line="45" column="9" />
         <mark key="^" line="45" column="8" />
         <mark key="." line="45" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/internal/platform/rpi/src/PlatformRemoteDelegate.cpp" timestamp="1495642536293">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/include/cache/ICache.h" timestamp="1494001306551">
         <mark key="'" line="15" column="38" />
@@ -1018,11 +994,10 @@
         <mark key="." line="19" column="51" />
         <mark key="^" line="17" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-target-post-build.cmake" timestamp="1497281703871">
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="17" column="70" />
-        <mark key="." line="17" column="70" />
-        <mark key="^" line="17" column="70" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-target-post-build.cmake" timestamp="1497282810884">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/src/cache/cacheable/CacheableBuffer.cpp" timestamp="1493896695260">
         <mark key="'" line="183" column="47" />
@@ -1548,8 +1523,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJQ09NTUFORCAke0NNQUtFX0NPTU1BTkR9IC1FIGVjaG8gJHtURVNUX1RBUkdFVF9ERVBFTkRFTkNZfSBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFAgY29weV9pZl9kaWZmZXJlbnQgJDxUQVJHRVRfRklMRToke1RFU1RfVEFSR0VUX1RPX0lOU1RBTEx9PiAke1RFU1RTX0lOU1RBTExfRElSRUNUT1JZfS8ke1RFU1RfSU5TVEFMTF9TVUJESVJ9Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1583,7 +1558,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>FFFFFFFFFFFFFFF</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1626,10 +1601,10 @@
         <text encoding="base64">XDxJR05JVElPTl9URVNUX1RBUkdFVF9OQU1FXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJQ09NTUFORCAke0NNQUtFX0NPTU1BTkR9IC1FIGNvcHlfaWZfZGlmZmVyZW50ICQ8VEFSR0VUX0ZJTEU6JHtURVNUX1RBUkdFVF9UT19JTlNUQUxMfT4gJHtURVNUU19JTlNUQUxMX0RJUkVDVE9SWX0vJHtURVNUX0lOU1RBTExfU1VCRElSfSkK</text>
+        <text encoding="base64">CQkJbWVzc2FnZShXQVJOSU5HICJUSElTX1BMVUdJTl9MSUJSQVJZX05BTUU9JHtUSElTX1BMVUdJTl9MSUJSQVJZX05BTUV9IikJIyBGSVhNRQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CW1lc3NhZ2UoU1RBVVRTICJBRERfQ1VTVE9NX0NPTU1BTkQoVEFSR0VUIEFMTCBQT1NUX0JVSUxEIENPTU1BTkQgJHtDTUFLRV9DT01NQU5EfSAtRSBtYWtlX2RpcmVjdG9yeSAke0JJTkFSWV9JTlNUQUxMX1BBVEh9IENPTU1BTkQgJHtDTUFLRV9DT01NQU5EfSAtRSBjb3B5X2lmX2RpZmZlcmVudCAke1RISVNfUExVR0lOX0xJQlJBUllfTkFNRX0gJHtCSU5BUllfSU5TVEFMTF9QQVRIfSIpCSMgRklYTUUK</text>
+        <text encoding="base64">CQkJQ09NTUFORCAke0NNQUtFX0NPTU1BTkR9IC1FIGVjaG8gJHtURVNUX1RBUkdFVF9ERVBFTkRFTkNZfSBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFAgY29weV9pZl9kaWZmZXJlbnQgJDxUQVJHRVRfRklMRToke1RFU1RfVEFSR0VUX1RPX0lOU1RBTEx9PiAke1RFU1RTX0lOU1RBTExfRElSRUNUT1JZfS8ke1RFU1RfSU5TVEFMTF9TVUJESVJ9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1640,31 +1615,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJbWVzc2FnZShGQVRBTF9FUlJPUiAiampmaj0ke2pqZmp9IikK</text>
+        <text encoding="base64">CW1lc3NhZ2UoU1RBVVRTICJBRERfQ1VTVE9NX0NPTU1BTkQoVEFSR0VUIEFMTCBQT1NUX0JVSUxEIENPTU1BTkQgJHtDTUFLRV9DT01NQU5EfSAtRSBtYWtlX2RpcmVjdG9yeSAke0JJTkFSWV9JTlNUQUxMX1BBVEh9IENPTU1BTkQgJHtDTUFLRV9DT01NQU5EfSAtRSBjb3B5X2lmX2RpZmZlcmVudCAke1RISVNfUExVR0lOX0xJQlJBUllfTkFNRX0gJHtCSU5BUllfSU5TVEFMTF9QQVRIfSIpCSMgRklYTUUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJJHtDTUFLRV9DVVJSRU5UX0JJTkFSWV9ESVJ9L2RldmljZWxheWVyLyR7Q01BS0VfU0hBUkVEX0xJQlJBUllfUFJFRklYfWlnbml0aW9uLWRldmljZS1sYXllciR7Q01BS0VfU0hBUkVEX0xJQlJBUllfU1VGRklYfSkK</text>
+        <text encoding="base64">CQkJbWVzc2FnZShGQVRBTF9FUlJPUiAiampmaj0ke2pqZmp9IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlTRVQoSUdOSVRJT05fREVWSUNFX0xBWUVSX0xJQlJBUllfRklMRV9QQVRICg==</text>
+        <text encoding="base64">CQkJJHtDTUFLRV9DVVJSRU5UX0JJTkFSWV9ESVJ9L2RldmljZWxheWVyLyR7Q01BS0VfU0hBUkVEX0xJQlJBUllfUFJFRklYfWlnbml0aW9uLWRldmljZS1sYXllciR7Q01BS0VfU0hBUkVEX0xJQlJBUllfU1VGRklYfSkK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I1tbCglJRihIQVNfSU1QTEVNRU5UQVRJT05fRk9SX0RFVklDRV9MQVlFUikKCQlJTlNUQUxMX0lHTklUSU9OX0xJQlJBUlkoCgkJCU5BTUUgaWduaXRpb24tZGV2aWNlLWxheWVyCgkJCUlOU1RBTExfRElSICR7SUdOSVRJT05fQ09SRV9CSU5fRElSfQoJCQlJTVBPUlRFRCkKCUVORElGKCkKI11dCgo=</text>
+        <text encoding="base64">CQlTRVQoSUdOSVRJT05fREVWSUNFX0xBWUVSX0xJQlJBUllfRklMRV9QQVRICg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJREVTVElOQVRJT04gJHtCSU5BUllfSU5TVEFMTF9QQVRIfSkK</text>
+        <text encoding="base64">I1tbCglJRihIQVNfSU1QTEVNRU5UQVRJT05fRk9SX0RFVklDRV9MQVlFUikKCQlJTlNUQUxMX0lHTklUSU9OX0xJQlJBUlkoCgkJCU5BTUUgaWduaXRpb24tZGV2aWNlLWxheWVyCgkJCUlOU1RBTExfRElSICR7SUdOSVRJT05fQ09SRV9CSU5fRElSfQoJCQlJTVBPUlRFRCkKCUVORElGKCkKI11dCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlJTlNUQUxMKEZJTEVTICR7VEhJU19QTFVHSU5fTElCUkFSWV9OQU1FfQo=</text>
+        <text encoding="base64">CQkJREVTVElOQVRJT04gJHtCSU5BUllfSU5TVEFMTF9QQVRIfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlJTlNUQUxMKEZJTEVTICR7VEhJU19QTFVHSU5fTElCUkFSWV9OQU1FfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CW1lc3NhZ2UoRkFUQUxfRVJST1IgIklOU1RBTExfSUdOSVRJT05fTElCUkFSWSggTkFNRSAke0lHTklUSU9OX0RFVklDRV9MQVlFUl9MSUJSQVJZX0ZJTEVfUEFUSH0gSU5TVEFMTF9ESVIgJHtJR05JVElPTl9DT1JFX0JJTl9ESVJ9IElNUE9SVEVEIikJIyBGSVhNRQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">Y29yZTo6ZnVuY3Rpb248ZGVjbHR5cGUoYXZTdG9yYWdlQmFja2VuZENyZWF0ZUNvbnRleHQpPg==</text>
