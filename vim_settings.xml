@@ -488,14 +488,14 @@
         <mark key="^" line="361" column="33" />
         <mark key="." line="361" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" timestamp="1497285199923">
-        <mark key="'" line="27" column="19" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" timestamp="1497285760100">
+        <mark key="'" line="27" column="48" />
         <mark key="i" line="37" column="23" />
-        <mark key="[" line="27" column="41" />
+        <mark key="[" line="30" column="0" />
         <mark key="l" line="27" column="27" />
-        <mark key="]" line="27" column="41" />
+        <mark key="]" line="30" column="0" />
         <mark key="^" line="25" column="57" />
-        <mark key="." line="27" column="48" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/assets/launch" timestamp="1494407539106">
         <mark key="'" line="9" column="0" />
@@ -697,7 +697,7 @@
         <mark key="]" line="32" column="5" />
         <mark key="." line="32" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497284945250">
+      <file name="/Dummy.txt" timestamp="1497285255303">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -1577,14 +1577,14 @@
       <jump line="27" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-target-post-build.cmake" />
       <jump line="37" column="83" filename="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" />
       <jump line="25" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
-      <jump line="27" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
+      <jump line="27" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>LIBRARY_FILE_PATH</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1618,7 +1618,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>LIBRARY_FILE_PATH</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="m" type="4">
         <keys>
