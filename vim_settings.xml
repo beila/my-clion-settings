@@ -1449,8 +1449,8 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_secure_storage_backend.h" timestamp="1495626110265">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" timestamp="1493205891193">
-        <mark key="'" line="308" column="76" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" timestamp="1497439408335">
+        <mark key="'" line="277" column="40" />
         <mark key="[" line="291" column="56" />
         <mark key="]" line="291" column="57" />
         <mark key="." line="291" column="57" />
@@ -1478,8 +1478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="552" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/cmakescripts/CMakeMacros.cmake" />
-      <jump line="564" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/cmakescripts/CMakeMacros.cmake" />
       <jump line="537" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/cmakescripts/CMakeMacros.cmake" />
       <jump line="562" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/cmakescripts/CMakeMacros.cmake" />
       <jump line="49" column="78" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/config/boost.cmake" />
@@ -1578,6 +1576,8 @@
       <jump line="66" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
       <jump line="123" column="3" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/IgnitionConfig.cmake" />
       <jump line="125" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/IgnitionConfig.cmake" />
+      <jump line="274" column="44" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" />
+      <jump line="277" column="40" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
