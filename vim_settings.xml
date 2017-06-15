@@ -778,8 +778,8 @@
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" timestamp="1495799225481">
         <mark key="'" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1497544375941">
-        <mark key="'" line="62" column="8" />
+      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1497545503127">
+        <mark key="'" line="37" column="0" />
         <mark key="[" line="105" column="33" />
         <mark key="]" line="105" column="55" />
         <mark key="." line="98" column="29" />
@@ -1535,8 +1535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/install-test-target-post-build.cmake" />
-      <jump line="37" column="83" filename="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" />
       <jump line="25" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
       <jump line="27" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
       <jump line="36" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/IBindable.h" />
@@ -1635,6 +1633,8 @@
       <jump line="233" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="62" column="8" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="20" column="16" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1715,7 +1715,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5lcmF0ZV9jbWFrZV9ncmFwaFw+</text>
+        <text encoding="base64">XDxleGNsdWRlX3VuaXRfdGVzdHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUFWX0RJU1BMQVlfUkVRVUVTVF9FTlRFUl9CQUNLR1JPVU5EID0gMHgwMiwgLy8hPCBUaGUgYXBwbGljYXRpb24gaXMgZW50ZXJlZCB0byB0aGUgYmFja2dyb3VuZCBtb2RlLgoJQVZfRElTUExBWV9SRVFVRVNUX0VOVEVSX0ZPUkVHUk9VTkQgPSAweDAzLCAvLyE8IFRoZSBhcHBsaWNhdGlvbiBpcyBlbnRlcmVkIHRvIHRoZSBmb3JlZ3JvdW5kIG1vZGUuCg==</text>
@@ -1766,9 +1766,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5lcmF0ZV9jbWFrZV9ncmFwaFw+</last-search>
+      <last-search encoding="base64">XDxleGNsdWRlX3VuaXRfdGVzdHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5lcmF0ZV9jbWFrZV9ncmFwaFw+</last-pattern>
+      <last-pattern encoding="base64">XDxleGNsdWRlX3VuaXRfdGVzdHNcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBTVBfTU9EVUxFX0JVSUxEX1RBUkdFVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1776,8 +1776,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJTlNUQUxMX0lHTklUSU9OX0xJQlJBUllfQ09NTU9OXD4=</entry>
-        <entry encoding="base64">XDxJTlNUQUxMX0lHTklUSU9OX0xJQlJBUllcPg==</entry>
         <entry encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfTElCUkFSWV9GSUxFX1BBVEhcPg==</entry>
         <entry encoding="base64">XDxFTkFCTEVfTE9BRElOR19JR05JVElPTl9DT05GSUdfRlJPTV9WQVJcPg==</entry>
         <entry encoding="base64">XDxfcHJvY2Vzc0JhY2tncm91bmRSZXF1ZXN0XD4=</entry>
@@ -1796,6 +1794,8 @@
         <entry encoding="base64">XDxJR05JVElPTl9DT1JFX0xJQlJBUklFU1w+</entry>
         <entry>graph</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9jbWFrZV9ncmFwaFw+</entry>
+        <entry>test</entry>
+        <entry encoding="base64">XDxleGNsdWRlX3VuaXRfdGVzdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
