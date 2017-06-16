@@ -716,7 +716,7 @@
         <mark key="]" line="32" column="5" />
         <mark key="." line="32" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497619671227">
+      <file name="/Dummy.txt" timestamp="1497621963533">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -791,6 +791,9 @@
         <mark key="]" line="201" column="29" />
         <mark key="." line="201" column="29" />
         <mark key="^" line="201" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.core/internal/platform/samsungtv/src/plugin/PluginPathPlatform.cpp" timestamp="1497621666727">
+        <mark key="'" line="28" column="29" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/services/DefaultPlatformServicesProvider.cpp" timestamp="1493904393781">
         <mark key="'" line="12" column="13" />
@@ -1245,8 +1248,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/Storage.h" timestamp="1496833827585">
         <mark key="'" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" timestamp="1497617432532">
-        <mark key="'" line="241" column="49" />
+      <file name="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" timestamp="1497621960479">
+        <mark key="'" line="25" column="45" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.platform.ps4/IPs4.h" timestamp="1486471264584">
         <mark key="'" line="18" column="13" />
@@ -1514,14 +1517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/tests/report/listeners/LogListenerTest.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/PluginReport.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/listeners/LogListener.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/dispatchers/formatters/DeviceEventFormatter.cpp" />
-      <jump line="130" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/tests/report/listeners/LogListenerTest.cpp" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/PluginReport.cpp" />
-      <jump line="315" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/listeners/LogListener.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/extensions/LifecycleExtension.cpp" />
       <jump line="640" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeLists.txt" />
       <jump line="103" column="45" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="65" column="65" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
@@ -1614,6 +1609,14 @@
       <jump line="252" column="96" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="246" column="94" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="230" column="15" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="142" column="31" filename="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
+      <jump line="134" column="27" filename="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
+      <jump line="188" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/filesystem/FileSystemUtils.cpp" />
+      <jump line="166" column="20" filename="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
+      <jump line="46" column="29" filename="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.core/internal/platform/samsungtv/src/plugin/PluginPathPlatform.cpp" />
+      <jump line="28" column="29" filename="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.core/internal/platform/samsungtv/src/plugin/PluginPathPlatform.cpp" />
+      <jump line="229" column="31" filename="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
+      <jump line="25" column="45" filename="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1694,7 +1697,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDTUFLRV9PUFRJT05TXD4=</text>
+        <text encoding="base64">XDxQTFVHSU5fRklMRVNfQklOQVJJRVNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2Vsc2UgLyogZGVmaW5lZChVU0VfU1RBVElDQUxMWV9MSU5LRURfR0xfRlVOQ1RJT05TKSB8fCBkZWZpbmVkKFVTRV9ERVZJQ0VfTEFZRVIpICovCg==</text>
@@ -1745,9 +1748,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDTUFLRV9PUFRJT05TXD4=</last-search>
+      <last-search encoding="base64">XDxQTFVHSU5fRklMRVNfQklOQVJJRVNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDTUFLRV9PUFRJT05TXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxQTFVHSU5fRklMRVNfQklOQVJJRVNcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBTVBfTU9EVUxFX0JVSUxEX1RBUkdFVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1755,7 +1758,6 @@
     </search>
     <history>
       <history-search>
-        <entry>build.config</entry>
         <entry>build.cmake</entry>
         <entry encoding="base64">XDxSRU5ERVJFUl9QTEFURk9STV9JTkNcPg==</entry>
         <entry encoding="base64">XDxQTFVHSU5SRU5ERVJFUl9CVUlMRF9DTUFLRV9ESVJcPg==</entry>
@@ -1775,6 +1777,7 @@
         <entry encoding="base64">XDxJTlNUQUxMX0RJUlw+</entry>
         <entry encoding="base64">XDxURU1QTEFURV9UT0tFTl9QTFVHSU5fTkFNRVw+</entry>
         <entry encoding="base64">XDxDTUFLRV9PUFRJT05TXD4=</entry>
+        <entry encoding="base64">XDxQTFVHSU5fRklMRVNfQklOQVJJRVNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
