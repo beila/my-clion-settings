@@ -492,8 +492,12 @@
         <mark key="^" line="97" column="16" />
         <mark key="." line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" timestamp="1497607517623">
-        <mark key="'" line="116" column="32" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" timestamp="1497632401479">
+        <mark key="'" line="46" column="76" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="46" column="94" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/extensions/LifecycleExtension.cpp" timestamp="1497549195366">
         <mark key="'" line="0" column="0" />
@@ -573,8 +577,8 @@
         <mark key="^" line="236" column="113" />
         <mark key="." line="237" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" timestamp="1497624394632">
-        <mark key="'" line="320" column="24" />
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" timestamp="1497631965079">
+        <mark key="'" line="63" column="24" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/thirdparty/SDL2/cmake/macros.cmake" timestamp="1497022728583">
         <mark key="'" line="0" column="0" />
@@ -716,7 +720,7 @@
         <mark key="]" line="32" column="5" />
         <mark key="." line="32" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497631714733">
+      <file name="/Dummy.txt" timestamp="1497632003309">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -862,12 +866,12 @@
         <mark key="^" line="37" column="5" />
         <mark key="." line="37" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1497631712638">
-        <mark key="'" line="40" column="2" />
-        <mark key="[" line="32" column="53" />
-        <mark key="]" line="32" column="61" />
-        <mark key="." line="32" column="61" />
-        <mark key="^" line="32" column="61" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1497632387863">
+        <mark key="'" line="74" column="2" />
+        <mark key="[" line="64" column="22" />
+        <mark key="]" line="45" column="38" />
+        <mark key="." line="64" column="22" />
+        <mark key="^" line="45" column="38" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/SecureStorageBackendFactory.h" timestamp="1490955275327">
         <mark key="'" line="43" column="10" />
@@ -927,6 +931,12 @@
         <mark key="]" line="45" column="109" />
         <mark key="^" line="45" column="109" />
         <mark key="." line="45" column="109" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" timestamp="1497631984810">
+        <mark key="'" line="69" column="23" />
+        <mark key="[" line="88" column="13" />
+        <mark key="]" line="88" column="13" />
+        <mark key="." line="88" column="30" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/CMakeLists.txt" timestamp="1494497684381">
         <mark key="'" line="12" column="0" />
@@ -1514,42 +1524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/plugin/DependencyGraphTest.cpp" />
-      <jump line="110" column="51" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
-      <jump line="102" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
-      <jump line="168" column="40" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
-      <jump line="137" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
-      <jump line="169" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
-      <jump line="171" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
-      <jump line="24" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="27" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="204" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="229" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="31" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="54" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="236" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="219" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="240" column="34" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="207" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="25" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="131" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="137" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="141" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="209" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="228" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="82" column="15" filename="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="232" column="49" filename="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="235" column="49" filename="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="238" column="49" filename="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="241" column="49" filename="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="78" column="6" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="252" column="96" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="246" column="94" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="230" column="15" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="142" column="31" filename="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="134" column="27" filename="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
       <jump line="188" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/filesystem/FileSystemUtils.cpp" />
       <jump line="166" column="20" filename="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
       <jump line="46" column="29" filename="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.core/internal/platform/samsungtv/src/plugin/PluginPathPlatform.cpp" />
@@ -1560,7 +1534,6 @@
       <jump line="1255" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
       <jump line="46" column="30" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avCommon.cpp" />
       <jump line="40" column="4" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avCommon.cpp" />
-      <jump line="320" column="24" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
       <jump line="37" column="44" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/LifecycleState.h" />
       <jump line="107" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/LifecycleState.h" />
       <jump line="337" column="49" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
@@ -1613,14 +1586,51 @@
       <jump line="240" column="65" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="38" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/events/LifecycleEvent.h" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="161" column="63" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
+      <jump line="170" column="33" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
+      <jump line="320" column="32" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
+      <jump line="167" column="72" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
+      <jump line="169" column="4" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
+      <jump line="261" column="8" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
+      <jump line="263" column="8" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
+      <jump line="297" column="12" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
+      <jump line="43" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="41" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="37" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="33" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="27" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="299" column="20" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
+      <jump line="116" column="8" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
+      <jump line="80" column="8" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
+      <jump line="63" column="24" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
+      <jump line="159" column="25" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
+      <jump line="72" column="38" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
+      <jump line="80" column="34" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
+      <jump line="69" column="23" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
+      <jump line="48" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
+      <jump line="62" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
+      <jump line="71" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
+      <jump line="80" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
+      <jump line="91" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
+      <jump line="102" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
+      <jump line="113" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
+      <jump line="22" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
+      <jump line="51" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="35" column="47" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
+      <jump line="47" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="55" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
       <jump line="40" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="64" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="30" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="74" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="46" column="76" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>State)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8hCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1654,7 +1664,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>State)</text>
+        <text>Event type</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1694,13 +1704,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBdkRpc3BsYXlFdmVudFR5cGVcPg==</text>
+        <text encoding="base64">XDxBdkRpc3BsYXlTZXR1cEZsYWdzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2Vsc2UgLyogZGVmaW5lZChVU0VfU1RBVElDQUxMWV9MSU5LRURfR0xfRlVOQ1RJT05TKSB8fCBkZWZpbmVkKFVTRV9ERVZJQ0VfTEFZRVIpICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y21ha2UgLURDTUFLRV9CVUlMRF9UWVBFPVJlbFdpdGhEZWJJbmZvICRUT09MQ0hBSU5fT1BUSU9OIC1EQlVJTERfUExBVEZPUk09JFBMQVRGT1JNICRCQVNIX1NDUklQVF9ESVIgJENNQUtFX09QVElPTlMK</text>
+        <text encoding="base64">Ly8hCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1711,31 +1721,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y21ha2UgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgJFRPT0xDSEFJTl9PUFRJT04gLURCVUlMRF9QTEFURk9STT0kUExBVEZPUk0gJEJBU0hfU0NSSVBUX0RJUiAkQ01BS0VfT1BUSU9OUwo=</text>
+        <text encoding="base64">Ly8hIEBzYSBBdkRpc3BsYXlTZXR1cEZsYWdzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2VuZGlmIC8qIFVTRV9TVEFUSUNBTExZX0xJTktFRF9HTF9GVU5DVElPTlMgKi8K</text>
+        <text encoding="base64">Y21ha2UgLURDTUFLRV9CVUlMRF9UWVBFPVJlbFdpdGhEZWJJbmZvICRUT09MQ0hBSU5fT1BUSU9OIC1EQlVJTERfUExBVEZPUk09JFBMQVRGT1JNICRCQVNIX1NDUklQVF9ESVIgJENNQUtFX09QVElPTlMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2lmIGRlZmluZWQoVVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OUykgfHwgZGVmaW5lZChVU0VfREVWSUNFX0xBWUVSKQo=</text>
+        <text encoding="base64">Y21ha2UgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgJFRPT0xDSEFJTl9PUFRJT04gLURCVUlMRF9QTEFURk9STT0kUExBVEZPUk0gJEJBU0hfU0NSSVBUX0RJUiAkQ01BS0VfT1BUSU9OUwo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2Vsc2UgLyogVVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OUyAqLwo=</text>
+        <text encoding="base64">I2VuZGlmIC8qIFVTRV9TVEFUSUNBTExZX0xJTktFRF9HTF9GVU5DVElPTlMgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2Vsc2UgLyogVVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OUyAqLwo=</text>
+        <text encoding="base64">I2lmIGRlZmluZWQoVVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OUykgfHwgZGVmaW5lZChVU0VfREVWSUNFX0xBWUVSKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8hCUB0b2RvIDxiPk9wdGlvbmFsIC0gU2V0IHRoZSBkaXNwbGF5IHRvIGEgY2VydGFpbiBiYWNrZ3JvdW5kIG1vZGUuPC9iPgovLyEJQGJyaWVmIFNldCB0aGUgZGlzcGxheSB0byBhIGNlcnRhaW4gYmFja2dyb3VuZCBtb2RlLgovLyEJQHBhcmFtIFtpbl0gY29udGV4dAlUaGUgSWduaXRpb24gZGV2aWNlIGxheWVyIGNvbW1vbiBjb250ZXh0IHRvIHNldCBiYWNrZ291bmQgbW9kZS4KLy8hCUBwYXJhbSBbaW5dIG1vZGUgCVRoZSBiYWNrZ3JvdW5kIG1vZGUgdG8gc2V0LgovLyEJQHJldHVybiBAYyBBVl9PSyBpZiBiYWNrZ3JvdW5kIG1vZGUgd2FzIHNldCBzdWNjZXNmdWxseTsgb3RoZXJ3aXNlLCBhbiBlcnJvciBjb2RlLgpBdlJlc3VsdENvZGUgYXZEZXZpY2VTZXRCYWNrZ3JvdW5kTW9kZSgKCQlBdkNvbW1vbkNvbnRleHQgY29udGV4dCwKCQlBdkRldmljZUJhY2tncm91bmRNb2RlIG1vZGUpOwoK</text>
+        <text encoding="base64">I2Vsc2UgLyogVVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OUyAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8hCUFuIGVudW1lcmF0aW9uIG9mIGJhY2tncm91bmQgbW9kZSB2YWx1ZXMuCi8vIQlXaWxsIGJlIHVzZWQgd2l0aGluIGF2RGV2aWNlU2V0QmFja2dyb3VuZE1vZGUoKQp0eXBlZGVmIGVudW0KewoJQVZfREVWSUNFX0JBQ0tHUk9VTkRfTU9ERV9JTlZBTElEID0gMHgwMCwKCUFWX0RFVklDRV9CQUNLR1JPVU5EX01PREVfRk9SRUdST1VORCA9IDB4MDEsCglBVl9ERVZJQ0VfQkFDS0dST1VORF9NT0RFX0JBQ0tHUk9VTkQgPSAweDAyCn0gQXZEZXZpY2VCYWNrZ3JvdW5kTW9kZTsKCg==</text>
+        <text encoding="base64">I2Vsc2UgLyogVVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OUyAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8hIEB0b2RvIDxiPk1hbmRhdG9yeSAtIFByb2Nlc3MgYW4gZXZlbnQgZnJvbSBpZ25pdGlvbi48L2I+Ci8vISBAYnJpZWYgUHJvY2VzcyBhbiBldmVudCBmcm9tIGlnbml0aW9uLgovLyEgQHBhcmFtIFtpbl0gY29udGV4dCBUaGUgZGV2aWNlIGxheWVyIGRpc3BsYXkgY29udGV4dC4KLy8hIEBwYXJhbSBbaW5dIGlnbml0aW9uRXZlbnQgQW4gaWduaXRpb24gZXZlbnQgdG8gcHJvY2VzcwovLyEKLy8hIEByZXR1cm4gQGMgQVZfT0sgaWYgY29udGV4dCBldmVudHMgd2VyZSBwb2xsZWQgYW5kIGhhbmRsZWQgc3VjY2Vzc2Z1bGx5OyBvdGhlcndpc2UsIGFuIGVycm9yIGNvZGUuCi8vIQpBdlJlc3VsdENvZGUgYXZEaXNwbGF5UHJvY2Vzc0lnbml0aW9uRXZlbnQoQXZEaXNwbGF5Q29udGV4dCBjb250ZXh0LCBBdkRpc3BsYXlFdmVudCBpZ25pdGlvbkV2ZW50KTsKCg==</text>
+        <text encoding="base64">Ly8hCUB0b2RvIDxiPk9wdGlvbmFsIC0gU2V0IHRoZSBkaXNwbGF5IHRvIGEgY2VydGFpbiBiYWNrZ3JvdW5kIG1vZGUuPC9iPgovLyEJQGJyaWVmIFNldCB0aGUgZGlzcGxheSB0byBhIGNlcnRhaW4gYmFja2dyb3VuZCBtb2RlLgovLyEJQHBhcmFtIFtpbl0gY29udGV4dAlUaGUgSWduaXRpb24gZGV2aWNlIGxheWVyIGNvbW1vbiBjb250ZXh0IHRvIHNldCBiYWNrZ291bmQgbW9kZS4KLy8hCUBwYXJhbSBbaW5dIG1vZGUgCVRoZSBiYWNrZ3JvdW5kIG1vZGUgdG8gc2V0LgovLyEJQHJldHVybiBAYyBBVl9PSyBpZiBiYWNrZ3JvdW5kIG1vZGUgd2FzIHNldCBzdWNjZXNmdWxseTsgb3RoZXJ3aXNlLCBhbiBlcnJvciBjb2RlLgpBdlJlc3VsdENvZGUgYXZEZXZpY2VTZXRCYWNrZ3JvdW5kTW9kZSgKCQlBdkNvbW1vbkNvbnRleHQgY29udGV4dCwKCQlBdkRldmljZUJhY2tncm91bmRNb2RlIG1vZGUpOwoK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">Y29yZTo6ZnVuY3Rpb248ZGVjbHR5cGUoYXZTdG9yYWdlQmFja2VuZENyZWF0ZUNvbnRleHQpPg==</text>
@@ -1745,9 +1755,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBdkRpc3BsYXlFdmVudFR5cGVcPg==</last-search>
+      <last-search encoding="base64">XDxBdkRpc3BsYXlTZXR1cEZsYWdzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBdkRpc3BsYXlFdmVudFR5cGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBdkRpc3BsYXlTZXR1cEZsYWdzXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBTVBfTU9EVUxFX0JVSUxEX1RBUkdFVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1755,15 +1765,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja01hbmlmZXN0SXNVc2FibGVcPg==</entry>
-        <entry encoding="base64">XDxpZnNcPg==</entry>
-        <entry encoding="base64">XDxqc29uU3RyaW5nXD4=</entry>
-        <entry encoding="base64">XDxfYnVpbGRlck1hcFw+</entry>
-        <entry encoding="base64">XDxJR05JVElPTl9JTlNUQUxMX1BBVEhcPg==</entry>
-        <entry encoding="base64">XDxQTFVHSU5fRklMRVNfVEVTVF9EQVRBXD4=</entry>
-        <entry encoding="base64">XDxnZXRCdWlsZGVyRm9yR3JvdXBcPg==</entry>
-        <entry encoding="base64">XDxJTlNUQUxMX0RJUlw+</entry>
-        <entry encoding="base64">XDxURU1QTEFURV9UT0tFTl9QTFVHSU5fTkFNRVw+</entry>
         <entry encoding="base64">XDxDTUFLRV9PUFRJT05TXD4=</entry>
         <entry encoding="base64">XDxQTFVHSU5fRklMRVNfQklOQVJJRVNcPg==</entry>
         <entry encoding="base64">XDx3YWl0Rm9ySW5pdGlhbGl6YXRpb25Ub0NvbXBsZXRlXD4=</entry>
@@ -1774,7 +1775,16 @@
         <entry encoding="base64">XDxfbG9hZExpZmVjeWNsZVN0YXRlXD4=</entry>
         <entry encoding="base64">XDxfZ2V0VHJhbnNpdGlvbk1ldGFkYXRhXD4=</entry>
         <entry encoding="base64">XDxfcHJvY2Vzc0xpZmVjeWNsZVN0YXRlQ2hhbmdlXD4=</entry>
+        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
+        <entry encoding="base64">XDxfY2FsbGJhY2tcPg==</entry>
+        <entry encoding="base64">XDxBVl9ESVNQTEFZX0VOVEVSRURfRk9SRUdST1VORFw+</entry>
+        <entry encoding="base64">XDxBVl9ESVNQTEFZX1NFVFVQX0ZMQUdfRlVMTFNDUkVFTlw+</entry>
+        <entry encoding="base64">XDxzZXR1cFw+</entry>
+        <entry encoding="base64">XDxmbGFnc1w+</entry>
+        <entry>@c</entry>
+        <entry encoding="base64">XDxBdkRpc3BsYXlXaW5kb3dFdmVudFR5cGVcPg==</entry>
         <entry encoding="base64">XDxBdkRpc3BsYXlFdmVudFR5cGVcPg==</entry>
+        <entry encoding="base64">XDxBdkRpc3BsYXlTZXR1cEZsYWdzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
