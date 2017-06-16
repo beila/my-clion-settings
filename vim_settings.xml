@@ -23,6 +23,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/api/RendererObjectFactory.cpp" timestamp="1494605056851">
         <mark key="'" line="237" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/events/LifecycleEvent.h" timestamp="1497629640221">
+        <mark key="'" line="38" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/DependencyGraph.cpp" timestamp="1486468441342">
         <mark key="'" line="205" column="40" />
         <mark key="[" line="166" column="45" />
@@ -634,12 +637,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/dispatchers/formatters/DeviceEventFormatter.cpp" timestamp="1497548776245">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/thirdparty/sdl2/SDL2-2.0.3/include/SDL_opengles2.h" timestamp="1497609733848">
-        <mark key="[" line="1914" column="138" />
-        <mark key="]" line="1914" column="3" />
-        <mark key="." line="1914" column="3" />
-        <mark key="^" line="1914" column="3" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/manifest" timestamp="1489163572366">
         <mark key="'" line="12" column="91" />
         <mark key="[" line="12" column="91" />
@@ -719,7 +716,7 @@
         <mark key="]" line="32" column="5" />
         <mark key="." line="32" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497628268208">
+      <file name="/Dummy.txt" timestamp="1497631714733">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -865,8 +862,8 @@
         <mark key="^" line="37" column="5" />
         <mark key="." line="37" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1497540704171">
-        <mark key="'" line="27" column="45" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1497631712638">
+        <mark key="'" line="40" column="2" />
         <mark key="[" line="32" column="53" />
         <mark key="]" line="32" column="61" />
         <mark key="." line="32" column="61" />
@@ -930,12 +927,6 @@
         <mark key="]" line="45" column="109" />
         <mark key="^" line="45" column="109" />
         <mark key="." line="45" column="109" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" timestamp="1497607562122">
-        <mark key="'" line="87" column="45" />
-        <mark key="[" line="88" column="13" />
-        <mark key="]" line="88" column="13" />
-        <mark key="." line="88" column="30" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/CMakeLists.txt" timestamp="1494497684381">
         <mark key="'" line="12" column="0" />
@@ -1484,13 +1475,6 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" timestamp="1497628297665">
-        <mark key="'" line="338" column="28" />
-        <mark key="[" line="374" column="4" />
-        <mark key="]" line="374" column="4" />
-        <mark key="^" line="374" column="4" />
-        <mark key="." line="374" column="4" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/event/EventService.cpp" timestamp="1497440331129">
         <mark key="'" line="80" column="17" />
       </file>
@@ -1503,9 +1487,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_secure_storage_backend.h" timestamp="1495626110265">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/LifecycleEventManager.h" timestamp="1497625841005">
-        <mark key="'" line="43" column="33" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" timestamp="1497539569328">
         <mark key="'" line="298" column="38" />
@@ -1533,37 +1514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
-      <jump line="97" column="58" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
-      <jump line="19" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
-      <jump line="31" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
-      <jump line="105" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Definitions.h" />
-      <jump line="79" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
-      <jump line="53" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="32" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="11" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
-      <jump line="13" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="31" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="29" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="54" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="35" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="88" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
-      <jump line="116" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
-      <jump line="361" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="340" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
-      <jump line="382" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
-      <jump line="381" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
-      <jump line="17" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
-      <jump line="22" column="56" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
-      <jump line="78" column="40" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/plugin/DependencyGraphTest.cpp" />
-      <jump line="41" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/plugin/DependencyGraphTest.cpp" />
-      <jump line="79" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/plugin/DependencyGraphTest.cpp" />
-      <jump line="44" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/plugin/DependencyGraphTest.cpp" />
-      <jump line="426" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginManifest.cpp" />
-      <jump line="427" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginManifest.cpp" />
-      <jump line="439" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginManifest.cpp" />
-      <jump line="436" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginManifest.cpp" />
-      <jump line="45" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/plugin/DependencyGraphTest.cpp" />
       <jump line="31" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/plugin/DependencyGraphTest.cpp" />
       <jump line="110" column="51" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
       <jump line="102" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
@@ -1622,7 +1572,6 @@
       <jump line="460" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="56" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="438" column="45" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
-      <jump line="346" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="38" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/LifecycleState.h" />
       <jump line="442" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="27" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/LifecycleState.h" />
@@ -1632,14 +1581,46 @@
       <jump line="101" column="45" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="359" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="348" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
-      <jump line="338" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="349" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="461" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="383" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="346" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="351" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="450" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="30" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/LifecycleState.h" />
+      <jump line="344" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="33" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="37" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="40" column="38" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="43" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="59" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="82" column="54" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="42" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/events/LifecycleEvent.h" />
+      <jump line="47" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="355" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="75" column="49" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="40" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/events/LifecycleEvent.h" />
+      <jump line="25" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/event/events/LifecycleEvent.cpp" />
+      <jump line="75" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/events/Event.h" />
+      <jump line="454" column="45" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="164" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="269" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="338" column="42" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="50" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="334" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="224" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="233" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="240" column="65" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="38" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/events/LifecycleEvent.h" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="40" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>State)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1673,7 +1654,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>State)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1713,7 +1694,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbWF5YmVDYWxsTGlmZWN5Y2xlSG9va0ZvckVhY2hQbHVnaW5cPg==</text>
+        <text encoding="base64">XDxBdkRpc3BsYXlFdmVudFR5cGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2Vsc2UgLyogZGVmaW5lZChVU0VfU1RBVElDQUxMWV9MSU5LRURfR0xfRlVOQ1RJT05TKSB8fCBkZWZpbmVkKFVTRV9ERVZJQ0VfTEFZRVIpICovCg==</text>
@@ -1764,9 +1745,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbWF5YmVDYWxsTGlmZWN5Y2xlSG9va0ZvckVhY2hQbHVnaW5cPg==</last-search>
+      <last-search encoding="base64">XDxBdkRpc3BsYXlFdmVudFR5cGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbWF5YmVDYWxsTGlmZWN5Y2xlSG9va0ZvckVhY2hQbHVnaW5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBdkRpc3BsYXlFdmVudFR5cGVcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBTVBfTU9EVUxFX0JVSUxEX1RBUkdFVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1774,11 +1755,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRU5ERVJFUl9CQUNLRU5EX0RJUlw+</entry>
-        <entry encoding="base64">XDxQTFVHSU5SRU5ERVJFUl9SRU5ERVJFUl9CQUNLRU5EXD4=</entry>
-        <entry encoding="base64">XDxSRU5ERVJFUl9MSU5LX0xJQlJBUklFU1w+</entry>
-        <entry encoding="base64">XDxpbml0X2dsX2Z1bmN0aW9uc1w+</entry>
-        <entry encoding="base64">XDxVU0VfU1RBVElDQUxMWV9MSU5LRURfR0xfRlVOQ1RJT05TXD4=</entry>
         <entry encoding="base64">XDxjaGVja01hbmlmZXN0SXNVc2FibGVcPg==</entry>
         <entry encoding="base64">XDxpZnNcPg==</entry>
         <entry encoding="base64">XDxqc29uU3RyaW5nXD4=</entry>
@@ -1792,8 +1768,13 @@
         <entry encoding="base64">XDxQTFVHSU5fRklMRVNfQklOQVJJRVNcPg==</entry>
         <entry encoding="base64">XDx3YWl0Rm9ySW5pdGlhbGl6YXRpb25Ub0NvbXBsZXRlXD4=</entry>
         <entry>init_gl_fu</entry>
-        <entry encoding="base64">XDxfZ2V0VHJhbnNpdGlvbk1ldGFkYXRhXD4=</entry>
         <entry encoding="base64">XDxfbWF5YmVDYWxsTGlmZWN5Y2xlSG9va0ZvckVhY2hQbHVnaW5cPg==</entry>
+        <entry encoding="base64">XDxfcmVwb3J0VGltZWxpbmVTdGFydEFjdGlvblw+</entry>
+        <entry encoding="base64">XDxub3RpZmljYXRpb25FdmVudE5hbWVcPg==</entry>
+        <entry encoding="base64">XDxfbG9hZExpZmVjeWNsZVN0YXRlXD4=</entry>
+        <entry encoding="base64">XDxfZ2V0VHJhbnNpdGlvbk1ldGFkYXRhXD4=</entry>
+        <entry encoding="base64">XDxfcHJvY2Vzc0xpZmVjeWNsZVN0YXRlQ2hhbmdlXD4=</entry>
+        <entry encoding="base64">XDxBdkRpc3BsYXlFdmVudFR5cGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
