@@ -775,8 +775,8 @@
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" timestamp="1495799225481">
         <mark key="'" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1497617986075">
-        <mark key="'" line="246" column="94" />
+      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1497619961840">
+        <mark key="'" line="230" column="15" />
         <mark key="[" line="246" column="112" />
         <mark key="]" line="246" column="112" />
         <mark key="." line="246" column="112" />
@@ -1514,7 +1514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/tests/report/listeners/LogListenerTest.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/PluginReport.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/listeners/LogListener.cpp" />
@@ -1614,6 +1613,7 @@
       <jump line="78" column="6" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="252" column="96" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="246" column="94" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="230" column="15" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
     </jumps>
     <registers>
       <register name="a" type="2">
