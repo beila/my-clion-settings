@@ -30,7 +30,7 @@
         <mark key="^" line="167" column="44" />
         <mark key="." line="167" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/PluginReport.cpp" timestamp="1497548665809">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/PluginReport.cpp" timestamp="1497549183510">
         <mark key="'" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/thirdparty/spidermonkey/mozjs-45.0.2/js/src/jsfriendapi.cpp" timestamp="1485796608254">
@@ -203,8 +203,8 @@
         <mark key="^" line="43" column="62" />
         <mark key="." line="43" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/listeners/LogListener.cpp" timestamp="1497548685348">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/listeners/LogListener.cpp" timestamp="1497549186902">
+        <mark key="'" line="315" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/hjdocs/mtk_porting.h" timestamp="1487699932160">
         <mark key="'" line="143" column="0" />
@@ -491,6 +491,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererObjectScope.cpp" timestamp="1494604082073">
         <mark key="'" line="19" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/extensions/LifecycleExtension.cpp" timestamp="1497549195366">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/CMakeLists.txt" timestamp="1494604475738">
         <mark key="'" line="361" column="33" />
         <mark key="[" line="361" column="33" />
@@ -693,8 +696,8 @@
         <mark key="^" line="18" column="39" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/tests/report/listeners/LogListenerTest.cpp" timestamp="1497546518888">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/tests/report/listeners/LogListenerTest.cpp" timestamp="1497549176982">
+        <mark key="'" line="130" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/DeviceLayerTestBase.h" timestamp="1492783586845">
         <mark key="'" line="38" column="23" />
@@ -718,7 +721,7 @@
         <mark key="]" line="32" column="5" />
         <mark key="." line="32" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497541481119">
+      <file name="/Dummy.txt" timestamp="1497605396153">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -1472,8 +1475,8 @@
         <mark key="^" line="51" column="55" />
         <mark key="." line="51" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeLists.txt" timestamp="1497544073991">
-        <mark key="'" line="625" column="17" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeLists.txt" timestamp="1497549213238">
+        <mark key="'" line="640" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDummyDeviceLayerLoader.cpp" timestamp="1493718092022">
         <mark key="'" line="32" column="95" />
@@ -1495,8 +1498,8 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" timestamp="1497440067361">
-        <mark key="'" line="249" column="28" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" timestamp="1497549935964">
+        <mark key="'" line="343" column="36" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/event/EventService.cpp" timestamp="1497440331129">
         <mark key="'" line="80" column="17" />
@@ -1540,21 +1543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="3" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/IgnitionConfig.cmake" />
-      <jump line="125" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/IgnitionConfig.cmake" />
-      <jump line="274" column="44" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" />
-      <jump line="277" column="46" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" />
-      <jump line="40" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/PlatformContext.h" />
-      <jump line="249" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
-      <jump line="270" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" />
-      <jump line="293" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" />
-      <jump line="262" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/event/EventService.cpp" />
-      <jump line="250" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/event/EventService.cpp" />
-      <jump line="251" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/event/EventService.cpp" />
-      <jump line="35" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/EventService.h" />
-      <jump line="37" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/EventService.h" />
-      <jump line="40" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/EventService.h" />
-      <jump line="41" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/EventService.h" />
       <jump line="138" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/EventService.h" />
       <jump line="257" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/event/EventService.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/event/EventService.cpp" />
@@ -1637,9 +1625,24 @@
       <jump line="37" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/tests/report/listeners/LogListenerTest.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/PluginReport.cpp" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/PluginReport.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/listeners/LogListener.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/dispatchers/formatters/DeviceEventFormatter.cpp" />
+      <jump line="130" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/tests/report/listeners/LogListenerTest.cpp" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/PluginReport.cpp" />
+      <jump line="315" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/listeners/LogListener.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/extensions/LifecycleExtension.cpp" />
+      <jump line="640" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeLists.txt" />
+      <jump line="103" column="45" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="65" column="65" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="17" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/LifecycleState.h" />
+      <jump line="21" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/LifecycleState.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="223" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="232" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="243" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="259" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="333" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="343" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1720,7 +1723,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGNsdWRlX3VuaXRfdGVzdHNcPg==</text>
+        <text encoding="base64">XDxfcHJvY2Vzc0xpZmVjeWNsZVN0YXRlQ2hhbmdlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUFWX0RJU1BMQVlfUkVRVUVTVF9FTlRFUl9CQUNLR1JPVU5EID0gMHgwMiwgLy8hPCBUaGUgYXBwbGljYXRpb24gaXMgZW50ZXJlZCB0byB0aGUgYmFja2dyb3VuZCBtb2RlLgoJQVZfRElTUExBWV9SRVFVRVNUX0VOVEVSX0ZPUkVHUk9VTkQgPSAweDAzLCAvLyE8IFRoZSBhcHBsaWNhdGlvbiBpcyBlbnRlcmVkIHRvIHRoZSBmb3JlZ3JvdW5kIG1vZGUuCg==</text>
@@ -1771,9 +1774,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGNsdWRlX3VuaXRfdGVzdHNcPg==</last-search>
+      <last-search encoding="base64">XDxfcHJvY2Vzc0xpZmVjeWNsZVN0YXRlQ2hhbmdlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGNsdWRlX3VuaXRfdGVzdHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfcHJvY2Vzc0xpZmVjeWNsZVN0YXRlQ2hhbmdlXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBTVBfTU9EVUxFX0JVSUxEX1RBUkdFVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1781,8 +1784,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfTElCUkFSWV9GSUxFX1BBVEhcPg==</entry>
-        <entry encoding="base64">XDxFTkFCTEVfTE9BRElOR19JR05JVElPTl9DT05GSUdfRlJPTV9WQVJcPg==</entry>
         <entry encoding="base64">XDxfcHJvY2Vzc0JhY2tncm91bmRSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxydW5cPg==</entry>
         <entry encoding="base64">XDxEaXNwYXRjaFRocmVhZFw+</entry>
@@ -1801,6 +1802,8 @@
         <entry encoding="base64">XDxnZW5lcmF0ZV9jbWFrZV9ncmFwaFw+</entry>
         <entry>test</entry>
         <entry encoding="base64">XDxleGNsdWRlX3VuaXRfdGVzdHNcPg==</entry>
+        <entry encoding="base64">XDxUSU1FTElORV9BQ1RJT05fRkdfVE9fRkdfUFJFRklYXD4=</entry>
+        <entry encoding="base64">XDxfcHJvY2Vzc0xpZmVjeWNsZVN0YXRlQ2hhbmdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
