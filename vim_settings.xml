@@ -490,6 +490,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererObjectScope.cpp" timestamp="1494604082073">
         <mark key="'" line="19" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/config/devicelayer.cmake" timestamp="1497875666058">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="62" />
+        <mark key="^" line="8" column="62" />
+        <mark key="." line="8" column="62" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" timestamp="1497616219860">
         <mark key="'" line="228" column="27" />
         <mark key="[" line="231" column="50" />
@@ -736,7 +742,7 @@
         <mark key="]" line="32" column="5" />
         <mark key="." line="32" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497874488789">
+      <file name="/Dummy.txt" timestamp="1497874812727">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -1282,6 +1288,7 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/src/platform/montoya_egl/PlatformContext.cpp" timestamp="1497874880159" />
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/thirdparty/boost/tools/build/v2/engine/build.sh" timestamp="1496844122638">
         <mark key="'" line="66" column="8" />
       </file>
@@ -1298,11 +1305,12 @@
         <mark key="." line="54" column="77" />
         <mark key="^" line="59" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/check-platformlayer.cmake" timestamp="1497872895772">
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="2" column="88" />
-        <mark key="." line="2" column="88" />
-        <mark key="^" line="2" column="88" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/check-platformlayer.cmake" timestamp="1497875950133">
+        <mark key="'" line="1" column="24" />
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="1" column="59" />
+        <mark key="^" line="1" column="59" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/src/cache/Cache.cpp" timestamp="1488548571897">
         <mark key="'" line="319" column="43" />
@@ -1553,9 +1561,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="456" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
-      <jump line="62" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
-      <jump line="49" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="85" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="345" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="460" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
@@ -1653,13 +1658,16 @@
       <jump line="362" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
       <jump line="22" column="39" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/CMakeLists.txt" />
       <jump line="384" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/CMakeLists.txt" />
+      <jump line="2" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/check-platformlayer.cmake" />
+      <jump line="3" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/check-platformlayer.cmake" />
+      <jump line="1" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/check-platformlayer.cmake" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>D</text>
+        <text>USE_STATICALLY_LINKED_GL_FUNCTIONS</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1693,7 +1701,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>&quot;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1733,10 +1741,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQTFVHSU5SRU5ERVJFUl9CVUlMRF9DTUFLRV9ESVJcPg==</text>
+        <text encoding="base64">XDxVU0VfU1RBVElDQUxMWV9MSU5LRURfR0xfRlVOQ1RJT05TXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QUREX0RFRklOSVRJT05TKC1EVVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OUykK</text>
+      <register name="0" type="4">
+        <text encoding="base64">VVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OUyA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IwojIENoZWNrIHBsYXRmb3JtIGxheWVyIGlzIGFkZXF1YXRlbHkgY2hhbmdlZCB3aGlsZSB0cmFuc2l0aW9uaW5nIHRvIGRldmljZSBsYXllcgojCgo=</text>
@@ -1784,9 +1792,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQTFVHSU5SRU5ERVJFUl9CVUlMRF9DTUFLRV9ESVJcPg==</last-search>
+      <last-search encoding="base64">XDxVU0VfU1RBVElDQUxMWV9MSU5LRURfR0xfRlVOQ1RJT05TXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQTFVHSU5SRU5ERVJFUl9CVUlMRF9DTUFLRV9ESVJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxVU0VfU1RBVElDQUxMWV9MSU5LRURfR0xfRlVOQ1RJT05TXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBTVBfTU9EVUxFX0JVSUxEX1RBUkdFVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1794,7 +1802,6 @@
     </search>
     <history>
       <history-search>
-        <entry>init_gl_fu</entry>
         <entry encoding="base64">XDxfbWF5YmVDYWxsTGlmZWN5Y2xlSG9va0ZvckVhY2hQbHVnaW5cPg==</entry>
         <entry encoding="base64">XDxfcmVwb3J0VGltZWxpbmVTdGFydEFjdGlvblw+</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25FdmVudE5hbWVcPg==</entry>
@@ -1814,6 +1821,7 @@
         <entry encoding="base64">XDxBdkRpc3BsYXlTZXR1cEZsYWdzXD4=</entry>
         <entry>build</entry>
         <entry encoding="base64">XDxQTFVHSU5SRU5ERVJFUl9CVUlMRF9DTUFLRV9ESVJcPg==</entry>
+        <entry encoding="base64">XDxVU0VfU1RBVElDQUxMWV9MSU5LRURfR0xfRlVOQ1RJT05TXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
