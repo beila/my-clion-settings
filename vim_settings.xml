@@ -1358,7 +1358,13 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" timestamp="1494411486915">
         <mark key="'" line="117" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.input/internal/platform/samsungtv/src/SamsungRemoteDelegate.cpp" timestamp="1497881158837" />
+      <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.input/internal/platform/samsungtv/src/SamsungRemoteDelegate.cpp" timestamp="1497958444470">
+        <mark key="'" line="152" column="13" />
+        <mark key="[" line="115" column="33" />
+        <mark key="]" line="115" column="9" />
+        <mark key="^" line="115" column="9" />
+        <mark key="." line="115" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/LifecycleState.h" timestamp="1497625434427">
         <mark key="'" line="107" column="15" />
       </file>
@@ -1582,9 +1588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
-      <jump line="82" column="54" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
-      <jump line="42" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/events/LifecycleEvent.h" />
       <jump line="47" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="355" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="75" column="49" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
@@ -1682,13 +1685,16 @@
       <jump line="150" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="61" column="40" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/CMakeLists.txt" />
       <jump line="374" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/CMakeLists.txt" />
+      <jump line="115" column="9" filename="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.input/internal/platform/samsungtv/src/SamsungRemoteDelegate.cpp" />
+      <jump line="145" column="13" filename="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.input/internal/platform/samsungtv/src/SamsungRemoteDelegate.cpp" />
+      <jump line="152" column="13" filename="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.input/internal/platform/samsungtv/src/SamsungRemoteDelegate.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>F</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1722,7 +1728,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text>F5</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1762,13 +1768,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3JcPg==</text>
+        <text encoding="base64">XDwxNFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUdFVF9UQVJHRVRfUFJPUEVSVFkoVVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OUyBjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay5yZW5kZXJlciBDT01QSUxFX0RFRklOSVRJT05TKQoJTUVTU0FHRShGQVRBTF9FUlJPUiAiRkZGRkZGJHtVU0VfU1RBVElDQUxMWV9MSU5LRURfR0xfRlVOQ1RJT05TfUdHR0dHR0dHIikJIyBGSVhNRQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">R0VUX1RBUkdFVF9QUk9QRVJUWShVU0VfU1RBVElDQUxMWV9MSU5LRURfR0xfRlVOQ1RJT05TIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLnJlbmRlcmVyIENPTVBJTEVfREVGSU5JVElPTlMpCk1FU1NBR0UoRkFUQUxfRVJST1IgIkZGRkZGRiR7VVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OU31HR0dHR0dHRyIpCSMgRklYTUUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1779,28 +1785,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VUKENNQUtFX0RFQlVHX1RBUkdFVF9QUk9QRVJUSUVTIENPTVBJTEVfREVGSU5JVElPTlMpCSMgRklYTUUK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRlZmF1bHQ6IGNvZGUgPSBLRVlfSU5WQUxJRDsgYnJlYWs7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IwojIENoZWNrIHBsYXRmb3JtIGxheWVyIGlzIGFkZXF1YXRlbHkgY2hhbmdlZCB3aGlsZSB0cmFuc2l0aW9uaW5nIHRvIGRldmljZSBsYXllcgojCgo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IwojIENoZWNrIHBsYXRmb3JtIGxheWVyIGlzIGFkZXF1YXRlbHkgY2hhbmdlZCB3aGlsZSB0cmFuc2l0aW9uaW5nIHRvIGRldmljZSBsYXllcgojCgo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SU5DTFVERSgke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vY21ha2VzY3JpcHRzL2J1aWxkL2RldmljZWxheWVyLmNtYWtlKQo=</text>
+        <text encoding="base64">CWlmIChjb3JlOjpDb21tYW5kTGluZTo6R2V0KCkuY29udGFpbnNBcmd1bWVudCgiZW5hYmxlLXJlbmRlcmVyLXNob3J0Y3V0cyIpKQoJewoJCXN3aXRjaCh4Q29kZSkKCQl7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R0VUX1RBUkdFVF9QUk9QRVJUWShVU0VfU1RBVElDQUxMWV9MSU5LRURfR0xfRlVOQ1RJT05TIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLnJlbmRlcmVyIENPTVBJTEVfREVGSU5JVElPTlMpCk1FU1NBR0UoRkFUQUxfRVJST1IgIkZGRkZGRiR7VVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OU31HR0dHR0dHRyIpCSMgRklYTUUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VUKENNQUtFX0RFQlVHX1RBUkdFVF9QUk9QRVJUSUVTIENPTVBJTEVfREVGSU5JVElPTlMpCSMgRklYTUUK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1813,9 +1819,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb3JcPg==</last-search>
+      <last-search encoding="base64">XDwxNFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDwxNFw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBTVBfTU9EVUxFX0JVSUxEX1RBUkdFVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1823,7 +1829,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0VHJhbnNpdGlvbk1ldGFkYXRhXD4=</entry>
         <entry encoding="base64">XDxfcHJvY2Vzc0xpZmVjeWNsZVN0YXRlQ2hhbmdlXD4=</entry>
         <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
         <entry encoding="base64">XDxfY2FsbGJhY2tcPg==</entry>
@@ -1843,6 +1848,7 @@
         <entry encoding="base64">XDxfbG9hZEpTT05Db25maWdGaWxlXD4=</entry>
         <entry>for</entry>
         <entry encoding="base64">XDxmb3JcPg==</entry>
+        <entry encoding="base64">XDwxNFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
