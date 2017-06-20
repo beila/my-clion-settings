@@ -852,8 +852,8 @@
         <mark key="." line="258" column="58" />
         <mark key="^" line="258" column="58" />
       </file>
-      <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" timestamp="1497958837298">
-        <mark key="'" line="87" column="7" />
+      <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" timestamp="1497965178188">
+        <mark key="'" line="29" column="42" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/device/include/device/av_text_to_speech.h" timestamp="1496226294053">
         <mark key="'" line="44" column="11" />
@@ -1605,11 +1605,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
-      <jump line="55" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
-      <jump line="40" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
-      <jump line="64" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
-      <jump line="74" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
       <jump line="68" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
       <jump line="46" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
       <jump line="79" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
@@ -1705,6 +1700,11 @@
       <jump line="116" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/include/util/KeyRepeatManager.h" />
       <jump line="98" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/util/KeyRepeatManager.cpp" />
       <jump line="158" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/util/KeyRepeatManager.cpp" />
+      <jump line="37" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
+      <jump line="101" column="0" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
+      <jump line="173" column="16" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
+      <jump line="182" column="31" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
+      <jump line="29" column="42" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1785,7 +1785,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfeGtleUNvZGVUb0tleUNvZGVcPg==</text>
+        <text encoding="base64">XDxfa2V5TWFwXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUdFVF9UQVJHRVRfUFJPUEVSVFkoVVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OUyBjb20uYW1hem9uLmlnbml0aW9uLmZyYW1ld29yay5yZW5kZXJlciBDT01QSUxFX0RFRklOSVRJT05TKQoJTUVTU0FHRShGQVRBTF9FUlJPUiAiRkZGRkZGJHtVU0VfU1RBVElDQUxMWV9MSU5LRURfR0xfRlVOQ1RJT05TfUdHR0dHR0dHIikJIyBGSVhNRQo=</text>
@@ -1836,9 +1836,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfeGtleUNvZGVUb0tleUNvZGVcPg==</last-search>
+      <last-search encoding="base64">XDxfa2V5TWFwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfeGtleUNvZGVUb0tleUNvZGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfa2V5TWFwXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBTVBfTU9EVUxFX0JVSUxEX1RBUkdFVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1846,7 +1846,6 @@
     </search>
     <history>
       <history-search>
-        <entry>build</entry>
         <entry encoding="base64">XDxQTFVHSU5SRU5ERVJFUl9CVUlMRF9DTUFLRV9ESVJcPg==</entry>
         <entry encoding="base64">XDxVU0VfU1RBVElDQUxMWV9MSU5LRURfR0xfRlVOQ1RJT05TXD4=</entry>
         <entry encoding="base64">XDxfZW5hYmxlUmVuZGVyZXJTaG9ydGN1dHNcPg==</entry>
@@ -1866,6 +1865,7 @@
         <entry encoding="base64">XDxfZGlzcGF0Y2hLZXlTaWduYWxcPg==</entry>
         <entry encoding="base64">XDxfaW5wdXRFdmVudFN1YnNjcmliZXJcPg==</entry>
         <entry encoding="base64">XDxfeGtleUNvZGVUb0tleUNvZGVcPg==</entry>
+        <entry encoding="base64">XDxfa2V5TWFwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
