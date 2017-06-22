@@ -197,8 +197,8 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/test_files.txt" timestamp="1493982510659">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" timestamp="1497984435504">
-        <mark key="'" line="252" column="48" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" timestamp="1498066378043">
+        <mark key="'" line="152" column="40" />
         <mark key="[" line="255" column="59" />
         <mark key="]" line="255" column="59" />
         <mark key="." line="255" column="89" />
@@ -1393,10 +1393,10 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" timestamp="1494411486915">
         <mark key="'" line="117" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.input/internal/platform/samsungtv/src/SamsungRemoteDelegate.cpp" timestamp="1497959803600">
-        <mark key="'" line="152" column="13" />
-        <mark key="[" line="115" column="33" />
-        <mark key="]" line="115" column="9" />
+      <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.input/internal/platform/samsungtv/src/SamsungRemoteDelegate.cpp" timestamp="1498067951507">
+        <mark key="'" line="154" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="77" />
         <mark key="^" line="115" column="9" />
         <mark key="." line="115" column="9" />
       </file>
@@ -1533,12 +1533,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" timestamp="1494410057799">
         <mark key="'" line="115" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" timestamp="1497983341562">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="4" />
-        <mark key="." line="32" column="30" />
-        <mark key="^" line="19" column="32" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" timestamp="1498066385172">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="21" column="6" />
+        <mark key="." line="21" column="6" />
+        <mark key="^" line="21" column="6" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/TTSContext.cpp" timestamp="1493982728315">
         <mark key="'" line="39" column="22" />
@@ -1618,8 +1618,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/platform/sx6/cmakescripts/build.cmake" timestamp="1498065986571">
         <mark key="'" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1497959048454">
-        <mark key="'" line="1054" column="31" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1498067691191">
+        <mark key="'" line="134" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/PluginRendererConfig.cmake" timestamp="1494604468802">
         <mark key="'" line="31" column="8" />
@@ -1637,12 +1637,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="7" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="684" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
-      <jump line="128" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
-      <jump line="607" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
-      <jump line="78" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererInputEventDelegate.cpp" />
-      <jump line="605" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
       <jump line="681" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
       <jump line="1054" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
       <jump line="31" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererInputEventDelegate.cpp" />
@@ -1706,7 +1700,6 @@
       <jump line="297" column="47" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" />
       <jump line="306" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" />
       <jump line="30" column="59" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" />
-      <jump line="34" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" />
       <jump line="171" column="56" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/src/avDisplay.cpp" />
       <jump line="159" column="40" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/src/avDisplay.cpp" />
       <jump line="168" column="13" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/src/avDisplay.cpp" />
@@ -1737,13 +1730,20 @@
       <jump line="4" column="18" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.renderer/internal/platform/lg/cmakescripts/build.cmake" />
       <jump line="8" column="12" filename="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.renderer/internal/platform/samsungtv/cmakescripts/build.cmake" />
       <jump line="4" column="18" filename="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.renderer/internal/platform/samsungtv/cmakescripts/build.cmake" />
+      <jump line="152" column="40" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
+      <jump line="34" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" />
+      <jump line="1052" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="134" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="152" column="13" filename="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.input/internal/platform/samsungtv/src/SamsungRemoteDelegate.cpp" />
+      <jump line="115" column="9" filename="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.input/internal/platform/samsungtv/src/SamsungRemoteDelegate.cpp" />
+      <jump line="154" column="13" filename="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.input/internal/platform/samsungtv/src/SamsungRemoteDelegate.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyogQ29weXJpZ2h0IDIwMTUgQW1hem9uLmNvbSwgSW5jLiBvciBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4gKi8K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1817,10 +1817,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">VVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OU1w+</text>
+        <text encoding="base64">XDwxOVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QXZSZXN1bHRDb2RlIGF2RGV2aWNlU2V0QmFja2dyb3VuZE1vZGUoCgkJQXZEaXNwbGF5Q29udGV4dCBjb250ZXh0LAoJCUF2RGlzcGxheUV2ZW50IGlnbml0aW9uRXZlbnQpCnsKCWlmICghY29udGV4dCkKCXsKCQlyZXR1cm4gREVWSUNFX0xBWUVSX0RJU1BMQVlfQ09OVEVYVF9JTlZBTElEOwoJfQoKCWNvbnRleHQtPnNldEluQmFja2dyb3VuZE1vZGUobW9kZSA9PSBBVl9ERVZJQ0VfQkFDS0dST1VORF9NT0RFX0JBQ0tHUk9VTkQpOwoJcmV0dXJuIEFWX09LOwp9Cgo=</text>
+        <text encoding="base64">LyogQ29weXJpZ2h0IDIwMTUgQW1hem9uLmNvbSwgSW5jLiBvciBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4gKi8K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSR7UExVR0lOVEVMRU1FVFJZX0lOQ0xVREVfRElSU30K</text>
@@ -1868,9 +1868,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">VVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OU1w+</last-search>
+      <last-search encoding="base64">XDwxOVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">VVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OU1w+</last-pattern>
+      <last-pattern encoding="base64">XDwxOVw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBTVBfTU9EVUxFX0JVSUxEX1RBUkdFVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1878,10 +1878,6 @@
     </search>
     <history>
       <history-search>
-        <entry>F10</entry>
-        <entry encoding="base64">XDxLRVlfRjEwXD4=</entry>
-        <entry encoding="base64">XDxJR05JVElPTl9TRExfQUxURVJOQVRFX1RFTEVNRVRSWV9UT0dHTEVfS0VZXD4=</entry>
-        <entry encoding="base64">XDxfaW5wdXRIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxfZGlzcGF0Y2hLZXlTaWduYWxcPg==</entry>
         <entry encoding="base64">XDxfaW5wdXRFdmVudFN1YnNjcmliZXJcPg==</entry>
         <entry encoding="base64">XDxfeGtleUNvZGVUb0tleUNvZGVcPg==</entry>
@@ -1898,6 +1894,10 @@
         <entry encoding="base64">XDxSRU5ERVJFUl9MSU5LX0xJQlJBUklFU1w+</entry>
         <entry encoding="base64">XDxEVVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OU1w+</entry>
         <entry encoding="base64">VVNFX1NUQVRJQ0FMTFlfTElOS0VEX0dMX0ZVTkNUSU9OU1w+</entry>
+        <entry encoding="base64">XDxEaXNwbGF5R2V0T3BlbkdMRnVuY3Rpb25BZGRyZXNzXD4=</entry>
+        <entry encoding="base64">XDxfZW5hYmxlUmVuZGVyZXJTaG9ydGN1dHNcPg==</entry>
+        <entry encoding="base64">XDwxNFw+</entry>
+        <entry encoding="base64">XDwxOVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
