@@ -766,7 +766,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498134096478">
+      <file name="/Dummy.txt" timestamp="1498140598820">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1623,6 +1623,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/platform/sx6/cmakescripts/build.cmake" timestamp="1498065986571">
         <mark key="'" line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.storage/internal/platform/panda/src/backends/SecureStorageBackend.cpp" timestamp="1498140656603">
+        <mark key="'" line="102" column="65" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1498067691191">
         <mark key="'" line="134" column="4" />
       </file>
@@ -1642,11 +1645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererInputEventDelegate.cpp" />
-      <jump line="30" column="60" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/utils/RendererInputEventDelegate.h" />
-      <jump line="55" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/bindings/sm/InputExtension.cpp" />
-      <jump line="173" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/bindings/sm/InputExtension.cpp" />
-      <jump line="62" column="42" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/utils/SceneUpdateThread.cpp" />
       <jump line="64" column="44" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/utils/SceneUpdateThread.cpp" />
       <jump line="72" column="42" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/utils/SceneUpdateThread.cpp" />
       <jump line="74" column="44" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/utils/SceneUpdateThread.cpp" />
@@ -1742,6 +1740,11 @@
       <jump line="154" column="13" filename="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.input/internal/platform/samsungtv/src/SamsungRemoteDelegate.cpp" />
       <jump line="15" column="44" filename="$USER_HOME$/dev/ig/ignition-rpi/rpi.dev.config" />
       <jump line="16" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/utils/Profiler.h" />
+      <jump line="123" column="65" filename="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.storage/internal/platform/panda/src/backends/SecureStorageBackend.cpp" />
+      <jump line="142" column="65" filename="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.storage/internal/platform/panda/src/backends/SecureStorageBackend.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.storage/internal/platform/panda/src/backends/SecureStorageBackend.cpp" />
+      <jump line="39" column="12" filename="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.storage/internal/platform/panda/src/backends/SecureStorageBackend.cpp" />
+      <jump line="102" column="65" filename="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.storage/internal/platform/panda/src/backends/SecureStorageBackend.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1822,7 +1825,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwxOVw+</text>
+        <text encoding="base64">XDxQTEFURk9STV9JRF9TVFJJTkdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyogQ29weXJpZ2h0IDIwMTUgQW1hem9uLmNvbSwgSW5jLiBvciBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4gKi8K</text>
@@ -1873,9 +1876,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwxOVw+</last-search>
+      <last-search encoding="base64">XDxQTEFURk9STV9JRF9TVFJJTkdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwxOVw+</last-pattern>
+      <last-pattern encoding="base64">XDxQTEFURk9STV9JRF9TVFJJTkdcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBTVBfTU9EVUxFX0JVSUxEX1RBUkdFVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1883,7 +1886,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZGlzcGF0Y2hLZXlTaWduYWxcPg==</entry>
         <entry encoding="base64">XDxfaW5wdXRFdmVudFN1YnNjcmliZXJcPg==</entry>
         <entry encoding="base64">XDxfeGtleUNvZGVUb0tleUNvZGVcPg==</entry>
         <entry encoding="base64">XDxfa2V5TWFwXD4=</entry>
@@ -1903,6 +1905,7 @@
         <entry encoding="base64">XDxfZW5hYmxlUmVuZGVyZXJTaG9ydGN1dHNcPg==</entry>
         <entry encoding="base64">XDwxNFw+</entry>
         <entry encoding="base64">XDwxOVw+</entry>
+        <entry encoding="base64">XDxQTEFURk9STV9JRF9TVFJJTkdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
