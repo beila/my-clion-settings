@@ -1645,7 +1645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="0" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/src/avDisplay.cpp" />
       <jump line="149" column="50" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/EGLDisplayContext.cpp" />
       <jump line="116" column="0" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/EGLDisplayContext.cpp" />
       <jump line="117" column="24" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/EGLDisplayContext.cpp" />
@@ -1745,6 +1744,7 @@
       <jump line="52" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
       <jump line="87" column="7" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
       <jump line="88" column="26" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
+      <jump line="77" column="31" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
