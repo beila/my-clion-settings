@@ -584,6 +584,11 @@
         <mark key="^" line="22" column="23" />
         <mark key="." line="22" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/manifest" timestamp="1498576430679">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="33" />
+      </file>
       <file name="$USER_HOME$/local/depo/src/depo/dependencies/OverridesParser.py" timestamp="1495212547243">
         <mark key="'" line="123" column="32" />
       </file>
@@ -772,7 +777,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498558498382">
+      <file name="/Dummy.txt" timestamp="1498576400065">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1750,8 +1755,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSR7UExVR0lOVEVMRU1FVFJZX0lOQ0xVREVfRElSU30K</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1785,7 +1790,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Device</text>
+        <text>6</text>
       </register>
       <register name="m" type="4">
         <keys>
