@@ -594,8 +594,12 @@
         <mark key="^" line="77" column="51" />
         <mark key="." line="77" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/ig/ignition-rpi/rpi.dev.config" timestamp="1498128614521">
+      <file name="$USER_HOME$/dev/ig/ignition-rpi/rpi.dev.config" timestamp="1498664673914">
         <mark key="'" line="15" column="44" />
+        <mark key="[" line="31" column="2" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_input_defs.h" timestamp="1495626114088">
         <mark key="'" line="0" column="0" />
@@ -774,7 +778,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498664478894">
+      <file name="/Dummy.txt" timestamp="1498664643455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1766,7 +1770,7 @@
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>En/disable</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1800,7 +1804,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>En/disable</text>
       </register>
       <register name="m" type="4">
         <keys>
