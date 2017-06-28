@@ -70,6 +70,12 @@
       <file name="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/EGLDisplayContext.cpp" timestamp="1497982808739">
         <mark key="'" line="117" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/include/EGLDisplayContext.h" timestamp="1498670640930">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="18" />
+        <mark key="^" line="13" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" timestamp="1495201580315">
         <mark key="'" line="111" column="20" />
       </file>
@@ -92,6 +98,13 @@
         <mark key="[" line="9" column="50" />
         <mark key="]" line="9" column="51" />
         <mark key="." line="9" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" timestamp="1498671424572">
+        <mark key="'" line="161" column="0" />
+        <mark key="[" line="52" column="20" />
+        <mark key="]" line="52" column="20" />
+        <mark key="." line="52" column="33" />
+        <mark key="^" line="55" column="57" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_text_to_speech.h" timestamp="1496226602485">
         <mark key="'" line="0" column="0" />
@@ -363,6 +376,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/device/src/display/DevicePlatformContext.cpp" timestamp="1495465446468">
         <mark key="'" line="152" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/include/DisplayContext.h" timestamp="1498671472605">
+        <mark key="'" line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/local/depo/tests/depo/git/test_GitRepo.py" timestamp="1495212903973">
         <mark key="'" line="40" column="34" />
       </file>
@@ -382,6 +398,12 @@
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLCommonContext.cpp" timestamp="1493982740057">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/include/RpiCommonContext.h" timestamp="1498671468356">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="17" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/delegates/DeviceDelegate.cpp" timestamp="1498496782248">
         <mark key="'" line="145" column="18" />
@@ -545,6 +567,12 @@
         <mark key="^" line="361" column="33" />
         <mark key="." line="407" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" timestamp="1498500500380">
+        <mark key="[" line="15" column="63" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="63" />
+        <mark key="^" line="15" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/assets/launch" timestamp="1494407539106">
         <mark key="'" line="9" column="0" />
       </file>
@@ -621,8 +649,8 @@
         <mark key="." line="212" column="27" />
         <mark key="^" line="59" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/igrpi/tools/generate_projects.sh" timestamp="1495726737142">
-        <mark key="'" line="29" column="10" />
+      <file name="$USER_HOME$/dev/igrpi/tools/generate_projects.sh" timestamp="1498670860251">
+        <mark key="'" line="226" column="49" />
         <mark key="[" line="237" column="0" />
         <mark key="]" line="237" column="0" />
         <mark key="^" line="236" column="113" />
@@ -698,6 +726,12 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/dispatchers/formatters/DeviceEventFormatter.cpp" timestamp="1497548776245">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/thirdparty/sdl2/SDL2-2.0.3/include/SDL_opengles2.h" timestamp="1497609733848">
+        <mark key="[" line="1914" column="138" />
+        <mark key="]" line="1914" column="3" />
+        <mark key="." line="1914" column="3" />
+        <mark key="^" line="1914" column="3" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/manifest" timestamp="1489163572366">
         <mark key="'" line="12" column="91" />
@@ -782,7 +816,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498664679902">
+      <file name="/Dummy.txt" timestamp="1498670925202">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -804,10 +838,8 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/tests/GamepadDelegateTest.cpp" timestamp="1498663965283">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="0" />
+      <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/src/DisplayContext.cpp" timestamp="1498671449324">
+        <mark key="'" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/egl/LinuxPlatformContext.cpp" timestamp="1497538046709">
         <mark key="'" line="249" column="27" />
@@ -872,11 +904,6 @@
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.renderer/internal/platform/samsungtv/cmakescripts/build.cmake" timestamp="1498066000388">
         <mark key="'" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.renderer/internal/platform/rpi/cmakescripts/build.cmake" timestamp="1498065993347">
-        <mark key="'" line="4" column="18" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="53" />
-      </file>
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.core/internal/platform/samsungtv/src/plugin/PluginPathPlatform.cpp" timestamp="1497621666727">
         <mark key="'" line="28" column="29" />
       </file>
@@ -919,6 +946,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/tests/CMakeLists.txt" timestamp="1493748473755">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/igrpi/devicerpi/include_files.txt" timestamp="1498670874660">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/LibraryProxy.h" timestamp="1490895430702">
         <mark key="'" line="42" column="27" />
         <mark key="[" line="22" column="5" />
@@ -952,6 +982,11 @@
         <mark key="]" line="37" column="5" />
         <mark key="^" line="37" column="5" />
         <mark key="." line="37" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/src/EGLDisplayContext.cpp" timestamp="1498670711092">
+        <mark key="[" line="183" column="16" />
+        <mark key="]" line="183" column="16" />
+        <mark key="." line="183" column="29" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1498664457075">
         <mark key="'" line="5" column="0" />
@@ -1013,13 +1048,6 @@
         <mark key="]" line="45" column="109" />
         <mark key="^" line="45" column="109" />
         <mark key="." line="45" column="109" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" timestamp="1498661352672">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="88" column="31" />
-        <mark key="]" line="173" column="13" />
-        <mark key="." line="88" column="31" />
-        <mark key="^" line="173" column="13" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/implementation/dummy/CMakeLists.txt" timestamp="1494497684381">
         <mark key="'" line="12" column="0" />
@@ -1398,6 +1426,12 @@
         <mark key="." line="290" column="8" />
         <mark key="^" line="290" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/CMakeLists.txt" timestamp="1498671403316">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="20" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/Library.h" timestamp="1493982516851">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1493,6 +1527,12 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" timestamp="1497612081489">
         <mark key="'" line="171" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/src/InputContext.cpp" timestamp="1498671439524">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="23" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/thread/PS3MutexUtils.h" timestamp="1484665320415">
         <mark key="'" line="7" column="8" />
@@ -1666,39 +1706,14 @@
         <mark key="^" line="24" column="28" />
         <mark key="." line="24" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avCommon.cpp" timestamp="1498671430492">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="40" column="4" />
+        <mark key="." line="40" column="17" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="39" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="40" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="42" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="43" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="44" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="45" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="47" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="48" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="49" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="50" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="51" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="52" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="87" column="7" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="88" column="26" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="77" column="31" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" />
-      <jump line="103" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/delegates/DeviceDelegate.cpp" />
-      <jump line="145" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/delegates/DeviceDelegate.cpp" />
-      <jump line="154" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/util/KeyRepeatManager.cpp" />
-      <jump line="168" column="4" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
-      <jump line="169" column="57" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
-      <jump line="88" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
-      <jump line="94" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
-      <jump line="175" column="37" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
-      <jump line="183" column="13" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
-      <jump line="35" column="70" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
-      <jump line="19" column="34" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
-      <jump line="102" column="4" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
-      <jump line="91" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
-      <jump line="90" column="13" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
       <jump line="69" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" />
       <jump line="45" column="0" filename="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_common.h" />
@@ -1768,13 +1783,44 @@
       <jump line="27" column="44" filename="$USER_HOME$/dev/igrpi/devicerpi/tests/SecureStorageBackendTest.cpp" />
       <jump line="15" column="38" filename="$USER_HOME$/dev/igrpi/devicerpi/tests/SecureStorageBackendTest.cpp" />
       <jump line="27" column="29" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avSecureStorageBackend.cpp" />
+      <jump line="226" column="49" filename="$USER_HOME$/dev/igrpi/tools/generate_projects.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/igrpi/devicerpi/include_files.txt" />
+      <jump line="37" column="28" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="36" column="33" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="39" column="52" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="81" column="33" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="82" column="22" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="97" column="33" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="98" column="23" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="113" column="33" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="114" column="22" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="129" column="33" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="132" column="30" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="136" column="31" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="171" column="33" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="52" column="20" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="55" column="57" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="61" column="22" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="66" column="24" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="53" column="33" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/src/DisplayContext.cpp" />
+      <jump line="17" column="18" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/include/DisplayContext.h" />
+      <jump line="183" column="0" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/src/DisplayContext.cpp" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/CMakeLists.txt" />
+      <jump line="172" column="0" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="161" column="0" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
+      <jump line="40" column="0" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avCommon.cpp" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/src/InputContext.cpp" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/src/DisplayContext.cpp" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/include/RpiCommonContext.h" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/include/DisplayContext.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>En/disable</text>
+        <text>diplayContext</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1808,7 +1854,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>En/disable</text>
+        <text>diplayContext</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1848,7 +1894,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdG9yYWdlQ3JlYXRlQ29udGV4dFw+</text>
+        <text encoding="base64">XDxkaXBsYXlDb250ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHRlc3Rpbmc7Cgo=</text>
@@ -1899,9 +1945,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdG9yYWdlQ3JlYXRlQ29udGV4dFw+</last-search>
+      <last-search encoding="base64">XDxkaXBsYXlDb250ZXh0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdG9yYWdlQ3JlYXRlQ29udGV4dFw+</last-pattern>
+      <last-pattern encoding="base64">XDxkaXBsYXlDb250ZXh0XD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBTVBfTU9EVUxFX0JVSUxEX1RBUkdFVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1909,9 +1955,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwxNFw+</entry>
-        <entry encoding="base64">XDwxOVw+</entry>
-        <entry encoding="base64">XDxQTEFURk9STV9JRF9TVFJJTkdcPg==</entry>
         <entry encoding="base64">XDxfa2V5TWFwXD4=</entry>
         <entry encoding="base64">XDxLRVlfRjEwXD4=</entry>
         <entry encoding="base64">XDxJR05JVElPTl9TRExfQUxURVJOQVRFX1RFTEVNRVRSWV9UT0dHTEVfS0VZXD4=</entry>
@@ -1929,6 +1972,9 @@
         <entry encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfUk9PVF9ESVJcPg==</entry>
         <entry encoding="base64">XDxfY3JlYXRlQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxTdG9yYWdlQ3JlYXRlQ29udGV4dFw+</entry>
+        <entry encoding="base64">XDxlZ2xDb250ZXh0XD4=</entry>
+        <entry encoding="base64">XDxlZ2xEaXNwbGF5Q29udGV4dFw+</entry>
+        <entry encoding="base64">XDxkaXBsYXlDb250ZXh0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
