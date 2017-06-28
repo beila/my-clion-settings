@@ -774,7 +774,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498664127664">
+      <file name="/Dummy.txt" timestamp="1498664478894">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -945,12 +945,12 @@
         <mark key="^" line="37" column="5" />
         <mark key="." line="37" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1498505878252">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1498664457075">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="45" column="60" />
+        <mark key="[" line="66" column="8" />
+        <mark key="]" line="66" column="9" />
+        <mark key="." line="66" column="9" />
+        <mark key="^" line="66" column="9" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/SecureStorageBackendFactory.h" timestamp="1490955275327">
         <mark key="'" line="43" column="10" />
@@ -1765,8 +1765,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIkdFVF9GSUxFTkFNRV9DT01QT05FTlQoSUdOSVRJT05fREVWSUNFX0xBWUVSX1JPT1RfRElSICR7SUdOSVRJT05fREVWSUNFX0xBWUVSX1JPT1RfRElSfSBBQlNPTFVURSkiKQkjIEZJWE1FCg==</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1800,7 +1800,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/dev/ig/devicelinux/</text>
+        <text>8</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1846,7 +1846,7 @@
         <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHRlc3Rpbmc7Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIkdFVF9GSUxFTkFNRV9DT01QT05FTlQoSUdOSVRJT05fREVWSUNFX0xBWUVSX1JPT1RfRElSICR7SUdOSVRJT05fREVWSUNFX0xBWUVSX1JPT1RfRElSfSBBQlNPTFVURSkiKQkjIEZJWE1FCg==</text>
+        <text encoding="base64">CXVpbnQ4X3QgcGFkZGluZ1szXTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1857,31 +1857,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJbWVzc2FnZShTVEFUVVMgIkNPTkZJR1VSRV9GSUxFKCR7RklMRX0gJHtERVNUX0ZJTEV9IENPUFlPTkxZKSIpCSMgRklYTUUK</text>
+        <text encoding="base64">bWVzc2FnZShTVEFUVVMgIkdFVF9GSUxFTkFNRV9DT01QT05FTlQoSUdOSVRJT05fREVWSUNFX0xBWUVSX1JPT1RfRElSICR7SUdOSVRJT05fREVWSUNFX0xBWUVSX1JPT1RfRElSfSBBQlNPTFVURSkiKQkjIEZJWE1FCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJbWVzc2FnZShTVEFUVVMgIkNPTkZJR1VSRV9GSUxFKCR7RklMRX0gL2hvbWUvaG9qaW4vZGV2L2lnL2RldmljZWxpbnV4LyR7REVTVF9GSUxFfSBDT1BZT05MWSkiKQkjIEZJWE1FCg==</text>
+        <text encoding="base64">CQkJbWVzc2FnZShTVEFUVVMgIkNPTkZJR1VSRV9GSUxFKCR7RklMRX0gJHtERVNUX0ZJTEV9IENPUFlPTkxZKSIpCSMgRklYTUUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCSMgVAo=</text>
+        <text encoding="base64">CQkJbWVzc2FnZShTVEFUVVMgIkNPTkZJR1VSRV9GSUxFKCR7RklMRX0gL2hvbWUvaG9qaW4vZGV2L2lnL2RldmljZWxpbnV4LyR7REVTVF9GSUxFfSBDT1BZT05MWSkiKQkjIEZJWE1FCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJbWVzc2FnZSAoU1RBVFVTICJDT05GSUdVUkVfRklMRSgke0ZJTEV9IC9ob21lL2hvamluL2Rldi9pZy9kZXZpY2VsaW51eC8ke0RFU1RfRklMRX0gQ09QWU9OTFkpIikJIyBGSVhNRQo=</text>
+        <text encoding="base64">CQkJCSMgVAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBDT05GSUdVUkVfRklMRSByZXF1aXJlcyB0aGUgcGF0aCB0byBiZSBhYnNvbHV0ZQo=</text>
+        <text encoding="base64">CQkJbWVzc2FnZSAoU1RBVFVTICJDT05GSUdVUkVfRklMRSgke0ZJTEV9IC9ob21lL2hvamluL2Rldi9pZy9kZXZpY2VsaW51eC8ke0RFU1RfRklMRX0gQ09QWU9OTFkpIikJIyBGSVhNRQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUVYTgo=</text>
+        <text encoding="base64">IyBDT05GSUdVUkVfRklMRSByZXF1aXJlcyB0aGUgcGF0aCB0byBiZSBhYnNvbHV0ZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CUVYTgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSR7UExVR0lOVEVMRU1FVFJZX0lOQ0xVREVfRElSU30K</text>
+        <text encoding="base64">CUVYTgo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">Y29yZTo6ZnVuY3Rpb248ZGVjbHR5cGUoYXZTdG9yYWdlQmFja2VuZENyZWF0ZUNvbnRleHQpPg==</text>
