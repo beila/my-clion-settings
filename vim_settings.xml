@@ -664,8 +664,8 @@
         <mark key="^" line="71" column="42" />
         <mark key="." line="71" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/tests/InputTests.cpp" timestamp="1498746353506">
-        <mark key="'" line="69" column="0" />
+      <file name="$USER_HOME$/dev/ig/devicelinux/tests/InputTests.cpp" timestamp="1498747324924">
+        <mark key="'" line="96" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" timestamp="1498747219156">
         <mark key="'" line="275" column="33" />
@@ -794,7 +794,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498746715088">
+      <file name="/Dummy.txt" timestamp="1498747239769">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1654,7 +1654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" />
       <jump line="57" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
       <jump line="57" column="22" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
       <jump line="107" column="79" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
@@ -1754,6 +1753,7 @@
       <jump line="275" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
       <jump line="79" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
       <jump line="58" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
+      <jump line="96" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/InputTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
