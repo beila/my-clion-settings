@@ -714,8 +714,8 @@
         <mark key="^" line="627" column="39" />
         <mark key="." line="627" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avSecureStorageBackend.cpp" timestamp="1498669640843">
-        <mark key="'" line="27" column="29" />
+      <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avSecureStorageBackend.cpp" timestamp="1498736188272">
+        <mark key="'" line="38" column="25" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.oem.loader/platform-oem/amazon/include/global_oem_porting.h" timestamp="1489491387776">
         <mark key="'" line="54" column="18" />
@@ -1714,10 +1714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/CMakeLists.txt" />
-      <jump line="45" column="0" filename="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_common.h" />
-      <jump line="317" column="4" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
       <jump line="306" column="8" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
       <jump line="320" column="4" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
       <jump line="318" column="25" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
@@ -1814,6 +1810,10 @@
       <jump line="44" column="0" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/src/DisplayContext.cpp" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/include/RpiCommonContext.h" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/include/DisplayContext.h" />
+      <jump line="41" column="15" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avSecureStorageBackend.cpp" />
+      <jump line="13" column="4" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avSecureStorageBackend.cpp" />
+      <jump line="38" column="25" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avSecureStorageBackend.cpp" />
+      <jump line="78" column="34" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/src/SecureStorageBackendContext.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1894,7 +1894,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXBsYXlDb250ZXh0XD4=</text>
+        <text encoding="base64">XDxERVZJQ0VfTEFZRVJfU1NCX1VOSU5JVElBTElaQVRJT05fRkFJTFVSRVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHRlc3Rpbmc7Cgo=</text>
@@ -1945,9 +1945,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXBsYXlDb250ZXh0XD4=</last-search>
+      <last-search encoding="base64">XDxERVZJQ0VfTEFZRVJfU1NCX1VOSU5JVElBTElaQVRJT05fRkFJTFVSRVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXBsYXlDb250ZXh0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxERVZJQ0VfTEFZRVJfU1NCX1VOSU5JVElBTElaQVRJT05fRkFJTFVSRVw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBTVBfTU9EVUxFX0JVSUxEX1RBUkdFVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1955,7 +1955,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfa2V5TWFwXD4=</entry>
         <entry encoding="base64">XDxLRVlfRjEwXD4=</entry>
         <entry encoding="base64">XDxJR05JVElPTl9TRExfQUxURVJOQVRFX1RFTEVNRVRSWV9UT0dHTEVfS0VZXD4=</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
@@ -1975,6 +1974,7 @@
         <entry encoding="base64">XDxlZ2xDb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxlZ2xEaXNwbGF5Q29udGV4dFw+</entry>
         <entry encoding="base64">XDxkaXBsYXlDb250ZXh0XD4=</entry>
+        <entry encoding="base64">XDxERVZJQ0VfTEFZRVJfU1NCX1VOSU5JVElBTElaQVRJT05fRkFJTFVSRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
