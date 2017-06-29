@@ -693,11 +693,11 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SDLCommonContext.h" timestamp="1493982759051">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" timestamp="1498750234904">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" timestamp="1498751739520">
         <mark key="'" line="152" column="17" />
-        <mark key="[" line="148" column="36" />
-        <mark key="]" line="127" column="44" />
-        <mark key="." line="148" column="44" />
+        <mark key="[" line="216" column="36" />
+        <mark key="]" line="166" column="53" />
+        <mark key="." line="216" column="44" />
         <mark key="^" line="127" column="44" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.views/src/bindings/sm/ViewsExtension.cpp" timestamp="1486642648022">
@@ -805,7 +805,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498750289192">
+      <file name="/Dummy.txt" timestamp="1498751743000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -867,7 +867,7 @@
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" timestamp="1495799225481">
         <mark key="'" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1498749559693">
+      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1498750398567">
         <mark key="'" line="121" column="11" />
         <mark key="[" line="121" column="47" />
         <mark key="]" line="122" column="102" />
@@ -1464,6 +1464,9 @@
       <file name="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.renderer/internal/platform/panda/cmakescripts/build.cmake" timestamp="1498065991635">
         <mark key="'" line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" timestamp="1498750383874">
+        <mark key="'" line="100" column="57" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/PluginJavaScriptConfig.cmake" timestamp="1497535348943">
         <mark key="'" line="149" column="25" />
       </file>
@@ -1661,8 +1664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
-      <jump line="183" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
       <jump line="2409" column="4" filename="$USER_HOME$/dev/ig/devicelinux/tests/lib/gmock/include/gmock/gmock-matchers.h" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/tests/GamepadDelegateTest.cpp" />
       <jump line="59" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/tests/InputTests.cpp" />
@@ -1761,13 +1762,15 @@
       <jump line="40" column="0" filename="$USER_HOME$/dev/igbuild/linux/debug/CMakeCache.txt" />
       <jump line="420" column="0" filename="$USER_HOME$/dev/igbuild/linux/debug/CMakeCache.txt" />
       <jump line="421" column="0" filename="$USER_HOME$/dev/igbuild/linux/debug/CMakeCache.txt" />
+      <jump line="97" column="59" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
+      <jump line="100" column="57" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1801,7 +1804,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FATAL_ERROR</text>
+        <text>t</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1841,7 +1844,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>IGNITION_DEVICE_LAYER_ROOT_DIR</text>
+        <text encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfUk9PVF9ESVJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bWVzc2FnZShTRU5EX0VSUk9SICJJRihOT1QgJHtJR05JVElPTl9ERVZJQ0VfTEFZRVJfUk9PVF9ESVJ9KSIpCSMgRklYTUUK</text>
@@ -1892,9 +1895,9 @@
       </register>
     </registers>
     <search>
-      <last-search>IGNITION_DEVICE_LAYER_ROOT_DIR</last-search>
+      <last-search encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfUk9PVF9ESVJcPg==</last-search>
       <last-offset />
-      <last-pattern>IGNITION_DEVICE_LAYER_ROOT_DIR</last-pattern>
+      <last-pattern encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfUk9PVF9ESVJcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBTVBfTU9EVUxFX0JVSUxEX1RBUkdFVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1908,7 +1911,6 @@
         <entry encoding="base64">XDxBdklucHV0Q2FsbGJhY2tGdW5jdGlvbnNcPg==</entry>
         <entry>note</entry>
         <entry encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfUk9PVFw+</entry>
-        <entry encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfUk9PVF9ESVJcPg==</entry>
         <entry encoding="base64">XDxfY3JlYXRlQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxTdG9yYWdlQ3JlYXRlQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxlZ2xDb250ZXh0XD4=</entry>
@@ -1922,6 +1924,7 @@
         <entry encoding="base64">XDxzZXRFdmVudENhbGxiYWNrXD4=</entry>
         <entry encoding="base64">XDxkZXZpY2VfbGF5ZXJfcm9vdF9kaXJcPg==</entry>
         <entry>IGNITION_DEVICE_LAYER_ROOT_DIR</entry>
+        <entry encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfUk9PVF9ESVJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
