@@ -814,8 +814,11 @@
       <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/src/DisplayContext.cpp" timestamp="1498671449324">
         <mark key="'" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/egl/LinuxPlatformContext.cpp" timestamp="1498757403496">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/egl/LinuxPlatformContext.cpp" timestamp="1498813026009">
         <mark key="'" line="262" column="8" />
+        <mark key="[" line="262" column="8" />
+        <mark key="]" line="262" column="8" />
+        <mark key="." line="262" column="8" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/SymbolLoader.cpp" timestamp="1490885874170">
         <mark key="'" line="0" column="20" />
@@ -1754,7 +1757,7 @@
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>X</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1788,7 +1791,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>X</text>
       </register>
       <register name="m" type="4">
         <keys>
