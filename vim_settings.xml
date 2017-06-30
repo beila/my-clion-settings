@@ -539,8 +539,8 @@
         <mark key="^" line="97" column="16" />
         <mark key="." line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" timestamp="1498747233076">
-        <mark key="'" line="58" column="12" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" timestamp="1498844423492">
+        <mark key="'" line="93" column="54" />
         <mark key="[" line="103" column="69" />
         <mark key="]" line="103" column="74" />
         <mark key="^" line="103" column="74" />
@@ -972,12 +972,12 @@
         <mark key="]" line="183" column="16" />
         <mark key="." line="183" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1498747225988">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1498843506445">
         <mark key="'" line="79" column="15" />
-        <mark key="[" line="79" column="39" />
-        <mark key="]" line="79" column="44" />
-        <mark key="." line="79" column="44" />
-        <mark key="^" line="79" column="44" />
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="5" />
+        <mark key="." line="41" column="5" />
+        <mark key="^" line="41" column="5" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/SecureStorageBackendFactory.h" timestamp="1490955275327">
         <mark key="'" line="43" column="10" />
@@ -1655,7 +1655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="23" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
       <jump line="113" column="33" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
       <jump line="114" column="22" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
       <jump line="129" column="33" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
@@ -1755,6 +1754,7 @@
       <jump line="145" column="43" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
       <jump line="165" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
       <jump line="181" column="23" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
+      <jump line="93" column="54" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
