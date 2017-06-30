@@ -854,8 +854,8 @@
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" timestamp="1495799225481">
         <mark key="'" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1498750398567">
-        <mark key="'" line="121" column="11" />
+      <file name="$USER_HOME$/dev/ig/tools/generate_projects.sh" timestamp="1498820283753">
+        <mark key="'" line="120" column="1" />
         <mark key="[" line="121" column="47" />
         <mark key="]" line="122" column="102" />
         <mark key="." line="121" column="54" />
@@ -1655,7 +1655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="34" filename="$USER_HOME$/dev/igrpi/devicerpi/tests/SecureStorageBackendTest.cpp" />
       <jump line="53" column="16" filename="$USER_HOME$/dev/igrpi/devicerpi/tests/SecureStorageBackendTest.cpp" />
       <jump line="36" column="8" filename="$USER_HOME$/dev/igrpi/devicerpi/tests/SecureStorageBackendTest.cpp" />
       <jump line="44" column="4" filename="$USER_HOME$/dev/igrpi/devicerpi/tests/SecureStorageBackendTest.cpp" />
@@ -1755,6 +1754,7 @@
       <jump line="370" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/egl/LinuxPlatformContext.cpp" />
       <jump line="262" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/egl/LinuxPlatformContext.cpp" />
       <jump line="2852" column="11" filename="/usr/include/X11/Xlib.h" />
+      <jump line="120" column="1" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
     </jumps>
     <registers>
       <register name="a" type="2">
