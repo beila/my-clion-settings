@@ -198,8 +198,8 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/test_files.txt" timestamp="1493982510659">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" timestamp="1498753441619">
-        <mark key="'" line="53" column="9" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" timestamp="1499074027519">
+        <mark key="'" line="146" column="30" />
         <mark key="[" line="33" column="50" />
         <mark key="]" line="33" column="55" />
         <mark key="." line="33" column="55" />
@@ -279,6 +279,9 @@
       </file>
       <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" timestamp="1495201490578">
         <mark key="'" line="39" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" timestamp="1499074153712">
+        <mark key="'" line="89" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelayerskeleton/CMakeLists.txt" timestamp="1496226746053">
         <mark key="'" line="0" column="0" />
@@ -789,7 +792,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498828875049">
+      <file name="/Dummy.txt" timestamp="1499073988400">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1633,6 +1636,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/platform/sx6/cmakescripts/build.cmake" timestamp="1498065986571">
         <mark key="'" line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" timestamp="1499074124126">
+        <mark key="'" line="272" column="53" />
+      </file>
       <file name="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.storage/internal/platform/panda/src/backends/SecureStorageBackend.cpp" timestamp="1498140656603">
         <mark key="'" line="102" column="65" />
       </file>
@@ -1655,13 +1661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="33" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
-      <jump line="114" column="22" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
-      <jump line="129" column="33" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
-      <jump line="132" column="30" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
-      <jump line="136" column="31" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
-      <jump line="171" column="33" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
-      <jump line="52" column="20" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
       <jump line="55" column="57" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
       <jump line="61" column="22" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
       <jump line="66" column="24" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avDisplay.cpp" />
@@ -1755,6 +1754,13 @@
       <jump line="165" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
       <jump line="181" column="23" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
       <jump line="93" column="54" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display.h" />
+      <jump line="133" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
+      <jump line="137" column="57" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
+      <jump line="146" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
+      <jump line="272" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" />
+      <jump line="115" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" />
+      <jump line="68" column="50" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" />
+      <jump line="89" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1835,7 +1841,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aW5kb3dcPg==</text>
+        <text encoding="base64">XDxfbGlzdGVuZXJzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0VUKFBMVUdJTklOUFVUX0hBU19DVVNUT01fREVMRUdBVEVTIFlFUykK</text>
@@ -1886,9 +1892,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3aW5kb3dcPg==</last-search>
+      <last-search encoding="base64">XDxfbGlzdGVuZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aW5kb3dcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfbGlzdGVuZXJzXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBTVBfTU9EVUxFX0JVSUxEX1RBUkdFVFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1896,9 +1902,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBdklucHV0Q2FsbGJhY2tGdW5jdGlvbnNcPg==</entry>
-        <entry>note</entry>
-        <entry encoding="base64">XDxJR05JVElPTl9ERVZJQ0VfTEFZRVJfUk9PVFw+</entry>
         <entry encoding="base64">XDxfY3JlYXRlQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxTdG9yYWdlQ3JlYXRlQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxlZ2xDb250ZXh0XD4=</entry>
@@ -1916,6 +1919,9 @@
         <entry>process</entry>
         <entry>XNext</entry>
         <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
+        <entry encoding="base64">XDxoYW5kbGVFdmVudHNcPg==</entry>
+        <entry encoding="base64">XDxsaXN0ZW5lclw+</entry>
+        <entry encoding="base64">XDxfbGlzdGVuZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
