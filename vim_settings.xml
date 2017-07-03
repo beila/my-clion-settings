@@ -554,8 +554,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/extensions/LifecycleExtension.cpp" timestamp="1497549195366">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/CMakeLists.txt" timestamp="1499092347818">
-        <mark key="'" line="54" column="15" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/CMakeLists.txt" timestamp="1499093160925">
+        <mark key="'" line="372" column="20" />
         <mark key="[" line="407" column="8" />
         <mark key="]" line="407" column="8" />
         <mark key="^" line="361" column="33" />
@@ -1661,7 +1661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="34" filename="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/src/SecureStorageBackendContext.cpp" />
       <jump line="287" column="84" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
       <jump line="69" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/InputTests.cpp" />
       <jump line="33" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
@@ -1761,6 +1760,7 @@
       <jump line="1178" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
       <jump line="594" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
       <jump line="54" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/CMakeLists.txt" />
+      <jump line="372" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
