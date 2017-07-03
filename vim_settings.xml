@@ -533,10 +533,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererObjectScope.cpp" timestamp="1494604082073">
         <mark key="'" line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/config/devicelayer.cmake" timestamp="1498749818785">
-        <mark key="[" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" timestamp="1497616219860">
         <mark key="'" line="228" column="27" />
         <mark key="[" line="231" column="50" />
@@ -560,6 +556,12 @@
         <mark key="]" line="407" column="8" />
         <mark key="^" line="361" column="33" />
         <mark key="." line="407" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/iglg/tools/generate_projects.sh" timestamp="1499095950158">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="4" />
+        <mark key="." line="259" column="4" />
+        <mark key="^" line="259" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/assets/launch" timestamp="1494407539106">
         <mark key="'" line="9" column="0" />
@@ -1767,7 +1769,7 @@
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">U0VUKFBMVUdJTklOUFVUX0hBU19DVVNUT01fREVMRUdBVEVTIFlFUykK</text>
+        <text encoding="base64">Y21ha2UgLURDTUFLRV9CVUlMRF9UWVBFPVJlbFdpdGhEZWJJbmZvICRUT09MQ0hBSU5fT1BUSU9OIC1EQlVJTERfUExBVEZPUk09JFBMQVRGT1JNICRCQVNIX1NDUklQVF9ESVIgJENNQUtFX09QVElPTlMK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1844,7 +1846,7 @@
         <text>build.cmake</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VUKFBMVUdJTklOUFVUX0hBU19DVVNUT01fREVMRUdBVEVTIFlFUykK</text>
+        <text encoding="base64">Y21ha2UgLURDTUFLRV9CVUlMRF9UWVBFPVJlbFdpdGhEZWJJbmZvICRUT09MQ0hBSU5fT1BUSU9OIC1EQlVJTERfUExBVEZPUk09JFBMQVRGT1JNICRCQVNIX1NDUklQVF9ESVIgJENNQUtFX09QVElPTlMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
