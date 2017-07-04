@@ -36,6 +36,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/PluginReport.cpp" timestamp="1497549183510">
         <mark key="'" line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" timestamp="1499197545605">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/include/display/DevicePlatformContext.h" timestamp="1499194857354">
         <mark key="'" line="67" column="19" />
       </file>
@@ -1015,6 +1018,9 @@
         <mark key="." line="41" column="5" />
         <mark key="^" line="41" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/include/SDLDisplayContext.h" timestamp="1499197846806">
+        <mark key="'" line="39" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/SecureStorageBackendFactory.h" timestamp="1490955275327">
         <mark key="'" line="43" column="10" />
         <mark key="[" line="27" column="67" />
@@ -1533,12 +1539,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/src/Animation.cpp" timestamp="1497535790047">
         <mark key="'" line="145" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" timestamp="1499194743170">
+      <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" timestamp="1499197980529">
         <mark key="'" line="160" column="8" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="180" column="16" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="168" column="5" />
+        <mark key="." line="168" column="5" />
+        <mark key="^" line="168" column="5" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" timestamp="1496160497114">
         <mark key="'" line="110" column="27" />
@@ -1681,11 +1687,6 @@
         <mark key="^" line="635" column="45" />
         <mark key="." line="635" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-test-resource-post-build.cmake" timestamp="1499182029547">
-        <mark key="'" line="14" column="72" />
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="66" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/bindings/sm/JsSceneGraphCallback.cpp" timestamp="1486642866518">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="51" column="52" />
@@ -1763,8 +1764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="20" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
-      <jump line="64" column="12" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="20" column="31" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-test-resource-post-build.cmake" />
       <jump line="25" column="41" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-test-resource-post-build.cmake" />
       <jump line="32" column="41" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-test-resource-post-build.cmake" />
@@ -1863,6 +1862,8 @@
       <jump line="85" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="80" column="58" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="137" column="0" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" />
+      <jump line="39" column="9" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/include/SDLDisplayContext.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
