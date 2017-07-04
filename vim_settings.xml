@@ -36,8 +36,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/PluginReport.cpp" timestamp="1497549183510">
         <mark key="'" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/include/display/DevicePlatformContext.h" timestamp="1499191925455">
-        <mark key="'" line="41" column="9" />
+      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/include/display/DevicePlatformContext.h" timestamp="1499194857354">
+        <mark key="'" line="67" column="19" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/thirdparty/spidermonkey/mozjs-45.0.2/js/src/jsfriendapi.cpp" timestamp="1485796608254">
         <mark key="'" line="234" column="17" />
@@ -488,12 +488,12 @@
       <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/FileSystemCleaner.py" timestamp="1495201610283">
         <mark key="'" line="50" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" timestamp="1499193284304">
-        <mark key="'" line="131" column="4" />
-        <mark key="[" line="318" column="67" />
-        <mark key="]" line="318" column="66" />
-        <mark key="." line="318" column="66" />
-        <mark key="^" line="318" column="66" />
+      <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" timestamp="1499194778184">
+        <mark key="'" line="139" column="40" />
+        <mark key="[" line="340" column="0" />
+        <mark key="]" line="340" column="43" />
+        <mark key="." line="340" column="0" />
+        <mark key="^" line="139" column="40" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/extensions/CommandLineArgsExtension.cpp" timestamp="1494321323849">
         <mark key="'" line="40" column="68" />
@@ -830,7 +830,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499186091273">
+      <file name="/Dummy.txt" timestamp="1499194823100">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1274,8 +1274,12 @@
         <mark key="^" line="41" column="19" />
         <mark key="." line="41" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" timestamp="1499191942374">
-        <mark key="'" line="255" column="61" />
+      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" timestamp="1499195455139">
+        <mark key="'" line="80" column="58" />
+        <mark key="[" line="255" column="58" />
+        <mark key="]" line="255" column="58" />
+        <mark key="." line="255" column="58" />
+        <mark key="^" line="255" column="26" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/include/device/av_input.h" timestamp="1498661361184">
         <mark key="'" line="63" column="0" />
@@ -1533,11 +1537,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/src/Animation.cpp" timestamp="1497535790047">
         <mark key="'" line="145" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" timestamp="1499187231857">
-        <mark key="'" line="2" column="16" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" timestamp="1499194743170">
+        <mark key="'" line="160" column="8" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
         <mark key="^" line="180" column="16" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" timestamp="1496160497114">
@@ -1763,38 +1767,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="596" column="29" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="592" column="28" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="597" column="39" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="584" column="16" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="603" column="41" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="594" column="49" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="579" column="37" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="574" column="54" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="568" column="61" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="565" column="57" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="563" column="57" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="558" column="57" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="556" column="57" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="552" column="57" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="550" column="57" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="545" column="52" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="542" column="49" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="86" column="12" filename="$USER_HOME$/dev/iglg/tools/CMakeLists.txt" />
-      <jump line="108" column="20" filename="$USER_HOME$/dev/iglg/tools/CMakeLists.txt" />
-      <jump line="103" column="12" filename="$USER_HOME$/dev/iglg/tools/CMakeLists.txt" />
-      <jump line="105" column="16" filename="$USER_HOME$/dev/iglg/tools/CMakeLists.txt" />
-      <jump line="109" column="34" filename="$USER_HOME$/dev/iglg/tools/CMakeLists.txt" />
-      <jump line="117" column="98" filename="$USER_HOME$/dev/iglg/tools/CMakeLists.txt" />
-      <jump line="183" column="0" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tests/CMakeLists.txt" />
-      <jump line="212" column="14" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tests/CMakeLists.txt" />
-      <jump line="214" column="18" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tests/CMakeLists.txt" />
-      <jump line="216" column="22" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tests/CMakeLists.txt" />
-      <jump line="219" column="26" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tests/CMakeLists.txt" />
-      <jump line="182" column="0" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tests/CMakeLists.txt" />
-      <jump line="83" column="84" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
-      <jump line="84" column="134" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
-      <jump line="66" column="16" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="57" column="12" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="47" column="20" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="64" column="12" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
@@ -1855,21 +1827,53 @@
       <jump line="194" column="4" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/deviceLuna/LGMediaLSCall.cpp" />
       <jump line="81" column="0" filename="$USER_HOME$/dev/iglg/tools/CMakeLists.txt" />
       <jump line="41" column="9" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/include/display/DevicePlatformContext.h" />
-      <jump line="255" column="61" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="32" column="33" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" />
       <jump line="680" column="29" filename="$USER_HOME$/dev/igbuildlg/lg/debug/lgsdk/include/SDL2/SDL_video.h" />
       <jump line="335" column="42" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
-      <jump line="338" column="24" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="160" column="0" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="138" column="33" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="321" column="0" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="336" column="57" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="140" column="4" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="338" column="0" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="341" column="57" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="344" column="39" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="36" column="16" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="136" column="16" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="210" column="21" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="339" column="34" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="340" column="42" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="342" column="42" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="345" column="24" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
       <jump line="44" column="6" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
       <jump line="60" column="11" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
       <jump line="131" column="4" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="37" column="25" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" />
+      <jump line="25" column="8" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" />
+      <jump line="43" column="40" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" />
+      <jump line="69" column="28" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" />
+      <jump line="88" column="33" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" />
+      <jump line="104" column="30" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" />
+      <jump line="120" column="42" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" />
+      <jump line="207" column="0" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" />
+      <jump line="184" column="40" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" />
+      <jump line="160" column="8" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" />
+      <jump line="139" column="40" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="256" column="23" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
+      <jump line="67" column="19" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/include/display/DevicePlatformContext.h" />
+      <jump line="37" column="17" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" />
+      <jump line="255" column="48" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
+      <jump line="69" column="47" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
+      <jump line="72" column="17" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
+      <jump line="85" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
+      <jump line="80" column="58" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bWVzc2FnZShGQVRBTF9FUlJPUiAiTElOS19ESVJFQ1RPUklFUyggJHtTREtfUk9PVH0vdXNyL2xpYiApIikJIyBGSVhNRQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1903,7 +1907,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\&quot;XDG_RUNTIME_DIR=/tmp/xdg jailer -t native_mvpd -p /media/cryptofs/apps/usr/palm/applications/amazon -i amazon bin/ignition --plugin com.amazon.ignition.app.stark\&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1943,10 +1947,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcGxhdGZvcm1EYXRhXD4=</text>
+        <text encoding="base64">XDxkaXNwbGF5QVBJXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TElOS19ESVJFQ1RPUklFUygKCQkke1NES19ST09UfS91c3IvbGliCikK</text>
+        <text encoding="base64">CXByaW50ZigiU0RMRGlzcGxheUNvbnRleHQ6JXBcbiIsIHRoaXMpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bWVzc2FnZShGQVRBTF9FUlJPUiAiTElOS19ESVJFQ1RPUklFUyggJHtTREtfUk9PVH0vdXNyL2xpYiApIikJIyBGSVhNRQo=</text>
@@ -1994,9 +1998,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcGxhdGZvcm1EYXRhXD4=</last-search>
+      <last-search encoding="base64">XDxkaXNwbGF5QVBJXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcGxhdGZvcm1EYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkaXNwbGF5QVBJXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbGlzdGVuZXJzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2004,10 +2008,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTVEFUVVNcPg==</entry>
-        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
-        <entry>path</entry>
-        <entry encoding="base64">XDxJR05JVElPTl9URVNUX0lOU1RBTExfU1VCRElSXD4=</entry>
         <entry encoding="base64">SU5TVEFMTF9TVUJESVJcPg==</entry>
         <entry encoding="base64">XDxSRVNPVVJDRV9ESVJFQ1RPUllcPg==</entry>
         <entry encoding="base64">UkVTT1VSQ0VfRElSRUNUT1JZXD4=</entry>
@@ -2023,7 +2023,11 @@
         <entry encoding="base64">XDxpZ25pdGlvblw+</entry>
         <entry>LGRegister</entry>
         <entry encoding="base64">XDxnX2lzX2Nvbm5lY3RlZFw+</entry>
+        <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
         <entry encoding="base64">XDxfcGxhdGZvcm1EYXRhXD4=</entry>
+        <entry encoding="base64">XDxBdkRpc3BsYXlDb250ZXh0XD4=</entry>
+        <entry encoding="base64">XDxkaXNwbGF5UHJvY2Vzc0lnbml0aW9uRXZlbnRGdW5jXD4=</entry>
+        <entry encoding="base64">XDxkaXNwbGF5QVBJXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
