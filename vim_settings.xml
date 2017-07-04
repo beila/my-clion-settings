@@ -298,12 +298,12 @@
       <file name="$USER_HOME$/dev/ig/devicelayerskeleton/CMakeLists.txt" timestamp="1496226746053">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" timestamp="1499182842638">
-        <mark key="'" line="511" column="0" />
-        <mark key="[" line="627" column="70" />
-        <mark key="]" line="627" column="70" />
-        <mark key="^" line="625" column="54" />
-        <mark key="." line="627" column="90" />
+      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" timestamp="1499185140607">
+        <mark key="'" line="543" column="22" />
+        <mark key="[" line="625" column="21" />
+        <mark key="]" line="625" column="25" />
+        <mark key="^" line="625" column="25" />
+        <mark key="." line="625" column="25" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avInput.cpp" timestamp="1494943917161">
         <mark key="'" line="14" column="4" />
@@ -845,7 +845,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499182320030">
+      <file name="/Dummy.txt" timestamp="1499185333883">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1689,8 +1689,8 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_display_defs.h" timestamp="1498747080884">
         <mark key="'" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/devicelg/tests/CMakeLists.txt" timestamp="1499182560735">
-        <mark key="'" line="42" column="24" />
+      <file name="$USER_HOME$/dev/iglg/devicelg/tests/CMakeLists.txt" timestamp="1499185311567">
+        <mark key="'" line="42" column="22" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/src/bindings/sm/AnimationExtension.cpp" timestamp="1486643087302">
         <mark key="'" line="638" column="45" />
@@ -1778,10 +1778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="6" filename="$USER_HOME$/dev/ci/commitment/commitment.cmake" />
-      <jump line="138" column="8" filename="$USER_HOME$/dev/ci/commitment/commitment.cmake" />
-      <jump line="93" column="73" filename="$USER_HOME$/dev/ci/commitment/commitment.cmake" />
-      <jump line="90" column="7" filename="$USER_HOME$/dev/ci/commitment/commitment.cmake" />
       <jump line="120" column="33" filename="$USER_HOME$/dev/ci/commitment/commitment.cmake" />
       <jump line="92" column="16" filename="$USER_HOME$/dev/ci/commitment/commitment.cmake" />
       <jump line="110" column="10" filename="$USER_HOME$/dev/ci/commitment/commitment.cmake" />
@@ -1865,7 +1861,6 @@
       <jump line="85" column="13" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="331" column="0" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.javascript/tests/CMakeLists.txt" />
       <jump line="511" column="0" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="42" column="24" filename="$USER_HOME$/dev/iglg/devicelg/tests/CMakeLists.txt" />
       <jump line="39" column="36" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="43" column="65" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
       <jump line="44" column="49" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
@@ -1878,13 +1873,18 @@
       <jump line="55" column="9" filename="$USER_HOME$/dev/iglg/tools/CMakeLists.txt" />
       <jump line="12" column="26" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
       <jump line="11" column="18" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
+      <jump line="468" column="20" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
+      <jump line="546" column="22" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
+      <jump line="543" column="22" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
+      <jump line="42" column="22" filename="$USER_HOME$/dev/iglg/devicelg/tests/CMakeLists.txt" />
+      <jump line="24" column="10" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-ignition-plugin-cxxtests.cmake" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>mkdir -p tests/lib</text>
+        <text>add_custom_target</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1918,7 +1918,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mkdir -p tests/lib</text>
+        <text>add_custom_target</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1958,7 +1958,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPVVRfTElTVF9MT0NBTFw+</text>
+        <text encoding="base64">XDxJR05JVElPTl9BTExfVEVTVF9TT1VSQ0VTXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJQ09NTUFORCBzc2ggbGd0diAibWtkaXIgLXAgdGVzdHMvbGliIgo=</text>
@@ -2009,17 +2009,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPVVRfTElTVF9MT0NBTFw+</last-search>
+      <last-search encoding="base64">XDxJR05JVElPTl9BTExfVEVTVF9TT1VSQ0VTXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPVVRfTElTVF9MT0NBTFw+</last-pattern>
+      <last-pattern encoding="base64">XDxJR05JVElPTl9BTExfVEVTVF9TT1VSQ0VTXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbGlzdGVuZXJzXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxURVNUX0NPTU1BTkRcPg==</entry>
         <entry encoding="base64">XDxUQVJHRVRfUFJFRklYXD4=</entry>
         <entry encoding="base64">XDxQTFVHSU5NT0NLX1BMVUdJTl9JRFw+</entry>
         <entry encoding="base64">XDxDVEVTVF9OQU1FXD4=</entry>
@@ -2039,6 +2038,7 @@
         <entry>NAME</entry>
         <entry encoding="base64">XDxkZXZpY2VsYXllcmxvYWRlclw+</entry>
         <entry encoding="base64">XDxPVVRfTElTVF9MT0NBTFw+</entry>
+        <entry encoding="base64">XDxJR05JVElPTl9BTExfVEVTVF9TT1VSQ0VTXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
