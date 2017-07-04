@@ -488,8 +488,8 @@
       <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/FileSystemCleaner.py" timestamp="1495201610283">
         <mark key="'" line="50" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" timestamp="1499191970466">
-        <mark key="'" line="338" column="18" />
+      <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" timestamp="1499193284304">
+        <mark key="'" line="131" column="4" />
         <mark key="[" line="318" column="67" />
         <mark key="]" line="318" column="66" />
         <mark key="." line="318" column="66" />
@@ -1763,10 +1763,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="7" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tests/CMakeLists.txt" />
-      <jump line="463" column="4" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
-      <jump line="173" column="44" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tests/CMakeLists.txt" />
-      <jump line="637" column="0" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
       <jump line="596" column="29" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
       <jump line="592" column="28" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
       <jump line="597" column="39" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/CMakeMacros.cmake" />
@@ -1861,8 +1857,12 @@
       <jump line="41" column="9" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/include/display/DevicePlatformContext.h" />
       <jump line="255" column="61" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="32" column="33" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" />
-      <jump line="338" column="18" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
       <jump line="680" column="29" filename="$USER_HOME$/dev/igbuildlg/lg/debug/lgsdk/include/SDL2/SDL_video.h" />
+      <jump line="335" column="42" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="338" column="24" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="44" column="6" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="60" column="11" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
+      <jump line="131" column="4" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1943,7 +1943,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnX2lzX2Nvbm5lY3RlZFw+</text>
+        <text encoding="base64">XDxfcGxhdGZvcm1EYXRhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TElOS19ESVJFQ1RPUklFUygKCQkke1NES19ST09UfS91c3IvbGliCikK</text>
@@ -1994,9 +1994,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnX2lzX2Nvbm5lY3RlZFw+</last-search>
+      <last-search encoding="base64">XDxfcGxhdGZvcm1EYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnX2lzX2Nvbm5lY3RlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxfcGxhdGZvcm1EYXRhXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbGlzdGVuZXJzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2004,7 +2004,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGxvYWRfdW5pdF90ZXN0c1w+</entry>
         <entry encoding="base64">XDxTVEFUVVNcPg==</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry>path</entry>
@@ -2024,6 +2023,7 @@
         <entry encoding="base64">XDxpZ25pdGlvblw+</entry>
         <entry>LGRegister</entry>
         <entry encoding="base64">XDxnX2lzX2Nvbm5lY3RlZFw+</entry>
+        <entry encoding="base64">XDxfcGxhdGZvcm1EYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
