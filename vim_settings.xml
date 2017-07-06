@@ -667,8 +667,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginManifest.cpp" timestamp="1497611971145">
         <mark key="'" line="439" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" timestamp="1499270528860">
-        <mark key="'" line="105" column="8" />
+      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" timestamp="1499358682223">
+        <mark key="'" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/DeviceLibraryProxy.h" timestamp="1492614943331">
         <mark key="'" line="1" column="8" />
@@ -1839,11 +1839,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="9" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="204" column="5" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="38" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="356" column="31" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="203" column="17" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
       <jump line="207" column="9" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
       <jump line="891" column="24" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RenderStateManager.cpp" />
       <jump line="254" column="8" filename="$USER_HOME$/dev/igbuildlg/lg/debug/lgsdk/include/GLES2/gl2.h" />
@@ -1939,6 +1934,11 @@
       <jump line="1093" column="25" filename="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" />
       <jump line="1495" column="0" filename="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" />
       <jump line="19" column="136" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/scripts/PrepareDevicePropertiesProvider.cmake" />
+      <jump line="221" column="3" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" />
+      <jump line="268" column="5" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" />
+      <jump line="275" column="4" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" />
+      <jump line="287" column="3" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2019,7 +2019,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBTUFaT05JVEVfUExBVEZPUk1fRElSXD4=</text>
+        <text encoding="base64">XDxVU0VfREVWSUNFX1BST1BFUlRJRVNfQ09NUE9ORU5UXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CVNFVChERVZJQ0VfUFJPUEVSVElFU19QUk9WSURFUl9ET1dOTE9BRF9DT01NQU5EICR7Q01BS0VfQ09NTUFORH0gLUUgY29weV9kaXJlY3RvcnkgJHtERVZJQ0VfUFJPUEVSVElFU19QUk9WSURFUl9MT0NBVElPTn0gJHtBTUFaT05JVEVfUExBVEZPUk1fRElSfSApCg==</text>
@@ -2070,9 +2070,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBTUFaT05JVEVfUExBVEZPUk1fRElSXD4=</last-search>
+      <last-search encoding="base64">XDxVU0VfREVWSUNFX1BST1BFUlRJRVNfQ09NUE9ORU5UXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBTUFaT05JVEVfUExBVEZPUk1fRElSXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxVU0VfREVWSUNFX1BST1BFUlRJRVNfQ09NUE9ORU5UXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbGlzdGVuZXJzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2080,7 +2080,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXNwbGF5UHJvY2Vzc0lnbml0aW9uRXZlbnRGdW5jXD4=</entry>
         <entry encoding="base64">XDxkaXNwbGF5QVBJXD4=</entry>
         <entry encoding="base64">XDxnZXRFeHRlbnNpb25GdW5jdGlvbkFkZHJlc3NcPg==</entry>
         <entry encoding="base64">XDxHRVRfR0xfRVhURU5TSU9OX1BST0NfQUREUkVTU1w+</entry>
@@ -2100,6 +2099,7 @@
         <entry encoding="base64">XDxwYWNrYWdlX3ZlcnNpb25cPg==</entry>
         <entry>rc.10</entry>
         <entry encoding="base64">XDxBTUFaT05JVEVfUExBVEZPUk1fRElSXD4=</entry>
+        <entry encoding="base64">XDxVU0VfREVWSUNFX1BST1BFUlRJRVNfQ09NUE9ORU5UXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
