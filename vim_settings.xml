@@ -1108,10 +1108,10 @@
         <mark key="." line="16" column="54" />
         <mark key="^" line="85" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/cmakescripts/config.cmake" timestamp="1499345297024">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="60" />
-        <mark key="." line="0" column="60" />
+      <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/cmakescripts/config.cmake" timestamp="1499355975518">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="60" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/Doxyfile" timestamp="1495625926904">
@@ -1456,11 +1456,12 @@
         <mark key="." line="35" column="17" />
         <mark key="^" line="37" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/scripts/PrepareDevicePropertiesProvider.cmake" timestamp="1499346500001">
+      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/scripts/PrepareDevicePropertiesProvider.cmake" timestamp="1499355664708">
         <mark key="'" line="1" column="48" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="161" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="15" column="101" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
+        <mark key="^" line="16" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/tests/CMakeLists.txt" timestamp="1492793123805">
         <mark key="'" line="35" column="6" />
@@ -1963,7 +1964,7 @@
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>#</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1997,7 +1998,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>#</text>
       </register>
       <register name="m" type="4">
         <keys>
