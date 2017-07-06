@@ -147,12 +147,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/utils/TaggedBuffer.h" timestamp="1493896572772">
         <mark key="'" line="61" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/cmakescripts/toolchain.cmake" timestamp="1499336523937">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="46" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="20" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/SecureStorageBackend.h" timestamp="1490011713219">
         <mark key="'" line="15" column="18" />
         <mark key="[" line="15" column="25" />
@@ -427,12 +421,6 @@
         <mark key="[" line="439" column="36" />
         <mark key="]" line="439" column="36" />
         <mark key="." line="439" column="36" />
-      </file>
-      <file name="$USER_HOME$/dev/igbuild/linux/debug/amazonite/linux/platform/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" timestamp="1499167549140">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="2" />
-        <mark key="^" line="8" column="2" />
-        <mark key="." line="8" column="2" />
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" timestamp="1499183803878">
         <mark key="'" line="11" column="18" />
@@ -897,11 +885,10 @@
         <mark key="'" line="271" column="37" />
       </file>
       <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/tools/config/lg-m16p.dev.config" timestamp="1499345124090">
-        <mark key="'" line="67" column="41" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="160" />
-        <mark key="." line="69" column="87" />
-        <mark key="^" line="69" column="85" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="160" />
+        <mark key="." line="64" column="87" />
+        <mark key="^" line="64" column="85" />
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.storage/internal/platform/panda/src/backends/SecureStorageBackend.cpp" timestamp="1498140656603">
         <mark key="'" line="102" column="65" />
@@ -1107,12 +1094,6 @@
         <mark key="]" line="16" column="28" />
         <mark key="." line="16" column="54" />
         <mark key="^" line="85" column="71" />
-      </file>
-      <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/cmakescripts/config.cmake" timestamp="1499355975518">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="60" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/Doxyfile" timestamp="1495625926904">
         <mark key="'" line="1548" column="0" />
@@ -1456,8 +1437,8 @@
         <mark key="." line="35" column="17" />
         <mark key="^" line="37" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/scripts/PrepareDevicePropertiesProvider.cmake" timestamp="1499355664708">
-        <mark key="'" line="1" column="48" />
+      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/scripts/PrepareDevicePropertiesProvider.cmake" timestamp="1499357896003">
+        <mark key="'" line="19" column="136" />
         <mark key="[" line="15" column="101" />
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
@@ -1946,7 +1927,6 @@
       <jump line="3" column="12" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/scripts/PrepareDevicePropertiesProvider.cmake" />
       <jump line="18" column="27" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/scripts/PrepareDevicePropertiesProvider.cmake" />
       <jump line="21" column="48" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/scripts/PrepareDevicePropertiesProvider.cmake" />
-      <jump line="19" column="136" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/scripts/PrepareDevicePropertiesProvider.cmake" />
       <jump line="30" column="101" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/scripts/PrepareDevicePropertiesProvider.cmake" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/scripts/PrepareDevicePropertiesProvider.cmake" />
       <jump line="1" column="48" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/scripts/PrepareDevicePropertiesProvider.cmake" />
@@ -1958,6 +1938,7 @@
       <jump line="109" column="11" filename="$USER_HOME$/dev/iglg/tools/generate_projects.sh" />
       <jump line="1093" column="25" filename="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" />
       <jump line="1495" column="0" filename="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" />
+      <jump line="19" column="136" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/scripts/PrepareDevicePropertiesProvider.cmake" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2038,7 +2019,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>rc.10</text>
+        <text encoding="base64">XDxBTUFaT05JVEVfUExBVEZPUk1fRElSXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CVNFVChERVZJQ0VfUFJPUEVSVElFU19QUk9WSURFUl9ET1dOTE9BRF9DT01NQU5EICR7Q01BS0VfQ09NTUFORH0gLUUgY29weV9kaXJlY3RvcnkgJHtERVZJQ0VfUFJPUEVSVElFU19QUk9WSURFUl9MT0NBVElPTn0gJHtBTUFaT05JVEVfUExBVEZPUk1fRElSfSApCg==</text>
@@ -2089,9 +2070,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rc.10</last-search>
+      <last-search encoding="base64">XDxBTUFaT05JVEVfUExBVEZPUk1fRElSXD4=</last-search>
       <last-offset />
-      <last-pattern>rc.10</last-pattern>
+      <last-pattern encoding="base64">XDxBTUFaT05JVEVfUExBVEZPUk1fRElSXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbGlzdGVuZXJzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2116,9 +2097,9 @@
         <entry encoding="base64">XDxQTEFURk9STV9DT01QT05FTlRTXD4=</entry>
         <entry encoding="base64">XDxERVZJQ0VfUFJPUEVSVElFU19QUk9WSURFUl9ET1dOTE9BRF9DT01NQU5EXD4=</entry>
         <entry encoding="base64">XDxERVZJQ0VfUFJPUEVSVElFU19QUk9WSURFUl9MT0NBVElPTlw+</entry>
-        <entry encoding="base64">XDxBTUFaT05JVEVfUExBVEZPUk1fRElSXD4=</entry>
         <entry encoding="base64">XDxwYWNrYWdlX3ZlcnNpb25cPg==</entry>
         <entry>rc.10</entry>
+        <entry encoding="base64">XDxBTUFaT05JVEVfUExBVEZPUk1fRElSXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
