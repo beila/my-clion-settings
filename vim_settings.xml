@@ -422,8 +422,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/tests/report/listeners/LogListenerTest.cpp" timestamp="1497549176982">
         <mark key="'" line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" timestamp="1499270332377">
-        <mark key="'" line="1051" column="447" />
+      <file name="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" timestamp="1499353747206">
+        <mark key="'" line="1495" column="0" />
+        <mark key="[" line="439" column="36" />
+        <mark key="]" line="439" column="36" />
+        <mark key="." line="439" column="36" />
       </file>
       <file name="$USER_HOME$/dev/igbuild/linux/debug/amazonite/linux/platform/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" timestamp="1499167549140">
         <mark key="[" line="8" column="19" />
@@ -863,11 +866,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_input.h" timestamp="1495626118496">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/install-test-resource-post-build.cmake" timestamp="1499182029547">
-        <mark key="'" line="14" column="72" />
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="66" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/bindings/sm/JsSceneGraphCallback.cpp" timestamp="1486642866518">
         <mark key="'" line="0" column="0" />
@@ -1435,11 +1433,6 @@
         <mark key="." line="119" column="20" />
         <mark key="^" line="34" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/tools/configs/linux.dev.config" timestamp="1499336645142">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="50" column="67" />
-      </file>
       <file name="$USER_HOME$/local/depo/src/depo/git/GitRepo.py" timestamp="1495212637659">
         <mark key="'" line="32" column="17" />
       </file>
@@ -1864,8 +1857,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="48" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="213" column="9" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
       <jump line="202" column="9" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
       <jump line="204" column="5" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
       <jump line="38" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
@@ -1964,13 +1955,15 @@
       <jump line="259" column="0" filename="$USER_HOME$/dev/iglg/tools/generate_projects.sh" />
       <jump line="63" column="8" filename="$USER_HOME$/dev/iglg/tools/generate_projects.sh" />
       <jump line="109" column="11" filename="$USER_HOME$/dev/iglg/tools/generate_projects.sh" />
+      <jump line="1093" column="25" filename="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" />
+      <jump line="1495" column="0" filename="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CVNFVChERVZJQ0VfUFJPUEVSVElFU19QUk9WSURFUl9ET1dOTE9BRF9DT01NQU5EICR7Q01BS0VfQ09NTUFORH0gLUUgY29weV9kaXJlY3RvcnkgJHtERVZJQ0VfUFJPUEVSVElFU19QUk9WSURFUl9MT0NBVElPTn0gJHtBTUFaT05JVEVfUExBVEZPUk1fRElSfSApCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -2004,7 +1997,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PL</text>
+        <text>r</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2044,7 +2037,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYWNrYWdlX3ZlcnNpb25cPg==</text>
+        <text>rc.10</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CVNFVChERVZJQ0VfUFJPUEVSVElFU19QUk9WSURFUl9ET1dOTE9BRF9DT01NQU5EICR7Q01BS0VfQ09NTUFORH0gLUUgY29weV9kaXJlY3RvcnkgJHtERVZJQ0VfUFJPUEVSVElFU19QUk9WSURFUl9MT0NBVElPTn0gJHtBTUFaT05JVEVfUExBVEZPUk1fRElSfSApCg==</text>
@@ -2095,9 +2088,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYWNrYWdlX3ZlcnNpb25cPg==</last-search>
+      <last-search>rc.10</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYWNrYWdlX3ZlcnNpb25cPg==</last-pattern>
+      <last-pattern>rc.10</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbGlzdGVuZXJzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2105,7 +2098,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBdkRpc3BsYXlDb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxkaXNwbGF5UHJvY2Vzc0lnbml0aW9uRXZlbnRGdW5jXD4=</entry>
         <entry encoding="base64">XDxkaXNwbGF5QVBJXD4=</entry>
         <entry encoding="base64">XDxnZXRFeHRlbnNpb25GdW5jdGlvbkFkZHJlc3NcPg==</entry>
@@ -2125,6 +2117,7 @@
         <entry encoding="base64">XDxERVZJQ0VfUFJPUEVSVElFU19QUk9WSURFUl9MT0NBVElPTlw+</entry>
         <entry encoding="base64">XDxBTUFaT05JVEVfUExBVEZPUk1fRElSXD4=</entry>
         <entry encoding="base64">XDxwYWNrYWdlX3ZlcnNpb25cPg==</entry>
+        <entry>rc.10</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
