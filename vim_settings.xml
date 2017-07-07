@@ -530,6 +530,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/IBindable.h" timestamp="1497355949826">
         <mark key="'" line="19" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.network/internal/platform/lg/src/PlatformUtils.cpp" timestamp="1499444056666">
+        <mark key="'" line="118" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/src/avDisplay.cpp" timestamp="1498746903556">
         <mark key="'" line="186" column="16" />
       </file>
@@ -910,7 +913,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499443760070">
+      <file name="/Dummy.txt" timestamp="1499449331884">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1303,6 +1306,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/path/TemplatedPluginPathBuilder.cpp" timestamp="1496317506907">
         <mark key="'" line="88" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/_lgnc_ls_call.c" timestamp="1499449354763">
+        <mark key="'" line="66" column="21" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-shared/include/DeviceLibraryProxy.h" timestamp="1492782941702">
         <mark key="'" line="6" column="0" />
@@ -1882,12 +1888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="651" column="84" filename="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" />
-      <jump line="654" column="93" filename="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" />
-      <jump line="1003" column="30" filename="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" />
-      <jump line="1006" column="30" filename="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" />
-      <jump line="1018" column="242" filename="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" />
-      <jump line="1021" column="340" filename="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" />
       <jump line="1045" column="542" filename="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" />
       <jump line="1048" column="536" filename="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" />
       <jump line="1051" column="447" filename="$USER_HOME$/dev/igbuildlg/lg/debug/CMakeCache.txt" />
@@ -1982,6 +1982,12 @@
       <jump line="21" column="0" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
       <jump line="79" column="0" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
       <jump line="376" column="38" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
+      <jump line="118" column="24" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.network/internal/platform/lg/src/PlatformUtils.cpp" />
+      <jump line="365" column="19" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/_lgnc_ls_call.c" />
+      <jump line="47" column="8" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/include/_lgnc_dl.h" />
+      <jump line="366" column="11" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/_lgnc_ls_call.c" />
+      <jump line="486" column="38" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/_lgnc_ls_call.c" />
+      <jump line="66" column="21" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/_lgnc_ls_call.c" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2062,7 +2068,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnbERpc2NhcmRGcmFtZWJ1ZmZlckVYVFw+</text>
+        <text encoding="base64">XDxfTEdOQ19MU19JbnZva2VMU0NhbGxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CShkaXNwbGF5LT5nZXRFeHRlbnNpb25GdW5jdGlvbkFkZHJlc3MoI2ZuKSk7IFwK</text>
@@ -2113,9 +2119,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnbERpc2NhcmRGcmFtZWJ1ZmZlckVYVFw+</last-search>
+      <last-search encoding="base64">XDxfTEdOQ19MU19JbnZva2VMU0NhbGxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnbERpc2NhcmRGcmFtZWJ1ZmZlckVYVFw+</last-pattern>
+      <last-pattern encoding="base64">XDxfTEdOQ19MU19JbnZva2VMU0NhbGxcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbGlzdGVuZXJzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2123,7 +2129,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRU5ERVJFUl9FWFRFTlNJT05fRElTQ0FSRF9GUkFNRUJVRkZFUlw+</entry>
         <entry encoding="base64">XDxnbEdldFN0cmluZ1w+</entry>
         <entry>provider</entry>
         <entry>device</entry>
@@ -2143,6 +2148,7 @@
         <entry encoding="base64">XDxQRk5HTERJU0NBUkRGUkFNRUJVRkZFUkVYVFBST0NcPg==</entry>
         <entry encoding="base64">XDxfc3VwcG9ydGVkRXh0ZW5zaW9uc1w+</entry>
         <entry encoding="base64">XDxnbERpc2NhcmRGcmFtZWJ1ZmZlckVYVFw+</entry>
+        <entry encoding="base64">XDxfTEdOQ19MU19JbnZva2VMU0NhbGxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
