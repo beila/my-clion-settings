@@ -455,7 +455,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499776775090">
+      <file name="/Dummy.txt" timestamp="1499778448717">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1881,8 +1881,10 @@
       <file name="$USER_HOME$/dev/ci/VersionsParser.cmake" timestamp="1499159724857">
         <mark key="'" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1499076975995">
-        <mark key="'" line="594" column="21" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1499778527262">
+        <mark key="'" line="313" column="72" />
+        <mark key="[" line="313" column="72" />
+        <mark key="]" line="313" column="92" />
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/external/include/IDisplay.h" timestamp="1499248385720">
         <mark key="'" line="30" column="18" />
@@ -1896,7 +1898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/tools/config/lg-lm15u.dev.config" />
       <jump line="57" column="0" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/tools/config/lg-m2.dev.config" />
       <jump line="63" column="0" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/tools/config/lg-m2r.dev.config" />
       <jump line="55" column="0" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/tools/config/lg-m14p.dev.config" />
@@ -1996,13 +1997,14 @@
       <jump line="59" column="16" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.texttospeech/internal/include/ignition/texttospeech/engine/ThreadSafeTextNarrator.h" />
       <jump line="125" column="14" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/include/_lgnc_ls_call.h" />
       <jump line="145" column="1" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/include/_lgnc_ls_call.h" />
+      <jump line="313" column="72" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>isHdrRenderingEnabled</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -2076,7 +2078,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUaHJlYWRTYWZlVGV4dE5hcnJhdG9yXD4=</text>
+        <text encoding="base64">XDxpc0hkclJlbmRlcmluZ0VuYWJsZWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CShkaXNwbGF5LT5nZXRFeHRlbnNpb25GdW5jdGlvbkFkZHJlc3MoI2ZuKSk7IFwK</text>
@@ -2127,9 +2129,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUaHJlYWRTYWZlVGV4dE5hcnJhdG9yXD4=</last-search>
+      <last-search encoding="base64">XDxpc0hkclJlbmRlcmluZ0VuYWJsZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUaHJlYWRTYWZlVGV4dE5hcnJhdG9yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpc0hkclJlbmRlcmluZ0VuYWJsZWRcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbGlzdGVuZXJzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2137,7 +2139,6 @@
     </search>
     <history>
       <history-search>
-        <entry>device</entry>
         <entry encoding="base64">XDxCVUlMRF9ERVZJQ0VfUFJPUEVSVElFU19QUk9WSURFUlw+</entry>
         <entry encoding="base64">XDxQTEFURk9STV9ERUxJVkVSSUVTX0RJUlNcPg==</entry>
         <entry encoding="base64">XDxwbGF0Zm9ybV9zb3VyY2Vfcm9vdF9kaXJcPg==</entry>
@@ -2157,6 +2158,7 @@
         <entry encoding="base64">XDxfTEdOQ19MU19JbnZva2VMU0NhbGxcPg==</entry>
         <entry encoding="base64">XDxURVhUVE9TUEVFQ0hfRU5HSU5FX1NSQ1w+</entry>
         <entry encoding="base64">XDxUaHJlYWRTYWZlVGV4dE5hcnJhdG9yXD4=</entry>
+        <entry encoding="base64">XDxpc0hkclJlbmRlcmluZ0VuYWJsZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
