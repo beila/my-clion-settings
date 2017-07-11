@@ -455,7 +455,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499764987864">
+      <file name="/Dummy.txt" timestamp="1499769067085">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1800,6 +1800,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/src/Animation.cpp" timestamp="1497535790047">
         <mark key="'" line="145" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/include/_lgnc_ls_call.h" timestamp="1499769097058">
+        <mark key="'" line="145" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" timestamp="1499197980529">
         <mark key="'" line="160" column="8" />
         <mark key="[" line="167" column="0" />
@@ -1893,8 +1896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="52" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/tools/config/lg-k3lp.dev.config" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/tools/config/lg-lm14a-lite.dev.config" />
       <jump line="56" column="0" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/tools/config/lg-lm15u.dev.config" />
       <jump line="57" column="0" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/tools/config/lg-m2.dev.config" />
       <jump line="63" column="0" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/tools/config/lg-m2r.dev.config" />
@@ -1993,6 +1994,8 @@
       <jump line="45" column="6" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.texttospeech/internal/include/ignition/texttospeech/engine/ThreadSafeTextNarrator.h" />
       <jump line="48" column="4" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.texttospeech/internal/include/ignition/texttospeech/engine/ThreadSafeTextNarrator.h" />
       <jump line="59" column="16" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.texttospeech/internal/include/ignition/texttospeech/engine/ThreadSafeTextNarrator.h" />
+      <jump line="125" column="14" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/include/_lgnc_ls_call.h" />
+      <jump line="145" column="1" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/include/_lgnc_ls_call.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
