@@ -105,8 +105,8 @@
         <mark key="." line="20" column="4" />
         <mark key="^" line="19" column="81" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" timestamp="1499789332181">
-        <mark key="'" line="177" column="36" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" timestamp="1499874275884">
+        <mark key="'" line="181" column="5" />
         <mark key="[" line="33" column="50" />
         <mark key="]" line="33" column="55" />
         <mark key="." line="33" column="55" />
@@ -1259,12 +1259,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/platform/ps3/include/display/PS3DisplayContext.h" timestamp="1499792801704">
         <mark key="'" line="56" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" timestamp="1499794069927">
-        <mark key="'" line="77" column="14" />
-        <mark key="[" line="114" column="57" />
-        <mark key="]" line="114" column="62" />
-        <mark key="^" line="114" column="62" />
-        <mark key="." line="114" column="62" />
+      <file name="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" timestamp="1499874761204">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="118" column="43" />
+        <mark key="]" line="120" column="38" />
+        <mark key="^" line="120" column="38" />
+        <mark key="." line="120" column="38" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/include/InputDefs.h" timestamp="1497958544165">
         <mark key="'" line="109" column="4" />
@@ -1889,8 +1889,8 @@
       <file name="$USER_HOME$/dev/ci/VersionsParser.cmake" timestamp="1499159724857">
         <mark key="'" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1499789597369">
-        <mark key="'" line="986" column="68" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1499874668956">
+        <mark key="'" line="986" column="46" />
         <mark key="[" line="313" column="72" />
         <mark key="]" line="313" column="92" />
       </file>
@@ -1906,9 +1906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/display/GLES2DisplayContext.cpp" />
-      <jump line="18" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/display/GLES2DisplayContext.h" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="45" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
@@ -2006,13 +2003,16 @@
       <jump line="14" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/include/display/LinuxPlatformContext.h" />
       <jump line="90" column="0" filename="$USER_HOME$/dev/igbuild/linux/debug/amazonite/linux/platform/device-properties/implementation/devicepropertiesprovider/src/PlatformDevicePropertiesProvider.cpp" />
       <jump line="425" column="70" filename="$USER_HOME$/dev/igbuild/linux/debug/amazonite/linux/platform/device-properties/implementation/devicepropertiesprovider/src/PlatformDevicePropertiesProvider.cpp" />
+      <jump line="181" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="986" column="46" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>once</text>
+        <text>Extension</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -2046,7 +2046,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>once</text>
+        <text>Extension</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2088,8 +2088,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRIRFJGbGFnc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHN5c3RlbV9pbmZvX2dldF92YWx1ZV9pbnQ=</text>
+      <register name="0" type="2">
+        <text encoding="base64">UmVuZGVyZXJFeHRlbnNpb24gLS0+IFBsdWdpblJlbmRlcmVyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y2xhc3MgcGFuZGE6OlBsYXRmb3JtRGV2aWNlUHJvcGVydGllcyB7CmdldERpc3BsYXlIZWlnaHQoKQpnZXRQYW5lbEhlaWdodCgpCn0KCg==</text>
