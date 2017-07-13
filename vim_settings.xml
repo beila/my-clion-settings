@@ -105,8 +105,8 @@
         <mark key="." line="20" column="4" />
         <mark key="^" line="19" column="81" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" timestamp="1499884301343">
-        <mark key="'" line="181" column="5" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" timestamp="1499885193168">
+        <mark key="'" line="86" column="0" />
         <mark key="[" line="33" column="50" />
         <mark key="]" line="33" column="55" />
         <mark key="." line="33" column="55" />
@@ -1262,12 +1262,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/platform/ps3/include/display/PS3DisplayContext.h" timestamp="1499792801704">
         <mark key="'" line="56" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" timestamp="1499875423109">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="112" column="8" />
-        <mark key="]" line="112" column="14" />
-        <mark key="." line="112" column="14" />
-        <mark key="^" line="112" column="14" />
+      <file name="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" timestamp="1499887109162">
+        <mark key="'" line="91" column="20" />
+        <mark key="[" line="107" column="34" />
+        <mark key="]" line="107" column="50" />
+        <mark key="^" line="107" column="50" />
+        <mark key="." line="107" column="50" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/include/InputDefs.h" timestamp="1497958544165">
         <mark key="'" line="109" column="4" />
@@ -1910,24 +1910,9 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="12" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="2" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" />
-      <jump line="71" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" />
-      <jump line="39" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" />
-      <jump line="67" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/external/include/deviceinfo/properties/AbstractDeviceProperties.h" />
-      <jump line="34" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="150" column="50" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.deviceinfo/internal/platform/android/src/deviceinfo/properties/AndroidDeviceProperties.cpp" />
-      <jump line="273" column="11" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.deviceinfo/internal/platform/android/src/deviceinfo/properties/AndroidDeviceProperties.cpp" />
-      <jump line="258" column="11" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.deviceinfo/internal/platform/android/src/deviceinfo/properties/AndroidDeviceProperties.cpp" />
-      <jump line="110" column="17" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.deviceinfo/internal/platform/android/src/deviceinfo/properties/AndroidDeviceProperties.cpp" />
-      <jump line="148" column="48" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.deviceinfo/internal/platform/android/src/deviceinfo/properties/AndroidDeviceProperties.cpp" />
-      <jump line="112" column="23" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.deviceinfo/internal/platform/android/src/deviceinfo/properties/AndroidDeviceProperties.cpp" />
-      <jump line="111" column="45" filename="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.deviceinfo/internal/platform/panda/src/deviceinfo/properties/PlatformDeviceProperties.cpp" />
-      <jump line="55" column="4" filename="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.deviceinfo/internal/platform/panda/src/deviceinfo/properties/PlatformDeviceProperties.cpp" />
       <jump line="49" column="4" filename="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.deviceinfo/internal/platform/panda/src/deviceinfo/properties/PlatformDeviceProperties.cpp" />
       <jump line="109" column="43" filename="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.deviceinfo/internal/platform/panda/src/deviceinfo/properties/PlatformDeviceProperties.cpp" />
       <jump line="57" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="85" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="104" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="672" column="11" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
       <jump line="41" column="4" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" />
@@ -1965,37 +1950,24 @@
       <jump line="26" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="986" column="46" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
       <jump line="124" column="6" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="125" column="18" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="117" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="66" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="2" column="5" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="136" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="131" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="3" column="6" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="55" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="7" column="6" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="11" column="6" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="16" column="6" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="77" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="20" column="6" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="80" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="87" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="88" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="91" column="23" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="92" column="18" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="106" column="29" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="109" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="111" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="24" column="10" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="86" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="122" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="102" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="121" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="38" column="55" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DevicePropertiesDelegate.cpp" />
       <jump line="184" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DevicePropertiesDelegate.cpp" />
@@ -2010,13 +1982,41 @@
       <jump line="306" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/renderer/SceneGraphRenderer.cpp" />
       <jump line="1502" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/renderer/SceneGraphRenderer.cpp" />
       <jump line="1540" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/renderer/SceneGraphRenderer.cpp" />
+      <jump line="197" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
+      <jump line="86" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
+      <jump line="114" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="125" column="22" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="126" column="25" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="28" column="10" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="89" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="90" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="92" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="95" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="96" column="18" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="109" column="29" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="106" column="19" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="51" column="6" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="98" column="18" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="105" column="19" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="122" column="24" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="11" column="10" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="86" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="87" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="102" column="13" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="79" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="45" column="6" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="88" column="21" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="85" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="16" column="6" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
+      <jump line="91" column="20" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RGV2aWNlSW5mb0V4dGVuc2lvbiAtLT4gQWJzdHJhY3REZXZpY2VQcm9wZXJ0aWVzIDogYWx3YXlzCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PC0tIA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -2050,7 +2050,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b24g</text>
+        <text encoding="base64">PC0tIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2090,13 +2090,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEaXNwbGF5R2V0UHJvcGVydHlcPg==</text>
+        <text encoding="base64">XDxHTEVTMkRpc3BsYXlDb250ZXh0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSB1c2VycyA8PENsb3VkPj4gewo=</text>
+      <register name="0" type="4">
+        <text>call getHeight()\n for display height</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RGV2aWNlSW5mb0V4dGVuc2lvbiAtLT4gQWJzdHJhY3REZXZpY2VQcm9wZXJ0aWVzIDogYWx3YXlzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2107,31 +2107,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIERldmljZUluZm9FeHRlbnNpb24gewogICAgICAgIGdldERpc3BsYXlIZWlnaHQoKQogICAgfQoK</text>
+        <text encoding="base64">Y2xhc3MgR0xFUzJEaXNwbGF5Q29udGV4dCB7CiAgICBnZXRIZWlnaHQoKQogICAgZ2V0RGlzcGxheUhlaWdodCgpCn0KCmNsYXNzIFBTM0Rpc3BsYXlDb250ZXh0IHsKICAgIGdldEhlaWdodCgpCiAgICBnZXREaXNwbGF5SGVpZ2h0KCkKfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Y2xhc3MgQW5kcm9pZERldmljZVByb3BlcnRpZXMgewogICAgZ2V0RGlzcGxheUhlaWdodCgpCiAgICBnZXRQYW5lbEhlaWdodCgpCn0KCmNsYXNzIExHRGV2aWNlUHJvcGVydGllcyB7CiAgICBnZXREaXNwbGF5SGVpZ2h0KCkKICAgIGdldFBhbmVsSGVpZ2h0KCkKfQoKY2xhc3MgU2Ftc3VuZ1RWRGV2aWNlUHJvcGVydGllcyB7CiAgICBnZXREaXNwbGF5SGVpZ2h0KCkKICAgIGdldFBhbmVsSGVpZ2h0KCkKfQoKY2xhc3MgRGV2aWNlUHJvcGVydGllc0RlbGVnYXRlIHsKICAgIGdldERpc3BsYXlIZWlnaHQoKQogICAgZ2V0UGFuZWxIZWlnaHQoKQp9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgRGV2aWNlSW5mb0V4dGVuc2lvbiB7CmdldERpc3BsYXlIZWlnaHQoKQp9Cgo=</text>
+        <text encoding="base64">Y2xhc3MgU0RMUGxhdGZvcm1Db250ZXh0IHsKICAgIGdldEhlaWdodCgpCn0KCmNsYXNzIFBTNFBsYXRmb3JtQ29udGV4dCB7CiAgICBnZXRIZWlnaHQoKQp9CgpjbGFzcyBEZXZpY2VQbGF0Zm9ybUNvbnRleHQgewogICAgZ2V0SGVpZ2h0KCkKfQoKY2xhc3MgU2Ftc3VuZ1RWUGxhdGZvcm1Db250ZXh0IHsKICAgIGdldEhlaWdodCgpCn0KCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQWJzdHJhY3REZXZpY2VQcm9wZXJ0aWVzCg==</text>
+        <text encoding="base64">RGlzcGxheUNvbnRleHQgLS0+IERpc3BsYXlDb250ZXh0IDogY2FsbCBnZXRIZWlnaHQoKVxuIGZvciBkaXNwbGF5IGhlaWdodAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQWJzdHJhY3REZXZpY2VQcm9wZXJ0aWVzIHsKZ2V0RGlzcGxheUhlaWdodCgpCmdldFBhbmVsSGVpZ2h0KCkKfQoK</text>
+        <text encoding="base64">QWJzdHJhY3REZXZpY2VQcm9wZXJ0aWVzIC0tPiBBYnN0cmFjdERldmljZVByb3BlcnRpZXMgOiBjYWxsIGdldFBhbmVsSGVpZ2h0KClcbiBvciBjb21tYW5kIGxpbmVcbiBmb3IgZGlzcGxheSBoZWlnaHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgUGxhdGZvcm1Db250ZXh0Cg==</text>
+        <text encoding="base64">QWJzdHJhY3REZXZpY2VQcm9wZXJ0aWVzIDwtLS0gU2Ftc3VuZ1RWRGV2aWNlUHJvcGVydGllcyA6IGFsd2F5cyBmb3IgZGlzcGxheSBoZWlnaHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgUGxhdGZvcm1Db250ZXh0IHsKZ2V0SGVpZ2h0KCkKfQoK</text>
+        <text encoding="base64">J3BhY2thZ2UgcGxhdGZvcm1fdmFyaWF0aW9uIDw8Q2xvdWQ+PiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgUGx1Z2luRGlzcGxheQo=</text>
+        <text encoding="base64">J30K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">CiMgTG9hZCBkZXZpY2UgbGF5ZXIgbGlicmFyeSBhbmQgdXNlIGRldmljZSBBUElzIGZyb20gaXQKQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURVU0VfREVWSUNFX0xBWUVSPVlFUyIKCiMgVXNlIERQQyB0byBnZXQgaW5mb3JtYXRpb24gZnJvbSBkZXZpY2VzLgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRFVTRV9ERVZJQ0VfUFJPUEVSVElFU19DT01QT05FTlQ9WUVTIgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRERFVklDRV9QUk9QRVJUSUVTX1BST1ZJREVSX0xPQ0FUSU9OPSQiCg==</text>
@@ -2141,9 +2141,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEaXNwbGF5R2V0UHJvcGVydHlcPg==</last-search>
+      <last-search encoding="base64">XDxHTEVTMkRpc3BsYXlDb250ZXh0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEaXNwbGF5R2V0UHJvcGVydHlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxHTEVTMkRpc3BsYXlDb250ZXh0XD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbGlzdGVuZXJzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2151,8 +2151,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHJZXD4=</entry>
-        <entry encoding="base64">XDxzYXZlUHRyXD4=</entry>
         <entry encoding="base64">XDxfcGFyc2VEaXNwbGF5UmVzb2x1dGlvblw+</entry>
         <entry encoding="base64">XDxnRGlzcGxheVdpZHRoXD4=</entry>
         <entry encoding="base64">XDxnZXRQYW5lbFdpZHRoXD4=</entry>
@@ -2165,12 +2163,14 @@
         <entry encoding="base64">XDxnZXRIRFJGbGFnc1w+</entry>
         <entry encoding="base64">XDxQbHVnaW5SZW5kZXJlclw+</entry>
         <entry encoding="base64">XDxSZW5kZXJlclw+</entry>
-        <entry encoding="base64">XDxEaXNwbGF5Q29udGV4dFw+</entry>
         <entry encoding="base64">XDxQbHVnaW5EaXNwbGF5XD4=</entry>
         <entry encoding="base64">XDxQbGF0Zm9ybUNvbnRleHRcPg==</entry>
-        <entry encoding="base64">XDxBYnN0cmFjdERldmljZVByb3BlcnRpZXNcPg==</entry>
         <entry encoding="base64">XDxEZXZpY2VJbmZvRXh0ZW5zaW9uXD4=</entry>
         <entry encoding="base64">XDxEaXNwbGF5R2V0UHJvcGVydHlcPg==</entry>
+        <entry encoding="base64">XDxBYnN0cmFjdERldmljZVByb3BlcnRpZXNcPg==</entry>
+        <entry encoding="base64">XDxEaXNwbGF5Q29udGV4dFw+</entry>
+        <entry encoding="base64">XDxQUzRQbGF0Zm9ybUNvbnRleHRcPg==</entry>
+        <entry encoding="base64">XDxHTEVTMkRpc3BsYXlDb250ZXh0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
