@@ -1010,8 +1010,12 @@
       <file name="$USER_HOME$/dev/ci/prepare-source/common.cmake" timestamp="1499159670257">
         <mark key="'" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLInputContext.cpp" timestamp="1499945213749">
-        <mark key="'" line="285" column="54" />
+      <file name="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLInputContext.cpp" timestamp="1500289720749">
+        <mark key="'" line="2" column="14" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/tests/SecureStorageBackendTest.cpp" timestamp="1494258770018">
         <mark key="'" line="57" column="34" />
@@ -1935,8 +1939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="10" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
-      <jump line="86" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="87" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="102" column="13" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="79" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
@@ -2035,6 +2037,8 @@
       <jump line="44" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/ig/tools/CMakeLists.txt" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/ig/tools/CMakeLists.txt" />
+      <jump line="286" column="4" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLInputContext.cpp" />
+      <jump line="2" column="14" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLInputContext.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2115,7 +2119,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTRVRcPg==</text>
+        <text encoding="base64">XDxzdGF0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJQ09NTUFORCAke0NNQUtFX0NPTU1BTkR9IC1FIG1ha2VfZGlyZWN0b3J5ICR7VEVTVFNfSU5TVEFMTF9ESVJFQ1RPUll9LyR7SUdOSVRJT05fVEVTVF9JTlNUQUxMX1NVQkRJUn0K</text>
@@ -2166,9 +2170,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTRVRcPg==</last-search>
+      <last-search encoding="base64">XDxzdGF0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTRVRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0XD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxkZXZpY2VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2176,7 +2180,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEaXNwbGF5Q29udGV4dFw+</entry>
         <entry encoding="base64">XDxQUzRQbGF0Zm9ybUNvbnRleHRcPg==</entry>
         <entry encoding="base64">XDxHTEVTMkRpc3BsYXlDb250ZXh0XD4=</entry>
         <entry>_width</entry>
@@ -2196,6 +2199,7 @@
         <entry encoding="base64">XDxpZ25pdGlvblw+</entry>
         <entry encoding="base64">XDxkZXZpY2VcPg==</entry>
         <entry encoding="base64">XDxTRVRcPg==</entry>
+        <entry encoding="base64">XDxzdGF0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
