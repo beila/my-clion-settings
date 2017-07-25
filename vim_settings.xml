@@ -61,6 +61,9 @@
         <mark key="." line="52" column="33" />
         <mark key="^" line="55" column="57" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiesprovider/device-properties/implementation/devicepropertiesprovider/src/PlatformDevicePropertiesProvider.cpp" timestamp="1500999900746">
+        <mark key="'" line="475" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/SecureStorageBackend.cpp" timestamp="1493374769753">
         <mark key="'" line="274" column="0" />
         <mark key="[" line="124" column="0" />
@@ -156,11 +159,6 @@
         <mark key="]" line="15" column="35" />
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.deviceinfo/internal/platform/lg/src/deviceinfo/properties/LGDeviceProperties.cpp" timestamp="1499793802295">
-        <mark key="'" line="314" column="8" />
-        <mark key="[" line="182" column="9" />
-        <mark key="]" line="182" column="33" />
       </file>
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" timestamp="1495790886142">
         <mark key="'" line="248" column="0" />
@@ -455,7 +453,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500024021086">
+      <file name="/Dummy.txt" timestamp="1501000073990">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -525,7 +523,7 @@
       <file name="$USER_HOME$/dev/ci/prepare-source/ignition.cmake" timestamp="1499159974188">
         <mark key="'" line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" timestamp="1496417735911">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/CMakeLists.txt" timestamp="1501000018585">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="37" column="5" />
         <mark key="]" line="37" column="5" />
@@ -859,11 +857,6 @@
       </file>
       <file name="$USER_HOME$/dev/igbuild/linux/debug/graph/cmake.ignition" timestamp="1494411013130">
         <mark key="'" line="468" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.deviceinfo/internal/platform/samsungtv/src/deviceinfo/properties/SamsungTVDeviceProperties.cpp" timestamp="1499794050895">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="177" column="16" />
-        <mark key="]" line="177" column="41" />
       </file>
       <file name="$USER_HOME$/dev/ig/tools/generate_vs_projects.py" timestamp="1497281010575">
         <mark key="'" line="110" column="4" />
@@ -1770,11 +1763,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/cmakescripts/config.cmake" timestamp="1500286212761">
-        <mark key="]" line="38" column="29" />
-        <mark key="^" line="38" column="29" />
-        <mark key="." line="38" column="29" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/TextToSpeechTest.cpp" timestamp="1493736291751">
         <mark key="'" line="99" column="31" />
       </file>
@@ -1864,11 +1852,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2CubeTexture.cpp" timestamp="1494605209507">
         <mark key="'" line="67" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/platform/ps3/src/display/PS3DisplayContext.cpp" timestamp="1499792822689">
-        <mark key="'" line="448" column="35" />
-        <mark key="[" line="405" column="4" />
-        <mark key="]" line="405" column="26" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/internal/platform/ps4/src/ignition/texttospeech/engine/TextToSpeechEngine.cpp" timestamp="1493736340568">
         <mark key="'" line="75" column="9" />
       </file>
@@ -1918,11 +1901,6 @@
       <file name="$USER_HOME$/dev/ci/VersionsParser.cmake" timestamp="1499159724857">
         <mark key="'" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1499884931624">
-        <mark key="'" line="313" column="31" />
-        <mark key="[" line="313" column="72" />
-        <mark key="]" line="313" column="92" />
-      </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/external/include/IDisplay.h" timestamp="1499248385720">
         <mark key="'" line="30" column="18" />
       </file>
@@ -1935,7 +1913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="13" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="79" column="0" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="45" column="6" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
       <jump line="88" column="21" filename="$USER_HOME$/dev/ig/hjdocs/heightwidth.puml" />
@@ -2035,6 +2012,7 @@
       <jump line="286" column="4" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLInputContext.cpp" />
       <jump line="2" column="14" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLInputContext.cpp" />
       <jump line="140" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
+      <jump line="475" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiesprovider/device-properties/implementation/devicepropertiesprovider/src/PlatformDevicePropertiesProvider.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
