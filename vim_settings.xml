@@ -260,8 +260,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/extensions/CommandLineArgsExtension.cpp" timestamp="1494321323849">
         <mark key="'" line="40" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" timestamp="1501005134744">
-        <mark key="'" line="164" column="8" />
+      <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" timestamp="1501005775169">
+        <mark key="'" line="95" column="23" />
       </file>
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.core/internal/platform/samsungtv/include/utils/DLogListener.h" timestamp="1481642718994">
         <mark key="'" line="19" column="73" />
@@ -456,7 +456,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501003498264">
+      <file name="/Dummy.txt" timestamp="1501063027871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -666,6 +666,9 @@
         <mark key="." line="451" column="26" />
         <mark key="^" line="451" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.scene/include/IScene.h" timestamp="1501062696746">
+        <mark key="'" line="42" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/ci/common/deliveries.cmake" timestamp="1499161998475">
         <mark key="'" line="61" column="18" />
       </file>
@@ -722,8 +725,8 @@
         <mark key="^" line="43" column="45" />
         <mark key="." line="43" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" timestamp="1501004991714">
-        <mark key="'" line="251" column="10" />
+      <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" timestamp="1501005289480">
+        <mark key="'" line="252" column="34" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelayerskeleton/tests/test_files.txt" timestamp="1496226749285">
         <mark key="'" line="0" column="0" />
@@ -1226,6 +1229,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/bindings/sm/DeviceInfoExtension.cpp" timestamp="1499792491045">
         <mark key="'" line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/src/renderer/OffScreenSceneGraphManager.cpp" timestamp="1501062737210">
+        <mark key="'" line="90" column="48" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/tests/CMakeLists.txt" timestamp="1494499436457">
         <mark key="'" line="338" column="4" />
@@ -1915,36 +1921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="4" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/src/avDisplay.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
-      <jump line="42" column="6" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
-      <jump line="161" column="4" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
-      <jump line="256" column="11" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
-      <jump line="291" column="39" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
-      <jump line="43" column="6" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
-      <jump line="162" column="4" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
-      <jump line="265" column="0" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
-      <jump line="259" column="32" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
-      <jump line="51" column="30" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLInputContext.cpp" />
-      <jump line="285" column="54" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLInputContext.cpp" />
-      <jump line="61" column="9" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/DisplayContext.cpp" />
-      <jump line="78" column="9" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/DisplayContext.cpp" />
-      <jump line="159" column="48" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/DisplayContext.cpp" />
-      <jump line="195" column="43" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/DisplayContext.cpp" />
-      <jump line="176" column="10" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/DisplayContext.cpp" />
-      <jump line="451" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="85" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="452" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="101" column="57" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="461" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="56" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="51" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="67" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="82" column="46" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="95" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="40" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="93" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
       <jump line="80" column="46" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
       <jump line="49" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
       <jump line="16" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
@@ -2006,15 +1982,45 @@
       <jump line="282" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/Ignition.cpp" />
       <jump line="380" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/Ignition.cpp" />
       <jump line="375" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/Ignition.cpp" />
-      <jump line="252" column="38" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
-      <jump line="251" column="10" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
-      <jump line="71" column="8" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
       <jump line="114" column="4" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
       <jump line="123" column="8" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
       <jump line="132" column="8" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
       <jump line="140" column="8" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
       <jump line="155" column="12" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
       <jump line="164" column="8" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="205" column="4" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="191" column="4" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="198" column="8" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="207" column="8" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="215" column="8" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="224" column="8" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="239" column="8" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="258" column="4" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="280" column="8" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="303" column="0" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="301" column="4" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="6" column="21" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="65" column="8" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="71" column="8" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="251" column="10" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
+      <jump line="11" column="16" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
+      <jump line="166" column="6" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
+      <jump line="167" column="14" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
+      <jump line="17" column="15" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
+      <jump line="262" column="10" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
+      <jump line="252" column="34" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
+      <jump line="47" column="18" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="116" column="18" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="57" column="18" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="98" column="23" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="230" column="23" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="244" column="23" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="185" column="23" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="95" column="23" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/NativeAppHandler.cpp" />
+      <jump line="85" column="38" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/src/renderer/OffScreenSceneGraphManager.cpp" />
+      <jump line="42" column="26" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.scene/include/IScene.h" />
+      <jump line="90" column="48" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/src/renderer/OffScreenSceneGraphManager.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2095,7 +2101,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2dcPg==</text>
+        <text encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tTdGF0aWNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJQ09NTUFORCAke0NNQUtFX0NPTU1BTkR9IC1FIG1ha2VfZGlyZWN0b3J5ICR7VEVTVFNfSU5TVEFMTF9ESVJFQ1RPUll9LyR7SUdOSVRJT05fVEVTVF9JTlNUQUxMX1NVQkRJUn0K</text>
@@ -2146,19 +2152,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2dcPg==</last-search>
+      <last-search encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tTdGF0aWNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2dcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tTdGF0aWNcPg==</last-pattern>
       <last-replace />
-      <last-substitute encoding="base64">XDxkZXZpY2VcPg==</last-substitute>
+      <last-substitute encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tcPg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfd2lkdGhcPg==</entry>
-        <entry encoding="base64">XDxfaGVpZ2h0XD4=</entry>
-        <entry encoding="base64">XDxnZXRIZWlnaHRcPg==</entry>
         <entry encoding="base64">XDxfaW5pdFBsYXRmb3JtXD4=</entry>
         <entry encoding="base64">XDxmbGFnc1w+</entry>
         <entry encoding="base64">XDxHRVRfR0xfRVhURU5TSU9OX0ZVTkNUSU9OX0FORF9DSEVDS1w+</entry>
@@ -2176,6 +2179,9 @@
         <entry encoding="base64">XDxlbmdpbmVcPg==</entry>
         <entry encoding="base64">XDxMR01FRElBX0xTX0Nvbm5lY3RMdW5hQnVzXD4=</entry>
         <entry encoding="base64">XDxMb2dcPg==</entry>
+        <entry encoding="base64">XDxOYXRpdmVBcHBIYW5kbGVyXD4=</entry>
+        <entry encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tcPg==</entry>
+        <entry encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tTdGF0aWNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
