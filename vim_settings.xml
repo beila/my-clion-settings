@@ -725,12 +725,12 @@
         <mark key="^" line="43" column="45" />
         <mark key="." line="43" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" timestamp="1501165750812">
+      <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" timestamp="1501169803697">
         <mark key="'" line="231" column="21" />
         <mark key="[" line="94" column="4" />
-        <mark key="]" line="94" column="4" />
-        <mark key="." line="94" column="4" />
-        <mark key="^" line="95" column="4" />
+        <mark key="]" line="94" column="5" />
+        <mark key="." line="94" column="5" />
+        <mark key="^" line="94" column="5" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelayerskeleton/tests/test_files.txt" timestamp="1496226749285">
         <mark key="'" line="0" column="0" />
@@ -1841,8 +1841,8 @@
       <file name="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/include/_lgnc_ls_call.h" timestamp="1499769097058">
         <mark key="'" line="145" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" timestamp="1501084003036">
-        <mark key="'" line="131" column="9" />
+      <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" timestamp="1501169868622">
+        <mark key="'" line="131" column="20" />
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
@@ -2014,11 +2014,9 @@
       <jump line="80" column="74" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="41" column="13" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="53" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
-      <jump line="324" column="24" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
       <jump line="151" column="25" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" />
       <jump line="135" column="20" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" />
       <jump line="132" column="20" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" />
-      <jump line="131" column="9" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" />
       <jump line="252" column="34" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
       <jump line="255" column="20" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
       <jump line="231" column="21" filename="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" />
@@ -2027,6 +2025,8 @@
       <jump line="64" column="50" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="67" column="50" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="16" column="52" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="131" column="20" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/src/avDisplay.cpp" />
+      <jump line="324" column="24" filename="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
