@@ -725,7 +725,7 @@
         <mark key="^" line="43" column="45" />
         <mark key="." line="43" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" timestamp="1501162811327">
+      <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" timestamp="1501163257597">
         <mark key="'" line="231" column="21" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelayerskeleton/tests/test_files.txt" timestamp="1496226749285">
@@ -1319,8 +1319,8 @@
         <mark key="^" line="892" column="8" />
         <mark key="." line="892" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" timestamp="1501162950663">
-        <mark key="'" line="67" column="50" />
+      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" timestamp="1501162978602">
+        <mark key="'" line="16" column="52" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/manifest" timestamp="1500288777682">
         <mark key="[" line="20" column="32" />
@@ -1923,7 +1923,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="72" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
       <jump line="208" column="72" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
       <jump line="214" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
       <jump line="78" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
@@ -2023,6 +2022,7 @@
       <jump line="422" column="28" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="64" column="50" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
       <jump line="67" column="50" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
+      <jump line="16" column="52" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
