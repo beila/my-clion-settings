@@ -725,8 +725,12 @@
         <mark key="^" line="43" column="45" />
         <mark key="." line="43" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" timestamp="1501163257597">
+      <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" timestamp="1501165750812">
         <mark key="'" line="231" column="21" />
+        <mark key="[" line="94" column="4" />
+        <mark key="]" line="94" column="4" />
+        <mark key="." line="94" column="4" />
+        <mark key="^" line="95" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelayerskeleton/tests/test_files.txt" timestamp="1496226749285">
         <mark key="'" line="0" column="0" />
@@ -2028,8 +2032,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSovCg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -2063,7 +2067,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ignition-device-layer-test</text>
+        <text>n</text>
       </register>
       <register name="m" type="4">
         <keys>
