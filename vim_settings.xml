@@ -453,7 +453,7 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501242306644">
+      <file name="/Dummy.txt" timestamp="1501250370169">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -757,6 +757,9 @@
         <mark key="]" line="59" column="65" />
         <mark key="." line="54" column="77" />
         <mark key="^" line="59" column="65" />
+      </file>
+      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DevicePropertiesDelegate.cpp" timestamp="1501249973195">
+        <mark key="'" line="38" column="38" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/src/cache/Cache.cpp" timestamp="1488548571897">
         <mark key="'" line="319" column="43" />
@@ -1730,6 +1733,9 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/Library.cpp" timestamp="1497021800229">
         <mark key="'" line="19" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/properties/DevicePropertiesDelegate.h" timestamp="1501249979048">
+        <mark key="'" line="64" column="51" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/thread/RecursiveMutex.cpp" timestamp="1484662902095">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="17" />
@@ -1737,8 +1743,8 @@
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" timestamp="1501242362760">
-        <mark key="'" line="31" column="41" />
+      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" timestamp="1501250360955">
+        <mark key="'" line="28" column="26" />
       </file>
       <file name="$USER_HOME$/dev/ig/tools/generate_plugin.sh" timestamp="1495128940748">
         <mark key="'" line="0" column="0" />
@@ -1838,6 +1844,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/CMakeLists.txt" timestamp="1494001973585">
         <mark key="'" line="285" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" timestamp="1501249885315">
+        <mark key="'" line="150" column="39" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" timestamp="1498747074604">
         <mark key="'" line="275" column="0" />
         <mark key="[" line="275" column="28" />
@@ -1909,18 +1918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="54" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="65" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="216" column="49" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="209" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="77" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/tests/DisplayTests.cpp" />
-      <jump line="48" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/device/tests/TextToSpeechTest.cpp" />
-      <jump line="62" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/device/tests/TextToSpeechTest.cpp" />
-      <jump line="75" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/device/tests/TextToSpeechTest.cpp" />
-      <jump line="68" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/api/RenderStateManager.h" />
-      <jump line="9" column="39" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/CommonApiTest.cpp" />
-      <jump line="2" column="38" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
       <jump line="39" column="71" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
       <jump line="40" column="55" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
       <jump line="41" column="59" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/build/devicelayer.cmake" />
@@ -2009,6 +2006,18 @@
       <jump line="160" column="17" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/library-loader/src/ExternalContextFactory.cpp" />
       <jump line="245" column="41" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/library-loader/src/ExternalContextFactory.cpp" />
       <jump line="214" column="0" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/library-loader/src/ExternalContextFactory.cpp" />
+      <jump line="150" column="39" filename="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" />
+      <jump line="38" column="38" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DevicePropertiesDelegate.cpp" />
+      <jump line="64" column="51" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/properties/DevicePropertiesDelegate.h" />
+      <jump line="57" column="45" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" />
+      <jump line="70" column="39" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" />
+      <jump line="79" column="39" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" />
+      <jump line="88" column="39" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" />
+      <jump line="20" column="17" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" />
+      <jump line="75" column="11" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" />
+      <jump line="12" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" />
+      <jump line="28" column="26" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2089,7 +2098,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdG9yXD4=</text>
+        <text encoding="base64">XDxfcGZuR2V0Qm9vbFByb3BlcnR5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJQ09NTUFORCAke0NNQUtFX0NPTU1BTkR9IC1FIG1ha2VfZGlyZWN0b3J5ICR7VEVTVFNfSU5TVEFMTF9ESVJFQ1RPUll9LyR7SUdOSVRJT05fVEVTVF9JTlNUQUxMX1NVQkRJUn0K</text>
@@ -2140,9 +2149,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdG9yXD4=</last-search>
+      <last-search encoding="base64">XDxfcGZuR2V0Qm9vbFByb3BlcnR5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdG9yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfcGZuR2V0Qm9vbFByb3BlcnR5XD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2150,8 +2159,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXZpY2VcPg==</entry>
-        <entry encoding="base64">XDxTRVRcPg==</entry>
         <entry encoding="base64">XDxzdGF0XD4=</entry>
         <entry encoding="base64">XDxlbmdpbmVcPg==</entry>
         <entry encoding="base64">XDxMR01FRElBX0xTX0Nvbm5lY3RMdW5hQnVzXD4=</entry>
@@ -2170,6 +2177,8 @@
         <entry encoding="base64">XDxDTURfTElORV9PUFRJT05fTEFVTkNIX1JFQVNPTlw+</entry>
         <entry encoding="base64">XDxjcmVhdG9yTmFtZVw+</entry>
         <entry encoding="base64">XDxjcmVhdG9yXD4=</entry>
+        <entry encoding="base64">XDxnZXRQcm9wZXJ0eUZ1bmN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxfcGZuR2V0Qm9vbFByb3BlcnR5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
