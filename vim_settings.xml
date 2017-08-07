@@ -324,13 +324,16 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/include/fruit/impl/util/hash_helpers.h" timestamp="1494596531672">
         <mark key="'" line="26" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502115734242">
+      <file name="/Dummy.txt" timestamp="1502117039088">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" timestamp="1493751692346">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.core/internal/platform/android/mainlib/src/main.cpp" timestamp="1502116323049">
+        <mark key="'" line="25" column="16" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/display/DisplayContext.cpp" timestamp="1499792685709">
         <mark key="'" line="36" column="16" />
@@ -692,6 +695,7 @@
       <file name="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" timestamp="1501251293580">
         <mark key="'" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.player/internal/platform/android/src/player/AndroidPlayerPlatform.cpp" timestamp="1502116914023" />
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" timestamp="1497612081489">
         <mark key="'" line="171" column="11" />
       </file>
@@ -805,8 +809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="48" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/src/renderer/OffScreenSceneGraphManager.cpp" />
-      <jump line="248" column="9" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="20" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="99" column="15" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="99" column="26" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" />
@@ -905,6 +907,8 @@
       <jump line="127" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/CMakeLists.txt" />
       <jump line="28" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/CMakeLists.txt" />
       <jump line="30" column="45" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/CMakeLists.txt" />
+      <jump line="31" column="34" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.core/internal/platform/android/mainlib/src/main.cpp" />
+      <jump line="25" column="16" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.core/internal/platform/android/mainlib/src/main.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -985,7 +989,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJR05JVElPTl9MVUFfU0NSSVBUX1NFQ1VSRV9GT1BFTl9TUkNcPg==</text>
+        <text encoding="base64">XDxpZ25pdGlvbkxpYlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlsb2coIGNvcmU6OkxvZzo6a0luZm8sICJbJXNdIENhbGxlZCEgU3VwcG9ydCBVSEQgOiBbJXNdIiwgX19GVU5DVElPTl9fLCBpc1VIRFN1cHBvcnRlZD8iWUVTIjoiTk8iKTsK</text>
@@ -1036,9 +1040,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJR05JVElPTl9MVUFfU0NSSVBUX1NFQ1VSRV9GT1BFTl9TUkNcPg==</last-search>
+      <last-search encoding="base64">XDxpZ25pdGlvbkxpYlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJR05JVElPTl9MVUFfU0NSSVBUX1NFQ1VSRV9GT1BFTl9TUkNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpZ25pdGlvbkxpYlw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1046,7 +1050,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZGlzcGxheUV2ZW50Q2FsbGJhY2tcPg==</entry>
         <entry encoding="base64">XDxfcHJvY2Vzc0V2ZW50XD4=</entry>
         <entry encoding="base64">XDxfcHJvY2Vzc0xpZmVjeWNsZUV2ZW50XD4=</entry>
         <entry encoding="base64">XDxzZXRJbkJhY2tncm91bmRNb2RlXD4=</entry>
@@ -1066,6 +1069,7 @@
         <entry encoding="base64">XDxfcGZuR2V0Qm9vbFByb3BlcnR5XD4=</entry>
         <entry>sign</entry>
         <entry encoding="base64">XDxJR05JVElPTl9MVUFfU0NSSVBUX1NFQ1VSRV9GT1BFTl9TUkNcPg==</entry>
+        <entry encoding="base64">XDxpZ25pdGlvbkxpYlw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
