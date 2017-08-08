@@ -48,8 +48,12 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_text_to_speech.h" timestamp="1496226602485">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiesprovider/device-properties/implementation/devicepropertiesprovider/src/PlatformDevicePropertiesProvider.cpp" timestamp="1500999900746">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiesprovider/device-properties/implementation/devicepropertiesprovider/src/PlatformDevicePropertiesProvider.cpp" timestamp="1502193617706">
         <mark key="'" line="475" column="4" />
+        <mark key="[" line="429" column="58" />
+        <mark key="]" line="429" column="57" />
+        <mark key="^" line="429" column="57" />
+        <mark key="." line="429" column="57" />
       </file>
       <file name="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/CMakeLists.txt" timestamp="1499345611968">
         <mark key="'" line="12" column="29" />
@@ -270,12 +274,6 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" timestamp="1501162978602">
         <mark key="'" line="16" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiesprovider/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" timestamp="1501253648183">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="151" column="4" />
-        <mark key="." line="146" column="15" />
-        <mark key="^" line="146" column="15" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/manifest" timestamp="1500288777682">
         <mark key="[" line="20" column="32" />
         <mark key="]" line="20" column="33" />
@@ -425,6 +423,7 @@
         <mark key="]" line="183" column="16" />
         <mark key="." line="183" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1502193669737" />
       <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/include/SDLDisplayContext.h" timestamp="1499197846806">
         <mark key="'" line="39" column="9" />
       </file>
@@ -700,12 +699,6 @@
       <file name="$USER_HOME$/local/depo/src/depo/versioning/IgnitionVersioningStrategy.py" timestamp="1495208794282">
         <mark key="'" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiesprovider/device-properties/implementation/devicepropertiesprovider/lg/src/PlatformBridge.cpp" timestamp="1501255083229">
-        <mark key="[" line="434" column="9" />
-        <mark key="]" line="435" column="4" />
-        <mark key="." line="435" column="4" />
-        <mark key="^" line="435" column="4" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/CMakeLists.txt" timestamp="1502115726659">
         <mark key="'" line="31" column="43" />
       </file>
@@ -741,12 +734,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2CubeTexture.cpp" timestamp="1494605209507">
         <mark key="'" line="67" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DeviceProperties.cpp" timestamp="1501254884688">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="^" line="112" column="122" />
-        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/DeviceSecureStorageBackend.cpp" timestamp="1493743370751">
         <mark key="'" line="59" column="17" />
