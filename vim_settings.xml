@@ -618,8 +618,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/Storage.h" timestamp="1496833827585">
         <mark key="'" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" timestamp="1497621960479">
-        <mark key="'" line="25" column="45" />
+      <file name="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" timestamp="1502271372175">
+        <mark key="'" line="140" column="16" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/thirdparty/boost/tools/build/v2/engine/build.sh" timestamp="1496844122638">
         <mark key="'" line="66" column="8" />
@@ -809,7 +809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="16" filename="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" />
       <jump line="23" column="64" filename="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" />
       <jump line="13" column="50" filename="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" />
       <jump line="35" column="33" filename="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/adaptor/devicepropertiesprovider/include/DevicePropertiesProviderAdapter.h" />
@@ -909,6 +908,7 @@
       <jump line="20" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps4/src/plugin/PluginPathPlatform.cpp" />
       <jump line="34" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps4/src/plugin/PluginPathPlatform.cpp" />
       <jump line="39" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps4/src/plugin/PluginPathPlatform.cpp" />
+      <jump line="140" column="16" filename="$USER_HOME$/dev/ig/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
