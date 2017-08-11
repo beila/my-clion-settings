@@ -70,6 +70,9 @@
       <file name="$USER_HOME$/dev/ci/prepare-source/common.cmake" timestamp="1499159670257">
         <mark key="'" line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLInputContext.cpp" timestamp="1502462612770">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelayerskeleton/tests/CMakeLists.txt" timestamp="1496410095493">
         <mark key="'" line="44" column="6" />
       </file>
@@ -328,8 +331,8 @@
       <file name="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/adaptor/devicepropertiesprovider/include/PropertyEntry.h" timestamp="1501251681101">
         <mark key="'" line="39" column="58" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/GeneratedSerialNumberProvider.cpp" timestamp="1502285134814">
-        <mark key="'" line="13" column="11" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/GeneratedSerialNumberProvider.cpp" timestamp="1502452541891">
+        <mark key="'" line="13" column="14" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/tests/DevicePlatformContextTest.cpp" timestamp="1498747192820">
         <mark key="'" line="6" column="37" />
@@ -438,7 +441,8 @@
         <mark key="]" line="183" column="16" />
         <mark key="." line="183" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1502446124797">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1502462605529">
+        <mark key="'" line="82" column="2" />
         <mark key="[" line="23" column="12" />
         <mark key="]" line="23" column="20" />
         <mark key="^" line="23" column="20" />
@@ -653,12 +657,8 @@
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.storage/internal/platform/lg/src/backends/SecureStorageBackend.cpp" timestamp="1496317425906">
         <mark key="'" line="35" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DevicePropertiesDelegate.cpp" timestamp="1501252835392">
-        <mark key="'" line="186" column="17" />
-        <mark key="[" line="100" column="76" />
-        <mark key="]" line="100" column="76" />
-        <mark key="." line="100" column="76" />
-        <mark key="^" line="100" column="76" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DevicePropertiesDelegate.cpp" timestamp="1502462593025">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.deviceinfo/internal/platform/panda/src/deviceinfo/properties/PlatformDeviceProperties.cpp" timestamp="1499793586646">
         <mark key="'" line="109" column="43" />
@@ -742,6 +742,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_display.h" timestamp="1498747160839">
         <mark key="'" line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" timestamp="1502462627009">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.deviceinfo/internal/platform/android/src/deviceinfo/properties/AndroidDeviceProperties.cpp" timestamp="1499793478666">
         <mark key="'" line="112" column="23" />
@@ -832,10 +835,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="422" column="26" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/include/PlatformDevicePropertiesProvider.h" />
-      <jump line="239" column="4" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/PlatformBridge.cpp" />
-      <jump line="294" column="12" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/PlatformBridge.cpp" />
-      <jump line="428" column="37" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/PlatformBridge.cpp" />
       <jump line="269" column="37" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/PlatformBridge.cpp" />
       <jump line="276" column="41" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/PlatformBridge.cpp" />
       <jump line="280" column="41" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/PlatformBridge.cpp" />
@@ -917,7 +916,6 @@
       <jump line="53" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
       <jump line="83" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
       <jump line="20" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/utils/ThreadSafeInitialiser.cpp" />
-      <jump line="13" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/GeneratedSerialNumberProvider.cpp" />
       <jump line="116" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
       <jump line="133" column="40" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
       <jump line="134" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
@@ -932,6 +930,11 @@
       <jump line="146" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
       <jump line="53" column="50" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/DeviceIdentity.cpp" />
       <jump line="27" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/PluginDeviceInfo.h" />
+      <jump line="13" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/GeneratedSerialNumberProvider.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/DevicePropertiesDelegate.cpp" />
+      <jump line="82" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLInputContext.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
