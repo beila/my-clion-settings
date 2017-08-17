@@ -126,6 +126,9 @@
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" timestamp="1495790886142">
         <mark key="'" line="248" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/utils/ThreadSafeInitialiser.h" timestamp="1502723863814">
+        <mark key="'" line="18" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.renderer/internal/platform/android/cmakescripts/build.cmake" timestamp="1498065989182">
         <mark key="'" line="0" column="18" />
       </file>
@@ -176,12 +179,8 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLCommonContext.cpp" timestamp="1493982740057">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" timestamp="1502723688744">
-        <mark key="'" line="36" column="16" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" timestamp="1502723723910">
         <mark key="[" line="23" column="24" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="99" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SecureStorageBackendContext.cpp" timestamp="1493982730931">
         <mark key="'" line="0" column="0" />
@@ -206,6 +205,13 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/IBindable.h" timestamp="1497355949826">
         <mark key="'" line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/utils/ThreadSafeInitialiser.cpp" timestamp="1502730167594">
+        <mark key="'" line="29" column="29" />
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/src/avDisplay.cpp" timestamp="1498746903556">
         <mark key="'" line="186" column="16" />
@@ -586,6 +592,9 @@
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.network/internal/platform/lg/src/PlatformUtils.cpp" timestamp="1495799385313">
         <mark key="'" line="72" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.font/include/font/utils/ParseState.h" timestamp="1502981865728">
+        <mark key="'" line="12" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginManifest.cpp" timestamp="1497611971145">
         <mark key="'" line="439" column="16" />
       </file>
@@ -840,11 +849,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="280" column="41" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/PlatformBridge.cpp" />
-      <jump line="293" column="35" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/PlatformBridge.cpp" />
-      <jump line="296" column="41" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/PlatformBridge.cpp" />
-      <jump line="299" column="41" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/PlatformBridge.cpp" />
-      <jump line="311" column="37" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/PlatformBridge.cpp" />
       <jump line="354" column="37" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/PlatformBridge.cpp" />
       <jump line="91" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DeviceProperties.cpp" />
       <jump line="52" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" />
@@ -923,7 +927,6 @@
       <jump line="133" column="40" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
       <jump line="134" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
       <jump line="120" column="39" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
-      <jump line="32" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
       <jump line="40" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
       <jump line="47" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
       <jump line="146" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
@@ -940,13 +943,19 @@
       <jump line="48" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
       <jump line="35" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
       <jump line="97" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
+      <jump line="34" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
+      <jump line="52" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
+      <jump line="32" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/CachedSerialNumberProvider.cpp" />
+      <jump line="18" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/utils/ThreadSafeInitialiser.h" />
+      <jump line="29" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/utils/ThreadSafeInitialiser.cpp" />
+      <jump line="12" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.font/include/font/utils/ParseState.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CV9zZXJpCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -980,7 +989,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>r</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1020,7 +1029,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2VyaWFsTnVtYmVyXD4=</text>
+        <text encoding="base64">XDxfaW5pdGlhbGlzZUludGVybmFsXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlsb2coIGNvcmU6OkxvZzo6a0luZm8sICJbJXNdIENhbGxlZCEgU3VwcG9ydCBVSEQgOiBbJXNdIiwgX19GVU5DVElPTl9fLCBpc1VIRFN1cHBvcnRlZD8iWUVTIjoiTk8iKTsK</text>
@@ -1071,9 +1080,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2VyaWFsTnVtYmVyXD4=</last-search>
+      <last-search encoding="base64">XDxfaW5pdGlhbGlzZUludGVybmFsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2VyaWFsTnVtYmVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfaW5pdGlhbGlzZUludGVybmFsXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1081,7 +1090,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTRExfQW5kcm9pZEdldEFjdGl2aXR5XD4=</entry>
         <entry encoding="base64">XDx4NTA5Q2VydGlmaWNhdGVCdW5kbGVQYXRoXD4=</entry>
         <entry encoding="base64">XDxjYUJ1bmRsZVBhdGhcPg==</entry>
         <entry encoding="base64">XDxjZXJ0Q29uZmlnXD4=</entry>
@@ -1097,10 +1105,11 @@
         <entry encoding="base64">XDx2YXJQYXRoXD4=</entry>
         <entry encoding="base64">XDxfZ2V0U3RvcmFnZVBhdGhcPg==</entry>
         <entry encoding="base64">XDxfZ2VuZXJhdGVSYW5kb21TZXJpYWxOdW1iZXJcPg==</entry>
-        <entry encoding="base64">XDxfaW5pdGlhbGlzZUludGVybmFsXD4=</entry>
         <entry encoding="base64">XDxfZ2VuZXJhdGVBbmRQZXJzaXN0XD4=</entry>
         <entry encoding="base64">XDxfY2hlY2tJbml0aWFsaXNlZFw+</entry>
         <entry encoding="base64">XDxfc2VyaWFsTnVtYmVyXD4=</entry>
+        <entry encoding="base64">XDxfbG9hZEZyb21EaXNrXD4=</entry>
+        <entry encoding="base64">XDxfaW5pdGlhbGlzZUludGVybmFsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
