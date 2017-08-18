@@ -177,6 +177,9 @@
       <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/include/DisplayContext.h" timestamp="1498671472605">
         <mark key="'" line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/Ignition.cpp" timestamp="1503074918600">
+        <mark key="'" line="345" column="26" />
+      </file>
       <file name="$USER_HOME$/local/depo/tests/depo/git/test_GitRepo.py" timestamp="1495212903973">
         <mark key="'" line="40" column="34" />
       </file>
@@ -360,7 +363,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/include/fruit/impl/util/hash_helpers.h" timestamp="1494596531672">
         <mark key="'" line="26" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503072647806">
+      <file name="/Dummy.txt" timestamp="1503075324858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -536,6 +539,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/PluginPlayer.cpp" timestamp="1503075413229">
+        <mark key="[" line="37" column="61" />
+        <mark key="]" line="37" column="61" />
+        <mark key="^" line="37" column="61" />
+        <mark key="." line="37" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/cmakescripts/CMakeMacros.cmake" timestamp="1497264846976">
         <mark key="'" line="562" column="6" />
       </file>
@@ -598,6 +607,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.font/include/font/utils/ParseState.h" timestamp="1502981865728">
         <mark key="'" line="12" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/install/plugins/com.amazon.ignition.app.stark/var/web-cache/init.js" timestamp="1503074081198">
+        <mark key="'" line="41" column="28823" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginManifest.cpp" timestamp="1497611971145">
         <mark key="'" line="439" column="16" />
@@ -853,11 +865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="37" filename="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/src/PlatformBridge.cpp" />
-      <jump line="91" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DeviceProperties.cpp" />
-      <jump line="52" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" />
-      <jump line="34" column="40" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DeviceProperties.cpp" />
-      <jump line="57" column="51" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" />
       <jump line="26" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/include/DevicePropertiesProvider.h" />
       <jump line="75" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" />
       <jump line="12" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" />
@@ -953,6 +960,11 @@
       <jump line="18" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/utils/ThreadSafeInitialiser.h" />
       <jump line="29" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/utils/ThreadSafeInitialiser.cpp" />
       <jump line="12" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.font/include/font/utils/ParseState.h" />
+      <jump line="2" column="7531" filename="$USER_HOME$/dev/ig/install/plugins/com.amazon.ignition.app.stark/var/web-cache/init.js" />
+      <jump line="0" column="17254" filename="$USER_HOME$/dev/ig/install/plugins/com.amazon.ignition.app.stark/var/web-cache/init.js" />
+      <jump line="16" column="40" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/thirdparty/spidermonkey/mozjs-24.2.0/js/src/jit-test/tests/basic/bug673766.js" />
+      <jump line="41" column="28823" filename="$USER_HOME$/dev/ig/install/plugins/com.amazon.ignition.app.stark/var/web-cache/init.js" />
+      <jump line="345" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/Ignition.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1033,7 +1045,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaW5pdGlhbGlzZUludGVybmFsXD4=</text>
+        <text encoding="base64">XDxsb2dGaWxlUGF0aFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlsb2coIGNvcmU6OkxvZzo6a0luZm8sICJbJXNdIENhbGxlZCEgU3VwcG9ydCBVSEQgOiBbJXNdIiwgX19GVU5DVElPTl9fLCBpc1VIRFN1cHBvcnRlZD8iWUVTIjoiTk8iKTsK</text>
@@ -1084,9 +1096,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaW5pdGlhbGlzZUludGVybmFsXD4=</last-search>
+      <last-search encoding="base64">XDxsb2dGaWxlUGF0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaW5pdGlhbGlzZUludGVybmFsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dGaWxlUGF0aFw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1094,8 +1106,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx4NTA5Q2VydGlmaWNhdGVCdW5kbGVQYXRoXD4=</entry>
-        <entry encoding="base64">XDxjYUJ1bmRsZVBhdGhcPg==</entry>
         <entry encoding="base64">XDxjZXJ0Q29uZmlnXD4=</entry>
         <entry encoding="base64">XDxDZXJ0Q29uZmlndXJhdGlvblw+</entry>
         <entry encoding="base64">XDxfY2FDZXJ0UGF0aFw+</entry>
@@ -1114,6 +1124,8 @@
         <entry encoding="base64">XDxfc2VyaWFsTnVtYmVyXD4=</entry>
         <entry encoding="base64">XDxfbG9hZEZyb21EaXNrXD4=</entry>
         <entry encoding="base64">XDxfaW5pdGlhbGlzZUludGVybmFsXD4=</entry>
+        <entry>logLevel</entry>
+        <entry encoding="base64">XDxsb2dGaWxlUGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
