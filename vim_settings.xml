@@ -253,6 +253,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/null/include/display/NullDisplayContext.h" timestamp="1499792355733">
         <mark key="'" line="18" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/igrpi/tools/CMakeLists.txt" timestamp="1503331532665">
+        <mark key="[" line="68" column="55" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/ps4/src/egl/PS4PlatformContext.cpp" timestamp="1499794919057">
         <mark key="'" line="156" column="86" />
       </file>
@@ -318,9 +321,6 @@
       <file name="$USER_HOME$/dev/igrpi/tools/generate_projects.sh" timestamp="1503329826648">
         <mark key="'" line="246" column="33" />
         <mark key="[" line="271" column="2" />
-        <mark key="]" line="272" column="0" />
-        <mark key="." line="272" column="0" />
-        <mark key="^" line="272" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/thirdparty/SDL2/cmake/macros.cmake" timestamp="1497022728583">
         <mark key="'" line="0" column="0" />
@@ -759,6 +759,10 @@
       <file name="$USER_HOME$/local/depo/src/depo/versioning/IgnitionVersioningStrategy.py" timestamp="1495208794282">
         <mark key="'" line="12" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/manifest" timestamp="1503332022311">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="70" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/identity/CachedSerialNumberProvider.h" timestamp="1502722887902">
         <mark key="'" line="36" column="14" />
         <mark key="[" line="41" column="4" />
@@ -981,8 +985,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWRkX2N1c3RvbV90YXJnZXQoaW5zdGFsbAoJCSQoTUFLRSkgaW5zdGFsbAoJCURFUEVORFMgUkVGX0FMTAoJCUNPTU1FTlQgIkluc3RhbGxpbmcgaWduaXRpb24iKQoK</text>
+      <register name="&quot;" type="4">
+        <text>com.amazon.ignition.framework.core@0.22.12</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
