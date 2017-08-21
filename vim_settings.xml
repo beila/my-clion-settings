@@ -315,6 +315,13 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_input_defs.h" timestamp="1495626114088">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/igrpi/tools/generate_projects.sh" timestamp="1503329826648">
+        <mark key="'" line="246" column="33" />
+        <mark key="[" line="271" column="2" />
+        <mark key="]" line="272" column="0" />
+        <mark key="." line="272" column="0" />
+        <mark key="^" line="272" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/thirdparty/SDL2/cmake/macros.cmake" timestamp="1497022728583">
         <mark key="'" line="0" column="0" />
       </file>
@@ -865,7 +872,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/common/platform/posix-gnuc/include/amazonite/PodTypes.h" />
       <jump line="9" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/common/platform/posix-gnuc/include/amazonite/PodTypes.h" />
       <jump line="109" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DeviceProperties.cpp" />
       <jump line="12" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/include/amazonite/CacheFlag.h" />
@@ -965,13 +971,14 @@
       <jump line="163" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/Storage.cpp" />
       <jump line="86" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/Storage.cpp" />
       <jump line="172" column="64" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/Storage.cpp" />
+      <jump line="246" column="33" filename="$USER_HOME$/dev/igrpi/tools/generate_projects.sh" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y21ha2UgLURDTUFLRV9CVUlMRF9UWVBFPURlYnVnICRUT09MQ0hBSU5fT1BUSU9OIC1EQlVJTERfUExBVEZPUk09JFBMQVRGT1JNICRCQVNIX1NDUklQVF9ESVIgJENNQUtFX09QVElPTlMK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1048,7 +1055,7 @@
         <text encoding="base64">XDxsb2dGaWxlUGF0aFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlsb2coIGNvcmU6OkxvZzo6a0luZm8sICJbJXNdIENhbGxlZCEgU3VwcG9ydCBVSEQgOiBbJXNdIiwgX19GVU5DVElPTl9fLCBpc1VIRFN1cHBvcnRlZD8iWUVTIjoiTk8iKTsK</text>
+        <text encoding="base64">Y21ha2UgLURDTUFLRV9CVUlMRF9UWVBFPURlYnVnICRUT09MQ0hBSU5fT1BUSU9OIC1EQlVJTERfUExBVEZPUk09JFBMQVRGT1JNICRCQVNIX1NDUklQVF9ESVIgJENNQUtFX09QVElPTlMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CV9zZXJpCg==</text>
