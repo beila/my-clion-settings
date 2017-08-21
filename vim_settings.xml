@@ -395,7 +395,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/include/fruit/impl/util/hash_helpers.h" timestamp="1494596531672">
         <mark key="'" line="26" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503337311193">
+      <file name="/Dummy.txt" timestamp="1503339261712">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -469,12 +469,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/get-plugin-platform-dir.cmake" timestamp="1496761900229">
         <mark key="'" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" timestamp="1503338122870">
-        <mark key="'" line="142" column="8" />
-        <mark key="[" line="219" column="48" />
-        <mark key="]" line="219" column="48" />
-        <mark key="." line="219" column="48" />
-        <mark key="^" line="219" column="48" />
+      <file name="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" timestamp="1503339393341">
+        <mark key="'" line="169" column="5" />
+        <mark key="[" line="243" column="1" />
+        <mark key="]" line="244" column="54" />
+        <mark key="." line="244" column="54" />
+        <mark key="^" line="244" column="54" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLInputContext.cpp" timestamp="1495466784951">
         <mark key="'" line="148" column="8" />
@@ -912,10 +912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="13" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.player/internal/platform/android/src/player/AndroidPlayerPlatform.cpp" />
-      <jump line="15" column="42" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.player/internal/platform/android/include/player/AndroidPlayerPlatform.h" />
-      <jump line="568" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
-      <jump line="305" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
       <jump line="582" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
       <jump line="586" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
       <jump line="72" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
@@ -981,7 +977,6 @@
       <jump line="13" column="20" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
       <jump line="70" column="8" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/src/allocation/memory/allocator/BlobAndChunkAllocator.cpp" />
       <jump line="214" column="5" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="232" column="8" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
       <jump line="207" column="7" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
       <jump line="156" column="19" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
       <jump line="176" column="53" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
@@ -1012,13 +1007,18 @@
       <jump line="61" column="34" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
       <jump line="142" column="8" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/igrpi/tools/CMakeLists.txt" />
+      <jump line="242" column="6" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
+      <jump line="230" column="15" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
+      <jump line="171" column="46" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
+      <jump line="232" column="9" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
+      <jump line="169" column="5" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LXEg</text>
+        <text>getReadWriteVarDescriptorFilePath()</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1052,7 +1052,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LXEg</text>
+        <text>getReadWriteVarDescriptorFilePath</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1092,10 +1092,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NlcnRcPg==</text>
+        <text encoding="base64">XDxjaGVja1JlYWRXcml0ZUNvbXBsZXRlRmlsZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkiZGV2aWNlaW5mbyIsCg==</text>
+      <register name="0" type="4">
+        <text>getReadWriteVarDescriptorFilePath()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I2luY2x1ZGUgInV0aWxzL0xvZy5oIgo=</text>
@@ -1143,9 +1143,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NlcnRcPg==</last-search>
+      <last-search encoding="base64">XDxjaGVja1JlYWRXcml0ZUNvbXBsZXRlRmlsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NlcnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja1JlYWRXcml0ZUNvbXBsZXRlRmlsZVw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1153,7 +1153,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2VuZXJhdGVSYW5kb21TZXJpYWxOdW1iZXJcPg==</entry>
         <entry encoding="base64">XDxfZ2VuZXJhdGVBbmRQZXJzaXN0XD4=</entry>
         <entry encoding="base64">XDxfY2hlY2tJbml0aWFsaXNlZFw+</entry>
         <entry encoding="base64">XDxfc2VyaWFsTnVtYmVyXD4=</entry>
@@ -1173,6 +1172,7 @@
         <entry encoding="base64">XDxjcmVhdGVOZXN0ZWRSZWFkV3JpdGVGb2xkZXJcPg==</entry>
         <entry encoding="base64">XDxGaWxlU3lzdGVtVXRpbHNcPg==</entry>
         <entry encoding="base64">XDxhc3NlcnRcPg==</entry>
+        <entry encoding="base64">XDxjaGVja1JlYWRXcml0ZUNvbXBsZXRlRmlsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
