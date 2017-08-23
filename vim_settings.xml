@@ -28,11 +28,11 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/include/display/DevicePlatformContext.h" timestamp="1499194857354">
         <mark key="'" line="67" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.crypto/manifest" timestamp="1503430361067">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="3" column="29" />
+      <file name="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.crypto/manifest" timestamp="1503490434654">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/tick/TickGenerator.h" timestamp="1499076621722">
         <mark key="'" line="18" column="10" />
@@ -272,11 +272,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/null/include/display/NullDisplayContext.h" timestamp="1499792355733">
         <mark key="'" line="18" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/igrpi/tools/CMakeLists.txt" timestamp="1503431274285">
+      <file name="$USER_HOME$/dev/igrpi/tools/CMakeLists.txt" timestamp="1503489831939">
         <mark key="'" line="76" column="22" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+        <mark key="[" line="72" column="17" />
+        <mark key="]" line="72" column="17" />
+        <mark key="." line="72" column="17" />
         <mark key="^" line="93" column="62" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/ps4/src/egl/PS4PlatformContext.cpp" timestamp="1499794919057">
@@ -404,7 +404,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/include/fruit/impl/util/hash_helpers.h" timestamp="1494596531672">
         <mark key="'" line="26" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503482910056">
+      <file name="/Dummy.txt" timestamp="1503489835292">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1022,7 +1022,7 @@
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Non-linux platforms should also use</text>
+        <text>${CMAKE_SOURCE_DIR}/</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1056,7 +1056,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Non-linux platforms should also use</text>
+        <text>${CMAKE_SOURCE_DIR}/</text>
       </register>
       <register name="m" type="4">
         <keys>
