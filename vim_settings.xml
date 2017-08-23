@@ -347,12 +347,12 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/thirdparty/SDL2/cmake/macros.cmake" timestamp="1497022728583">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" timestamp="1503499949479">
-        <mark key="'" line="127" column="47" />
-        <mark key="[" line="124" column="26" />
-        <mark key="]" line="124" column="26" />
-        <mark key="." line="124" column="37" />
-        <mark key="^" line="127" column="47" />
+      <file name="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" timestamp="1503504627960">
+        <mark key="'" line="130" column="24" />
+        <mark key="[" line="158" column="24" />
+        <mark key="]" line="158" column="25" />
+        <mark key="." line="158" column="25" />
+        <mark key="^" line="79" column="58" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/InputTests.cpp" timestamp="1498747324924">
         <mark key="'" line="94" column="0" />
@@ -406,7 +406,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/include/fruit/impl/util/hash_helpers.h" timestamp="1494596531672">
         <mark key="'" line="26" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503503011783">
+      <file name="/Dummy.txt" timestamp="1503504751411">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -911,7 +911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="33" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
       <jump line="475" column="6" filename="$USER_HOME$/dev/raspberry-pi-tools/arm-bcm2708/arm-bcm2708hardfp-linux-gnueabi/arm-bcm2708hardfp-linux-gnueabi/include/c++/4.7.1/fstream" />
       <jump line="169" column="5" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
       <jump line="234" column="9" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
@@ -1011,13 +1010,14 @@
       <jump line="44" column="55" filename="$USER_HOME$/dev/igrpi/ignition-rpi/rpi.dev.config" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/igrpi/ignition-rpi/rpi.dev.config" />
       <jump line="72" column="0" filename="$USER_HOME$/dev/igrpi/ignition-rpi/rpi.dev.config" />
+      <jump line="130" column="24" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>usr</text>
+        <text>666</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1051,7 +1051,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>usr</text>
+        <text>666</text>
       </register>
       <register name="m" type="4">
         <keys>
