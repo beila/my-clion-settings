@@ -71,12 +71,12 @@
       <file name="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/CMakeLists.txt" timestamp="1499345611968">
         <mark key="'" line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/cmakescripts/config.cmake" timestamp="1503500576510">
+      <file name="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/cmakescripts/config.cmake" timestamp="1503502360410">
         <mark key="'" line="26" column="35" />
-        <mark key="[" line="28" column="30" />
-        <mark key="]" line="28" column="35" />
-        <mark key="." line="28" column="35" />
-        <mark key="^" line="28" column="35" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="43" />
+        <mark key="." line="26" column="35" />
+        <mark key="^" line="26" column="35" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/thirdparty/spidermonkey/mozjs-45.0.2/dist/include/js/Value.h" timestamp="1494414600151">
         <mark key="'" line="1195" column="31" />
@@ -384,11 +384,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/GeneratedSerialNumberProvider.cpp" timestamp="1502722872589">
         <mark key="'" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/igrpi/ignition-rpi/rpi.dev.config" timestamp="1503335817366">
-        <mark key="[" line="12" column="54" />
-        <mark key="]" line="12" column="72" />
-        <mark key="." line="68" column="31" />
-        <mark key="^" line="68" column="31" />
+      <file name="$USER_HOME$/dev/igrpi/ignition-rpi/rpi.dev.config" timestamp="1503502949836">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="18" column="70" />
+        <mark key="]" line="18" column="78" />
+        <mark key="." line="18" column="78" />
+        <mark key="^" line="18" column="78" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/tests/DevicePlatformContextTest.cpp" timestamp="1498747192820">
         <mark key="'" line="6" column="37" />
@@ -405,7 +406,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/include/fruit/impl/util/hash_helpers.h" timestamp="1494596531672">
         <mark key="'" line="26" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503500647893">
+      <file name="/Dummy.txt" timestamp="1503503011783">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -622,9 +623,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/EventService.h" timestamp="1497440237449">
         <mark key="'" line="138" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/cmakescripts/build.cmake" timestamp="1503500571462">
-        <mark key="'" line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/Library.cpp" timestamp="1497021800229">
         <mark key="'" line="19" column="11" />
       </file>
@@ -634,7 +632,6 @@
       <file name="$USER_HOME$/dev/ci/common/deliveries.cmake" timestamp="1499161998475">
         <mark key="'" line="61" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/igrpi/install/plugins/com.amazon.ignition.framework.core/var/versionTable/lowTable" timestamp="1503417535218" />
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.network/internal/platform/lg/src/PlatformUtils.cpp" timestamp="1495799385313">
         <mark key="'" line="72" column="35" />
       </file>
@@ -785,10 +782,10 @@
       <file name="$USER_HOME$/local/depo/src/depo/versioning/IgnitionVersioningStrategy.py" timestamp="1495208794282">
         <mark key="'" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/manifest" timestamp="1503431487062">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="17" column="77" />
-        <mark key="." line="17" column="77" />
+      <file name="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/manifest" timestamp="1503502626515">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
         <mark key="^" line="17" column="77" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/identity/CachedSerialNumberProvider.h" timestamp="1502722887902">
@@ -914,9 +911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="4" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="171" column="57" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="163" column="19" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
       <jump line="172" column="33" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
       <jump line="475" column="6" filename="$USER_HOME$/dev/raspberry-pi-tools/arm-bcm2708/arm-bcm2708hardfp-linux-gnueabi/arm-bcm2708hardfp-linux-gnueabi/include/c++/4.7.1/fstream" />
       <jump line="169" column="5" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
@@ -1014,13 +1008,16 @@
       <jump line="45" column="11" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/build/pluginloading.cmake" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/cmakescripts/build.cmake" />
       <jump line="26" column="35" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/cmakescripts/config.cmake" />
+      <jump line="44" column="55" filename="$USER_HOME$/dev/igrpi/ignition-rpi/rpi.dev.config" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/igrpi/ignition-rpi/rpi.dev.config" />
+      <jump line="72" column="0" filename="$USER_HOME$/dev/igrpi/ignition-rpi/rpi.dev.config" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>LINUX</text>
+        <text>usr</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1054,7 +1051,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>LINUX</text>
+        <text>usr</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1096,11 +1093,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyd1BhdGhcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkidmlld3MiLAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">SUdOSVRJT05fUExVR0lOX1BBVEhfSU1QTCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUVMU0VJRihJR05JVElPTl9QTFVHSU5fUEFUSF9JTVBMIFNUUkVRVUFMIFNFUEFSQVRFX1ZBUikKCQlMSVNUKEFQUEVORCBJR05JVElPTl9QTFVHSU5fU1JDCgkJCWludGVybmFsL3BsYXRmb3JtL2xpbnV4L3NyYy9wbHVnaW4vUGx1Z2luUGF0aFBsYXRmb3JtU2VwYXJhdGVWYXIuY3BwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1111,31 +1108,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgQ3JlYXRlICJ2YXJfZGVzY3JpcHRvciIgZmlsZSB0byBiZSB1c2VkIHRvIGNoZWNrIGlmIHVwZ3JhZGUgd2FzIG1hZGUgb24gdmVyc2lvblRhYmxlLgojIFRoaXMgc2hvdWxkIGJlIGFsd2F5cyBZRVMgd2hlbiBJR05JVElPTl9QTFVHSU5fUEFUSF9JTVBMIGlzIFNFUEFSQVRFX1ZBUgojIGluIGNvbS5hbWF6b24uaWduaXRpb24uZnJhbWV3b3JrLmNvcmUvaW50ZXJuYWwvcGxhdGZvcm0vcnBpL2NtYWtlc2NyaXB0cy9jb25maWcuY21ha2UuCiMgSXQncyB0aGUgZGVmYXVsdCB2YWx1ZS4gSWYgeW91IGNoYW5nZSBJR05JVElPTl9QTFVHSU5fUEFUSF9JTVBMLCB0aGVuIHlvdSBjYW4gY2hhbmdlIHRoaXMgdG8gTk8KQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURDQUxDVUxBVEVfSEFTSF9PRl9JVEVNU19JTl9WQVJfRk9MREVSUz1ZRVMiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlhbGxTdWNjZXNzID0gKGNobW9kKGN1cnJlbnRQYXRoLmNfc3RyKCksIGxpbnV4TW9kZUZsYWcpID09IDApICYmIGFsbFN1Y2Nlc3M7Cg==</text>
+        <text encoding="base64">CUVMU0VJRihJR05JVElPTl9QTFVHSU5fUEFUSF9JTVBMIFNUUkVRVUFMIFNFUEFSQVRFX1ZBUikKCQlMSVNUKEFQUEVORCBJR05JVElPTl9QTFVHSU5fU1JDCgkJCWludGVybmFsL3BsYXRmb3JtL2xpbnV4L3NyYy9wbHVnaW4vUGx1Z2luUGF0aFBsYXRmb3JtU2VwYXJhdGVWYXIuY3BwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJU19JUk9USCB8IFNfSVdPVEg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJU19JUkdSUCB8IFNfSVdHUlAgfAo=</text>
+        <text encoding="base64">CQlhbGxTdWNjZXNzID0gKGNobW9kKGN1cnJlbnRQYXRoLmNfc3RyKCksIGxpbnV4TW9kZUZsYWcpID09IDApICYmIGFsbFN1Y2Nlc3M7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZnM6Ok1PREVGTEFHX1JPVEhFUiB8IGZzOjpNT0RFRkxBR19XT1RIRVIpOwo=</text>
+        <text encoding="base64">CQkJU19JUk9USCB8IFNfSVdPVEg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZnM6Ok1PREVGTEFHX1JHUk9VUCB8IGZzOjpNT0RFRkxBR19XR1JPVVAgfAo=</text>
+        <text encoding="base64">CQkJU19JUkdSUCB8IFNfSVdHUlAgfAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gVE9ETyAoSUdOLTM5MDMpIE5vbi1saW51eCBwbGF0Zm9ybXMgc2hvdWxkIGFsc28gdXNlCg==</text>
+        <text encoding="base64">CQkJZnM6Ok1PREVGTEFHX1JPVEhFUiB8IGZzOjpNT0RFRkxBR19XT1RIRVIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJImZvY3VzIiwK</text>
+        <text encoding="base64">CQkJZnM6Ok1PREVGTEFHX1JHUk9VUCB8IGZzOjpNT0RFRkxBR19XR1JPVVAgfAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">CiMgTG9hZCBkZXZpY2UgbGF5ZXIgbGlicmFyeSBhbmQgdXNlIGRldmljZSBBUElzIGZyb20gaXQKQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURVU0VfREVWSUNFX0xBWUVSPVlFUyIKCiMgVXNlIERQQyB0byBnZXQgaW5mb3JtYXRpb24gZnJvbSBkZXZpY2VzLgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRFVTRV9ERVZJQ0VfUFJPUEVSVElFU19DT01QT05FTlQ9WUVTIgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRERFVklDRV9QUk9QRVJUSUVTX1BST1ZJREVSX0xPQ0FUSU9OPSQiCg==</text>
