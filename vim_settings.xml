@@ -71,11 +71,12 @@
       <file name="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/CMakeLists.txt" timestamp="1499345611968">
         <mark key="'" line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/cmakescripts/config.cmake" timestamp="1503431264269">
-        <mark key="'" line="26" column="50" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/cmakescripts/config.cmake" timestamp="1503500576510">
+        <mark key="'" line="26" column="35" />
+        <mark key="[" line="28" column="30" />
+        <mark key="]" line="28" column="35" />
+        <mark key="." line="28" column="35" />
+        <mark key="^" line="28" column="35" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/thirdparty/spidermonkey/mozjs-45.0.2/dist/include/js/Value.h" timestamp="1494414600151">
         <mark key="'" line="1195" column="31" />
@@ -346,12 +347,12 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/thirdparty/SDL2/cmake/macros.cmake" timestamp="1497022728583">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" timestamp="1503482903091">
-        <mark key="'" line="76" column="46" />
-        <mark key="[" line="231" column="19" />
-        <mark key="]" line="231" column="66" />
-        <mark key="." line="231" column="66" />
-        <mark key="^" line="231" column="66" />
+      <file name="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" timestamp="1503499949479">
+        <mark key="'" line="127" column="47" />
+        <mark key="[" line="124" column="26" />
+        <mark key="]" line="124" column="26" />
+        <mark key="." line="124" column="37" />
+        <mark key="^" line="127" column="47" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/InputTests.cpp" timestamp="1498747324924">
         <mark key="'" line="94" column="0" />
@@ -404,7 +405,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/include/fruit/impl/util/hash_helpers.h" timestamp="1494596531672">
         <mark key="'" line="26" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503498070197">
+      <file name="/Dummy.txt" timestamp="1503500647893">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -621,11 +622,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/EventService.h" timestamp="1497440237449">
         <mark key="'" line="138" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/cmakescripts/build.cmake" timestamp="1503431256037">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/cmakescripts/build.cmake" timestamp="1503500571462">
+        <mark key="'" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/Library.cpp" timestamp="1497021800229">
         <mark key="'" line="19" column="11" />
@@ -741,12 +739,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/CMakeLists.txt" timestamp="1495030670803">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/build/pluginloading.cmake" timestamp="1503431229429">
-        <mark key="'" line="44" column="51" />
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="33" />
-        <mark key="^" line="16" column="33" />
-        <mark key="." line="16" column="33" />
+      <file name="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/build/pluginloading.cmake" timestamp="1503500566006">
+        <mark key="'" line="45" column="11" />
+        <mark key="[" line="45" column="11" />
+        <mark key="]" line="45" column="11" />
+        <mark key="^" line="45" column="11" />
+        <mark key="." line="45" column="11" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" timestamp="1494411486915">
         <mark key="'" line="117" column="10" />
@@ -916,22 +914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="34" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="142" column="8" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/igrpi/tools/CMakeLists.txt" />
-      <jump line="242" column="6" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="230" column="15" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="221" column="12" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="236" column="13" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="218" column="5" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="127" column="21" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="220" column="32" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="173" column="44" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="175" column="43" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="164" column="19" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="170" column="5" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="235" column="13" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="153" column="22" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/src/filesystem/FileSystemUtils.cpp" />
       <jump line="245" column="4" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
       <jump line="171" column="57" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
       <jump line="163" column="19" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
@@ -995,8 +977,6 @@
       <jump line="27" column="3" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/build/pluginloading.cmake" />
       <jump line="10" column="9" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/build/pluginloading.cmake" />
       <jump line="13" column="3" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/build/pluginloading.cmake" />
-      <jump line="16" column="33" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/build/pluginloading.cmake" />
-      <jump line="45" column="11" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/build/pluginloading.cmake" />
       <jump line="15" column="13" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/build/pluginloading.cmake" />
       <jump line="17" column="15" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/build/pluginloading.cmake" />
       <jump line="19" column="33" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/build/pluginloading.cmake" />
@@ -1010,19 +990,37 @@
       <jump line="44" column="51" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/build/pluginloading.cmake" />
       <jump line="158" column="0" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/src/filesystem/FileSystemUtils.cpp" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/cmakescripts/build.cmake" />
-      <jump line="26" column="50" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/cmakescripts/config.cmake" />
       <jump line="76" column="22" filename="$USER_HOME$/dev/igrpi/tools/CMakeLists.txt" />
       <jump line="177" column="17" filename="$USER_HOME$/dev/igrpi/tools/generate_projects.sh" />
       <jump line="242" column="0" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
       <jump line="76" column="46" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
       <jump line="261" column="32" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/ps4/src/SystemInit.cpp" />
+      <jump line="228" column="0" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
+      <jump line="101" column="16" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
+      <jump line="122" column="41" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
+      <jump line="78" column="18" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
+      <jump line="25" column="4" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/include/filesystem/FileSystemDefs.h" />
+      <jump line="157" column="35" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
+      <jump line="80" column="8" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
+      <jump line="158" column="0" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
+      <jump line="77" column="17" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
+      <jump line="114" column="56" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
+      <jump line="117" column="58" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
+      <jump line="119" column="43" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
+      <jump line="116" column="78" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
+      <jump line="124" column="26" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
+      <jump line="127" column="47" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
+      <jump line="16" column="11" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/build/pluginloading.cmake" />
+      <jump line="45" column="11" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/build/pluginloading.cmake" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/cmakescripts/build.cmake" />
+      <jump line="26" column="35" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/cmakescripts/config.cmake" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>${CMAKE_SOURCE_DIR}/</text>
+        <text>LINUX</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1056,7 +1054,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>${CMAKE_SOURCE_DIR}/</text>
+        <text>LINUX</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1096,13 +1094,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJR05JVElPTl9QTFVHSU5fUEFUSF9JTVBMXD4=</text>
+        <text encoding="base64">XDxyd1BhdGhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkidmlld3MiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVE9ETyAoSUdOLTM5MDMpIE5vbi1saW51eCBwbGF0Zm9ybXMgc2hvdWxkIGFsc28gdXNlCg==</text>
+        <text encoding="base64">CUVMU0VJRihJR05JVElPTl9QTFVHSU5fUEFUSF9JTVBMIFNUUkVRVUFMIFNFUEFSQVRFX1ZBUikKCQlMSVNUKEFQUEVORCBJR05JVElPTl9QTFVHSU5fU1JDCgkJCWludGVybmFsL3BsYXRmb3JtL2xpbnV4L3NyYy9wbHVnaW4vUGx1Z2luUGF0aFBsYXRmb3JtU2VwYXJhdGVWYXIuY3BwKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1113,31 +1111,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJImZvY3VzIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJIiIK</text>
+        <text encoding="base64">CQlhbGxTdWNjZXNzID0gKGNobW9kKGN1cnJlbnRQYXRoLmNfc3RyKCksIGxpbnV4TW9kZUZsYWcpID09IDApICYmIGFsbFN1Y2Nlc3M7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUNPTU1BTkQgc3NoIHJwaSBcInN1ZG8ga2lsbGFsbCAtOSAtdyBiaW4vaWduaXRpb24gfHwgdHJ1ZVwiCg==</text>
+        <text encoding="base64">CQkJU19JUk9USCB8IFNfSVdPVEg7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkX2N1c3RvbV90YXJnZXQoaW5zdGFsbF9hbGwKCSQoTUFLRSkgaW5zdGFsbAoJREVQRU5EUyBSRUZfQUxMCglDT01NRU5UICJJbnN0YWxsaW5nIGlnbml0aW9uIikKCmFkZF9jdXN0b21fdGFyZ2V0KHVwbG9hZF9hbGwKCURFUEVORFMgaW5zdGFsbF9hbGwKCUNPTU1BTkQgc3NoIHJwaSBcInN1ZG8ga2lsbGFsbCAtOSAtdyBiaW4vaWduaXRpb24gfHwgdHJ1ZVwiCglDT01NQU5EIHNjcCAtciAke0lHTklUSU9OX0lOU1RBTExfRElSfS8qIHJwaTovdXNyL2xvY2FsL2lnbml0aW9uCgkpCgphZGRfY3VzdG9tX3RhcmdldChydW5faWduaXRpb24KCUNPTU1BTkQgc3NoIHJwaSBcInN1ZG8ga2lsbGFsbCAtOSAtdyBiaW4vaWduaXRpb24gfHwgdHJ1ZVwiCglDT01NQU5EIHNzaCBycGkgXCJjZCAvdXNyL2xvY2FsL2lnbml0aW9uXDsgc3VkbyBiaW4vaWduaXRpb24gLS1sb2dsZXZlbD1lcnJvclwiCgkpCgo=</text>
+        <text encoding="base64">CQkJU19JUkdSUCB8IFNfSVdHUlAgfAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmVjaG8gIkdlbmVyYXRpbmcgdWJlci1wcm9qZWN0OiBSRUxFQVNFICRQTEFURk9STSIKY2QgJEJBU0VfRElSCm1rZGlyIC1wICRQTEFURk9STS9yZWxlYXNlCmNkICRQTEFURk9STS9yZWxlYXNlCmNtYWtlIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICRUT09MQ0hBSU5fT1BUSU9OIC1EQlVJTERfUExBVEZPUk09JFBMQVRGT1JNICRCQVNIX1NDUklQVF9ESVIgJENNQUtFX09QVElPTlMKCmVjaG8gIkdlbmVyYXRpbmcgdWJlci1wcm9qZWN0OiBSRUxFQVNFIFdJVEggREVCVUcgSU5GTyAkUExBVEZPUk0iCmNkICRCQVNFX0RJUgpta2RpciAtcCAkUExBVEZPUk0vcmVsd2l0aGRlYmluZm8KY2QgJFBMQVRGT1JNL3JlbHdpdGhkZWJpbmZvCmNtYWtlIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxXaXRoRGViSW5mbyAkVE9PTENIQUlOX09QVElPTiAtREJVSUxEX1BMQVRGT1JNPSRQTEFURk9STSAkQkFTSF9TQ1JJUFRfRElSICRDTUFLRV9PUFRJT05TCgppZiAkZ2VuZXJhdGVfZWNsaXBzZV9wcm9qZWN0OyB0aGVuCgoJQkFTRV9ESVJfQ09NUExJQU5UPSR7QkFTRV9ESVIvL1wvL1xcXC99CgljYXQgJEJBU0hfU0NSSVBUX0RJUi9lY2xpcHNlL2Nwcm9qZWN0X3RlbXBsYXRlIHwgc2VkICJzL0NNQUtFX0dFTkVSQVRPUl9JTlNUQUxMX0RJUkVDVE9SWS8kQkFTRV9ESVJfQ09NUExJQU5ULyIgPiAkQkFTRV9ESVIvLmNwcm9qZWN0CgljcCAkQkFTSF9TQ1JJUFRfRElSL2VjbGlwc2UvcHJvamVjdF90ZW1wbGF0ZSAkQkFTRV9ESVIvLnByb2plY3QKCXJlZF9jb2xvdXI9J1xlWzA7MzFtJwoJbm9fY29sb3VyPSdcZVswbScKCWVjaG8gIioiCgllY2hvIC1lICIqICR7cmVkX2NvbG91cn0gR2VuZXJhdGVkIEVjbGlwc2UgcHJvamVjdCBmaWxlcyBpbnRvICRCQVNFX0RJUi4gSW1wb3J0IHRoaXMgZGlyZWN0b3J5IGFzIGFuIGV4aXN0aW5nIHByb2plY3QuICR7bm9fY29sb3VyfSIKCWVjaG8gIioiCgpmaQo=</text>
+        <text encoding="base64">CQkJZnM6Ok1PREVGTEFHX1JPVEhFUiB8IGZzOjpNT0RFRkxBR19XT1RIRVIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZnM6Ok1PREVGTEFHX1JHUk9VUCB8IGZzOjpNT0RFRkxBR19XR1JPVVAgfAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SUYoSUdOSVRJT05fUExVR0lOX1BBVEhfSU1QTCBTVFJFUVVBTCBDVVNUT00pCg==</text>
+        <text encoding="base64">Ly8gVE9ETyAoSUdOLTM5MDMpIE5vbi1saW51eCBwbGF0Zm9ybXMgc2hvdWxkIGFsc28gdXNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUxJU1QoQVBQRU5EIElHTklUSU9OX1BMQVRGT1JNX1NSQyAK</text>
+        <text encoding="base64">CQkJImZvY3VzIiwK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">CiMgTG9hZCBkZXZpY2UgbGF5ZXIgbGlicmFyeSBhbmQgdXNlIGRldmljZSBBUElzIGZyb20gaXQKQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURVU0VfREVWSUNFX0xBWUVSPVlFUyIKCiMgVXNlIERQQyB0byBnZXQgaW5mb3JtYXRpb24gZnJvbSBkZXZpY2VzLgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRFVTRV9ERVZJQ0VfUFJPUEVSVElFU19DT01QT05FTlQ9WUVTIgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRERFVklDRV9QUk9QRVJUSUVTX1BST1ZJREVSX0xPQ0FUSU9OPSQiCg==</text>
@@ -1147,9 +1145,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJR05JVElPTl9QTFVHSU5fUEFUSF9JTVBMXD4=</last-search>
+      <last-search encoding="base64">XDxyd1BhdGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJR05JVElPTl9QTFVHSU5fUEFUSF9JTVBMXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyd1BhdGhcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1157,11 +1155,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRJbnN0YWxsQ29tcGxldGVGaWxlUGF0aFw+</entry>
-        <entry encoding="base64">XDxnZXRJbnN0YWxsVmFyRGVzY3JpcHRvckZpbGVQYXRoXD4=</entry>
-        <entry encoding="base64">XDxjaG1vZFJlY3Vyc2l2ZVw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVOZXN0ZWRSZWFkV3JpdGVGb2xkZXJcPg==</entry>
-        <entry encoding="base64">XDxGaWxlU3lzdGVtVXRpbHNcPg==</entry>
         <entry encoding="base64">XDxjb3B5XD4=</entry>
         <entry encoding="base64">XDxnZXRSZWFkV3JpdGVWYXJEZXNjcmlwdG9yRmlsZVBhdGhcPg==</entry>
         <entry encoding="base64">XDxjaGVja1JlYWRXcml0ZUNvbXBsZXRlRmlsZVw+</entry>
@@ -1169,7 +1162,6 @@
         <entry encoding="base64">XDxhc3NlcnRcPg==</entry>
         <entry encoding="base64">XDxwcmludGZcPg==</entry>
         <entry encoding="base64">XDxzZXRSZWFkV3JpdGVDb21wbGV0ZUZpbGVcPg==</entry>
-        <entry encoding="base64">XDxsaW51eFJ3RGlyTW9kZUZsYWdcPg==</entry>
         <entry encoding="base64">XDxsaW51eFJ3eERpck1vZGVGbGFnXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVSZWFkV3JpdGVGb2xkZXJzQW5kQ29weUZpbGVzXD4=</entry>
         <entry encoding="base64">XDxWQVJfREVTQ1JJUFRPUl9GSUxFTkFNRVw+</entry>
@@ -1177,6 +1169,12 @@
         <entry encoding="base64">XDxQTFVHSU5fSU5TVEFMTF9ESVJcPg==</entry>
         <entry encoding="base64">XDxJR05JVElPTl9QTFVHSU5fTE9BRElOR19JTVBMXD4=</entry>
         <entry encoding="base64">XDxJR05JVElPTl9QTFVHSU5fUEFUSF9JTVBMXD4=</entry>
+        <entry>ok</entry>
+        <entry encoding="base64">XDxyd0Rpck1vZGVGbGFnXD4=</entry>
+        <entry encoding="base64">XDxsaW51eFJ3RGlyTW9kZUZsYWdcPg==</entry>
+        <entry encoding="base64">XDxsaW51eE1vZGVGbGFnc0ZvckZpbGVzXD4=</entry>
+        <entry encoding="base64">XDxtb2RlRmxhZ0ZvckRpcnNcPg==</entry>
+        <entry encoding="base64">XDxyd1BhdGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
