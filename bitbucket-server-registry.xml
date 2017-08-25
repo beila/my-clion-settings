@@ -1,6 +1,10 @@
 <application>
   <component name="BitbucketServerRegistry">
-    <instances />
-    <lookup />
+    <instances>
+      <instance uuid="aa97dc16-8d0b-43c1-a227-7f065bf7c1f7" baseUri="https://stash-ext.amazondcl.com/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="stash-ext.amazondcl.com" port="8443" path="/" uuid="aa97dc16-8d0b-43c1-a227-7f065bf7c1f7" />
+    </lookup>
   </component>
 </application>
