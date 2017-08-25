@@ -28,8 +28,8 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/include/display/DevicePlatformContext.h" timestamp="1499194857354">
         <mark key="'" line="67" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" timestamp="1503662853451">
-        <mark key="'" line="84" column="8" />
+      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" timestamp="1503663233092">
+        <mark key="'" line="152" column="17" />
       </file>
       <file name="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.crypto/manifest" timestamp="1503490434654">
         <mark key="[" line="3" column="27" />
@@ -412,7 +412,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/include/fruit/impl/util/hash_helpers.h" timestamp="1494596531672">
         <mark key="'" line="26" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503504751411">
+      <file name="/Dummy.txt" timestamp="1503662891685">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -919,16 +919,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/crypto/CertConfiguration.cpp" timestamp="1502117561335">
         <mark key="'" line="77" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" timestamp="1503663069607">
+        <mark key="'" line="82" column="20" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="82" column="80" filename="$USER_HOME$/dev/igrpi/tools/CMakeLists.txt" />
-      <jump line="41" column="4" filename="$USER_HOME$/dev/igrpi/ignition-rpi/com.amazon.ignition.framework.core/internal/platform/rpi/src/plugin/PluginPathPlatform.cpp" />
-      <jump line="0" column="72" filename="$USER_HOME$/dev/igrpi/tools/postinstall/hash-var-folders.cmake" />
-      <jump line="3" column="5" filename="$USER_HOME$/dev/igrpi/tools/postinstall/hash-var-folders.cmake" />
-      <jump line="7" column="46" filename="$USER_HOME$/dev/igrpi/tools/postinstall/hash-var-folders.cmake" />
-      <jump line="9" column="81" filename="$USER_HOME$/dev/igrpi/tools/postinstall/hash-var-folders.cmake" />
-      <jump line="15" column="54" filename="$USER_HOME$/dev/igrpi/tools/postinstall/hash-var-folders.cmake" />
       <jump line="25" column="34" filename="$USER_HOME$/dev/igrpi/tools/postinstall/hash-var-folders.cmake" />
       <jump line="34" column="14" filename="$USER_HOME$/dev/igrpi/tools/postinstall/hash-var-folders.cmake" />
       <jump line="2" column="22" filename="$USER_HOME$/dev/igrpi/tools/postinstall/CMakeLists.txt" />
@@ -1013,14 +1008,22 @@
       <jump line="169" column="13" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
       <jump line="155" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
       <jump line="165" column="21" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
-      <jump line="202" column="13" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
-      <jump line="167" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
       <jump line="172" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
       <jump line="203" column="13" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
       <jump line="180" column="38" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
       <jump line="97" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
       <jump line="179" column="24" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
       <jump line="84" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
+      <jump line="47" column="71" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" />
+      <jump line="76" column="12" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" />
+      <jump line="78" column="18" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" />
+      <jump line="81" column="75" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" />
+      <jump line="82" column="20" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" />
+      <jump line="175" column="38" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
+      <jump line="73" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
+      <jump line="167" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
+      <jump line="202" column="13" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
+      <jump line="152" column="17" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1101,7 +1104,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3cml0ZUxpc3RcPg==</text>
+        <text encoding="base64">XDxfZ2V0UGx1Z2luc0Zyb21NYW5pZmVzdERhdGFcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">SUdOSVRJT05fUExVR0lOX1BBVEhfSU1QTCA=</text>
@@ -1152,9 +1155,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3cml0ZUxpc3RcPg==</last-search>
+      <last-search encoding="base64">XDxfZ2V0UGx1Z2luc0Zyb21NYW5pZmVzdERhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3cml0ZUxpc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0UGx1Z2luc0Zyb21NYW5pZmVzdERhdGFcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1162,11 +1165,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJR05JVElPTl9QTFVHSU5fUEFUSF9JTVBMXD4=</entry>
-        <entry>ok</entry>
-        <entry encoding="base64">XDxyd0Rpck1vZGVGbGFnXD4=</entry>
-        <entry encoding="base64">XDxsaW51eFJ3RGlyTW9kZUZsYWdcPg==</entry>
-        <entry encoding="base64">XDxsaW51eE1vZGVGbGFnc0ZvckZpbGVzXD4=</entry>
         <entry encoding="base64">XDxtb2RlRmxhZ0ZvckRpcnNcPg==</entry>
         <entry encoding="base64">XDxyd1BhdGhcPg==</entry>
         <entry encoding="base64">XDxfbG9hZFBsYXllckFuZFJlc29sdmVIYXdhaWlTeW1ib2xzXD4=</entry>
@@ -1178,10 +1176,15 @@
         <entry encoding="base64">XDxfb2J0YWluUmVnaXN0ZXJNZXNzYWdlTGlzdGVuZXJWMlN5bWJvbFw+</entry>
         <entry encoding="base64">XDxfcGFyc2VNYW5pZmVzdFw+</entry>
         <entry encoding="base64">XDxfcmVzb2x2ZVNpbmdsZURlcGVuZGVuY3lcPg==</entry>
-        <entry encoding="base64">XDxyZXNvbHZlRGVwZW5kZW5jaWVzXD4=</entry>
         <entry encoding="base64">XDx3cml0ZU91dHB1dFw+</entry>
         <entry encoding="base64">XDx3cml0ZVN0YXRpY1BsdWdpbkluaXRpYWxpemF0aW9uXD4=</entry>
         <entry encoding="base64">XDx3cml0ZUxpc3RcPg==</entry>
+        <entry encoding="base64">XDxNT05PTElUSF9CSU5BUllfREVQRU5ERU5DSUVTXD4=</entry>
+        <entry encoding="base64">XDxNT05PTElUSF9CSU5BUllfREVQRU5ERU5DWVw+</entry>
+        <entry encoding="base64">XDxNT05PTElUSF9MSU5LX0xJQlJBUklFU1w+</entry>
+        <entry encoding="base64">XDxnZXRNYW5pZmVzdEZvclw+</entry>
+        <entry encoding="base64">XDxyZXNvbHZlRGVwZW5kZW5jaWVzXD4=</entry>
+        <entry encoding="base64">XDxfZ2V0UGx1Z2luc0Zyb21NYW5pZmVzdERhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
