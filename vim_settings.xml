@@ -49,6 +49,12 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" timestamp="1501077212563">
         <mark key="'" line="18" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" timestamp="1505123464152">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="6" />
+        <mark key="." line="57" column="6" />
+        <mark key="^" line="57" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" timestamp="1495201580315">
         <mark key="'" line="111" column="20" />
       </file>
@@ -197,6 +203,7 @@
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.display/internal/platform/samsungtv/src/egl/SamsungTVPlatformContext.cpp" timestamp="1499789826194">
         <mark key="'" line="359" column="71" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_display.h" timestamp="1505123538951" />
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/device/src/display/DevicePlatformContext.cpp" timestamp="1495465446468">
         <mark key="'" line="152" column="40" />
       </file>
@@ -312,6 +319,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/platform/ps3/include/display/PS3DisplayContext.h" timestamp="1499792801704">
         <mark key="'" line="56" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_display_defs.h" timestamp="1505123637425">
+        <mark key="'" line="75" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/assets/launch" timestamp="1494407539106">
         <mark key="'" line="9" column="0" />
@@ -934,8 +944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="21" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/src/filesystem/FileSystemUtils.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/CMakeLists.txt" />
       <jump line="166" column="18" filename="$USER_HOME$/dev/igrpi/tools/generate_projects.sh" />
       <jump line="5" column="35" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
       <jump line="289" column="0" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
@@ -1034,13 +1042,15 @@
       <jump line="63" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RendererPlatformStats.cpp" />
       <jump line="169" column="8" filename="$USER_HOME$/dev/ig/devicerpi/implementation/linux/src/avDisplay.cpp" />
       <jump line="163" column="0" filename="$USER_HOME$/dev/ig/devicerpi/implementation/linux/src/avDisplay.cpp" />
+      <jump line="75" column="5" filename="$USER_HOME$/dev/ig/devicerpi/implementation/linux/src/avSecureStorageBackend.cpp" />
+      <jump line="75" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_display_defs.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>aration_aC</text>
+        <text>AvResultCode</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1074,7 +1084,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>aration_aC</text>
+        <text>AvResultCode</text>
       </register>
       <register name="m" type="4">
         <keys>
