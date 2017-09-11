@@ -49,7 +49,8 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" timestamp="1501077212563">
         <mark key="'" line="18" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" timestamp="1505123464152">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" timestamp="1505127160307">
+        <mark key="'" line="24" column="8" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="6" />
         <mark key="." line="57" column="6" />
@@ -326,8 +327,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/platform/ps3/include/display/PS3DisplayContext.h" timestamp="1499792801704">
         <mark key="'" line="56" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_display_defs.h" timestamp="1505123637425">
-        <mark key="'" line="75" column="4" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_display_defs.h" timestamp="1505127084189">
+        <mark key="'" line="58" column="2" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/assets/launch" timestamp="1494407539106">
         <mark key="'" line="9" column="0" />
@@ -396,6 +397,13 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/dispatchers/formatters/DeviceEventFormatter.cpp" timestamp="1497548776245">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_text_to_speech.h" timestamp="1505127371409">
+        <mark key="'" line="43" column="84" />
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="51" column="15" />
+        <mark key="^" line="51" column="15" />
+        <mark key="." line="51" column="15" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/utils/StringUtils.h" timestamp="1495104516966">
         <mark key="'" line="19" column="37" />
@@ -493,6 +501,13 @@
       </file>
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.input/internal/platform/lg/src/LGRemoteDelegate.cpp" timestamp="1498149242223">
         <mark key="'" line="88" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/device/include/device/av_text_to_speech.h" timestamp="1505127449626">
+        <mark key="'" line="70" column="39" />
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="51" column="15" />
+        <mark key="^" line="51" column="15" />
+        <mark key="." line="51" column="15" />
       </file>
       <file name="$USER_HOME$/local/depo/src/depo/git/GitRepo.py" timestamp="1495212637659">
         <mark key="'" line="32" column="17" />
@@ -974,20 +989,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="32" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/ps4/src/SystemInit.cpp" />
-      <jump line="228" column="0" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
-      <jump line="101" column="16" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
-      <jump line="122" column="41" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
-      <jump line="78" column="18" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
-      <jump line="25" column="4" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/include/filesystem/FileSystemDefs.h" />
-      <jump line="157" column="35" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
-      <jump line="80" column="8" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
-      <jump line="158" column="0" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
-      <jump line="77" column="17" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
-      <jump line="114" column="56" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
-      <jump line="117" column="58" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
-      <jump line="119" column="43" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
-      <jump line="116" column="78" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
       <jump line="124" column="26" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
       <jump line="127" column="47" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatformSeparateVar.cpp" />
       <jump line="16" column="11" filename="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/cmakescripts/builtin-platform-features/build/pluginloading.cmake" />
@@ -1074,13 +1075,27 @@
       <jump line="206" column="39" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/delegates/DeviceDelegate.cpp" />
       <jump line="35" column="51" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/include/device/av_input.h" />
       <jump line="17" column="86" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
+      <jump line="23" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_display_defs.h" />
+      <jump line="35" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_display_defs.h" />
+      <jump line="42" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_display_defs.h" />
+      <jump line="51" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_display_defs.h" />
+      <jump line="58" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_display_defs.h" />
+      <jump line="59" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" />
+      <jump line="26" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" />
+      <jump line="24" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" />
+      <jump line="51" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_text_to_speech.h" />
+      <jump line="30" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_common.h" />
+      <jump line="43" column="84" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_text_to_speech.h" />
+      <jump line="35" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/device/include/device/av_text_to_speech.h" />
+      <jump line="43" column="84" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/device/include/device/av_text_to_speech.h" />
+      <jump line="70" column="39" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/device/include/device/av_text_to_speech.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>AvInputPointerEventType</text>
+        <text>AvBoolean</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1114,7 +1129,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AvInputPointerEventType</text>
+        <text>AvBoolean</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1154,7 +1169,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBdklucHV0UG9pbnRlckV2ZW50VHlwZVw+</text>
+        <text encoding="base64">XDxBdkJvb2xlYW5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8hIEBwYXJhbSBjb2RlIEtleSBjb2RlIG9mIHRoZSBldmVudC4gQGMgQXZJbnB1dEtleUNvZGUK</text>
@@ -1205,9 +1220,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBdklucHV0UG9pbnRlckV2ZW50VHlwZVw+</last-search>
+      <last-search encoding="base64">XDxBdkJvb2xlYW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBdklucHV0UG9pbnRlckV2ZW50VHlwZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxBdkJvb2xlYW5cPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1215,8 +1230,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfaXNMb2FkZWRcPg==</entry>
-        <entry encoding="base64">XDxfaGF3YWlpU3ltYm9sc1Jlc29sdmVkXD4=</entry>
         <entry encoding="base64">XDxfcmVnaXN0ZXJNZXNzYWdlTGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">XDxfb2J0YWluUmVnaXN0ZXJNZXNzYWdlTGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">XDxfb2J0YWluUmVnaXN0ZXJNZXNzYWdlTGlzdGVuZXJTeW1ib2xcPg==</entry>
@@ -1235,6 +1248,8 @@
         <entry encoding="base64">XDxBdlNlY3VyZVN0b3JhdGVNaWdyYXRlSXRlbVYwXD4=</entry>
         <entry encoding="base64">XDxfa2V5RXZlbnRDYWxsYmFja1w+</entry>
         <entry encoding="base64">XDxBdklucHV0UG9pbnRlckV2ZW50VHlwZVw+</entry>
+        <entry encoding="base64">XDxlbnVtXD4=</entry>
+        <entry encoding="base64">XDxBdkJvb2xlYW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
