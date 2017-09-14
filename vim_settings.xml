@@ -202,7 +202,6 @@
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.display/internal/platform/samsungtv/src/egl/SamsungTVPlatformContext.cpp" timestamp="1499789826194">
         <mark key="'" line="359" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_display.h" timestamp="1505123538951" />
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/device/src/display/DevicePlatformContext.cpp" timestamp="1495465446468">
         <mark key="'" line="152" column="40" />
       </file>
@@ -933,8 +932,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/plugin/DependencyGraphTest.cpp" timestamp="1497612014990">
         <mark key="'" line="31" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_input.h" timestamp="1505123825231">
+      <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_input.h" timestamp="1505379481713">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="51" column="32" />
+        <mark key="." line="51" column="32" />
+        <mark key="^" line="51" column="32" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_display_defs.h" timestamp="1498747080884">
         <mark key="'" line="97" column="0" />
@@ -1104,7 +1107,7 @@
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>AvInputKeyCode</text>
+        <text>;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1138,7 +1141,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AvInputKeyCode</text>
+        <text>;</text>
       </register>
       <register name="m" type="4">
         <keys>
