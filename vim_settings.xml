@@ -103,6 +103,9 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/include/av_display.h" timestamp="1493734469271">
         <mark key="'" line="82" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/nodes/SceneNode.cpp" timestamp="1506332108199">
+        <mark key="'" line="98" column="0" />
+      </file>
       <file name="$USER_HOME$/local/depo/src/depo.py" timestamp="1494950515264">
         <mark key="'" line="16" column="18" />
       </file>
@@ -989,7 +992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="0" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
       <jump line="463" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
       <jump line="535" column="25" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
       <jump line="120" column="9" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
@@ -1089,6 +1091,7 @@
       <jump line="59" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/tests/InputTests.cpp" />
       <jump line="28" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/include/device/av_input.h" />
       <jump line="2639" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/nodes/SceneNode.cpp" />
+      <jump line="98" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/nodes/SceneNode.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
