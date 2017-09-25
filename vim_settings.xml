@@ -218,10 +218,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/delegates/DeviceDelegate.cpp" timestamp="1505134653579">
-        <mark key="'" line="214" column="50" />
-        <mark key="[" line="126" column="90" />
-        <mark key="]" line="126" column="90" />
-        <mark key="." line="132" column="88" />
+        <mark key="'" line="210" column="50" />
       </file>
       <file name="$USER_HOME$/dev/igbuild/linux/debug/amazonite/linux/platform/device-properties/implementation/devicepropertiesprovider/src/PlatformDevicePropertiesProvider.cpp" timestamp="1499795243833">
         <mark key="'" line="425" column="70" />
@@ -422,10 +419,10 @@
         <mark key="'" line="13" column="14" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/tests/InputTests.cpp" timestamp="1505134676099">
-        <mark key="'" line="59" column="15" />
-        <mark key="[" line="59" column="8" />
-        <mark key="]" line="59" column="8" />
-        <mark key="." line="59" column="15" />
+        <mark key="'" line="49" column="15" />
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="49" column="8" />
+        <mark key="." line="49" column="15" />
         <mark key="^" line="49" column="15" />
       </file>
       <file name="$USER_HOME$/dev/igrpi/ignition-rpi/rpi.dev.config" timestamp="1503502949836">
@@ -680,13 +677,6 @@
         <mark key="." line="255" column="58" />
         <mark key="^" line="255" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/include/device/av_input.h" timestamp="1505134683339">
-        <mark key="'" line="28" column="15" />
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="8" />
-        <mark key="." line="28" column="15" />
-        <mark key="^" line="28" column="15" />
-      </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.javascript/tests/CMakeLists.txt" timestamp="1499182336068">
         <mark key="'" line="331" column="0" />
       </file>
@@ -728,10 +718,9 @@
         <mark key="'" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/util/AVPKTestInputEmitter.cpp" timestamp="1505134648915">
-        <mark key="'" line="117" column="40" />
-        <mark key="[" line="120" column="8" />
-        <mark key="]" line="120" column="8" />
-        <mark key="." line="120" column="12" />
+        <mark key="[" line="97" column="8" />
+        <mark key="]" line="97" column="8" />
+        <mark key="." line="97" column="12" />
         <mark key="^" line="97" column="15" />
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/properties/DevicePropertiesDelegate.h" timestamp="1501249979048">
@@ -806,7 +795,6 @@
         <mark key="[" line="28" column="12" />
         <mark key="]" line="28" column="12" />
         <mark key="." line="28" column="19" />
-        <mark key="^" line="35" column="19" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DeviceProperties.cpp" timestamp="1501254583108">
         <mark key="'" line="109" column="19" />
@@ -1001,7 +989,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="25" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
       <jump line="439" column="0" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
       <jump line="463" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
       <jump line="535" column="25" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
@@ -1101,6 +1088,7 @@
       <jump line="52" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/include/delegates/DeviceDelegate.h" />
       <jump line="59" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/tests/InputTests.cpp" />
       <jump line="28" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/device/include/device/av_input.h" />
+      <jump line="2639" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/nodes/SceneNode.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
