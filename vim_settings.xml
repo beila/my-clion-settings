@@ -122,6 +122,13 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/test_files.txt" timestamp="1493982510659">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" timestamp="1506616114052">
+        <mark key="'" line="206" column="48" />
+        <mark key="[" line="52" column="44" />
+        <mark key="]" line="52" column="51" />
+        <mark key="." line="52" column="51" />
+        <mark key="^" line="52" column="51" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/bindings/sm/InputExtension.cpp" timestamp="1497959148658">
         <mark key="'" line="173" column="21" />
       </file>
@@ -374,8 +381,12 @@
         <mark key="." line="246" column="113" />
         <mark key="^" line="246" column="113" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" timestamp="1506439428469">
-        <mark key="'" line="332" column="12" />
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" timestamp="1506617443504">
+        <mark key="'" line="343" column="12" />
+        <mark key="[" line="319" column="26" />
+        <mark key="]" line="319" column="33" />
+        <mark key="." line="319" column="33" />
+        <mark key="^" line="319" column="33" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/thirdparty/SDL2/cmake/macros.cmake" timestamp="1497022728583">
         <mark key="'" line="0" column="0" />
@@ -459,7 +470,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/PlatformContext.h" timestamp="1506441198074">
         <mark key="'" line="54" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506534313673">
+      <file name="/Dummy.txt" timestamp="1506616054303">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -573,12 +584,12 @@
         <mark key="^" line="37" column="5" />
         <mark key="." line="37" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1502462605529">
-        <mark key="'" line="82" column="2" />
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="20" />
-        <mark key="^" line="23" column="20" />
-        <mark key="." line="23" column="20" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1506616045737">
+        <mark key="'" line="85" column="2" />
+        <mark key="[" line="42" column="103" />
+        <mark key="]" line="52" column="122" />
+        <mark key="^" line="52" column="122" />
+        <mark key="." line="42" column="110" />
       </file>
       <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/include/SDLDisplayContext.h" timestamp="1499197846806">
         <mark key="'" line="39" column="9" />
@@ -1002,7 +1013,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="32" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
       <jump line="198" column="21" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" />
       <jump line="156" column="24" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
       <jump line="144" column="8" filename="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" />
@@ -1102,13 +1112,14 @@
       <jump line="630" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" />
       <jump line="140" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/PluginPlayer.cpp" />
       <jump line="71" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/PluginManager.h" />
+      <jump line="206" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>SDL_</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1142,7 +1153,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>SDL_</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1185,7 +1196,7 @@
         <text encoding="base64">XDxzZXRJbkJhY2tncm91bmRNb2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8hIEBwYXJhbSBjb2RlIEtleSBjb2RlIG9mIHRoZSBldmVudC4gQGMgQXZJbnB1dEtleUNvZGUK</text>
+        <text encoding="base64">CWVsc2UgaWYgKGV2ZW50LnR5cGUgPT0gU0RMX0FQUF9XSUxMRU5URVJCQUNLR1JPVU5EKQoJewoJCVJlcG9ydExpZmVjeWNsZUV2ZW50KCJTRExEaXNwbGF5Q29udGV4dCB3aWxsIGVudGVyIGJhY2tncm91bmQiKTsKCQlfaW5CYWNrZ3JvdW5kTW9kZSA9IHRydWU7CgkJaWYgKF9jYWxsYmFjaykKCQl7CgkJCWRpc3BsYXlFdmVudC50eXBlID0gQVZfRElTUExBWV9SRVFVRVNUX0VOVEVSX0JBQ0tHUk9VTkQ7CgkJCV9jYWxsYmFjaygmZGlzcGxheUV2ZW50LCBfY2FsbGJhY2tVc2VyRGF0YSk7CgkJfQoJfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJYnJlYWs7Cg==</text>
