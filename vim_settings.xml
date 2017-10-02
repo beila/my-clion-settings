@@ -493,7 +493,7 @@
         <mark key="." line="58" column="44" />
         <mark key="^" line="58" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506942010315">
+      <file name="/Dummy.txt" timestamp="1506957309005">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" timestamp="1493751692346">
@@ -586,6 +586,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/tests/CMakeLists.txt" timestamp="1493748473755">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-test-symlink-for-plugin.cmake" timestamp="1506957424045">
+        <mark key="'" line="12" column="53" />
       </file>
       <file name="$USER_HOME$/dev/igrpi/devicerpi/include_files.txt" timestamp="1498670874660">
         <mark key="'" line="0" column="0" />
@@ -777,6 +780,9 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" timestamp="1501251410829">
         <mark key="'" line="28" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/CMakeLists.txt" timestamp="1506957313813">
+        <mark key="'" line="200" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/SystemInit.cpp" timestamp="1501169803697">
         <mark key="'" line="231" column="21" />
         <mark key="[" line="94" column="4" />
@@ -950,6 +956,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2CubeTexture.cpp" timestamp="1494605209507">
         <mark key="'" line="67" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/filesystem/FileSystemFacadeTest.cpp" timestamp="1506957242493">
+        <mark key="'" line="426" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/DeviceSecureStorageBackend.cpp" timestamp="1493743370751">
         <mark key="'" line="59" column="17" />
       </file>
@@ -1044,14 +1053,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_migration_from_v0.h" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_migration_from_v0.h" />
-      <jump line="161" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="194" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="362" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="252" column="57" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RendererPlatformStats.cpp" />
-      <jump line="272" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Definitions.h" />
-      <jump line="245" column="50" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RendererPlatformStats.cpp" />
       <jump line="63" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RendererPlatformStats.cpp" />
       <jump line="169" column="8" filename="$USER_HOME$/dev/ig/devicerpi/implementation/linux/src/avDisplay.cpp" />
       <jump line="163" column="0" filename="$USER_HOME$/dev/ig/devicerpi/implementation/linux/src/avDisplay.cpp" />
@@ -1144,6 +1145,14 @@
       <jump line="54" column="20" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SDLDisplayContext.h" />
       <jump line="291" column="66" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="53" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/DevicePlatformContext.h" />
+      <jump line="426" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/filesystem/FileSystemFacadeTest.cpp" />
+      <jump line="65" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/filesystem/FileSystemFacadeTest.cpp" />
+      <jump line="200" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/CMakeLists.txt" />
+      <jump line="17" column="71" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-test-symlink-for-plugin.cmake" />
+      <jump line="24" column="71" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-test-symlink-for-plugin.cmake" />
+      <jump line="14" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-test-symlink-for-plugin.cmake" />
+      <jump line="20" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-test-symlink-for-plugin.cmake" />
+      <jump line="12" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-test-symlink-for-plugin.cmake" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1224,7 +1233,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>F11</text>
+        <text encoding="base64">XDxQTFVHSU5fRElSTkFNRVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWVsc2UgaWYgKGNvbnRyb2xLZXkgPT0gQ29udHJvbEtleTo6RW50ZXJCYWNrZ3JvdW5kKQoJewoJCUF2RGlzcGxheUV2ZW50IGRpc3BsYXlFdmVudDsKCgkJUmVwb3J0TGlmZWN5Y2xlRXZlbnQoIlNETERpc3BsYXlDb250ZXh0IHdpbGwgZW50ZXIgYmFja2dyb3VuZCAoc2ltdWxhdGVkIHZpYSBrZXlib2FyZCkiKTsKCQlfaW5CYWNrZ3JvdW5kTW9kZSA9IHRydWU7CgkJaWYgKF9jYWxsYmFjaykKCQl7CgkJCWRpc3BsYXlFdmVudC50eXBlID0gQVZfRElTUExBWV9SRVFVRVNUX0VOVEVSX0JBQ0tHUk9VTkQ7CgkJCV9jYWxsYmFjaygmZGlzcGxheUV2ZW50LCBfY2FsbGJhY2tVc2VyRGF0YSk7CgkJfQoJfQo=</text>
@@ -1275,9 +1284,9 @@
       </register>
     </registers>
     <search>
-      <last-search>F11</last-search>
+      <last-search encoding="base64">XDxQTFVHSU5fRElSTkFNRVw+</last-search>
       <last-offset />
-      <last-pattern>F11</last-pattern>
+      <last-pattern encoding="base64">XDxQTFVHSU5fRElSTkFNRVw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxfbmF0aXZlQXBwQ2FsbGJhY2tcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1285,8 +1294,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3cml0ZVN0YXRpY1BsdWdpbkluaXRpYWxpemF0aW9uXD4=</entry>
-        <entry encoding="base64">XDx3cml0ZUxpc3RcPg==</entry>
         <entry encoding="base64">XDxNT05PTElUSF9CSU5BUllfREVQRU5ERU5DSUVTXD4=</entry>
         <entry encoding="base64">XDxNT05PTElUSF9CSU5BUllfREVQRU5ERU5DWVw+</entry>
         <entry encoding="base64">XDxNT05PTElUSF9MSU5LX0xJQlJBUklFU1w+</entry>
@@ -1305,6 +1312,8 @@
         <entry encoding="base64">XDxfaW5CYWNrZ3JvdW5kTW9kZVw+</entry>
         <entry encoding="base64">XDxzZXRJbkJhY2tncm91bmRNb2RlXD4=</entry>
         <entry>F11</entry>
+        <entry encoding="base64">XDxDUkVBVEVfU1lNTElOS19TWU1MSU5LX05BTUVcPg==</entry>
+        <entry encoding="base64">XDxQTFVHSU5fRElSTkFNRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
