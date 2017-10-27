@@ -508,6 +508,7 @@
       <file name="$USER_HOME$/dev/ig/ignition-android/ignition-android/ignition/src/main/java/com/amazon/ignition/IgnitionApplication.java" timestamp="1502117835437">
         <mark key="'" line="57" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/scripts/lua/nodes/SceneNodeWrapper.lua" timestamp="1509109298215" />
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/include/fruit/impl/util/hash_helpers.h" timestamp="1494596531672">
         <mark key="'" line="26" column="18" />
       </file>
@@ -517,7 +518,7 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509106546754">
+      <file name="/Dummy.txt" timestamp="1509109751035">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" timestamp="1493751692346">
@@ -588,6 +589,9 @@
         <mark key="]" line="51" column="15" />
         <mark key="^" line="51" column="15" />
         <mark key="." line="51" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/bindings/lua/LuaSceneBinding.cpp" timestamp="1509109379266">
+        <mark key="'" line="157" column="20" />
       </file>
       <file name="$USER_HOME$/local/depo/src/depo/git/GitRepo.py" timestamp="1495212637659">
         <mark key="'" line="32" column="17" />
@@ -1111,7 +1115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="501" column="8" filename="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.display/internal/platform/samsungtv/src/egl/SamsungTVPlatformContext.cpp" />
       <jump line="535" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/glx/LinuxPlatformContext.cpp" />
       <jump line="101" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/glx/LinuxPlatformContext.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" />
@@ -1211,6 +1214,7 @@
       <jump line="301" column="52" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/renderer/OffScreenSceneGraphManager.cpp" />
       <jump line="237" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/renderer/OffScreenSceneGraphManager.cpp" />
       <jump line="37" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/renderer/RendererNodeGenerator.cpp" />
+      <jump line="157" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/bindings/lua/LuaSceneBinding.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
