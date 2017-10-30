@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Related Symbol...">
+        <Item>
+          <IdeaActionID>GotoRelated</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Home'</ShortCut>
+          <Description>Related Symbol...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Revert...">
         <Item>
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
@@ -30,6 +38,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ignition-device-layer-test wit...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Type Hierarchy">
+        <Item>
+          <IdeaActionID>TypeHierarchy</IdeaActionID>
+          <ShortCut>'Ctrl+H'</ShortCut>
+          <Description>Type Hierarchy</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
