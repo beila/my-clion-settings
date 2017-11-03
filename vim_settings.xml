@@ -128,8 +128,8 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/test_files.txt" timestamp="1493982510659">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" timestamp="1509019587391">
-        <mark key="'" line="292" column="0" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" timestamp="1509721186288">
+        <mark key="'" line="175" column="0" />
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
@@ -516,7 +516,7 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509371001600">
+      <file name="/Dummy.txt" timestamp="1509720679835">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" timestamp="1493751692346">
@@ -644,8 +644,8 @@
         <mark key="^" line="37" column="5" />
         <mark key="." line="37" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1506960622533">
-        <mark key="'" line="45" column="0" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" timestamp="1509720442374">
+        <mark key="'" line="78" column="4" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="^" line="50" column="56" />
@@ -1113,13 +1113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="535" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/glx/LinuxPlatformContext.cpp" />
-      <jump line="101" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/glx/LinuxPlatformContext.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" />
-      <jump line="89" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" />
-      <jump line="314" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" />
-      <jump line="321" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" />
-      <jump line="327" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" />
       <jump line="333" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" />
       <jump line="575" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" />
       <jump line="587" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/sdl/SDLPlatformContext.cpp" />
@@ -1213,6 +1206,13 @@
       <jump line="237" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/renderer/OffScreenSceneGraphManager.cpp" />
       <jump line="37" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/renderer/RendererNodeGenerator.cpp" />
       <jump line="157" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/bindings/lua/LuaSceneBinding.cpp" />
+      <jump line="69" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="61" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="72" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="78" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
+      <jump line="41" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
+      <jump line="49" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
+      <jump line="175" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1293,7 +1293,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfb25TY2VuZU5vZGVQdXJnZWRcPg==</text>
+        <text encoding="base64">XDxfcXVpdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VmlkZW9GcmFtZUJyb2FkSGFuZGxlIDwtLSBbcGxheWVyL3BhbmRhXQo=</text>
@@ -1344,9 +1344,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfb25TY2VuZU5vZGVQdXJnZWRcPg==</last-search>
+      <last-search encoding="base64">XDxfcXVpdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfb25TY2VuZU5vZGVQdXJnZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfcXVpdFw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1354,10 +1354,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNvbHZlRGVwZW5kZW5jaWVzXD4=</entry>
-        <entry encoding="base64">XDxfZ2V0UGx1Z2luc0Zyb21NYW5pZmVzdERhdGFcPg==</entry>
-        <entry encoding="base64">XDxBdlNlY3VyZVN0b3JhdGVNaWdyYXRlSXRlbVYwXD4=</entry>
-        <entry encoding="base64">XDxfa2V5RXZlbnRDYWxsYmFja1w+</entry>
         <entry encoding="base64">XDxBdklucHV0UG9pbnRlckV2ZW50VHlwZVw+</entry>
         <entry encoding="base64">XDxlbnVtXD4=</entry>
         <entry encoding="base64">XDxBdkJvb2xlYW5cPg==</entry>
@@ -1374,6 +1370,10 @@
         <entry encoding="base64">XDxfZW1pdERpc3BsYXlFdmVudFw+</entry>
         <entry encoding="base64">XDxHTU9DS19ESVJcPg==</entry>
         <entry encoding="base64">XDxfb25TY2VuZU5vZGVQdXJnZWRcPg==</entry>
+        <entry encoding="base64">XDxBdkRpc3BsYXlXaW5kb3dFdmVudFR5cGVcPg==</entry>
+        <entry encoding="base64">XDxBdkRpc3BsYXlXaW5kb3dFdmVudFw+</entry>
+        <entry encoding="base64">XDxfcHJvY2Vzc0V2ZW50XD4=</entry>
+        <entry encoding="base64">XDxfcXVpdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
