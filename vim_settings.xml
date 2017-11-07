@@ -452,6 +452,9 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/InputTests.cpp" timestamp="1498747324924">
         <mark key="'" line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.h" timestamp="1509731159024">
+        <mark key="'" line="220" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" timestamp="1501253193383">
         <mark key="'" line="28" column="19" />
       </file>
@@ -626,7 +629,7 @@
       <file name="$USER_HOME$/dev/igrpi/devicerpi/include_files.txt" timestamp="1498670874660">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/main.cpp" timestamp="1509730027593">
+      <file name="$USER_HOME$/dev/ignite/src/main.cpp" timestamp="1509731178771">
         <mark key="'" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/get-plugin-platform-dir.cmake" timestamp="1496761900229">
@@ -639,8 +642,8 @@
         <mark key="." line="45" column="46" />
         <mark key="^" line="45" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/CMakeLists.txt" timestamp="1509730189062">
-        <mark key="'" line="51" column="66" />
+      <file name="$USER_HOME$/dev/ignite/CMakeLists.txt" timestamp="1510048865165">
+        <mark key="'" line="60" column="0" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
@@ -734,6 +737,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/SecureStorageBackendTest.cpp" timestamp="1493982513707">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" timestamp="1509730967463">
+        <mark key="'" line="58" column="19" />
       </file>
       <file name="$USER_HOME$/dev/ci/git.cmake" timestamp="1499162312837">
         <mark key="'" line="41" column="9" />
@@ -976,6 +982,9 @@
         <mark key="^" line="41" column="9" />
         <mark key="." line="41" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1509731205552">
+        <mark key="'" line="515" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/CMakeLists.txt" timestamp="1502115726659">
         <mark key="'" line="31" column="43" />
       </file>
@@ -1138,37 +1147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
-      <jump line="195" column="9" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/src/avDisplay.cpp" />
-      <jump line="329" column="4" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" />
-      <jump line="54" column="20" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SDLDisplayContext.h" />
-      <jump line="291" column="66" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
-      <jump line="53" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/DevicePlatformContext.h" />
-      <jump line="426" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/filesystem/FileSystemFacadeTest.cpp" />
-      <jump line="65" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/filesystem/FileSystemFacadeTest.cpp" />
-      <jump line="200" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/CMakeLists.txt" />
-      <jump line="17" column="71" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-test-symlink-for-plugin.cmake" />
-      <jump line="24" column="71" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-test-symlink-for-plugin.cmake" />
-      <jump line="14" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-test-symlink-for-plugin.cmake" />
-      <jump line="20" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-test-symlink-for-plugin.cmake" />
-      <jump line="12" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-test-symlink-for-plugin.cmake" />
-      <jump line="55" column="0" filename="$USER_HOME$/dev/ig/devicerpi/interface/include/device/av_display_defs.h" />
-      <jump line="45" column="0" filename="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_display_defs.h" />
-      <jump line="45" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
-      <jump line="355" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
-      <jump line="5" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
-      <jump line="352" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2Api.h" />
-      <jump line="19" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="197" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="340" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="15" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="330" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="159" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="175" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="28" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" />
-      <jump line="54" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
-      <jump line="43" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
-      <jump line="296" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="288" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="261" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="266" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
@@ -1236,8 +1214,39 @@
       <jump line="0" column="4" filename="$USER_HOME$/dev/ignite/portingplatforms/linux/cmake/platform-config.cmake" />
       <jump line="3" column="7" filename="$USER_HOME$/dev/ignite/portingplatforms/linux/cmake/platform-config.cmake" />
       <jump line="4" column="7" filename="$USER_HOME$/dev/ignite/portingplatforms/linux/cmake/platform-config.cmake" />
-      <jump line="7" column="4" filename="$USER_HOME$/dev/ignite/src/main.cpp" />
       <jump line="51" column="66" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
+      <jump line="426" column="31" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="94" column="16" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="493" column="22" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="183" column="22" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="535" column="6" filename="/usr/include/c++/4.9/bits/stl_map.h" />
+      <jump line="1189" column="51" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="111" column="48" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="189" column="9" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="1291" column="5" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="191" column="9" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="2205" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="58" column="19" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
+      <jump line="67" column="1" filename="$USER_HOME$/dev/ignite/src/Resource.h" />
+      <jump line="193" column="20" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="82" column="21" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="196" column="30" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="64" column="24" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
+      <jump line="199" column="13" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="340" column="13" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="278" column="27" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="209" column="11" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="1102" column="11" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="11" column="7" filename="$USER_HOME$/dev/ignite/libs/Ruby/amp-roku/libs/Hawaii/HawaiiBindings/include/hawaii/bindings/RokuAMPBridge.h" />
+      <jump line="495" column="29" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="95" column="22" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="424" column="5" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="220" column="5" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="425" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="7" column="4" filename="$USER_HOME$/dev/ignite/src/main.cpp" />
+      <jump line="515" column="18" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="1360" column="11" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="60" column="0" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1318,7 +1327,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMSU5VWF9TREtfUk9PVFw+</text>
+        <text encoding="base64">XDxzdGFydF9yb2t1XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VmlkZW9GcmFtZUJyb2FkSGFuZGxlIDwtLSBbcGxheWVyL3BhbmRhXQo=</text>
@@ -1369,9 +1378,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMSU5VWF9TREtfUk9PVFw+</last-search>
+      <last-search encoding="base64">XDxzdGFydF9yb2t1XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMSU5VWF9TREtfUk9PVFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydF9yb2t1XD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1379,8 +1388,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRJbkJhY2tncm91bmRNb2RlXD4=</entry>
-        <entry>F11</entry>
         <entry encoding="base64">XDxDUkVBVEVfU1lNTElOS19TWU1MSU5LX05BTUVcPg==</entry>
         <entry encoding="base64">XDxQTFVHSU5fRElSTkFNRVw+</entry>
         <entry encoding="base64">XDxVU0VfTEFURV9CSU5ESU5HX0dMX0ZVTkNUSU9OU1w+</entry>
@@ -1399,6 +1406,8 @@
         <entry encoding="base64">XDxpbnN0YWxsX2Rpclw+</entry>
         <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
         <entry encoding="base64">XDxMSU5VWF9TREtfUk9PVFw+</entry>
+        <entry encoding="base64">XDxpXD4=</entry>
+        <entry encoding="base64">XDxzdGFydF9yb2t1XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
