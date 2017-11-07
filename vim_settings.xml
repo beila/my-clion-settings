@@ -62,6 +62,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/CMakeLists.txt" timestamp="1510048943195">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="86" column="23" />
+        <mark key="]" line="90" column="43" />
+        <mark key="^" line="90" column="43" />
+        <mark key="." line="90" column="43" />
+      </file>
       <file name="$USER_HOME$/oe/post-launchei2.wiki" timestamp="1467912340311">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -111,7 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="10" filename="$USER_HOME$/oe/qos-tools/qos-query-runner.py" />
       <jump line="91" column="37" filename="$USER_HOME$/oe/qos-tools/qos-query-runner.py" />
       <jump line="35" column="4" filename="$USER_HOME$/oe/qos-tools/qos-query-runner.py" />
       <jump line="53" column="12" filename="$USER_HOME$/oe/qos-tools/qos-query-runner.py" />
@@ -211,6 +217,7 @@
       <jump line="10" column="35" filename="$USER_HOME$/dev/ignite/portingplatforms/osx/cmake/platform-config.cmake" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/cmake-build-debug/CMakeCache.txt" />
       <jump line="90" column="6" filename="$USER_HOME$/dev/ignite/cmake-build-debug/CMakeCache.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
