@@ -1,43 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <recentFileMasks>
-      <mask>*.cmaFIXME ke,*.txt,*.config</mask>
-      <mask>*.cmaFIXME FIXME ke,*.txt,*.config</mask>
-      <mask>*.cmaFIXME FIXME ke,*.txt,*.confi</mask>
-      <mask>ma</mask>
-      <mask>man</mask>
-      <mask>mani</mask>
-      <mask>manife</mask>
-      <mask>manifes</mask>
-      <mask>manifest*</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.cmake,*.txt,*.config</mask>
-      <mask>*.cmake,*.txt,*.config,</mask>
-      <mask>*.cmake,*.txt,*.config,m</mask>
-      <mask>*.cmake,*.txt,*.config,ma</mask>
-      <mask>*.cmake,*.txt,*.config,mani</mask>
-      <mask>*.cmake,*.txt,*.config,manife</mask>
-      <mask>*.cmake,*.txt,*.config,manifest</mask>
-      <mask>*.cmake,*.txt,*.config,manifest*</mask>
-      <mask>*.cmake,*.txt,*.config,manifest*,</mask>
-      <mask>*.cmake,*.txt,*.config,manifest*,*</mask>
-      <mask>*.cmake,*.txt,*.config,manifest*,*.</mask>
-      <mask>*.cmake,*.txt,*.config,manifest*,*.s</mask>
-      <mask>*.cmake,*.txt,*.config,manifest*,*.sh</mask>
-      <mask>*.cmake,*.txt,*.config,manifest*,*.sh,</mask>
-      <mask>*.cmake,*.txt,*.config,manifest*,*.sh,*</mask>
-      <mask>*.cmake,*.txt,*.config,manifest*,*.sh,*.</mask>
-      <mask>*.cmake,*.txt,*.config,manifest*,*.sh,*.p</mask>
-      <mask>*.cmake,*.txt,*.config,manifest*,*.sh,*.py</mask>
-      <mask>manifest</mask>
-    </recentFileMasks>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
