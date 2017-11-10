@@ -399,11 +399,6 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" timestamp="1501162978602">
         <mark key="'" line="16" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/portingplatforms/linux/download_sdk.py" timestamp="1509724959481">
-        <mark key="'" line="35" column="29" />
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="71" />
-      </file>
       <file name="$USER_HOME$/local/depo/src/depo/dependencies/OverridesParser.py" timestamp="1495212547243">
         <mark key="'" line="123" column="32" />
       </file>
@@ -451,6 +446,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SDLCommonContext.h" timestamp="1493982759051">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/RenderBackend.h" timestamp="1510306625016">
+        <mark key="'" line="22" column="23" />
       </file>
       <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avSecureStorageBackend.cpp" timestamp="1498736188272">
         <mark key="'" line="38" column="25" />
@@ -515,8 +513,8 @@
       <file name="/Dummy.txt" timestamp="1510243947267">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/linux/SDLRenderBackend.cpp" timestamp="1510244171027">
-        <mark key="'" line="209" column="29" />
+      <file name="$USER_HOME$/dev/ignite/src/porting/linux/SDLRenderBackend.cpp" timestamp="1510306611131">
+        <mark key="'" line="213" column="61" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" timestamp="1493751692346">
         <mark key="'" line="0" column="0" />
@@ -1116,9 +1114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
-      <jump line="72" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
-      <jump line="78" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/device/include/device/av_display_defs.h" />
       <jump line="41" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="49" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
       <jump line="175" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
@@ -1216,6 +1211,9 @@
       <jump line="36" column="0" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
       <jump line="46" column="25" filename="$USER_HOME$/dev/ignite/src/Render.cpp" />
       <jump line="209" column="29" filename="$USER_HOME$/dev/ignite/src/porting/linux/SDLRenderBackend.cpp" />
+      <jump line="229" column="8" filename="$USER_HOME$/dev/ignite/src/porting/linux/SDLRenderBackend.cpp" />
+      <jump line="213" column="61" filename="$USER_HOME$/dev/ignite/src/porting/linux/SDLRenderBackend.cpp" />
+      <jump line="22" column="23" filename="$USER_HOME$/dev/ignite/src/RenderBackend.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
