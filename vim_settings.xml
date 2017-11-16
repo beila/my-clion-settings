@@ -191,12 +191,12 @@
       <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" timestamp="1495201490578">
         <mark key="'" line="39" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" timestamp="1510852479139">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" timestamp="1510855985411">
         <mark key="'" line="236" column="20" />
-        <mark key="[" line="152" column="7" />
-        <mark key="]" line="152" column="11" />
-        <mark key="." line="152" column="11" />
-        <mark key="^" line="152" column="11" />
+        <mark key="[" line="151" column="74" />
+        <mark key="]" line="151" column="74" />
+        <mark key="." line="151" column="74" />
+        <mark key="^" line="151" column="24" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicerpi/implementation/linux/src/avDisplay.cpp" timestamp="1504720197545">
         <mark key="'" line="163" column="0" />
@@ -228,12 +228,12 @@
       <file name="$USER_HOME$/local/depo/src/depo/config.py" timestamp="1495212797707">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" timestamp="1510852243346">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="73" column="24" />
-        <mark key="]" line="73" column="28" />
-        <mark key="^" line="73" column="28" />
-        <mark key="." line="73" column="28" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" timestamp="1510856530545">
+        <mark key="'" line="83" column="54" />
+        <mark key="[" line="83" column="158" />
+        <mark key="]" line="83" column="158" />
+        <mark key="^" line="83" column="158" />
+        <mark key="." line="83" column="158" />
       </file>
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.display/internal/platform/samsungtv/src/egl/SamsungTVPlatformContext.cpp" timestamp="1507292935713">
         <mark key="'" line="510" column="4" />
@@ -522,6 +522,9 @@
         <mark key="." line="18" column="78" />
         <mark key="^" line="18" column="78" />
       </file>
+      <file name="/usr/include/c++/4.9/ext/atomicity.h" timestamp="1510856196303">
+        <mark key="'" line="52" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/tests/report/listeners/LogListenerTest.cpp" timestamp="1497549176982">
         <mark key="'" line="130" column="0" />
       </file>
@@ -543,7 +546,7 @@
       <file name="$USER_HOME$/dev/ignite/src/Render.cpp" timestamp="1510244136755">
         <mark key="'" line="46" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510851899013">
+      <file name="/Dummy.txt" timestamp="1510856651364">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/porting/linux/SDLRenderBackend.cpp" timestamp="1510306611131">
@@ -1176,7 +1179,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RendererPlatformStats.cpp" timestamp="1504699313200">
         <mark key="'" line="245" column="50" />
       </file>
-      <file name="/fragment.mm" timestamp="1510854003368">
+      <file name="/fragment.mm" timestamp="1510854531949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiesprovider/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" timestamp="1501251632397">
@@ -1193,12 +1196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="424" column="5" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="220" column="5" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
-      <jump line="425" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="60" column="0" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
-      <jump line="119" column="4" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/EGLUtils.cpp" />
-      <jump line="131" column="23" filename="/usr/include/EGL/eglplatform.h" />
       <jump line="112" column="5" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/EGLUtils.cpp" />
       <jump line="72" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/egl/LinuxPlatformContext.cpp" />
       <jump line="116" column="39" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/linux/src/egl/LinuxPlatformContext.cpp" />
@@ -1293,13 +1290,19 @@
       <jump line="22" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
       <jump line="151" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" />
       <jump line="236" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" />
+      <jump line="86" column="54" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
+      <jump line="0" column="0" filename="/usr/include/c++/4.9/ext/atomicity.h" />
+      <jump line="0" column="0" filename="/usr/include/x86_64-linux-gnu/c++/4.9/bits/atomic_word.h" />
+      <jump line="35" column="16" filename="/usr/include/c++/4.9/ext/atomicity.h" />
+      <jump line="48" column="11" filename="/usr/include/c++/4.9/ext/atomicity.h" />
+      <jump line="52" column="4" filename="/usr/include/c++/4.9/ext/atomicity.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>DIGNITION_DEVICE_LAYER_ROOT_DIR</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1333,7 +1336,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>disabled</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1373,7 +1376,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3YWl0Rm9yVGlja0FuZEdldFN0b3BwZWRcPg==</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWlmIChfc3RvcFJlcXVlc3RlZCkKCQlyZXR1cm47Cg==</text>
@@ -1424,18 +1427,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3YWl0Rm9yVGlja0FuZEdldFN0b3BwZWRcPg==</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3YWl0Rm9yVGlja0FuZEdldFN0b3BwZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWZhdWx0X2hvc3RfbG9jYXRpb25cPg==</entry>
-        <entry encoding="base64">XDxsaW51eF9zZGtfZmlsZV9uYW1lXD4=</entry>
         <entry encoding="base64">XDxpbnN0YWxsX2Rpclw+</entry>
         <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
         <entry encoding="base64">XDxMSU5VWF9TREtfUk9PVFw+</entry>
@@ -1454,6 +1455,8 @@
         <entry encoding="base64">XDxUaWNrTWFuYWdlclw+</entry>
         <entry encoding="base64">XDxzZXRUaWNrc0VuYWJsZWRcPg==</entry>
         <entry encoding="base64">XDx3YWl0Rm9yVGlja0FuZEdldFN0b3BwZWRcPg==</entry>
+        <entry encoding="base64">XDxfX2F0b21pY19mZXRjaF9hZGRcPg==</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
