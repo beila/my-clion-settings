@@ -28,6 +28,9 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/include/display/DevicePlatformContext.h" timestamp="1499194857354">
         <mark key="'" line="67" column="19" />
       </file>
+      <file name="$USER_HOME$/psdev/ig382build/init.js" timestamp="1510827609967">
+        <mark key="'" line="83483" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" timestamp="1503663233092">
         <mark key="'" line="152" column="17" />
       </file>
@@ -1114,12 +1117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
-      <jump line="49" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
-      <jump line="175" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/cmake-build-debug/CMakeCache.txt" />
-      <jump line="205" column="0" filename="$USER_HOME$/dev/ignite/cmake-build-debug/CMakeCache.txt" />
-      <jump line="12" column="4" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
       <jump line="65" column="5" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
       <jump line="69" column="4" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
       <jump line="70" column="33" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
@@ -1214,6 +1211,12 @@
       <jump line="229" column="8" filename="$USER_HOME$/dev/ignite/src/porting/linux/SDLRenderBackend.cpp" />
       <jump line="213" column="61" filename="$USER_HOME$/dev/ignite/src/porting/linux/SDLRenderBackend.cpp" />
       <jump line="22" column="23" filename="$USER_HOME$/dev/ignite/src/RenderBackend.h" />
+      <jump line="83492" column="0" filename="$USER_HOME$/psdev/ig382build/init.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/psdev/ig382build/init.js" />
+      <jump line="83473" column="1" filename="$USER_HOME$/psdev/ig382build/init.js" />
+      <jump line="42820" column="16" filename="$USER_HOME$/psdev/ig382build/init.js" />
+      <jump line="13867" column="36" filename="$USER_HOME$/psdev/ig382build/init.js" />
+      <jump line="83483" column="4" filename="$USER_HOME$/psdev/ig382build/init.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
