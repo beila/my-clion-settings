@@ -204,12 +204,12 @@
       <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition_export_clean.py" timestamp="1495201490578">
         <mark key="'" line="39" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" timestamp="1510920737000">
-        <mark key="'" line="250" column="20" />
-        <mark key="[" line="148" column="56" />
-        <mark key="]" line="148" column="56" />
-        <mark key="^" line="148" column="56" />
-        <mark key="." line="148" column="56" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" timestamp="1510939715993">
+        <mark key="'" line="179" column="13" />
+        <mark key="[" line="150" column="19" />
+        <mark key="]" line="150" column="65" />
+        <mark key="^" line="150" column="65" />
+        <mark key="." line="150" column="65" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicerpi/implementation/linux/src/avDisplay.cpp" timestamp="1504720197545">
         <mark key="'" line="163" column="0" />
@@ -494,7 +494,7 @@
       <file name="$USER_HOME$/dev/ignite/src/RenderBackend.h" timestamp="1510306625016">
         <mark key="'" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" timestamp="1510937237666">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" timestamp="1510939564436">
         <mark key="'" line="173" column="4" />
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="4" />
@@ -1217,7 +1217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
       <jump line="85" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
       <jump line="87" column="105" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
@@ -1317,13 +1316,14 @@
       <jump line="98" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
       <jump line="74" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
       <jump line="173" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
+      <jump line="179" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>start</text>
+        <text>https://jira-ext.amazondcl.com/browse/NG-87</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1357,7 +1357,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>https://jira-ext.amazondcl.com/browse/NG-87</text>
       </register>
       <register name="m" type="4">
         <keys>
