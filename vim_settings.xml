@@ -294,7 +294,6 @@
       <file name="$USER_HOME$/dev/ignite/portingplatforms/linux/cmake/platform-config.cmake" timestamp="1509725255386">
         <mark key="'" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/thirdparty/kubrick/amp/libs/GMock/gmock/fused-src/gmock/gmock.h" timestamp="1510932227599" />
       <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.network/internal/platform/lg/src/PlatformUtils.cpp" timestamp="1499444056666">
         <mark key="'" line="118" column="24" />
       </file>
@@ -479,6 +478,9 @@
         <mark key="." line="157" column="0" />
         <mark key="^" line="157" column="0" />
       </file>
+      <file name="/usr/include/c++/4.9/functional" timestamp="1511178079009">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/InputTests.cpp" timestamp="1498747324924">
         <mark key="'" line="94" column="0" />
       </file>
@@ -574,7 +576,7 @@
       <file name="$USER_HOME$/dev/ignite/src/Render.cpp" timestamp="1510244136755">
         <mark key="'" line="46" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511171787212">
+      <file name="/Dummy.txt" timestamp="1511178722510">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/porting/linux/SDLRenderBackend.cpp" timestamp="1510306611131">
@@ -619,6 +621,13 @@
       </file>
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.renderer/internal/platform/samsungtv/cmakescripts/build.cmake" timestamp="1498066000388">
         <mark key="'" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/hosttools/GccTest.cpp" timestamp="1511178340623">
+        <mark key="'" line="5" column="13" />
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="22" column="38" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="22" column="38" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/tick/TickGeneratorTest.cpp" timestamp="1510851757264">
         <mark key="'" line="267" column="20" />
@@ -1217,12 +1226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
-      <jump line="87" column="105" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
-      <jump line="238" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" />
-      <jump line="239" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" />
-      <jump line="72" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/tick/TickGenerator.h" />
-      <jump line="60" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
       <jump line="278" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/tick/TickGeneratorTest.cpp" />
       <jump line="289" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/tick/TickGeneratorTest.cpp" />
       <jump line="98" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/tick/TickGenerator.h" />
@@ -1317,13 +1320,19 @@
       <jump line="173" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/tests/devicelayerloader/PluginDeviceLayerLoaderTest.cpp" />
       <jump line="179" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" />
       <jump line="44" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" />
+      <jump line="5" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/hosttools/GccTest.cpp" />
+      <jump line="1763" column="8" filename="/usr/include/c++/4.9/functional" />
+      <jump line="1856" column="25" filename="/usr/include/c++/4.9/functional" />
+      <jump line="1865" column="10" filename="/usr/include/c++/4.9/functional" />
+      <jump line="1867" column="38" filename="/usr/include/c++/4.9/functional" />
+      <jump line="0" column="0" filename="/usr/include/c++/4.9/functional" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>https://jira-ext.amazondcl.com/browse/NG-87</text>
+        <text>(</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1357,7 +1366,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>https://jira-ext.amazondcl.com/browse/NG-87</text>
+        <text>(</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1397,7 +1406,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2NrSW5pdEFwaVw+</text>
+        <text>_Any</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dm9pZCBQbHVnaW5EZXZpY2VMYXllckxvYWRlcjo6c3RhcnQoKQo=</text>
@@ -1472,9 +1481,9 @@ fi</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2NrSW5pdEFwaVw+</last-search>
+      <last-search>_Any</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2NrSW5pdEFwaVw+</last-pattern>
+      <last-pattern>_Any</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1482,7 +1491,6 @@ fi</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUaWNrTWFuYWdlclw+</entry>
         <entry encoding="base64">XDxzZXRUaWNrc0VuYWJsZWRcPg==</entry>
         <entry encoding="base64">XDx3YWl0Rm9yVGlja0FuZEdldFN0b3BwZWRcPg==</entry>
         <entry encoding="base64">XDxfX2F0b21pY19mZXRjaF9hZGRcPg==</entry>
@@ -1502,6 +1510,7 @@ fi</text>
         <entry encoding="base64">XDxtb2NrVW5pbml0QXBpXD4=</entry>
         <entry encoding="base64">XDxDYWxsXD4=</entry>
         <entry encoding="base64">XDxtb2NrSW5pdEFwaVw+</entry>
+        <entry>_Any</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
