@@ -576,7 +576,7 @@
       <file name="$USER_HOME$/dev/ignite/src/Render.cpp" timestamp="1510244136755">
         <mark key="'" line="46" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511180561290">
+      <file name="/Dummy.txt" timestamp="1511183282496">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/porting/linux/SDLRenderBackend.cpp" timestamp="1510306611131">
@@ -625,12 +625,12 @@
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.renderer/internal/platform/samsungtv/cmakescripts/build.cmake" timestamp="1498066000388">
         <mark key="'" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/hosttools/GccTest.cpp" timestamp="1511183244266">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/hosttools/GccTest.cpp" timestamp="1511183416319">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="19" column="0" />
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="7" />
         <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="." line="24" column="7" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/tick/TickGeneratorTest.cpp" timestamp="1510851757264">
         <mark key="'" line="267" column="20" />
@@ -1337,8 +1337,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1372,7 +1372,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
