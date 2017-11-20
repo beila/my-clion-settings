@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Collapse All">
+        <Item>
+          <IdeaActionID>CollapseAll</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad -' or 'Ctrl+Minus'</ShortCut>
+          <Description>Collapse All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -14,6 +22,14 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Expand All">
+        <Item>
+          <IdeaActionID>ExpandAll</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad +' or 'Ctrl+Equals'</ShortCut>
+          <Description>Expand All</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -107,6 +123,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Run 'All in GccTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'All in GccTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'core_tests'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
