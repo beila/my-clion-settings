@@ -206,6 +206,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/utils/ThreadSafeInitialiser.h" timestamp="1502723863814">
         <mark key="'" line="18" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/utils/autobot/TestDriver.h" timestamp="1511188850105">
+        <mark key="'" line="38" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.renderer/internal/platform/android/cmakescripts/build.cmake" timestamp="1498065989182">
         <mark key="'" line="0" column="18" />
       </file>
@@ -987,6 +990,9 @@
       <file name="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.deviceinfo/internal/platform/panda/src/deviceinfo/properties/PlatformDeviceProperties.cpp" timestamp="1499793586646">
         <mark key="'" line="109" column="43" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/include/util/AVPKTestInputEmitter.h" timestamp="1511188853888">
+        <mark key="'" line="19" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DeviceProperties.cpp" timestamp="1501254583108">
         <mark key="'" line="109" column="19" />
         <mark key="[" line="114" column="83" />
@@ -1240,9 +1246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.inspector/tests/inspector/connectivity/NetworkConnectivityStateHandlerTest.cpp" />
-      <jump line="142" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.inspector/tests/inspector/connectivity/NetworkConnectivityStateHandlerTest.cpp" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.inspector/tests/inspector/connectivity/NetworkConnectivityStateHandlerTest.cpp" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
       <jump line="151" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" />
       <jump line="236" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" />
@@ -1340,6 +1343,9 @@
       <jump line="101" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/tests/SecureStorageBackendTest.cpp" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/host/HostMessageTest.cpp" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/hosttools/GccTest.cpp" />
+      <jump line="38" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/utils/autobot/TestDriver.h" />
+      <jump line="19" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/include/util/AVPKTestInputEmitter.h" />
+      <jump line="20" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/include/util/AVPKTestInputEmitter.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1420,7 +1426,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGRcPg==</text>
+        <text encoding="base64">XDxlbWl0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cn0gLy8gbmFtZXNwYWNlIGNvcmUKfSAvLyBuYW1lc3BhY2UgaWduaXRpb24K</text>
@@ -1495,9 +1501,9 @@ fi</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGRcPg==</last-search>
+      <last-search encoding="base64">XDxlbWl0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxlbWl0XD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1505,7 +1511,6 @@ fi</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX2F0b21pY19mZXRjaF9hZGRcPg==</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVfZm9sZGVyX3Blcl9jb25maWd1cmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxCQVNIX1NDUklQVF9ESVJcPg==</entry>
@@ -1525,6 +1530,7 @@ fi</text>
         <entry>_Any</entry>
         <entry encoding="base64">XDxiYWNrZW5kXD4=</entry>
         <entry encoding="base64">XDxzdGRcPg==</entry>
+        <entry encoding="base64">XDxlbWl0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
