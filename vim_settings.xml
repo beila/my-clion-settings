@@ -171,12 +171,12 @@
         <mark key="." line="91" column="61" />
         <mark key="^" line="91" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" timestamp="1511281867172">
-        <mark key="'" line="57" column="15" />
-        <mark key="[" line="67" column="49" />
-        <mark key="]" line="67" column="48" />
-        <mark key="^" line="67" column="48" />
-        <mark key="." line="67" column="48" />
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" timestamp="1511282791519">
+        <mark key="'" line="39" column="20" />
+        <mark key="[" line="39" column="49" />
+        <mark key="]" line="39" column="49" />
+        <mark key="^" line="66" column="28" />
+        <mark key="." line="39" column="49" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/test_files.txt" timestamp="1493982510659">
         <mark key="'" line="0" column="0" />
@@ -455,6 +455,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/interface/include/device/av_input_defs.h" timestamp="1505123660945">
         <mark key="'" line="171" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avSecureStorageBackend.cpp" timestamp="1511282095446">
+        <mark key="'" line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" timestamp="1501162978602">
         <mark key="'" line="16" column="52" />
       </file>
@@ -494,10 +497,10 @@
         <mark key="." line="157" column="0" />
         <mark key="^" line="157" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/LegacySecureStorage.h" timestamp="1511278504434">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/LegacySecureStorage.h" timestamp="1511282420907">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/usr/include/c++/4.9/functional" timestamp="1511178079009">
         <mark key="'" line="0" column="0" />
@@ -591,7 +594,7 @@
       <file name="$USER_HOME$/dev/ignite/src/Render.cpp" timestamp="1510244136755">
         <mark key="'" line="46" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511277349697">
+      <file name="/Dummy.txt" timestamp="1511282130463">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/porting/linux/SDLRenderBackend.cpp" timestamp="1510306611131">
@@ -1252,7 +1255,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RendererPlatformStats.cpp" timestamp="1504699313200">
         <mark key="'" line="245" column="50" />
       </file>
-      <file name="/fragment.mm" timestamp="1511266785345">
+      <file name="/fragment.mm" timestamp="1511282130456">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiesprovider/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" timestamp="1501251632397">
@@ -1269,12 +1272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="23" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/LegacySecureStorageBackend.h" />
-      <jump line="9" column="24" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/LegacySecureStorageBackend.h" />
-      <jump line="339" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
-      <jump line="332" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
-      <jump line="22" column="24" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/LegacySecureStorage.h" />
-      <jump line="56" column="22" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="154" column="35" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="155" column="49" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="75" column="22" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
@@ -1336,7 +1333,6 @@
       <jump line="72" column="74" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="73" column="66" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="80" column="27" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
-      <jump line="39" column="12" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="86" column="41" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="119" column="41" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
@@ -1363,19 +1359,26 @@
       <jump line="1" column="0" filename="/usr/include/x86_64-linux-gnu/sys/types.h" />
       <jump line="7" column="17" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
-      <jump line="126" column="27" filename="/usr/include/dirent.h" />
       <jump line="54" column="26" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="55" column="63" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="195" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/SecureStorageBackend.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/SecureStorageBackend.cpp" />
       <jump line="57" column="15" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avSecureStorageBackend.cpp" />
+      <jump line="37" column="25" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
+      <jump line="62" column="13" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
+      <jump line="21" column="7" filename="/usr/include/x86_64-linux-gnu/bits/dirent.h" />
+      <jump line="61" column="6" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
+      <jump line="126" column="27" filename="/usr/include/dirent.h" />
+      <jump line="39" column="20" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
+      <jump line="485" column="6" filename="/usr/include/c++/4.9/fstream" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHNzdHJlYW0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1409,7 +1412,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>::KeyContainer</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1449,13 +1452,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxrZXlcPg==</text>
+        <text encoding="base64">XDxkZWZhdWx0VmFsdWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CURJUiogZGlySXRlciA9IF9nZXRTZWN1cmVTdG9yYWdlRGlySXRlcigpOwoJc3RydWN0IGRpcmVudCAqZW50cnk7Cgl3aGlsZSAoKGVudHJ5ID0gcmVhZGRpcihkaXJJdGVyKSkgIT0gbnVsbHB0cikKCXsKCQljb25zdCBzdGQ6OnN0cmluZyBrZXkgPSBlbnRyeS0+ZF9uYW1lOwoJCWNvbnN0IHN0ZDo6c3RyaW5nIGZpbGVuYW1lUGF0aCA9IF9nZXRFbmNyeXB0ZWRGaWxlUGF0aChrZXkpOwoJCXJlbW92ZShmaWxlbmFtZVBhdGgpOwoJfQoJY2xvc2VkaXIoZGlySXRlcik7Cg==</text>
+        <text encoding="base64">CQljb25zdCBzdGQ6OnN0cmluZyBrZXkgPSBlbnRyeS0+ZF9uYW1lOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHNzdHJlYW0+Cg==</text>
+        <text encoding="base64">CXN0YXRpYyBjb25zdCBzaXplX3QgU0VDVVJFX1NUT1JBR0VfVkFMVUVfTUFYX0JZVEVTID0gMTAyNDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1466,31 +1469,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGRpcmVudC5oPgo=</text>
+        <text encoding="base64">cHJpdmF0ZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGxpYmdlbi5oPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHVuaXN0ZC5oPgo=</text>
+        <text encoding="base64">CQljb25zdCBzdGQ6OnN0cmluZyYgZGVmYXVsdFZhbHVlKQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZW1vdmUoZmlsZW5hbWVQYXRoKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPHNzdHJlYW0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljb25zdCBzdGQ6OnN0cmluZyBmaWxlbmFtZVBhdGggPSBfZ2V0RW5jcnlwdGVkRmlsZVBhdGgoa2V5KTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGRpcmVudC5oPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zdCBzdGQ6OnN0cmluZyBrZXkgPSBlbnRyeS0+ZF9uYW1lOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGxpYmdlbi5oPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUtleUNvbnRhaW5lciBrZXlzOwoKCUZpbGVTeXN0ZW1GYWNhZGUmIGZpbGVTeXN0ZW1GYWNhZGUgPSBGaWxlU3lzdGVtRmFjYWRlOjpnZXQoKTsKCglEaXJJdGVyYXRvciBkaXJJdGVyID0gX2dldFNlY3VyZVN0b3JhZ2VEaXJJdGVyKCk7CgoJd2hpbGUgKGRpckl0ZXIubmV4dCgpKQoJewoJCWNvbnN0IHN0ZDo6c3RyaW5nIGtleSA9IGRpckl0ZXIuZ2V0TmFtZSgpOwoJCWNvbnN0IHN0ZDo6c3RyaW5nIGZpbGVuYW1lUGF0aCA9IF9nZXRFbmNyeXB0ZWRGaWxlUGF0aChrZXkpOwoKCQlpZiAoZmlsZVN5c3RlbUZhY2FkZS5pc0ZpbGUoZmlsZW5hbWVQYXRoLmNfc3RyKCkpKQoJCXsKCQkJTG9nOjpnZXQoKS5pbmZvKAoJCQkJCUlTdG9yYWdlOjpJRCgpLAoJCQkJCSJMZWdhY3lTZWN1cmVTdG9yYWdlOjpnZXRLZXlzIC0gZm91bmQga2V5OiAlcyIsIGtleS5jX3N0cigpKTsKCQkJa2V5cy5pbnNlcnQoa2V5KTsKCQl9Cgl9CglkaXJJdGVyLmNsb3NlKCk7CglyZXR1cm4ga2V5czsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPHVuaXN0ZC5oPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZW1vdmUoZmlsZW5hbWVQYXRoKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">CiMgTG9hZCBkZXZpY2UgbGF5ZXIgbGlicmFyeSBhbmQgdXNlIGRldmljZSBBUElzIGZyb20gaXQKQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURVU0VfREVWSUNFX0xBWUVSPVlFUyIKCiMgVXNlIERQQyB0byBnZXQgaW5mb3JtYXRpb24gZnJvbSBkZXZpY2VzLgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRFVTRV9ERVZJQ0VfUFJPUEVSVElFU19DT01QT05FTlQ9WUVTIgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRERFVklDRV9QUk9QRVJUSUVTX1BST1ZJREVSX0xPQ0FUSU9OPSQiCg==</text>
@@ -1500,9 +1503,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxrZXlcPg==</last-search>
+      <last-search encoding="base64">XDxkZWZhdWx0VmFsdWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxrZXlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZWZhdWx0VmFsdWVcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1510,7 +1513,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcmVhZFw+</entry>
         <entry encoding="base64">XDxTZWN1cmVTdG9yYWdlQmFja2VuZERldmljZUxheWVyRGF0YVw+</entry>
         <entry encoding="base64">XDxhdlN0b3JhZ2VNaWdyYXRpb25WMFw+</entry>
         <entry encoding="base64">XDxBdlNlY3VyZVN0b3JhZ2VNaWdyYXRlSXRlbVYwXD4=</entry>
@@ -1530,6 +1532,7 @@
         <entry encoding="base64">XDxfZ2V0U2VjdXJlU3RvcmFnZURpckl0ZXJcPg==</entry>
         <entry encoding="base64">XDxfZ2V0U2VjdXJlU3RvcmFnZURpclBhdGhcPg==</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
+        <entry encoding="base64">XDxkZWZhdWx0VmFsdWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
