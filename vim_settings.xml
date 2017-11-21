@@ -543,6 +543,11 @@
         <mark key="." line="49" column="15" />
         <mark key="^" line="49" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/Bucket.h" timestamp="1511264501865">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/igrpi/ignition-rpi/rpi.dev.config" timestamp="1503502949836">
         <mark key="'" line="72" column="0" />
         <mark key="[" line="18" column="70" />
@@ -622,6 +627,13 @@
       </file>
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.renderer/internal/platform/samsungtv/cmakescripts/build.cmake" timestamp="1498066000388">
         <mark key="'" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/Migrator.cpp" timestamp="1511264874757">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/hosttools/GccTest.cpp" timestamp="1511260345997">
         <mark key="'" line="9" column="0" />
@@ -720,6 +732,13 @@
       </file>
       <file name="$USER_HOME$/dev/ci/prepare-source/ignition.cmake" timestamp="1499159974188">
         <mark key="'" line="22" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/CMakeLists.txt" timestamp="1511265145797">
+        <mark key="'" line="49" column="23" />
+        <mark key="[" line="43" column="53" />
+        <mark key="]" line="43" column="53" />
+        <mark key="^" line="43" column="53" />
+        <mark key="." line="43" column="53" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/include/SDLDisplayContext.h" timestamp="1507292968088">
         <mark key="'" line="30" column="0" />
@@ -836,6 +855,13 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/path/TemplatedPluginPathBuilder.cpp" timestamp="1496317506907">
         <mark key="'" line="88" column="43" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/Migrator.h" timestamp="1511264931483">
+        <mark key="'" line="16" column="112" />
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="15" column="6" />
+        <mark key="." line="15" column="6" />
+        <mark key="^" line="15" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/ci/commitment/commitment.cmake" timestamp="1499162490404">
         <mark key="'" line="92" column="16" />
       </file>
@@ -885,8 +911,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.font/include/font/utils/ParseState.h" timestamp="1502981865728">
         <mark key="'" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_migration_from_v0.h" timestamp="1504621334059">
-        <mark key="'" line="24" column="0" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_migration_from_v0.h" timestamp="1511263500499">
+        <mark key="'" line="23" column="73" />
         <mark key="[" line="23" column="86" />
         <mark key="]" line="23" column="87" />
         <mark key="^" line="11" column="6" />
@@ -1114,8 +1140,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/filesystem/FileSystemFacadeTest.cpp" timestamp="1506957242493">
         <mark key="'" line="426" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/DeviceSecureStorageBackend.cpp" timestamp="1493743370751">
-        <mark key="'" line="59" column="17" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/DeviceSecureStorageBackend.cpp" timestamp="1511265060565">
+        <mark key="'" line="290" column="33" />
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="23" />
+        <mark key="^" line="47" column="23" />
+        <mark key="." line="47" column="23" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" timestamp="1502118148994">
         <mark key="'" line="337" column="25" />
@@ -1233,22 +1263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/usr/include/x86_64-linux-gnu/c++/4.9/bits/atomic_word.h" />
-      <jump line="35" column="16" filename="/usr/include/c++/4.9/ext/atomicity.h" />
-      <jump line="48" column="11" filename="/usr/include/c++/4.9/ext/atomicity.h" />
-      <jump line="52" column="4" filename="/usr/include/c++/4.9/ext/atomicity.h" />
-      <jump line="123" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="267" column="4" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="40" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="66" column="8" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="290" column="37" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="305" column="57" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="160" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="268" column="4" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="270" column="4" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="274" column="4" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="276" column="4" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
-      <jump line="280" column="4" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="282" column="4" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="286" column="4" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
       <jump line="159" column="0" filename="$USER_HOME$/dev/ig/tools/generate_projects.sh" />
@@ -1333,13 +1347,29 @@
       <jump line="20" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/utils/ThreadSafeInitialiser.cpp" />
       <jump line="68" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/DefaultDeviceTypeProvider.cpp" />
       <jump line="33" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/DefaultDeviceTypeProvider.cpp" />
+      <jump line="15" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_migration_from_v0.h" />
+      <jump line="23" column="73" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_migration_from_v0.h" />
+      <jump line="101" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/CMakeLists.txt" />
+      <jump line="0" column="150" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/Migrator.cpp" />
+      <jump line="18" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/Migrator.cpp" />
+      <jump line="2" column="87" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/Migrator.cpp" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/Migrator.h" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/Migrator.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/Bucket.h" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/Bucket.h" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/Migrator.cpp" />
+      <jump line="15" column="112" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/Migrator.h" />
+      <jump line="46" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/DeviceSecureStorageBackend.cpp" />
+      <jump line="44" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/DeviceSecureStorageBackend.cpp" />
+      <jump line="287" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/DeviceSecureStorageBackend.cpp" />
+      <jump line="49" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>jira-ext.amazondcl.com/browse/LS-983</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlzcmMvYmFja2VuZHMvU2VjdXJlU3RvcmFnZUJhY2tlbmRNaWdyYXRvci5jcHAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1373,7 +1403,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>jira-ext.amazondcl.com/browse/LS-983</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1413,13 +1443,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbWl0XD4=</text>
+        <text encoding="base64">XDxfcmVhZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cn0gLy8gbmFtZXNwYWNlIGNvcmUKfSAvLyBuYW1lc3BhY2UgaWduaXRpb24K</text>
+        <text encoding="base64">I2luY2x1ZGUgIlN0b3JhZ2UuaCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzcmMvYmFja2VuZHMvU2VjdXJlU3RvcmFnZUJhY2tlbmRNaWdyYXRvci5jcHAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1430,55 +1460,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUdjY1Rlc3Q6OkdjY1Rlc3QgPSBkZWZhdWx0Owo=</text>
+        <text encoding="base64">CQlpbmNsdWRlL2JhY2tlbmRzL1NlY3VyZVN0b3JhZ2VCYWNrZW5kTWlncmF0b3IuaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZvaWQgc3RvcCgpIG92ZXJyaWRlOwo=</text>
+        <text encoding="base64">CXsK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWRldmljZWxheWVybG9hZGVyLnJlc2V0KCk7Cg==</text>
+        <text encoding="base64">CWVsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWRldmljZWxheWVybG9hZGVyLnJlc2V0KCk7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIk1pZ3JhdG9yLmguaCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWRldmljZWxheWVybG9hZGVyLnJlc2V0KCk7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImRldmljZS9hdl9zZWN1cmVfc3RvcmFnZV9iYWNrZW5kLmgiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2lmbmRlZiBJR05JVElPTl9NSUdSQVRPUl9ICiNkZWZpbmUgSUdOSVRJT05fTUlHUkFUT1JfSAoKCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>if $create_folder_per_configuration; then
-	echo &quot;Generating uber-project: DEBUG $PLATFORM&quot;
-	cd $BASE_DIR
-	mkdir -p $PLATFORM/debug
-	cd $PLATFORM/debug
-	cmake -DCMAKE_BUILD_TYPE=Debug $TOOLCHAIN_OPTION -DBUILD_PLATFORM=$PLATFORM $BASH_SCRIPT_DIR $CMAKE_OPTIONS
-
-	echo &quot;Generating uber-project: RELEASE $PLATFORM&quot;
-	cd $BASE_DIR
-	mkdir -p $PLATFORM/release
-	cd $PLATFORM/release
-	cmake -DCMAKE_BUILD_TYPE=Release $TOOLCHAIN_OPTION -DBUILD_PLATFORM=$PLATFORM $BASH_SCRIPT_DIR $CMAKE_OPTIONS
-
-	echo &quot;Generating uber-project: RELEASE WITH DEBUG INFO $PLATFORM&quot;
-	cd $BASE_DIR
-	mkdir -p $PLATFORM/relwithdebinfo
-	cd $PLATFORM/relwithdebinfo
-	cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo $TOOLCHAIN_OPTION -DBUILD_PLATFORM=$PLATFORM $BASH_SCRIPT_DIR $CMAKE_OPTIONS
-else
-	echo &quot;Generating multi-config project for $PLATFORM&quot;
-	cd $BASE_DIR
-	mkdir -p $PLATFORM/
-	cd $PLATFORM/
-	cmake $TOOLCHAIN_OPTION -DBUILD_PLATFORM=$PLATFORM $BASH_SCRIPT_DIR $CMAKE_OPTIONS
-fi</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">CiMgTG9hZCBkZXZpY2UgbGF5ZXIgbGlicmFyeSBhbmQgdXNlIGRldmljZSBBUElzIGZyb20gaXQKQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURVU0VfREVWSUNFX0xBWUVSPVlFUyIKCiMgVXNlIERQQyB0byBnZXQgaW5mb3JtYXRpb24gZnJvbSBkZXZpY2VzLgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRFVTRV9ERVZJQ0VfUFJPUEVSVElFU19DT01QT05FTlQ9WUVTIgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRERFVklDRV9QUk9QRVJUSUVTX1BST1ZJREVSX0xPQ0FUSU9OPSQiCg==</text>
@@ -1488,9 +1494,9 @@ fi</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbWl0XD4=</last-search>
+      <last-search encoding="base64">XDxfcmVhZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbWl0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfcmVhZFw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1498,9 +1504,6 @@ fi</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx9XD4=</entry>
-        <entry encoding="base64">XDxjcmVhdGVfZm9sZGVyX3Blcl9jb25maWd1cmF0aW9uXD4=</entry>
-        <entry encoding="base64">XDxCQVNIX1NDUklQVF9ESVJcPg==</entry>
         <entry encoding="base64">XDxjZFw+</entry>
         <entry encoding="base64">XDxkZWxldGVCdWNrZXRcPg==</entry>
         <entry encoding="base64">XDxHTU9DS19ESVJcPg==</entry>
@@ -1518,6 +1521,9 @@ fi</text>
         <entry encoding="base64">XDxiYWNrZW5kXD4=</entry>
         <entry encoding="base64">XDxzdGRcPg==</entry>
         <entry encoding="base64">XDxlbWl0XD4=</entry>
+        <entry encoding="base64">XDxBdlNlY3VyZVN0b3JhZ2VNaWdyYXRlSXRlbVYwXD4=</entry>
+        <entry encoding="base64">XDxEZXZpY2VTZWN1cmVTdG9yYWdlQmFja2VuZFw+</entry>
+        <entry encoding="base64">XDxfcmVhZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
