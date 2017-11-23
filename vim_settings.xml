@@ -203,8 +203,8 @@
       <file name="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/ps4/src/SystemInit.cpp" timestamp="1503482736546">
         <mark key="'" line="261" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/utils/CommandLine.cpp" timestamp="1511353799542">
-        <mark key="'" line="250" column="34" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/utils/CommandLine.cpp" timestamp="1511448122710">
+        <mark key="'" line="86" column="36" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -1289,9 +1289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="56" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
-      <jump line="143" column="57" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
-      <jump line="150" column="67" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="97" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="47" column="22" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="50" column="12" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
@@ -1389,6 +1386,9 @@
       <jump line="550" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/Ignition.cpp" />
       <jump line="7" column="23" filename="$USER_HOME$/dev/ig/install/plugins/com.amazon.ignition.framework.core/static/0.22.11/ignition-config.txt" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/ig/install/plugins/com.amazon.ignition.framework.core/static/0.22.11/ignition-config.txt" />
+      <jump line="235" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/utils/CommandLine.cpp" />
+      <jump line="70" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/utils/CommandLine.cpp" />
+      <jump line="86" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/utils/CommandLine.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1469,7 +1469,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfd3JpdGVcPg==</text>
+        <text encoding="base64">XDxpZnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUVYUEVDVF9FUShBVl9PSywgcmVzdWx0KTsK</text>
@@ -1520,9 +1520,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfd3JpdGVcPg==</last-search>
+      <last-search encoding="base64">XDxpZnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfd3JpdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpZnNcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1530,7 +1530,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUUkFDRVBPSU5UX0NBTExTVEFDS19OQVRJVkVcPg==</entry>
         <entry encoding="base64">XDxlcmFzZVw+</entry>
         <entry encoding="base64">XDxjb252ZXJ0VG9TYWZlRmlsZW5hbWVcPg==</entry>
         <entry encoding="base64">XDxlbmNyeXB0ZWRLZXlWYWx1ZUZpbGVQYXRoXD4=</entry>
@@ -1550,6 +1549,7 @@
         <entry encoding="base64">XDxfc3RvcmVNaWdyYXRlZEllbVw+</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry encoding="base64">XDxfd3JpdGVcPg==</entry>
+        <entry encoding="base64">XDxpZnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
