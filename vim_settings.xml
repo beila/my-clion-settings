@@ -397,8 +397,8 @@
         <mark key="." line="2" column="62" />
         <mark key="^" line="2" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/ps4/src/egl/PS4PlatformContext.cpp" timestamp="1499794919057">
-        <mark key="'" line="156" column="86" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/ps4/src/egl/PS4PlatformContext.cpp" timestamp="1511525779989">
+        <mark key="'" line="41" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/configuration/CMakeLists.txt" timestamp="1494597569682">
         <mark key="'" line="48" column="15" />
@@ -609,7 +609,7 @@
       <file name="$USER_HOME$/dev/ignite/src/Render.cpp" timestamp="1510244136755">
         <mark key="'" line="46" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511522879227">
+      <file name="/Dummy.txt" timestamp="1511525800497">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="25" />
       </file>
@@ -1319,9 +1319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
-      <jump line="48" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
-      <jump line="73" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
       <jump line="80" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
       <jump line="50" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
       <jump line="87" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
@@ -1419,6 +1416,9 @@
       <jump line="42" column="56" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/CMakeLists.txt" />
       <jump line="130" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/device/DeviceInteractionSecureStorageBackendTest.cpp" />
       <jump line="36" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/SecureStorageBackendMigrator.cpp" />
+      <jump line="42" column="66" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/ps4/src/egl/PS4PlatformContext.cpp" />
+      <jump line="40" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/ps4/src/egl/PS4PlatformContext.cpp" />
+      <jump line="41" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/ps4/src/egl/PS4PlatformContext.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1499,7 +1499,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2dcPg==</text>
+        <text encoding="base64">XDxkZWVwTGlua0RhdGFcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2luY2x1ZGUgIlN0b3JhZ2UuaCIK</text>
@@ -1550,9 +1550,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2dcPg==</last-search>
+      <last-search encoding="base64">XDxkZWVwTGlua0RhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2dcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZWVwTGlua0RhdGFcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1560,7 +1560,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc3RvcmVNaWdyYXRlZEllbVw+</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry encoding="base64">XDxfd3JpdGVcPg==</entry>
         <entry encoding="base64">XDxpZnNcPg==</entry>
@@ -1580,6 +1579,7 @@
         <entry encoding="base64">XDxkZXZpY2VHZXRTaXplXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxMb2dcPg==</entry>
+        <entry encoding="base64">XDxkZWVwTGlua0RhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
