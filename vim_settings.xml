@@ -476,6 +476,9 @@
       <file name="$USER_HOME$/local/depo/src/depo/dependencies/OverridesParser.py" timestamp="1495212547243">
         <mark key="'" line="123" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/IgnitionHostMessage.cpp" timestamp="1511776210608">
+        <mark key="'" line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/deviceLuna/LGMediaLSCall.cpp" timestamp="1499190031788">
         <mark key="'" line="194" column="4" />
       </file>
@@ -611,7 +614,7 @@
       <file name="$USER_HOME$/dev/ignite/src/Render.cpp" timestamp="1510244136755">
         <mark key="'" line="46" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511545552182">
+      <file name="/Dummy.txt" timestamp="1511797064456">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="25" />
       </file>
@@ -923,8 +926,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/cmakescripts/build.cmake" timestamp="1497605980688">
         <mark key="'" line="203" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" timestamp="1499793115342">
-        <mark key="'" line="39" column="35" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" timestamp="1511782746358">
+        <mark key="'" line="45" column="32" />
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/display/DevicePlatformContext.cpp" timestamp="1501077275978">
         <mark key="'" line="53" column="8" />
@@ -939,6 +942,9 @@
         <mark key="]" line="29" column="31" />
         <mark key="." line="16" column="13" />
         <mark key="^" line="16" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/external/include/deviceinfo/properties/AbstractDeviceProperties.h" timestamp="1511782748251">
+        <mark key="'" line="50" column="17" />
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.javascript/tests/CMakeLists.txt" timestamp="1499182336068">
         <mark key="'" line="331" column="0" />
@@ -1321,16 +1327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/SecureStorageBackendMigrator.cpp" />
-      <jump line="173" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/device/DeviceInteractionSecureStorageBackendTest.cpp" />
-      <jump line="159" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/device/DeviceInteractionSecureStorageBackendTest.cpp" />
-      <jump line="437" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
-      <jump line="82" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/SecureStorageBackendTest.cpp" />
-      <jump line="222" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/SecureStorageBackendTest.cpp" />
-      <jump line="60" column="27" filename="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.storage/internal/platform/panda/src/backends/SecureStorageBackend.cpp" />
-      <jump line="55" column="47" filename="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.storage/internal/platform/panda/src/backends/SecureStorageBackend.cpp" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.storage/internal/platform/lg/src/backends/SecureStorageBackend.cpp" />
-      <jump line="26" column="0" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.storage/internal/platform/lg/src/backends/SecureStorageBackend.cpp" />
       <jump line="46" column="44" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.storage/internal/platform/lg/src/backends/SecureStorageBackend.cpp" />
       <jump line="54" column="35" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.storage/internal/platform/lg/src/backends/SecureStorageBackend.cpp" />
       <jump line="33" column="12" filename="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.storage/internal/platform/lg/src/backends/SecureStorageBackend.cpp" />
@@ -1421,6 +1417,16 @@
       <jump line="38" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_migration_from_v0.h" />
       <jump line="52" column="60" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/SecureStorageBackendMigrator.cpp" />
       <jump line="99" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" />
+      <jump line="77" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/IgnitionHostMessage.cpp" />
+      <jump line="3" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/IgnitionHostMessage.cpp" />
+      <jump line="123" column="0" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.deviceinfo/internal/platform/android/src/deviceinfo/properties/AndroidDeviceProperties.cpp" />
+      <jump line="70" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" />
+      <jump line="76" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" />
+      <jump line="90" column="51" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" />
+      <jump line="45" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" />
+      <jump line="21" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/external/include/deviceinfo/properties/AbstractDeviceProperties.h" />
+      <jump line="50" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/external/include/deviceinfo/properties/AbstractDeviceProperties.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1501,7 +1507,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYmFzZURpclw+</text>
+        <text encoding="base64">XDxzdXBwb3J0c09MRURcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWF1dG8gc3RvcmFnZSA9IChzdGF0aWNfY2FzdDxTdG9yYWdlQ29udGV4dCo+IGNvbnRleHQpLT5zdG9yYWdlOwo=</text>
@@ -1552,9 +1558,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYmFzZURpclw+</last-search>
+      <last-search encoding="base64">XDxzdXBwb3J0c09MRURcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYmFzZURpclw+</last-pattern>
+      <last-pattern encoding="base64">XDxzdXBwb3J0c09MRURcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1562,7 +1568,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21tb25Db250ZXh0U3VjY2VlZGVkXD4=</entry>
         <entry encoding="base64">XDxjb3VudFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVDb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxkZXN0cm95Q29udGV4dFw+</entry>
@@ -1582,6 +1587,7 @@
         <entry encoding="base64">XDxfZ2V0RW5jcnlwdGVkRmlsZVBhdGhcPg==</entry>
         <entry encoding="base64">XDxfZ2V0U2VjdXJlU3RvcmFnZURpckl0ZXJcPg==</entry>
         <entry encoding="base64">XDxfYmFzZURpclw+</entry>
+        <entry encoding="base64">XDxzdXBwb3J0c09MRURcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
