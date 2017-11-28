@@ -271,6 +271,13 @@
       <file name="$USER_HOME$/local/depo/src/depo/config.py" timestamp="1495212797707">
         <mark key="'" line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" timestamp="1511880731665">
+        <mark key="'" line="81" column="30" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="83" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.display/internal/platform/samsungtv/src/egl/SamsungTVPlatformContext.cpp" timestamp="1507292935713">
         <mark key="'" line="510" column="4" />
         <mark key="[" line="501" column="0" />
@@ -614,19 +621,12 @@
       <file name="$USER_HOME$/dev/ignite/src/Render.cpp" timestamp="1510244136755">
         <mark key="'" line="46" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511868372547">
+      <file name="/Dummy.txt" timestamp="1511880346598">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/porting/linux/SDLRenderBackend.cpp" timestamp="1510306611131">
         <mark key="'" line="213" column="61" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" timestamp="1511868303021">
-        <mark key="'" line="72" column="51" />
-        <mark key="[" line="72" column="48" />
-        <mark key="]" line="72" column="51" />
-        <mark key="." line="72" column="51" />
-        <mark key="^" line="72" column="51" />
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.core/internal/platform/android/mainlib/src/main.cpp" timestamp="1502116323049">
         <mark key="'" line="25" column="16" />
@@ -1163,9 +1163,6 @@
         <mark key="." line="55" column="29" />
         <mark key="^" line="55" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginPath.cpp" timestamp="1511540267896">
-        <mark key="'" line="99" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.core/internal/platform/android/src/utils/AndroidJniAttachment.cpp" timestamp="1502118320515">
         <mark key="'" line="135" column="0" />
       </file>
@@ -1202,13 +1199,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/filesystem/FileSystemFacadeTest.cpp" timestamp="1506957242493">
         <mark key="'" line="426" column="36" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/DeviceSecureStorageBackend.cpp" timestamp="1511462631029">
-        <mark key="'" line="145" column="34" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="20" />
-        <mark key="^" line="47" column="31" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" timestamp="1502118148994">
         <mark key="'" line="337" column="25" />
@@ -1274,13 +1264,6 @@
       <file name="$USER_HOME$/dev/ci/VersionsParser.cmake" timestamp="1499159724857">
         <mark key="'" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/DeviceLayerData.h" timestamp="1511540378560">
-        <mark key="'" line="20" column="37" />
-        <mark key="[" line="30" column="39" />
-        <mark key="]" line="30" column="39" />
-        <mark key="." line="30" column="39" />
-        <mark key="^" line="30" column="65" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/core/Engine.cpp" timestamp="1510851677104">
         <mark key="'" line="251" column="0" />
         <mark key="[" line="227" column="47" />
@@ -1327,18 +1310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="4" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SecureStorageBackendContext.cpp" />
-      <jump line="14" column="10" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SecureStorageBackendContext.h" />
-      <jump line="19" column="34" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SecureStorageBackendContext.cpp" />
-      <jump line="87" column="61" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avSecureStorageBackend.cpp" />
-      <jump line="54" column="9" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avSecureStorageBackend.cpp" />
-      <jump line="99" column="4" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avSecureStorageBackend.cpp" />
-      <jump line="86" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avSecureStorageBackend.cpp" />
-      <jump line="39" column="8" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avSecureStorageBackend.cpp" />
-      <jump line="31" column="105" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avSecureStorageBackend.cpp" />
-      <jump line="78" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
-      <jump line="63" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
-      <jump line="50" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="37" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
       <jump line="55" column="35" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
@@ -1427,13 +1398,25 @@
       <jump line="72" column="51" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
       <jump line="193" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/device/DeviceInteractionSecureStorageBackendTest.cpp" />
       <jump line="216" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/device/DeviceInteractionSecureStorageBackendTest.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
+      <jump line="62" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
+      <jump line="82" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
+      <jump line="43" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
+      <jump line="61" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
+      <jump line="74" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
+      <jump line="54" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
+      <jump line="85" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
+      <jump line="14" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
+      <jump line="81" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickManager.cpp" />
+      <jump line="245" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>commonContextSucceeded</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1467,7 +1450,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>commonContextSucceeded</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1507,13 +1490,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVNb2NrQVBJXD4=</text>
+        <text encoding="base64">XDxmb3JcPg==</text>
       </register>
       <register name="0" type="4">
         <text>Times(0);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CV9kZXZpY2VMYXllckRhdGEuY29tbW9uQ29udGV4dENyZWF0ZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1524,31 +1507,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNyZWF0ZUZha2VBUEkoKTsKCWF1dG8gYmFja2VuZCA9IERldmljZVNlY3VyZVN0b3JhZ2VCYWNrZW5kKCZfZGV2aWNlTGF5ZXJEYXRhKTsKCgliYWNrZW5kLnNldCgia2V5IiwgInZhbHVlIik7CgliYWNrZW5kLmhhcygia2V5Iik7CgliYWNrZW5kLmdldCgia2V5Iik7CgliYWNrZW5kLmVyYXNlKCJrZXkiKTsKCWJhY2tlbmQuZXJhc2VBbGwoKTsKCglFWFBFQ1RfVEhBVChkYXRhLCBTdHJFcSgiIikpOwoJRVhQRUNUX0VRKGNvdW50LCAwKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGFsZ29yaXRobT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvdW50ID0gMDsK</text>
+        <text encoding="base64">CWdlbmVyYXRvcnNMb2NhbC5lcmFzZSgKCQkJc3RkOjpyZW1vdmVfaWYoCgkJCQkJZ2VuZXJhdG9yc0xvY2FsLmJlZ2luKCksCgkJCQkJZ2VuZXJhdG9yc0xvY2FsLmVuZCgpLAoJCQkJCVtdKFRpY2tHZW5lcmF0b3JQdHIgZykgeyByZXR1cm4gZy0+d2FpdEZvclRpY2tBbmRHZXRTdG9wcGVkKCk7IH0pKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUVYUEVDVF9USEFUKGRhdGEsIFN0ckVxKCIiKSk7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUVYUEVDVF9FUShjb3VudCwgMSk7Cg==</text>
+        <text encoding="base64">CXdoaWxlICghZ2VuZXJhdG9yc0xvY2FsLmVtcHR5KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNvdW50ID0gMDsKCWNyZWF0ZUNvbnRleHRTdWNjZWVkZWQgPSBmYWxzZTsKCWNyZWF0ZUZha2VBUEkoKTsK</text>
+        <text encoding="base64">CV9kZXZpY2VMYXllckRhdGEuY29tbW9uQ29udGV4dENyZWF0ZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJU2V0QXJndW1lbnRQb2ludGVlPDE+KDApLFJldHVybihBVl9PSykpKTsK</text>
+        <text encoding="base64">CWNyZWF0ZUZha2VBUEkoKTsKCWF1dG8gYmFja2VuZCA9IERldmljZVNlY3VyZVN0b3JhZ2VCYWNrZW5kKCZfZGV2aWNlTGF5ZXJEYXRhKTsKCgliYWNrZW5kLnNldCgia2V5IiwgInZhbHVlIik7CgliYWNrZW5kLmhhcygia2V5Iik7CgliYWNrZW5kLmdldCgia2V5Iik7CgliYWNrZW5kLmVyYXNlKCJrZXkiKTsKCWJhY2tlbmQuZXJhc2VBbGwoKTsKCglFWFBFQ1RfVEhBVChkYXRhLCBTdHJFcSgiIikpOwoJRVhQRUNUX0VRKGNvdW50LCAwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNyZWF0ZU1vY2tBUEkoKTsKCUVYUEVDVF9DQUxMKCpjcmVhdGVDb250ZXh0LCBDYWxsKF8sXykpLldpbGxPbmNlKFJldHVybihBVl9PSyArIDEpKTsKCUVYUEVDVF9DQUxMKCpkZXN0cm95Q29udGV4dCwgQ2FsbChfLF8pKS5XaWxsT25jZShSZXR1cm4oQVZfT0spKTsKCUVYUEVDVF9DQUxMKCpkZXZpY2VHZXRTaXplLCBDYWxsKF8sXykpLldpbGxPbmNlKERvQWxsKAoJCQlTZXRBcmd1bWVudFBvaW50ZWU8MT4oMCksUmV0dXJuKEFWX09LKSkpOwoJRVhQRUNUX0NBTEwoKmRldmljZVdyaXRlLCBDYWxsKF8sXyxfKSkuVGltZXMoMCk7CglFWFBFQ1RfQ0FMTCgqZGV2aWNlUmVhZCwgQ2FsbChfLF8sXykpLlRpbWVzKDApOwoK</text>
+        <text encoding="base64">CWNvdW50ID0gMDsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">CiMgTG9hZCBkZXZpY2UgbGF5ZXIgbGlicmFyeSBhbmQgdXNlIGRldmljZSBBUElzIGZyb20gaXQKQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURVU0VfREVWSUNFX0xBWUVSPVlFUyIKCiMgVXNlIERQQyB0byBnZXQgaW5mb3JtYXRpb24gZnJvbSBkZXZpY2VzLgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRFVTRV9ERVZJQ0VfUFJPUEVSVElFU19DT01QT05FTlQ9WUVTIgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRERFVklDRV9QUk9QRVJUSUVTX1BST1ZJREVSX0xPQ0FUSU9OPSQiCg==</text>
@@ -1558,9 +1541,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVNb2NrQVBJXD4=</last-search>
+      <last-search encoding="base64">XDxmb3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVNb2NrQVBJXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmb3JcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1568,7 +1551,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2dcPg==</entry>
         <entry encoding="base64">XDxkZWVwTGlua0RhdGFcPg==</entry>
         <entry encoding="base64">XDxnZXRQYXRoXD4=</entry>
         <entry encoding="base64">XDxfZ2V0U2VjdXJlU3RvcmFnZURpclBhdGhcPg==</entry>
@@ -1588,6 +1570,7 @@
         <entry encoding="base64">XDxjb21tb25Db250ZXh0U3VjY2VlZGVkXD4=</entry>
         <entry encoding="base64">XDxfZGV2aWNlTGF5ZXJEYXRhXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVNb2NrQVBJXD4=</entry>
+        <entry encoding="base64">XDxmb3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
