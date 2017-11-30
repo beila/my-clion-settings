@@ -57,6 +57,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="New Watch...">
+        <Item>
+          <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
+          <ShortCut>'Insert'</ShortCut>
+          <Description>New Watch...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Override Functions...">
         <Item>
           <IdeaActionID>OverrideMethods</IdeaActionID>
