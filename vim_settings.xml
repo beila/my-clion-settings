@@ -286,6 +286,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/PluginPlayer.cpp" timestamp="1512053242068">
         <mark key="'" line="112" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" timestamp="1512062086466">
+        <mark key="'" line="757" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/allocator/TagAllocator.cpp" timestamp="1512051237594">
         <mark key="'" line="144" column="16" />
       </file>
@@ -481,6 +484,9 @@
       <file name="$USER_HOME$/dev/ignite/libs/lua/src/lua.h" timestamp="1510243400045">
         <mark key="'" line="340" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" timestamp="1512062168120">
+        <mark key="'" line="68" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/tests/ffi/LuaFFILibWrapperTest.cpp" timestamp="1493402549290">
         <mark key="'" line="49" column="6" />
       </file>
@@ -636,6 +642,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/extensions/LifecycleExtension.cpp" timestamp="1497549195366">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyDefs.h" timestamp="1512061939430">
+        <mark key="'" line="26" column="6" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/platform/ps3/include/display/PS3DisplayContext.h" timestamp="1499792801704">
         <mark key="'" line="56" column="11" />
@@ -982,26 +991,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/MemoryPoolConfiguration.cpp" />
-      <jump line="82" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/MemoryPoolConfiguration.cpp" />
-      <jump line="84" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/MemoryPoolConfiguration.cpp" />
-      <jump line="105" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/MemoryPoolConfiguration.cpp" />
-      <jump line="33" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/MemoryPoolConfiguration.cpp" />
-      <jump line="117" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/MemoryPoolConfiguration.cpp" />
-      <jump line="123" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/MemoryPoolConfiguration.cpp" />
-      <jump line="114" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/MemoryPoolConfiguration.cpp" />
-      <jump line="88" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/MemoryPoolConfiguration.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/manifest.ps4" />
-      <jump line="21" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/manifest.ps4" />
-      <jump line="36" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/manifest.ps3" />
-      <jump line="23" column="42" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/manifest.ps3" />
-      <jump line="26" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/manifest.ps3" />
-      <jump line="28" column="42" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/manifest.ps3" />
-      <jump line="21" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/manifest.ps3" />
-      <jump line="91" column="3" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/thirdparty/kubrick/amp-ps4/apps/AIV/VideoCore/VideoCore.vcxproj" />
-      <jump line="123" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/thirdparty/kubrick/amp-ps4/apps/AIV/VideoCore/VideoCore.vcxproj" />
-      <jump line="124" column="3" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/thirdparty/kubrick/amp-ps4/apps/AIV/VideoCore/VideoCore.vcxproj" />
-      <jump line="109" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeLists.txt" />
       <jump line="118" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeLists.txt" />
       <jump line="112" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeLists.txt" />
       <jump line="114" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeLists.txt" />
@@ -1082,6 +1071,26 @@
       <jump line="201" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
       <jump line="349" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
       <jump line="1898" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/thirdparty/gmock/gtest/include/gtest/gtest.h" />
+      <jump line="45" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" />
+      <jump line="26" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyDefs.h" />
+      <jump line="70" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" />
+      <jump line="170" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="172" column="67" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="179" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="608" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="170" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="174" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="427" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="559" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="804" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="177" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="178" column="38" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="757" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="128" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" />
+      <jump line="72" column="70" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" />
+      <jump line="68" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" />
+      <jump line="168" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1162,7 +1171,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2V0U3RhdGVcPg==</text>
+        <text encoding="base64">XDxfcnVudGltZUhlYXBTaXplXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ClRFU1RfRihEZXZpY2VJbnRlcmFjdGlvblNlY3VyZVN0b3JhZ2VCYWNrZW5kVGVzdCwgU2hvdWxkTWlncmF0ZUZyb21WMCkKewoJY3JlYXRlRmFrZUFQSSgpOwoJY3JlYXRlTW9ja01pZ3JhdGlvbkFQSSgpOwoKCUVYUEVDVF9DQUxMKCpkZXZpY2VNaWdyYXRlRnJvbVYwLCBDYWxsKF8sIF8sIF8sIF8pKQoJCQkuV2lsbE9uY2UoCgkJCQkJRG9BbGwoCgkJCQkJCQlJbnZva2VBcmd1bWVudDwxPigibUtleTEiLCA1LCAibVZhbHVlMSIsIDcpLAoJCQkJCQkJSW52b2tlQXJndW1lbnQ8MT4oIm1LZXkyIiwgNSwgIm1WYWx1ZTIiLCA3KSwKCQkJCQkJCVJldHVybihBVl9PSykpKTsKCUVYUEVDVF9DQUxMKCpkZXZpY2VDbGVhblVwVjAsIENhbGwoXywgXywgXykpLldpbGxPbmNlKFJldHVybihBVl9PSykpOwoKCWF1dG8gYmFja2VuZCA9IERldmljZVNlY3VyZVN0b3JhZ2VCYWNrZW5kKCZfZGV2aWNlTGF5ZXJEYXRhKTsKCglFWFBFQ1RfVEhBVChiYWNrZW5kLmhhcygibUtleTEiKSwgRXEodHJ1ZSkpOwoJRVhQRUNUX1RIQVQoYmFja2VuZC5nZXQoIm1LZXkxIiksIFN0ckVxKCJtVmFsdWUxIikpOwoJRVhQRUNUX1RIQVQoYmFja2VuZC5oYXMoIm1LZXkyIiksIEVxKHRydWUpKTsKCUVYUEVDVF9USEFUKGJhY2tlbmQuZ2V0KCJtS2V5MiIpLCBTdHJFcSgibVZhbHVlMiIpKTsKCUVYUEVDVF9USEFUKGJhY2tlbmQuaGFzKCJtaWdyYXRlZEZyb20iKSwgRXEodHJ1ZSkpOwp9Cg==</text>
@@ -1213,9 +1222,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2V0U3RhdGVcPg==</last-search>
+      <last-search encoding="base64">XDxfcnVudGltZUhlYXBTaXplXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2V0U3RhdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfcnVudGltZUhlYXBTaXplXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1223,10 +1232,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbGlzdGVuZXJBbGxvY2F0b3JcPg==</entry>
-        <entry encoding="base64">XDxfdmlkZW9QbGF5ZXJBbGxvY2F0b3JcPg==</entry>
-        <entry>amp</entry>
-        <entry encoding="base64">XDxhbXBcPg==</entry>
         <entry encoding="base64">XDxJdGVtR3JvdXBcPg==</entry>
         <entry>platform</entry>
         <entry encoding="base64">XDxQTEFZRVJfUExBVEZPUk1fQ01BS0VfRklMRVw+</entry>
@@ -1243,6 +1248,10 @@
         <entry encoding="base64">XDxBRERfTElCUkFSWVw+</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxfc2V0U3RhdGVcPg==</entry>
+        <entry encoding="base64">XDxoZWFwRHVtcFBhdGhcPg==</entry>
+        <entry encoding="base64">XDxfaGVhcER1bXBQYXRoXD4=</entry>
+        <entry encoding="base64">XDxfanNSdW50aW1lXD4=</entry>
+        <entry encoding="base64">XDxfcnVudGltZUhlYXBTaXplXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
