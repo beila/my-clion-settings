@@ -132,6 +132,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/src/filesystem/FileSystemFacade.cpp" timestamp="1511279881495">
         <mark key="'" line="23" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" timestamp="1512134096067">
+        <mark key="'" line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/test_files.txt" timestamp="1493982510659">
         <mark key="'" line="0" column="0" />
       </file>
@@ -400,6 +403,9 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/thirdparty/SDL2/cmake/macros.cmake" timestamp="1497022728583">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/LegacySecureStorage.h" timestamp="1512134112280">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/usr/include/c++/4.9/functional" timestamp="1511178079009">
         <mark key="'" line="0" column="0" />
       </file>
@@ -630,8 +636,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/include/Animation.h" timestamp="1497535727392">
         <mark key="'" line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/tests/SecureStorageBackendTest.cpp" timestamp="1512133238225">
-        <mark key="'" line="68" column="0" />
+      <file name="$USER_HOME$/dev/ig/devicelinux/tests/SecureStorageBackendTest.cpp" timestamp="1512134191315">
+        <mark key="'" line="110" column="23" />
         <mark key="[" line="68" column="20" />
         <mark key="]" line="68" column="29" />
         <mark key="." line="68" column="29" />
@@ -696,6 +702,12 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" timestamp="1511782746358">
         <mark key="'" line="45" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_secure_storage_migration_from_v0.h" timestamp="1512134321385">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="74" />
+        <mark key="]" line="21" column="74" />
+        <mark key="." line="21" column="74" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/external/include/deviceinfo/properties/AbstractDeviceProperties.h" timestamp="1511782748251">
         <mark key="'" line="50" column="17" />
@@ -1029,16 +1041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
-      <jump line="203" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
-      <jump line="201" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
-      <jump line="349" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
-      <jump line="1898" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/thirdparty/gmock/gtest/include/gtest/gtest.h" />
-      <jump line="45" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" />
-      <jump line="26" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyDefs.h" />
-      <jump line="70" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" />
-      <jump line="170" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
-      <jump line="172" column="67" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
       <jump line="179" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
       <jump line="608" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
       <jump line="170" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" />
@@ -1129,13 +1131,23 @@
       <jump line="323" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/tests/SecureStorageBackendTest.cpp" />
       <jump line="69" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/tests/SecureStorageBackendTest.cpp" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
+      <jump line="45" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/LegacySecureStorage.h" />
+      <jump line="69" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/SecureStorageBackendTest.cpp" />
+      <jump line="115" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/SecureStorageBackendTest.cpp" />
+      <jump line="110" column="23" filename="$USER_HOME$/dev/ig/devicelinux/tests/SecureStorageBackendTest.cpp" />
+      <jump line="40" column="0" filename="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_secure_storage_migration_from_v0.h" />
+      <jump line="17" column="74" filename="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_secure_storage_migration_from_v0.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_secure_storage_migration_from_v0.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>DeviceInteractionSecureStorageBackendTest, ShouldNotCleanIfMigrationFailed</text>
+        <text>/</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1169,7 +1181,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_getSize</text>
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <keys>
