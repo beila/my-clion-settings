@@ -18,9 +18,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/bindings/sm/StorageExtension.cpp" timestamp="1510922342352">
         <mark key="'" line="70" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/MemoryPoolConfiguration.cpp" timestamp="1512052816043">
-        <mark key="'" line="5" column="17" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/Network.cpp" timestamp="1502117425936">
         <mark key="'" line="28" column="18" />
       </file>
@@ -35,6 +32,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/SceneLifecycleManager.cpp" timestamp="1512057545856">
         <mark key="'" line="76" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/PoolAllocatorAdapter.h" timestamp="1512128213169">
+        <mark key="'" line="23" column="6" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/SecureStorageBackend.cpp" timestamp="1511544158816">
         <mark key="'" line="164" column="0" />
@@ -110,6 +110,9 @@
       </file>
       <file name="$USER_HOME$/dev/raspberry-pi-tools/arm-bcm2708/arm-bcm2708hardfp-linux-gnueabi/arm-bcm2708hardfp-linux-gnueabi/include/c++/4.7.1/bits/stl_queue.h" timestamp="1503415803655">
         <mark key="'" line="160" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/HeapAllocatorMultiPoolFrontEnd.h" timestamp="1512127942344">
+        <mark key="'" line="22" column="38" />
       </file>
       <file name="$USER_HOME$/dev/iglg/lg-ignition/lg/com.amazon.ignition.framework.network/internal/platform/lg/src/PlatformUtils.cpp" timestamp="1499444056666">
         <mark key="'" line="118" column="24" />
@@ -204,7 +207,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/tests/report/listeners/LogListenerTest.cpp" timestamp="1497549176982">
         <mark key="'" line="130" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512057483592">
+      <file name="/Dummy.txt" timestamp="1512127548228">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="25" />
       </file>
@@ -259,6 +262,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/allocator/HighFilterAllocator.h" timestamp="1512051934908">
         <mark key="'" line="37" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" timestamp="1512128209658">
+        <mark key="'" line="183" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps4/src/plugin/PluginPathPlatform.cpp" timestamp="1502270361957">
         <mark key="'" line="39" column="8" />
       </file>
@@ -282,9 +288,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.input/internal/platform/panda/src/PlatformRemoteDelegate.cpp" timestamp="1497959632664">
         <mark key="'" line="74" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/PluginPlayer.cpp" timestamp="1512053242068">
-        <mark key="'" line="112" column="44" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" timestamp="1512062086466">
         <mark key="'" line="757" column="23" />
@@ -354,6 +357,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/api/RenderStateManager.h" timestamp="1499949585650">
         <mark key="'" line="68" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/PoolAllocator.cpp" timestamp="1512128150110">
+        <mark key="'" line="88" column="30" />
       </file>
       <file name="/usr/include/c++/4.9/unordered_set" timestamp="1494596511559">
         <mark key="'" line="55" column="25" />
@@ -498,6 +504,9 @@
       </file>
       <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" timestamp="1495201580315">
         <mark key="'" line="111" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/include/allocation/HeapAllocatorMatHeapDecorator.h" timestamp="1512127576896">
+        <mark key="'" line="41" column="18" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/allocator/TagAllocator.h" timestamp="1512051435682">
         <mark key="'" line="40" column="12" />
@@ -681,6 +690,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" timestamp="1501253193383">
         <mark key="'" line="28" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/PoolAllocator.h" timestamp="1512128051021">
+        <mark key="'" line="22" column="6" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/dispatchers/formatters/DeviceEventFormatter.cpp" timestamp="1497548776245">
         <mark key="'" line="0" column="0" />
@@ -875,6 +887,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/renderer/OffScreenSceneGraphManager.cpp" timestamp="1509106753802">
         <mark key="'" line="237" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" timestamp="1512127757301">
+        <mark key="'" line="121" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.font/internal/platform/linux/cmakescripts/build.cmake" timestamp="1497968636514">
         <mark key="'" line="7" column="7" />
       </file>
@@ -980,6 +995,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1512057529676">
         <mark key="'" line="267" column="58" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/PoolAllocatorAdapter.cpp" timestamp="1512128280038">
+        <mark key="'" line="74" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/external/include/IDisplay.h" timestamp="1499248385720">
         <mark key="'" line="30" column="18" />
       </file>
@@ -991,64 +1009,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeLists.txt" />
-      <jump line="112" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeLists.txt" />
-      <jump line="114" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeLists.txt" />
-      <jump line="116" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeLists.txt" />
-      <jump line="150" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="364" column="67" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="365" column="73" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="381" column="67" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="382" column="77" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="389" column="79" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="406" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="124" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeLists.txt" />
-      <jump line="353" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="356" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="394" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="401" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="408" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="59" column="51" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="146" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="148" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="58" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="194" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeListsThirdparty.txt" />
-      <jump line="126" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/MemoryPoolConfiguration.cpp" />
-      <jump line="5" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/MemoryPoolConfiguration.cpp" />
-      <jump line="116" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/PlayerPlatform.cpp" />
-      <jump line="74" column="66" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/PlayerPlatform.cpp" />
-      <jump line="84" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/PlayerPlatform.cpp" />
-      <jump line="28" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/PlayerPlatform.cpp" />
-      <jump line="23" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/PlayerPlatform.cpp" />
-      <jump line="20" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/PlayerPlatform.cpp" />
-      <jump line="10" column="39" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/PlayerPlatformFactory.cpp" />
-      <jump line="112" column="44" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/PluginPlayer.cpp" />
-      <jump line="12" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/PlayerPlatformFactory.cpp" />
-      <jump line="137" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/PlayerPlatform.cpp" />
-      <jump line="78" column="46" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/PlayerPlatform.cpp" />
-      <jump line="250" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/cmakescripts/CMakeMacros.cmake" />
-      <jump line="302" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/cmakescripts/CMakeMacros.cmake" />
-      <jump line="338" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/cmakescripts/CMakeMacros.cmake" />
-      <jump line="187" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/cmakescripts/CMakeMacros.cmake" />
-      <jump line="446" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/cmakescripts/CMakeMacros.cmake" />
-      <jump line="328" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/cmakescripts/CMakeMacros.cmake" />
-      <jump line="188" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/cmakescripts/CMakeMacros.cmake" />
-      <jump line="267" column="58" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
-      <jump line="76" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/SceneLifecycleManager.cpp" />
-      <jump line="117" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/include/scene/nodes/ImageNode.h" />
-      <jump line="42" column="44" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/include/scene/image/ScopedImageHandle.h" />
-      <jump line="251" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/nodes/ImageNode.cpp" />
-      <jump line="23" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/include/scene/image/ScopedImageHandle.h" />
-      <jump line="43" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/image/ScopedImageHandle.cpp" />
-      <jump line="152" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/image/ScopedImageHandle.cpp" />
-      <jump line="318" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/image/ImageRegistry.cpp" />
-      <jump line="953" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/image/ImageRegistry.cpp" />
-      <jump line="314" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/image/ImageRegistry.cpp" />
-      <jump line="728" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/image/ImageRegistry.cpp" />
-      <jump line="760" column="6" filename="/usr/include/c++/4.9/bits/stl_map.h" />
-      <jump line="322" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/image/ImageRegistry.cpp" />
-      <jump line="169" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/include/scene/image/ImageRegistry.h" />
-      <jump line="158" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/include/scene/image/ImageRegistry.h" />
       <jump line="67" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/include/scene/image/ImageRegistry.h" />
       <jump line="82" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/include/scene/image/ImageRegistry.h" />
       <jump line="124" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/include/scene/image/ImageRegistry.h" />
@@ -1091,6 +1051,64 @@
       <jump line="72" column="70" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" />
       <jump line="68" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" />
       <jump line="168" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/SpiderMonkeyEnvironment.cpp" />
+      <jump line="237" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="384" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="70" column="55" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="20" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/HeapAllocatorMultiPoolFrontEnd.h" />
+      <jump line="267" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/HeapAllocatorMultiPoolFrontEnd.h" />
+      <jump line="28" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/PlacementNewObject.h" />
+      <jump line="527" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="33" column="86" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/HeapAllocatorMultiPoolFrontEnd.h" />
+      <jump line="25" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/HeapAllocatorMultiPoolFrontEnd.h" />
+      <jump line="305" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="43" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="308" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="312" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="314" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="381" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="146" column="44" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="41" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/include/allocation/HeapAllocatorMatHeapDecorator.h" />
+      <jump line="62" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/include/allocation/HeapAllocatorMatHeapDecorator.h" />
+      <jump line="202" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="302" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="126" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="20" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/HeapAllocatorMSpace.h" />
+      <jump line="306" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="129" column="34" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="121" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" />
+      <jump line="41" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
+      <jump line="38" column="34" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/HeapAllocatorMultiPoolFrontEnd.h" />
+      <jump line="101" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
+      <jump line="58" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/HeapAllocatorMultiPoolFrontEnd.h" />
+      <jump line="99" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
+      <jump line="182" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
+      <jump line="25" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/PlacementNewObject.h" />
+      <jump line="39" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/HeapAllocatorMultiPoolFrontEnd.h" />
+      <jump line="268" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/HeapAllocatorMultiPoolFrontEnd.h" />
+      <jump line="22" column="38" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/HeapAllocatorMultiPoolFrontEnd.h" />
+      <jump line="47" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
+      <jump line="23" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
+      <jump line="43" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
+      <jump line="21" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
+      <jump line="75" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
+      <jump line="185" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
+      <jump line="36" column="52" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
+      <jump line="17" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/PoolAllocator.h" />
+      <jump line="53" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
+      <jump line="76" column="47" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
+      <jump line="46" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/PoolAllocator.cpp" />
+      <jump line="22" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/PoolAllocator.h" />
+      <jump line="88" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/PoolAllocator.cpp" />
+      <jump line="132" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/PoolAllocator.h" />
+      <jump line="78" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
+      <jump line="20" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/PoolAllocatorAdapter.h" />
+      <jump line="183" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
+      <jump line="23" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/PoolAllocatorAdapter.h" />
+      <jump line="48" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/PoolAllocatorAdapter.cpp" />
+      <jump line="50" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/PoolAllocatorAdapter.cpp" />
+      <jump line="146" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/PoolAllocator.cpp" />
+      <jump line="74" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/PoolAllocatorAdapter.cpp" />
+      <jump line="36" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/PoolAllocator.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1171,7 +1189,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcnVudGltZUhlYXBTaXplXD4=</text>
+        <text encoding="base64">XDxfY2FsY3VsYXRlTWFpbkhlYXBTaXplXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ClRFU1RfRihEZXZpY2VJbnRlcmFjdGlvblNlY3VyZVN0b3JhZ2VCYWNrZW5kVGVzdCwgU2hvdWxkTWlncmF0ZUZyb21WMCkKewoJY3JlYXRlRmFrZUFQSSgpOwoJY3JlYXRlTW9ja01pZ3JhdGlvbkFQSSgpOwoKCUVYUEVDVF9DQUxMKCpkZXZpY2VNaWdyYXRlRnJvbVYwLCBDYWxsKF8sIF8sIF8sIF8pKQoJCQkuV2lsbE9uY2UoCgkJCQkJRG9BbGwoCgkJCQkJCQlJbnZva2VBcmd1bWVudDwxPigibUtleTEiLCA1LCAibVZhbHVlMSIsIDcpLAoJCQkJCQkJSW52b2tlQXJndW1lbnQ8MT4oIm1LZXkyIiwgNSwgIm1WYWx1ZTIiLCA3KSwKCQkJCQkJCVJldHVybihBVl9PSykpKTsKCUVYUEVDVF9DQUxMKCpkZXZpY2VDbGVhblVwVjAsIENhbGwoXywgXywgXykpLldpbGxPbmNlKFJldHVybihBVl9PSykpOwoKCWF1dG8gYmFja2VuZCA9IERldmljZVNlY3VyZVN0b3JhZ2VCYWNrZW5kKCZfZGV2aWNlTGF5ZXJEYXRhKTsKCglFWFBFQ1RfVEhBVChiYWNrZW5kLmhhcygibUtleTEiKSwgRXEodHJ1ZSkpOwoJRVhQRUNUX1RIQVQoYmFja2VuZC5nZXQoIm1LZXkxIiksIFN0ckVxKCJtVmFsdWUxIikpOwoJRVhQRUNUX1RIQVQoYmFja2VuZC5oYXMoIm1LZXkyIiksIEVxKHRydWUpKTsKCUVYUEVDVF9USEFUKGJhY2tlbmQuZ2V0KCJtS2V5MiIpLCBTdHJFcSgibVZhbHVlMiIpKTsKCUVYUEVDVF9USEFUKGJhY2tlbmQuaGFzKCJtaWdyYXRlZEZyb20iKSwgRXEodHJ1ZSkpOwp9Cg==</text>
@@ -1222,9 +1240,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcnVudGltZUhlYXBTaXplXD4=</last-search>
+      <last-search encoding="base64">XDxfY2FsY3VsYXRlTWFpbkhlYXBTaXplXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcnVudGltZUhlYXBTaXplXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfY2FsY3VsYXRlTWFpbkhlYXBTaXplXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1232,13 +1250,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJdGVtR3JvdXBcPg==</entry>
-        <entry>platform</entry>
-        <entry encoding="base64">XDxQTEFZRVJfUExBVEZPUk1fQ01BS0VfRklMRVw+</entry>
-        <entry>MemorySetup</entry>
-        <entry>cpp</entry>
-        <entry encoding="base64">XDxSVUJZX0lOSVRJQUxJU0VSX1BMQVRGT1JNXD4=</entry>
-        <entry>py</entry>
         <entry encoding="base64">XDxBTVBfTU9EVUxFX1BZVEhPTl9BUkdTXD4=</entry>
         <entry encoding="base64">XDxQWVRIT05fQU1QX0NPTU1PTl9BUkdTXD4=</entry>
         <entry encoding="base64">XDxQWVRIT05fQVJHU1w+</entry>
@@ -1252,6 +1263,13 @@
         <entry encoding="base64">XDxfaGVhcER1bXBQYXRoXD4=</entry>
         <entry encoding="base64">XDxfanNSdW50aW1lXD4=</entry>
         <entry encoding="base64">XDxfcnVudGltZUhlYXBTaXplXD4=</entry>
+        <entry encoding="base64">XDxfbWVtUG9vbENvbmZpZ1w+</entry>
+        <entry encoding="base64">XDxHbG9iYWxIZWFwQWxsb2NhdG9yXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVJbnN0YW5jZVw+</entry>
+        <entry encoding="base64">XDxfZ2xvYmFsSGVhcEFsbG9jYXRvclw+</entry>
+        <entry encoding="base64">XDxfZ2xvYmFsSGVhcE1TcGFjZVw+</entry>
+        <entry encoding="base64">XDxfZGVjb3JhdG9yRm9yR2xvYmFsSGVhcFw+</entry>
+        <entry encoding="base64">XDxfY2FsY3VsYXRlTWFpbkhlYXBTaXplXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
