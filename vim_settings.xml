@@ -796,8 +796,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.font/include/font/utils/ParseState.h" timestamp="1502981865728">
         <mark key="'" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_migration_from_v0.h" timestamp="1512135439750">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_migration_from_v0.h" timestamp="1512400894930">
+        <mark key="'" line="30" column="13" />
+        <mark key="[" line="28" column="62" />
+        <mark key="]" line="28" column="84" />
+        <mark key="^" line="28" column="84" />
+        <mark key="." line="28" column="84" />
       </file>
       <file name="$USER_HOME$/dev/ig/install/plugins/com.amazon.ignition.app.stark/var/web-cache/init.js" timestamp="1503074081198">
         <mark key="'" line="41" column="28823" />
@@ -1104,8 +1108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="52" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
-      <jump line="17" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/PoolAllocator.h" />
       <jump line="53" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
       <jump line="76" column="47" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" />
       <jump line="46" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/PoolAllocator.cpp" />
@@ -1204,13 +1206,15 @@
       <jump line="165" column="40" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
       <jump line="186" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
       <jump line="150" column="39" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
+      <jump line="16" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_migration_from_v0.h" />
+      <jump line="24" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_migration_from_v0.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RhdGljX2Nhc3Q8c3RkOjpzdHJpbmcqPihjb250ZXh0KQ==</text>
+        <text encoding="base64">cmlnaHQg</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1244,7 +1248,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljX2Nhc3Q8c3RkOjpzdHJpbmcqPihjb250ZXh0KQ==</text>
+        <text encoding="base64">cmlnaHQg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1284,10 +1288,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text encoding="base64">XDxhdlNlY3VyZVN0b3JhZ2VNaWdyYXRlRnJvbVYwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCWF1dG8qIGZha2VEYXRhID0gc3RhdGljX2Nhc3Q8c3RkOjpzdHJpbmcqPihjb250ZXh0KTsK</text>
+        <text encoding="base64">Ly8hIEBwYXJhbSBrZXkgbmFtZSBvZiB0aGUga2V5IHRvIHNhdmUKLy8hIEBwYXJhbSBrZXlMZW5ndGggdGhlIGxlbmd0aCBvZiB0aGUga2V5Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1335,9 +1339,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search encoding="base64">XDxhdlNlY3VyZVN0b3JhZ2VNaWdyYXRlRnJvbVYwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhdlNlY3VyZVN0b3JhZ2VNaWdyYXRlRnJvbVYwXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1345,7 +1349,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBTVBfTU9EVUxFX1BZVEhPTl9BUkdTXD4=</entry>
         <entry encoding="base64">XDxQWVRIT05fQU1QX0NPTU1PTl9BUkdTXD4=</entry>
         <entry encoding="base64">XDxQWVRIT05fQVJHU1w+</entry>
         <entry encoding="base64">XDxBbXBDb25maWdcPg==</entry>
@@ -1365,6 +1368,7 @@
         <entry encoding="base64">XDxfZGVjb3JhdG9yRm9yR2xvYmFsSGVhcFw+</entry>
         <entry encoding="base64">XDxfY2FsY3VsYXRlTWFpbkhlYXBTaXplXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxhdlNlY3VyZVN0b3JhZ2VNaWdyYXRlRnJvbVYwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
