@@ -60,6 +60,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/Network.cpp" timestamp="1502117425936">
         <mark key="'" line="28" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/SplashScreenManager.cpp" timestamp="1512643374972">
+        <mark key="'" line="38" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/IAllocator.h" timestamp="1512051744483">
         <mark key="'" line="43" column="22" />
       </file>
@@ -123,6 +126,9 @@
       <file name="$USER_HOME$/dev/ig/devicelayerskeleton/tests/CMakeLists.txt" timestamp="1496410095493">
         <mark key="'" line="44" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/api/Texture.h" timestamp="1512643575205">
+        <mark key="'" line="64" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/include/av_display.h" timestamp="1493734469271">
         <mark key="'" line="82" column="13" />
       </file>
@@ -174,8 +180,8 @@
       <file name="/usr/include/curl/easy.h" timestamp="1510243231373">
         <mark key="'" line="29" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/include/bindings/lua/InterpolatorLuaBinding.h" timestamp="1512584925583">
-        <mark key="'" line="26" column="29" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/include/bindings/lua/InterpolatorLuaBinding.h" timestamp="1512643159460">
+        <mark key="'" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/cmakescripts/build/backend.cmake" timestamp="1497605724960">
         <mark key="'" line="5" column="17" />
@@ -486,13 +492,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/utils/StringUtils.h" timestamp="1495104516966">
         <mark key="'" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" timestamp="1512151220573">
-        <mark key="'" line="158" column="39" />
-        <mark key="[" line="181" column="64" />
-        <mark key="]" line="181" column="71" />
-        <mark key="^" line="181" column="71" />
-        <mark key="." line="181" column="71" />
-      </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.core/internal/platform/android/cmakescripts/build.cmake" timestamp="1497263936870">
         <mark key="'" line="63" column="11" />
       </file>
@@ -523,7 +522,7 @@
       <file name="$USER_HOME$/dev/ignite/src/Render.cpp" timestamp="1510244136755">
         <mark key="'" line="46" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512580730596">
+      <file name="/Dummy.txt" timestamp="1512643191784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -534,12 +533,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/thirdparty/kubrick/amp-ps4/apps/AIV/VideoCore/VideoCore.vcxproj" timestamp="1512052391547">
         <mark key="'" line="124" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" timestamp="1512135272894">
-        <mark key="'" line="392" column="0" />
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="16" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/manager/ManagerState.cpp" timestamp="1512644260352">
+        <mark key="'" line="87" column="14" />
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.core/internal/platform/android/mainlib/src/main.cpp" timestamp="1502116323049">
         <mark key="'" line="25" column="16" />
@@ -643,13 +638,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/create-test-symlink-for-plugin.cmake" timestamp="1506957424045">
         <mark key="'" line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/SecureStorageBackendTest.cpp" timestamp="1512135266005">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="60" column="19" />
-        <mark key="]" line="52" column="24" />
-        <mark key="^" line="52" column="24" />
-        <mark key="." line="60" column="27" />
-      </file>
       <file name="$USER_HOME$/dev/igrpi/devicerpi/include_files.txt" timestamp="1498670874660">
         <mark key="'" line="0" column="0" />
       </file>
@@ -667,6 +655,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/CMakeLists.txt" timestamp="1512134572708">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/PluginOTA.cpp" timestamp="1512644223382">
+        <mark key="'" line="74" column="47" />
       </file>
       <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/include/SDLDisplayContext.h" timestamp="1499197846806">
         <mark key="'" line="39" column="9" />
@@ -706,13 +697,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/include/Animation.h" timestamp="1497535727392">
         <mark key="'" line="29" column="44" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/devicelinux/tests/SecureStorageBackendTest.cpp" timestamp="1512135989615">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="68" column="29" />
-        <mark key="." line="68" column="29" />
-        <mark key="^" line="68" column="29" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" timestamp="1509730967463">
         <mark key="'" line="58" column="19" />
@@ -846,6 +830,9 @@
       </file>
       <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition/filesystem/cleaner/ArgumentParser.py" timestamp="1495201457105">
         <mark key="'" line="28" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/include/ota/PluginOTA.h" timestamp="1512644195654">
+        <mark key="'" line="27" column="29" />
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" timestamp="1501251410829">
         <mark key="'" line="28" column="40" />
@@ -1000,8 +987,8 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" timestamp="1502462627009">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/PluginRenderer.h" timestamp="1509106579042">
-        <mark key="'" line="188" column="21" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/PluginRenderer.h" timestamp="1512643284812">
+        <mark key="'" line="202" column="19" />
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.deviceinfo/internal/platform/android/src/deviceinfo/properties/AndroidDeviceProperties.cpp" timestamp="1499793478666">
         <mark key="'" line="112" column="23" />
@@ -1051,8 +1038,8 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_display_defs.h" timestamp="1512487770262">
         <mark key="'" line="43" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/api/Texture.cpp" timestamp="1512058235846">
-        <mark key="'" line="336" column="8" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/api/Texture.cpp" timestamp="1512643582909">
+        <mark key="'" line="316" column="8" />
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.texttospeech/internal/include/ignition/texttospeech/engine/ThreadSafeTextNarrator.h" timestamp="1499699383465">
         <mark key="'" line="59" column="16" />
@@ -1065,10 +1052,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDummyDeviceLayerLoader.cpp" timestamp="1493718092022">
         <mark key="'" line="32" column="95" />
-      </file>
-      <file name="$USER_HOME$/dev/ig/devicerpi/interface/include/device/av_secure_storage_backend.h" timestamp="1512401014338">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="71" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/cppcompatibility/std/Atomic.h" timestamp="1510833583878">
         <mark key="'" line="12" column="25" />
@@ -1109,8 +1092,11 @@
       <file name="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.storage/internal/platform/panda/src/backends/SecureStorageBackend.cpp" timestamp="1511539370038">
         <mark key="'" line="55" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1512057529676">
-        <mark key="'" line="267" column="58" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/src/cache/MultiLevelCache.cpp" timestamp="1512644095417">
+        <mark key="'" line="59" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1512643290332">
+        <mark key="'" line="818" column="28" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RendererPlatformStats.cpp" timestamp="1504699313200">
         <mark key="'" line="245" column="50" />
@@ -1127,6 +1113,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.font/src/font/utils/ParagraphDefinition.cpp" timestamp="1512048385466">
         <mark key="'" line="325" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/materials/TexturedMaterial.cpp" timestamp="1512643573728">
+        <mark key="'" line="345" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/crypto/CertConfiguration.cpp" timestamp="1502117561335">
         <mark key="'" line="77" column="12" />
       </file>
@@ -1135,32 +1124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/CMakeLists.txt" />
-      <jump line="337" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
-      <jump line="362" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
-      <jump line="57" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/Storage.cpp" />
-      <jump line="92" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/Storage.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/SecureStorageBackendMigrator.cpp" />
-      <jump line="51" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/SecureStorageBackendMigrator.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/DeviceSecureStorageBackend.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/SecureStorageBackendMigrator.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/SecureStorageBackendTest.cpp" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/SecureStorageBackendTest.cpp" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/SecureStorageBackendTest.cpp" />
-      <jump line="392" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/DeviceSecureStorageBackendTest.cpp" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/CMakeLists.txt" />
-      <jump line="56" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
-      <jump line="360" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/test/deviceInteraction/DeviceInteractionSecureStorageBackendTest.cpp" />
-      <jump line="112" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/tests/SecureStorageBackendTest.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/include/device/av_secure_storage_migration_from_v0.h" />
-      <jump line="65" column="0" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/SecureStorageBackendContext.cpp" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/SecureStorageBackendContext.cpp" />
-      <jump line="154" column="0" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/SecureStorageBackendContext.cpp" />
-      <jump line="51" column="4" filename="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/src/avSecureStorageBackend.cpp" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/CMakeLists.txt" />
       <jump line="99" column="0" filename="$USER_HOME$/dev/ig/devicelinux/tests/SecureStorageBackendTest.cpp" />
       <jump line="35" column="36" filename="$USER_HOME$/dev/ig/devicerpi/tests/SecureStorageBackendTest.cpp" />
@@ -1235,6 +1198,32 @@
       <jump line="190" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/CMakeLists.txt" />
       <jump line="26" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/include/bindings/lua/InterpolatorLuaBinding.h" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/src/bindings/lua/InterpolatorLuaBinding.cpp" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/include/bindings/lua/InterpolatorLuaBinding.h" />
+      <jump line="202" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/PluginRenderer.h" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/utils/SplashScreenManager.h" />
+      <jump line="818" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="145" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/materials/TexturedMaterial.cpp" />
+      <jump line="38" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/SplashScreenManager.cpp" />
+      <jump line="427" column="60" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/resource/texture/TextureLoader.cpp" />
+      <jump line="152" column="34" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/materials/TexturedMaterial.cpp" />
+      <jump line="291" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/materials/TexturedMaterial.cpp" />
+      <jump line="77" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/AllocTracker.h" />
+      <jump line="332" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/materials/TexturedMaterial.cpp" />
+      <jump line="325" column="50" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/materials/TexturedMaterial.cpp" />
+      <jump line="322" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/materials/TexturedMaterial.cpp" />
+      <jump line="345" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/materials/TexturedMaterial.cpp" />
+      <jump line="64" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/api/Texture.h" />
+      <jump line="316" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/api/Texture.cpp" />
+      <jump line="59" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/src/cache/MultiLevelCache.cpp" />
+      <jump line="67" column="47" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/PluginOTA.cpp" />
+      <jump line="27" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/include/ota/PluginOTA.h" />
+      <jump line="26" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/PluginOTA.cpp" />
+      <jump line="74" column="47" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/PluginOTA.cpp" />
+      <jump line="79" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/manager/ManagerState.cpp" />
+      <jump line="36" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/include/ota/manager/ManagerState.h" />
+      <jump line="86" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/manager/ManagerState.cpp" />
+      <jump line="213" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/manager/ManagerState.cpp" />
+      <jump line="87" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/manager/ManagerState.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1315,7 +1304,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">SU5DX0ZJTEVTXD4=</text>
+        <text encoding="base64">XDxfdXBsb2FkVGV4dHVyZVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">QGMgYXZTZWN1cmVTdG9yYWdlTWlncmF0ZUZyb21WMCA=</text>
@@ -1366,9 +1355,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">SU5DX0ZJTEVTXD4=</last-search>
+      <last-search encoding="base64">XDxfdXBsb2FkVGV4dHVyZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">SU5DX0ZJTEVTXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfdXBsb2FkVGV4dHVyZVw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1376,7 +1365,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfanNSdW50aW1lXD4=</entry>
         <entry encoding="base64">XDxfcnVudGltZUhlYXBTaXplXD4=</entry>
         <entry encoding="base64">XDxfbWVtUG9vbENvbmZpZ1w+</entry>
         <entry encoding="base64">XDxHbG9iYWxIZWFwQWxsb2NhdG9yXD4=</entry>
@@ -1396,6 +1384,7 @@
         <entry encoding="base64">XDxFWFBPUlRfRkZJX01VTFRJX0FSR1NcPg==</entry>
         <entry encoding="base64">XDxJTkNfRklMRVNcPg==</entry>
         <entry encoding="base64">SU5DX0ZJTEVTXD4=</entry>
+        <entry encoding="base64">XDxfdXBsb2FkVGV4dHVyZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
