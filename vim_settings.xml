@@ -520,6 +520,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/platform/sx6/cmakescripts/build.cmake" timestamp="1498065986571">
         <mark key="'" line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" timestamp="1512655881927">
+        <mark key="'" line="222" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/display/GLES2DisplayContext.h" timestamp="1499791779460">
         <mark key="'" line="18" column="35" />
       </file>
@@ -1137,8 +1140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/LuaState.cpp" />
-      <jump line="199" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/manager/ManagerState.cpp" />
       <jump line="156" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/LuaState.cpp" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/Manager.lua" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/Manager.lua" />
@@ -1237,6 +1238,8 @@
       <jump line="94" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" />
       <jump line="34" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" />
       <jump line="99" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" />
+      <jump line="86" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" />
+      <jump line="222" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
