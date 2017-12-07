@@ -248,7 +248,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512649663224">
+      <file name="/Dummy.txt" timestamp="1512650164998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -336,6 +336,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/Manager.lua" timestamp="1512645531443">
         <mark key="'" line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/external/include/ota/package/PayloadMetadata.h" timestamp="1512650413971">
+        <mark key="'" line="26" column="29" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/renderer/SceneGraphRenderer.cpp" timestamp="1499884944544">
         <mark key="'" line="1502" column="26" />
@@ -997,8 +1000,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.font/internal/platform/linux/cmakescripts/build.cmake" timestamp="1497968636514">
         <mark key="'" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" timestamp="1512649104431">
-        <mark key="'" line="175" column="48" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" timestamp="1512650188242">
+        <mark key="'" line="181" column="35" />
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.deviceinfo/internal/platform/panda/src/deviceinfo/properties/PlatformDeviceProperties.cpp" timestamp="1499793586646">
         <mark key="'" line="109" column="43" />
@@ -1075,6 +1078,9 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_display_defs.h" timestamp="1512487770262">
         <mark key="'" line="43" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" timestamp="1512650562951">
+        <mark key="'" line="99" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/api/Texture.cpp" timestamp="1512643582909">
         <mark key="'" line="316" column="8" />
       </file>
@@ -1131,17 +1137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/manager/ManagerState.cpp" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/path/PluginPathConvention.h" />
-      <jump line="195" column="56" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/manager/ManagerState.cpp" />
-      <jump line="21" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/path/PluginPathConvention.h" />
-      <jump line="177" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/LuaState.cpp" />
-      <jump line="329" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/LuaState.cpp" />
-      <jump line="179" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/LuaState.cpp" />
-      <jump line="192" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/LuaState.cpp" />
-      <jump line="109" column="8" filename="$USER_HOME$/dev/igbuild/linux/debug/proj_tmp/com.amazon.ignition.framework.lua/luajit/src/lauxlib.h" />
-      <jump line="193" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/LuaState.cpp" />
-      <jump line="197" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/manager/ManagerState.cpp" />
       <jump line="327" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/LuaState.cpp" />
       <jump line="199" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/manager/ManagerState.cpp" />
       <jump line="156" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/LuaState.cpp" />
@@ -1231,6 +1226,17 @@
       <jump line="154" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" />
       <jump line="175" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" />
       <jump line="57" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" />
+      <jump line="132" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" />
+      <jump line="181" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" />
+      <jump line="81" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" />
+      <jump line="25" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" />
+      <jump line="58" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" />
+      <jump line="37" column="39" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" />
+      <jump line="26" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/external/include/ota/package/PayloadMetadata.h" />
+      <jump line="64" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" />
+      <jump line="94" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" />
+      <jump line="34" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" />
+      <jump line="99" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1311,7 +1317,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYWNrYWdlSW5zdGFsbGVyXD4=</text>
+        <text encoding="base64">XDxwYXJzZVBsdWdpbkpzb25Cb2R5XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">QGMgYXZTZWN1cmVTdG9yYWdlTWlncmF0ZUZyb21WMCA=</text>
@@ -1362,9 +1368,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYWNrYWdlSW5zdGFsbGVyXD4=</last-search>
+      <last-search encoding="base64">XDxwYXJzZVBsdWdpbkpzb25Cb2R5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYWNrYWdlSW5zdGFsbGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJzZVBsdWdpbkpzb25Cb2R5XD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1372,7 +1378,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqc29uVGFibGVcPg==</entry>
         <entry encoding="base64">XDxDYW5kaWRhdGVQYWNrYWdlXD4=</entry>
         <entry encoding="base64">XDxfbWFyc2hhbGxDYW5kaWRhdGVcPg==</entry>
         <entry encoding="base64">XDxfbWFyc2hhbGxDYW5kaWRhdGVzXD4=</entry>
@@ -1392,6 +1397,7 @@
         <entry encoding="base64">XDxfY3JlYXRlSW5zdGFsbEpvYlw+</entry>
         <entry encoding="base64">XDxfcGFja2FnZXNcPg==</entry>
         <entry encoding="base64">XDxwYWNrYWdlSW5zdGFsbGVyXD4=</entry>
+        <entry encoding="base64">XDxwYXJzZVBsdWdpbkpzb25Cb2R5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
