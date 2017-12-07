@@ -99,6 +99,9 @@
       <file name="$USER_HOME$/dev/ig/devicerpi/implementation/linux/src/avDisplay.cpp" timestamp="1504720197545">
         <mark key="'" line="163" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/Input.cpp" timestamp="1512655917550">
+        <mark key="'" line="138" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" timestamp="1501076700002">
         <mark key="'" line="99" column="26" />
       </file>
@@ -248,7 +251,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512650164998">
+      <file name="/Dummy.txt" timestamp="1512656136788">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -844,6 +847,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/thirdparty/gmock/gtest/include/gtest/gtest.h" timestamp="1511521780640">
         <mark key="'" line="2219" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/external/src/ignition/texttospeech/PluginTextToSpeech.cpp" timestamp="1512657178881">
+        <mark key="'" line="111" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" timestamp="1507112793361">
         <mark key="'" line="28" column="7" />
       </file>
@@ -1140,12 +1146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/LuaState.cpp" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/Manager.lua" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/Manager.lua" />
-      <jump line="23" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/Manager.lua" />
-      <jump line="77" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/PluginOTA.cpp" />
-      <jump line="81" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/manager/ManagerState.cpp" />
       <jump line="39" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/include/ota/manager/ManagerState.h" />
       <jump line="100" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/manager/ManagerState.cpp" />
       <jump line="494" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" />
@@ -1240,6 +1240,12 @@
       <jump line="99" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" />
       <jump line="86" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" />
       <jump line="222" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" />
+      <jump line="138" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/Input.cpp" />
+      <jump line="58" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/DelegateManager.cpp" />
+      <jump line="64" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/external/src/ignition/texttospeech/PluginTextToSpeech.cpp" />
+      <jump line="72" column="46" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/external/src/ignition/texttospeech/PluginTextToSpeech.cpp" />
+      <jump line="109" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/external/src/ignition/texttospeech/PluginTextToSpeech.cpp" />
+      <jump line="111" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/external/src/ignition/texttospeech/PluginTextToSpeech.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1320,7 +1326,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJzZVBsdWdpbkpzb25Cb2R5XD4=</text>
+        <text encoding="base64">XDxfdHRzRW5naW5lXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">QGMgYXZTZWN1cmVTdG9yYWdlTWlncmF0ZUZyb21WMCA=</text>
@@ -1371,9 +1377,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJzZVBsdWdpbkpzb25Cb2R5XD4=</last-search>
+      <last-search encoding="base64">XDxfdHRzRW5naW5lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJzZVBsdWdpbkpzb25Cb2R5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfdHRzRW5naW5lXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1381,7 +1387,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDYW5kaWRhdGVQYWNrYWdlXD4=</entry>
         <entry encoding="base64">XDxfbWFyc2hhbGxDYW5kaWRhdGVcPg==</entry>
         <entry encoding="base64">XDxfbWFyc2hhbGxDYW5kaWRhdGVzXD4=</entry>
         <entry encoding="base64">XDxfYnVpbGRDYW5kaWRhdGVzXD4=</entry>
@@ -1401,6 +1406,7 @@
         <entry encoding="base64">XDxfcGFja2FnZXNcPg==</entry>
         <entry encoding="base64">XDxwYWNrYWdlSW5zdGFsbGVyXD4=</entry>
         <entry encoding="base64">XDxwYXJzZVBsdWdpbkpzb25Cb2R5XD4=</entry>
+        <entry encoding="base64">XDxfdHRzRW5naW5lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
