@@ -583,8 +583,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/include/allocation/HeapAllocatorMatHeapDecorator.h" timestamp="1512127576896">
         <mark key="'" line="41" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/SplashScreenManager.cpp" timestamp="1512643374972">
-        <mark key="'" line="38" column="26" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/SplashScreenManager.cpp" timestamp="1512662364772">
+        <mark key="'" line="81" column="25" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/allocator/TagAllocator.h" timestamp="1512051435682">
         <mark key="'" line="40" column="12" />
@@ -816,6 +816,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/thirdparty/kubrick/amp-ps4/apps/AIV/VideoCore/VideoCore.vcxproj" timestamp="1512052391547">
         <mark key="'" line="124" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/include/cache/MultiLevelCache.h" timestamp="1512659853922">
+        <mark key="'" line="37" column="11" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/manager/ManagerState.cpp" timestamp="1512645504360">
         <mark key="'" line="54" column="50" />
@@ -1126,8 +1129,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/src/cache/MultiLevelCache.cpp" timestamp="1512644095417">
         <mark key="'" line="59" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1512643290332">
-        <mark key="'" line="818" column="28" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1512662356305">
+        <mark key="'" line="553" column="37" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/PoolAllocatorAdapter.cpp" timestamp="1512128280038">
         <mark key="'" line="74" column="22" />
@@ -1146,18 +1149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/include/ota/manager/ManagerState.h" />
-      <jump line="100" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/manager/ManagerState.cpp" />
-      <jump line="494" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" />
-      <jump line="54" column="50" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/manager/ManagerState.cpp" />
-      <jump line="9" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/Manager.lua" />
-      <jump line="4" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/Manager.lua" />
-      <jump line="3" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/Manager.lua" />
-      <jump line="15" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/StartupJob.lua" />
-      <jump line="7" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/workspace/WorkspaceProvisioner.lua" />
-      <jump line="18" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/StartupJob.lua" />
-      <jump line="5" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/StartupJob.lua" />
-      <jump line="9" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/UpdateCheckJob.lua" />
       <jump line="18" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/UpdateCheckJob.lua" />
       <jump line="15" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/UpdateChecker.lua" />
       <jump line="7" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/BaseCandidateRetriever.lua" />
@@ -1246,6 +1237,18 @@
       <jump line="72" column="46" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/external/src/ignition/texttospeech/PluginTextToSpeech.cpp" />
       <jump line="109" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/external/src/ignition/texttospeech/PluginTextToSpeech.cpp" />
       <jump line="111" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/external/src/ignition/texttospeech/PluginTextToSpeech.cpp" />
+      <jump line="37" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/include/cache/MultiLevelCache.h" />
+      <jump line="314" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="552" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="77" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/SplashScreenManager.cpp" />
+      <jump line="106" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/SplashScreenManager.cpp" />
+      <jump line="818" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="177" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/src/cache/Cache.cpp" />
+      <jump line="202" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/PluginRenderer.h" />
+      <jump line="832" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="471" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="553" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="81" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/SplashScreenManager.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1326,7 +1329,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdHRzRW5naW5lXD4=</text>
+        <text encoding="base64">XDxfc3BsYXNoU2NyZWVuTWFuYWdlclw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">QGMgYXZTZWN1cmVTdG9yYWdlTWlncmF0ZUZyb21WMCA=</text>
@@ -1377,9 +1380,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfdHRzRW5naW5lXD4=</last-search>
+      <last-search encoding="base64">XDxfc3BsYXNoU2NyZWVuTWFuYWdlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdHRzRW5naW5lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfc3BsYXNoU2NyZWVuTWFuYWdlclw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1387,8 +1390,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbWFyc2hhbGxDYW5kaWRhdGVcPg==</entry>
-        <entry encoding="base64">XDxfbWFyc2hhbGxDYW5kaWRhdGVzXD4=</entry>
         <entry encoding="base64">XDxfYnVpbGRDYW5kaWRhdGVzXD4=</entry>
         <entry encoding="base64">XDxfZmlsdGVyQ2FuZGlkYXRlc1w+</entry>
         <entry encoding="base64">XDxkaXNwYXRjaFw+</entry>
@@ -1407,6 +1408,8 @@
         <entry encoding="base64">XDxwYWNrYWdlSW5zdGFsbGVyXD4=</entry>
         <entry encoding="base64">XDxwYXJzZVBsdWdpbkpzb25Cb2R5XD4=</entry>
         <entry encoding="base64">XDxfdHRzRW5naW5lXD4=</entry>
+        <entry>splash</entry>
+        <entry encoding="base64">XDxfc3BsYXNoU2NyZWVuTWFuYWdlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
