@@ -117,6 +117,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/UpdateChecker.lua" timestamp="1512647930102">
         <mark key="'" line="16" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/allocator/ChunkAllocator.cpp" timestamp="1513009064552">
+        <mark key="'" line="31" column="7" />
+      </file>
       <file name="/GlyphAtlas.cpp" timestamp="1512049013089">
         <mark key="'" line="51" column="12" />
       </file>
@@ -1090,6 +1093,9 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_display_defs.h" timestamp="1512487770262">
         <mark key="'" line="43" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/errors/CrashDataMap.h" timestamp="1513013323066">
+        <mark key="'" line="45" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" timestamp="1512650562951">
         <mark key="'" line="99" column="21" />
       </file>
@@ -1149,9 +1155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/UpdateCheckJob.lua" />
-      <jump line="15" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/UpdateChecker.lua" />
-      <jump line="7" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/BaseCandidateRetriever.lua" />
       <jump line="52" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
       <jump line="87" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
       <jump line="18" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
@@ -1249,6 +1252,9 @@
       <jump line="471" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
       <jump line="553" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
       <jump line="81" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/SplashScreenManager.cpp" />
+      <jump line="31" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/allocator/ChunkAllocator.cpp" />
+      <jump line="99" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/errors/CrashDataMap.h" />
+      <jump line="45" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/errors/CrashDataMap.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
