@@ -75,6 +75,9 @@
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.deviceinfo/internal/platform/samsungtv/src/deviceinfo/properties/SamsungTVDevicePropertiesProvider.cpp" timestamp="1499794013967">
         <mark key="'" line="95" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/CrashDataCollector.cpp" timestamp="1513014044487">
+        <mark key="'" line="55" column="25" />
+      </file>
       <file name="/usr/include/curl/easy.h" timestamp="1510243231373">
         <mark key="'" line="29" column="21" />
       </file>
@@ -89,6 +92,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/SecureStorageBackend.h" timestamp="1511277827809">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/errors/CrashDataCollector.h" timestamp="1513013425170">
+        <mark key="'" line="32" column="14" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/utils/ThreadSafeInitialiser.h" timestamp="1502723863814">
         <mark key="'" line="18" column="17" />
@@ -254,7 +260,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512656136788">
+      <file name="/Dummy.txt" timestamp="1513014838993">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -276,6 +282,9 @@
       </file>
       <file name="$USER_HOME$/opt/cross/lg/M16p/usr/include/luna-service2/lunaservice.h" timestamp="1499450799538">
         <mark key="'" line="359" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/errors/CrashDataCollectorCrashDataMapTest.cpp" timestamp="1513014831013">
+        <mark key="'" line="164" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/allocator/HighFilterAllocator.cpp" timestamp="1512051919795">
         <mark key="'" line="15" column="15" />
@@ -334,8 +343,8 @@
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.display/internal/platform/lg/src/sdl/LGPlatformContext.cpp" timestamp="1496160450345">
         <mark key="'" line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" timestamp="1493896819981">
-        <mark key="'" line="139" column="27" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" timestamp="1513013587770">
+        <mark key="'" line="594" column="22" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/external/include/deviceinfo/bindings/sm/DeviceInfoExtension.h" timestamp="1499792496661">
         <mark key="'" line="60" column="4" />
@@ -676,6 +685,9 @@
       <file name="$USER_HOME$/dev/ig/devicelayerskeleton/CMakeLists.txt" timestamp="1496226746053">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/errors/ICrashDataCollector.h" timestamp="1513013741523">
+        <mark key="'" line="24" column="29" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/utils/SceneUpdateThread.cpp" timestamp="1497959164402">
         <mark key="'" line="74" column="44" />
       </file>
@@ -913,6 +925,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/include/Animation.h" timestamp="1497535727392">
         <mark key="'" line="29" column="44" />
       </file>
+      <file name="/usr/include/c++/4.9/array" timestamp="1513013896579">
+        <mark key="'" line="276" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" timestamp="1509730967463">
         <mark key="'" line="58" column="19" />
       </file>
@@ -1069,6 +1084,9 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/DisplayTests.cpp" timestamp="1502462627009">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps4/src/SystemInit.cpp" timestamp="1513013583474">
+        <mark key="'" line="229" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2CubeTexture.cpp" timestamp="1494605209507">
         <mark key="'" line="67" column="32" />
       </file>
@@ -1155,37 +1173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="87" column="53" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="18" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="30" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="123" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="13" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="24" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="26" column="57" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="61" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="128" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="129" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="178" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="29" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/package/CandidatePackage.lua" />
-      <jump line="155" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="162" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="139" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="150" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="120" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="70" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="112" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="89" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="84" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="73" column="63" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" />
-      <jump line="5" column="55" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/UpdateChecker.lua" />
-      <jump line="16" column="59" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/UpdateChecker.lua" />
-      <jump line="20" column="54" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/UpdateCheckJob.lua" />
-      <jump line="34" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/UpdateCheckJob.lua" />
-      <jump line="21" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/FetchPackagesJob.lua" />
-      <jump line="24" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/FetchPackagesJob.lua" />
-      <jump line="60" column="45" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/UpdateCheckJob.lua" />
-      <jump line="61" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/UpdateCheckJob.lua" />
       <jump line="12" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/FetchPackagesJob.lua" />
       <jump line="15" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/FetchPackagesJob.lua" />
       <jump line="33" column="38" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/FetchPackagesJob.lua" />
@@ -1255,6 +1242,37 @@
       <jump line="31" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/allocator/ChunkAllocator.cpp" />
       <jump line="99" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/errors/CrashDataMap.h" />
       <jump line="45" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/errors/CrashDataMap.h" />
+      <jump line="32" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/errors/CrashDataCollector.h" />
+      <jump line="337" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" />
+      <jump line="343" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" />
+      <jump line="361" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" />
+      <jump line="367" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" />
+      <jump line="593" column="51" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" />
+      <jump line="61" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/core/IIgnitionContext.h" />
+      <jump line="587" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" />
+      <jump line="229" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps4/src/SystemInit.cpp" />
+      <jump line="594" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" />
+      <jump line="63" column="58" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/errors/ICrashDataCollector.h" />
+      <jump line="192" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/CrashDataCollector.cpp" />
+      <jump line="29" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/CrashDataCollector.cpp" />
+      <jump line="24" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/errors/ICrashDataCollector.h" />
+      <jump line="88" column="11" filename="/usr/include/c++/4.9/array" />
+      <jump line="114" column="11" filename="/usr/include/c++/4.9/array" />
+      <jump line="190" column="41" filename="/usr/include/c++/4.9/array" />
+      <jump line="202" column="44" filename="/usr/include/c++/4.9/array" />
+      <jump line="239" column="51" filename="/usr/include/c++/4.9/array" />
+      <jump line="244" column="51" filename="/usr/include/c++/4.9/array" />
+      <jump line="249" column="48" filename="/usr/include/c++/4.9/array" />
+      <jump line="276" column="0" filename="/usr/include/c++/4.9/array" />
+      <jump line="84" column="62" filename="/usr/include/c++/4.9/array" />
+      <jump line="180" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/errors/CrashDataCollectorCrashDataMapTest.cpp" />
+      <jump line="114" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/errors/CrashDataCollectorCrashDataMapTest.cpp" />
+      <jump line="32" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/errors/CrashDataCollectorCrashDataMapTest.cpp" />
+      <jump line="27" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/errors/CrashDataCollectorCrashDataMapTest.cpp" />
+      <jump line="51" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/CrashDataCollector.cpp" />
+      <jump line="34" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/CrashDataCollector.cpp" />
+      <jump line="55" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/CrashDataCollector.cpp" />
+      <jump line="164" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/errors/CrashDataCollectorCrashDataMapTest.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1335,7 +1353,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc3BsYXNoU2NyZWVuTWFuYWdlclw+</text>
+        <text>hardward_id</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">QGMgYXZTZWN1cmVTdG9yYWdlTWlncmF0ZUZyb21WMCA=</text>
@@ -1386,9 +1404,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc3BsYXNoU2NyZWVuTWFuYWdlclw+</last-search>
+      <last-search>hardward_id</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc3BsYXNoU2NyZWVuTWFuYWdlclw+</last-pattern>
+      <last-pattern>hardward_id</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1396,11 +1414,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYnVpbGRDYW5kaWRhdGVzXD4=</entry>
-        <entry encoding="base64">XDxfZmlsdGVyQ2FuZGlkYXRlc1w+</entry>
-        <entry encoding="base64">XDxkaXNwYXRjaFw+</entry>
-        <entry encoding="base64">XDxzdWNjZXNzXD4=</entry>
-        <entry encoding="base64">XDxfb25DaGVja2VyU3VjY2Vzc1w+</entry>
         <entry encoding="base64">XDxfY3JlYXRlRmV0Y2hQYWNrYWdlc0pvYlw+</entry>
         <entry encoding="base64">XDxfcGVuZGluZ1BhY2thZ2VzXD4=</entry>
         <entry encoding="base64">XDxfZmV0Y2hQYWNrYWdlXD4=</entry>
@@ -1416,6 +1429,11 @@
         <entry encoding="base64">XDxfdHRzRW5naW5lXD4=</entry>
         <entry>splash</entry>
         <entry encoding="base64">XDxfc3BsYXNoU2NyZWVuTWFuYWdlclw+</entry>
+        <entry encoding="base64">XDxnZXRDcmFzaERhdGFcPg==</entry>
+        <entry encoding="base64">XDxfY3Jhc2hEYXRhXD4=</entry>
+        <entry encoding="base64">XDxhcnJheVw+</entry>
+        <entry encoding="base64">XDxfcHJlUG9wdWxhdGVcPg==</entry>
+        <entry>hardward_id</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
