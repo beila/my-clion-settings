@@ -7,22 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.idl,*.js,*.lua" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
-      <mask>*.txt</mask>
-      <mask>*.txt,</mask>
-      <mask>*.txt,*</mask>
       <mask>*.txt,*.</mask>
       <mask>*.txt,*.s</mask>
       <mask>*.txt,*.sh</mask>
@@ -37,6 +23,22 @@
       <mask>*.txt,*.sh,*.py,*.con</mask>
       <mask>*.txt,*.sh,*.py,*.conf</mask>
       <mask>*.txt,*.sh,*.py,*.config</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.i</mask>
+      <mask>*.id</mask>
+      <mask>*.idl</mask>
+      <mask>*.idl,</mask>
+      <mask>*.idl,*</mask>
+      <mask>*.idl,*.</mask>
+      <mask>*.idl,*.j</mask>
+      <mask>*.idl,*.js</mask>
+      <mask>*.idl,*.js,</mask>
+      <mask>*.idl,*.js,*</mask>
+      <mask>*.idl,*.js,*.</mask>
+      <mask>*.idl,*.js,*.l</mask>
+      <mask>*.idl,*.js,*.lu</mask>
+      <mask>*.idl,*.js,*.lua</mask>
     </recentFileMasks>
   </component>
 </application>
