@@ -260,7 +260,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513014838993">
+      <file name="/Dummy.txt" timestamp="1513090086077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -403,6 +403,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.font/include/font/utils/ParseState.h" timestamp="1502981865728">
         <mark key="'" line="12" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/connectivityErrorMessage.js" timestamp="1513091126818">
+        <mark key="'" line="144" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginManifest.cpp" timestamp="1497611971145">
         <mark key="'" line="439" column="16" />
       </file>
@@ -517,8 +520,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/plugin/DependencyGraphTest.cpp" timestamp="1497612014990">
         <mark key="'" line="31" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/stateManager.js" timestamp="1511435164962">
-        <mark key="'" line="373" column="21" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/stateManager.js" timestamp="1513091165145">
+        <mark key="'" line="550" column="19" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/Render.h" timestamp="1510243481406">
         <mark key="'" line="78" column="21" />
@@ -576,6 +579,9 @@
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" timestamp="1503663233092">
         <mark key="'" line="152" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/start.js" timestamp="1513089852592">
+        <mark key="'" line="24" column="65" />
       </file>
       <file name="$USER_HOME$/dev/ignite/libs/lua/src/lua.h" timestamp="1510243400045">
         <mark key="'" line="340" column="28" />
@@ -913,6 +919,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/CMakeLists.txt" timestamp="1512134572708">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/path/PluginPathResolver.cpp" timestamp="1513090795872">
+        <mark key="'" line="37" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/include/SDLDisplayContext.h" timestamp="1499197846806">
         <mark key="'" line="39" column="9" />
       </file>
@@ -1017,6 +1026,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/CMakeLists.txt" timestamp="1494597605010">
         <mark key="'" line="81" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/extensions/PluginsExtension.cpp" timestamp="1513090782628">
+        <mark key="'" line="108" column="34" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/TextToSpeechTest.cpp" timestamp="1493736291751">
         <mark key="'" line="99" column="31" />
@@ -1185,23 +1197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/InstallPackagesJob.lua" />
-      <jump line="87" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/InstallPackagesJob.lua" />
-      <jump line="26" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/include/ota/bindings/lua/ffi/PackageInstallerFactoryLuaBinding.h" />
-      <jump line="25" column="45" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstallerFactory.cpp" />
-      <jump line="15" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/bindings/lua/ffi/PackageInstallerFactoryLuaBinding.cpp" />
-      <jump line="33" column="57" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstallerFactory.cpp" />
-      <jump line="80" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/external/include/ota/package/PackageInstaller.h" />
-      <jump line="47" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" />
-      <jump line="54" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" />
-      <jump line="326" column="56" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" />
-      <jump line="21" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstallerLock.cpp" />
-      <jump line="58" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" />
-      <jump line="129" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" />
-      <jump line="62" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" />
-      <jump line="154" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" />
-      <jump line="175" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" />
-      <jump line="57" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" />
       <jump line="132" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" />
       <jump line="181" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" />
       <jump line="81" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" />
@@ -1285,6 +1280,23 @@
       <jump line="76" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/allocator/MallocAllocator.cpp" />
       <jump line="54" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/src/allocation/AllocWrapperFunctions.cpp" />
       <jump line="25" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/IHeapAllocator.h" />
+      <jump line="8" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/start.js" />
+      <jump line="22" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/start.js" />
+      <jump line="24" column="65" filename="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/start.js" />
+      <jump line="89" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/stateManager.js" />
+      <jump line="108" column="34" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/extensions/PluginsExtension.cpp" />
+      <jump line="37" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/path/PluginPathResolver.cpp" />
+      <jump line="53" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/path/PluginPathResolver.cpp" />
+      <jump line="70" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/connectivityErrorMessage.js" />
+      <jump line="144" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/connectivityErrorMessage.js" />
+      <jump line="233" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/stateManager.js" />
+      <jump line="23" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/stateManager.js" />
+      <jump line="228" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/stateManager.js" />
+      <jump line="87" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/stateManager.js" />
+      <jump line="213" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/stateManager.js" />
+      <jump line="210" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/stateManager.js" />
+      <jump line="81" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/stateManager.js" />
+      <jump line="550" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/stateManager.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1365,7 +1377,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFcUhlbHBlclw+</text>
+        <text encoding="base64">XDxTdGF0ZU1hbmFnZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">QGMgYXZTZWN1cmVTdG9yYWdlTWlncmF0ZUZyb21WMCA=</text>
@@ -1416,9 +1428,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFcUhlbHBlclw+</last-search>
+      <last-search encoding="base64">XDxTdGF0ZU1hbmFnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFcUhlbHBlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxTdGF0ZU1hbmFnZXJcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1426,11 +1438,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcGVuZGluZ1BhY2thZ2VzXD4=</entry>
-        <entry encoding="base64">XDxfZmV0Y2hQYWNrYWdlXD4=</entry>
-        <entry encoding="base64">XDxfZ2V0RG93bmxvYWRQYXRoRm9yUGFja2FnZVw+</entry>
-        <entry encoding="base64">XDxfb25QYWNrYWdlQ29tcGxldGVcPg==</entry>
-        <entry encoding="base64">XDxfcmVtb3ZlRnJvbVBlbmRpbmdSZXF1ZXN0c1w+</entry>
         <entry encoding="base64">XDxfZmV0Y2hOZXh0UGFja2FnZVw+</entry>
         <entry encoding="base64">XDxfb25TdWNjZXNzXD4=</entry>
         <entry encoding="base64">XDxfY3JlYXRlSW5zdGFsbEpvYlw+</entry>
@@ -1446,6 +1453,11 @@
         <entry encoding="base64">XDxfcHJlUG9wdWxhdGVcPg==</entry>
         <entry>hardward_id</entry>
         <entry encoding="base64">XDxFcUhlbHBlclw+</entry>
+        <entry encoding="base64">XDxmb250UGFja2FnZXNUb0luc3RhbGxcPg==</entry>
+        <entry encoding="base64">XDxzcGxhc2hTY3JlZW5NYW5hZ2VyXD4=</entry>
+        <entry encoding="base64">XDxDb25uZWN0aXZpdHlFcnJvck1lc3NhZ2VcPg==</entry>
+        <entry encoding="base64">XDxjb25uZWN0aXZpdHlQcm9ibGVtTWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxTdGF0ZU1hbmFnZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
