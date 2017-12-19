@@ -340,8 +340,8 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLInputContext.cpp" timestamp="1512132530056">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/PluginOTA.cpp" timestamp="1513696683542">
-        <mark key="'" line="129" column="40" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/PluginOTA.cpp" timestamp="1513696793766">
+        <mark key="'" line="77" column="23" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatform.cpp" timestamp="1497612368796">
         <mark key="'" line="60" column="29" />
@@ -369,6 +369,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/errors/Errors.cpp" timestamp="1513013587770">
         <mark key="'" line="594" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" timestamp="1513703088756">
+        <mark key="'" line="80" column="22" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/external/include/deviceinfo/bindings/sm/DeviceInfoExtension.h" timestamp="1499792496661">
         <mark key="'" line="60" column="4" />
@@ -1274,9 +1277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/include/http/client/CurlHttpClient.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/curl.h" />
-      <jump line="551" column="52" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/curl.h" />
       <jump line="909" column="3" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/curl.h" />
       <jump line="19" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
       <jump line="48" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
@@ -1374,6 +1374,9 @@
       <jump line="83" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/PluginOTA.cpp" />
       <jump line="129" column="40" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/PluginOTA.cpp" />
       <jump line="58" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/bindings/sm/ManagerEventsExtension.cpp" />
+      <jump line="167" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/bindings/sm/ManagerEventsExtension.cpp" />
+      <jump line="77" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/PluginOTA.cpp" />
+      <jump line="80" column="22" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
