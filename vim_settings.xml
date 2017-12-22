@@ -555,6 +555,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/tests/plugin/DependencyGraphTest.cpp" timestamp="1497612014990">
         <mark key="'" line="31" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/tests/scene/utils/nodepropertyappliers/EffectUtilsTest.cpp" timestamp="1513942352695">
+        <mark key="'" line="20" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/stateManager.js" timestamp="1513098959370">
         <mark key="'" line="10" column="8" />
       </file>
@@ -1274,7 +1277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="909" column="3" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/curl.h" />
       <jump line="19" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
       <jump line="48" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
       <jump line="99" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
@@ -1374,6 +1376,7 @@
       <jump line="167" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/bindings/sm/ManagerEventsExtension.cpp" />
       <jump line="77" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/PluginOTA.cpp" />
       <jump line="80" column="22" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
+      <jump line="20" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/tests/scene/utils/nodepropertyappliers/EffectUtilsTest.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
