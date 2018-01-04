@@ -281,7 +281,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513852915765">
+      <file name="/Dummy.txt" timestamp="1515081806346">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -648,8 +648,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/include/allocation/HeapAllocatorMatHeapDecorator.h" timestamp="1512127576896">
         <mark key="'" line="41" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/SplashScreenManager.cpp" timestamp="1512662364772">
-        <mark key="'" line="81" column="25" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/SplashScreenManager.cpp" timestamp="1515080962636">
+        <mark key="'" line="38" column="25" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/allocator/TagAllocator.h" timestamp="1512051435682">
         <mark key="'" line="40" column="12" />
@@ -1056,6 +1056,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/thirdparty/gmock/gtest/include/gtest/gtest_pred_impl.h" timestamp="1513073878994">
         <mark key="'" line="146" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/resource/texture/TextureLoader.cpp" timestamp="1515081267119">
+        <mark key="'" line="427" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/external/include/deviceinfo/properties/AbstractDeviceProperties.h" timestamp="1511782748251">
         <mark key="'" line="50" column="17" />
       </file>
@@ -1260,8 +1263,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/src/cache/MultiLevelCache.cpp" timestamp="1512644095417">
         <mark key="'" line="59" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1512662356305">
-        <mark key="'" line="553" column="37" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" timestamp="1515080928109">
+        <mark key="'" line="819" column="25" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/PoolAllocatorAdapter.cpp" timestamp="1512128280038">
         <mark key="'" line="74" column="22" />
@@ -1269,8 +1272,8 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/external/include/IDisplay.h" timestamp="1499248385720">
         <mark key="'" line="30" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/materials/TexturedMaterial.cpp" timestamp="1512643573728">
-        <mark key="'" line="345" column="26" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/materials/TexturedMaterial.cpp" timestamp="1515081122892">
+        <mark key="'" line="152" column="13" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/crypto/CertConfiguration.cpp" timestamp="1502117561335">
         <mark key="'" line="77" column="12" />
@@ -1280,19 +1283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="921" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/curl.h" />
-      <jump line="896" column="45" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/curl.h" />
-      <jump line="918" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/curl.h" />
-      <jump line="1451" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/curl.h" />
-      <jump line="1518" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/curl.h" />
-      <jump line="1520" column="47" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/curl.h" />
-      <jump line="1522" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/curl.h" />
-      <jump line="846" column="43" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/curl.h" />
-      <jump line="154" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
-      <jump line="168" column="34" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
-      <jump line="180" column="38" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
-      <jump line="181" column="38" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
-      <jump line="231" column="38" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
       <jump line="214" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
       <jump line="209" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
       <jump line="203" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
@@ -1380,6 +1370,19 @@
       <jump line="20" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/perfmetrics/PerformanceMetricsUtil.h" />
       <jump line="40" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/perfmetrics/PerformanceMetricsUtil.h" />
       <jump line="3" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/perfmetrics/PerformanceMetricsUtil.h" />
+      <jump line="817" column="46" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="809" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="814" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="819" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/PluginRenderer.cpp" />
+      <jump line="145" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/materials/TexturedMaterial.cpp" />
+      <jump line="38" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/SplashScreenManager.cpp" />
+      <jump line="325" column="56" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/materials/TexturedMaterial.cpp" />
+      <jump line="288" column="30" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/materials/TexturedMaterial.cpp" />
+      <jump line="152" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/materials/TexturedMaterial.cpp" />
+      <jump line="429" column="49" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/resource/texture/TextureLoader.cpp" />
+      <jump line="185" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/resource/texture/TextureLoader.cpp" />
+      <jump line="660" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/thirdparty/boost/boost/signals2/detail/signal_template.hpp" />
+      <jump line="427" column="56" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/resource/texture/TextureLoader.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1460,7 +1463,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUZW1wbGF0ZWRQbHVnaW5QYXRoQnVpbGRlclw+</text>
+        <text encoding="base64">XDx0ZXh0dXJlUGF0aFw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">QGMgYXZTZWN1cmVTdG9yYWdlTWlncmF0ZUZyb21WMCA=</text>
@@ -1511,18 +1514,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUZW1wbGF0ZWRQbHVnaW5QYXRoQnVpbGRlclw+</last-search>
+      <last-search encoding="base64">XDx0ZXh0dXJlUGF0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUZW1wbGF0ZWRQbHVnaW5QYXRoQnVpbGRlclw+</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXh0dXJlUGF0aFw+</last-pattern>
       <last-replace />
-      <last-substitute encoding="base64">XDxHTU9DS19ESVJcPg==</last-substitute>
+      <last-substitute encoding="base64">XDxmaWxlTmFtZVw+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc2V0VXBTU0xcPg==</entry>
-        <entry>url</entry>
         <entry encoding="base64">XDxSZXF1ZXN0TWFuYWdlclw+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0RmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxfcmVxdWVzdEZhY3RvcnlcPg==</entry>
@@ -1541,6 +1542,8 @@
         <entry>\~unique_ptr</entry>
         <entry encoding="base64">XDxfYnVpbGRlck1hcFw+</entry>
         <entry encoding="base64">XDxUZW1wbGF0ZWRQbHVnaW5QYXRoQnVpbGRlclw+</entry>
+        <entry encoding="base64">XDxmaWxlTmFtZVw+</entry>
+        <entry encoding="base64">XDx0ZXh0dXJlUGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
