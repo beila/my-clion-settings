@@ -1074,6 +1074,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" timestamp="1512048119275">
         <mark key="'" line="499" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/perfmetrics/PerformanceMetricsUtil.h" timestamp="1515073285067">
+        <mark key="'" line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/SecureStorageBackendMigrator.h" timestamp="1512134999238">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1277,9 +1280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
-      <jump line="48" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
-      <jump line="99" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/client/CurlHttpClient.cpp" />
       <jump line="921" column="2" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/curl.h" />
       <jump line="896" column="45" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/curl.h" />
       <jump line="918" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/curl.h" />
@@ -1377,6 +1377,9 @@
       <jump line="77" column="23" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/PluginOTA.cpp" />
       <jump line="80" column="22" filename="$USER_HOME$/dev/ig/devicelinux/implementation/linux/src/avDisplay.cpp" />
       <jump line="20" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/tests/scene/utils/nodepropertyappliers/EffectUtilsTest.cpp" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/perfmetrics/PerformanceMetricsUtil.h" />
+      <jump line="40" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/perfmetrics/PerformanceMetricsUtil.h" />
+      <jump line="3" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/perfmetrics/PerformanceMetricsUtil.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
