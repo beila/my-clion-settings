@@ -287,9 +287,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" timestamp="1515152526047">
-        <mark key="'" line="53" column="27" />
-      </file>
       <file name="/Dummy.txt" timestamp="1515152056643">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -682,6 +679,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLInputContext.cpp" timestamp="1502462612770">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" timestamp="1515156961144">
+        <mark key="'" line="3337" column="8" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/tests/SecureStorageBackendTest.cpp" timestamp="1512135431758">
         <mark key="'" line="112" column="0" />
@@ -1316,25 +1316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="660" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/thirdparty/boost/boost/signals2/detail/signal_template.hpp" />
-      <jump line="427" column="56" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/resource/texture/TextureLoader.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
-      <jump line="3340" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
-      <jump line="112" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
-      <jump line="87" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
-      <jump line="90" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
-      <jump line="93" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
-      <jump line="96" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
-      <jump line="100" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
-      <jump line="74" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
-      <jump line="77" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
-      <jump line="119" column="1" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
-      <jump line="80" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
-      <jump line="162" column="8" filename="/usr/include/curl/curlbuild.h" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/curl_setup.h" />
-      <jump line="71" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
-      <jump line="85" column="5" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
-      <jump line="109" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/curl_setup.h" />
       <jump line="38" column="1" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/curl_setup.h" />
       <jump line="96" column="3" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/curl_setup.h" />
@@ -1416,6 +1397,25 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/curl_setup.h" />
       <jump line="39" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/curl_setup.h" />
       <jump line="55" column="1" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/curl_setup.h" />
+      <jump line="3706" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="38" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="329" column="58" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="333" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="337" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="338" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="339" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="340" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="341" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="922" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="1034" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="1082" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="1083" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="1084" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="1085" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="1304" column="11" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="1312" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="1325" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="3337" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1496,7 +1496,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmNsdWRlXD4=</text>
+        <text encoding="base64">SEVBRFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2lmIChDVVJMX1NJWkVPRl9DVVJMX09GRl9UID09IDQpCg==</text>
@@ -1547,9 +1547,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbmNsdWRlXD4=</last-search>
+      <last-search encoding="base64">SEVBRFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmNsdWRlXD4=</last-pattern>
+      <last-pattern encoding="base64">SEVBRFw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxmaWxlTmFtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1557,7 +1557,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxTdGF0ZU1hbmFnZXJcPg==</entry>
         <entry encoding="base64">XDxmZXRjaEluZGV4SnNXaXRoUmV0cmllc1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVGZXRjaEZpbGVXaXRoUmV0cmllc1w+</entry>
@@ -1567,7 +1566,6 @@
         <entry encoding="base64">XDxUZW1wbGF0ZWRQbHVnaW5QYXRoQnVpbGRlclw+</entry>
         <entry encoding="base64">XDxmaWxlTmFtZVw+</entry>
         <entry encoding="base64">XDx0ZXh0dXJlUGF0aFw+</entry>
-        <entry>HEAD</entry>
         <entry encoding="base64">XDxTSVpFT0ZfQ1VSTF9PRkZfVFw+</entry>
         <entry encoding="base64">XDxTSVpFT0ZfTE9OR1w+</entry>
         <entry>include</entry>
@@ -1577,6 +1575,8 @@
         <entry encoding="base64">XDxDVVJMX0FERElUSU9OQUxfSU5DTFVERVNcPg==</entry>
         <entry encoding="base64">XDxDVVJMX1NJWkVPRl9MT05HXD4=</entry>
         <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
+        <entry>HEAD</entry>
+        <entry encoding="base64">SEVBRFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
