@@ -680,8 +680,8 @@
       <file name="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLInputContext.cpp" timestamp="1502462612770">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" timestamp="1515156961144">
-        <mark key="'" line="3337" column="8" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" timestamp="1515158879197">
+        <mark key="'" line="3328" column="6" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/tests/SecureStorageBackendTest.cpp" timestamp="1512135431758">
         <mark key="'" line="112" column="0" />
@@ -1316,7 +1316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/curl_setup.h" />
       <jump line="38" column="1" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/curl_setup.h" />
       <jump line="96" column="3" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/curl_setup.h" />
       <jump line="92" column="3" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/curl_setup.h" />
@@ -1416,6 +1415,7 @@
       <jump line="1312" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
       <jump line="1325" column="15" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
       <jump line="3337" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
+      <jump line="3328" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" />
     </jumps>
     <registers>
       <register name="a" type="2">
