@@ -736,8 +736,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/CMakeLists.txt" timestamp="1512052442645">
         <mark key="'" line="124" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/decoders/libjpeg/JpegDecoder.cpp" timestamp="1516102802070">
-        <mark key="'" line="123" column="10" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/decoders/libjpeg/JpegDecoder.cpp" timestamp="1516102868061">
+        <mark key="'" line="156" column="0" />
         <mark key="[" line="123" column="10" />
         <mark key="]" line="123" column="27" />
       </file>
@@ -1366,9 +1366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
-      <jump line="124" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
-      <jump line="129" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
       <jump line="136" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
       <jump line="141" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
       <jump line="178" column="45" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
@@ -1462,10 +1459,13 @@
       <jump line="194" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/tests/libtest/lib650.c" />
       <jump line="44" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/main.cpp" />
       <jump line="130" column="0" filename="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.core/internal/platform/android/src/SystemInit.cpp" />
-      <jump line="117" column="37" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/decoders/libjpeg/JpegDecoder.cpp" />
       <jump line="215" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/decoders/libjpeg/JpegDecoder.cpp" />
       <jump line="121" column="41" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/decoders/libjpeg/JpegDecoder.cpp" />
-      <jump line="123" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/decoders/libjpeg/JpegDecoder.cpp" />
+      <jump line="117" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/decoders/libjpeg/JpegDecoder.cpp" />
+      <jump line="123" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/decoders/libjpeg/JpegDecoder.cpp" />
+      <jump line="995" column="35" filename="/usr/include/jpeglib.h" />
+      <jump line="141" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/decoders/libjpeg/JpegDecoder.cpp" />
+      <jump line="156" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/decoders/libjpeg/JpegDecoder.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1546,7 +1546,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZ25pdGlvbl90ZW1wX2Rpclw+</text>
+        <text encoding="base64">XDxjaW5mb1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2lmKENVUkxfU0laRU9GX0NVUkxfT0ZGX1QgPiBDVVJMX1NJWkVPRl9MT05HKQo=</text>
@@ -1597,9 +1597,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZ25pdGlvbl90ZW1wX2Rpclw+</last-search>
+      <last-search encoding="base64">XDxjaW5mb1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZ25pdGlvbl90ZW1wX2Rpclw+</last-pattern>
+      <last-pattern encoding="base64">XDxjaW5mb1w+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxmaWxlTmFtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1607,7 +1607,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWxlTmFtZVw+</entry>
         <entry encoding="base64">XDx0ZXh0dXJlUGF0aFw+</entry>
         <entry>include</entry>
         <entry encoding="base64">XDxMSUJfQ1VSTF9TUkNfRklMRVNcPg==</entry>
@@ -1627,6 +1626,7 @@
         <entry>tmp</entry>
         <entry encoding="base64">XDx0bXBmaWxlXD4=</entry>
         <entry encoding="base64">XDxpZ25pdGlvbl90ZW1wX2Rpclw+</entry>
+        <entry encoding="base64">XDxjaW5mb1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
