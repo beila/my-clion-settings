@@ -608,6 +608,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/tests/scene/utils/nodepropertyappliers/EffectUtilsTest.cpp" timestamp="1513942352695">
         <mark key="'" line="20" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/docs/CHANGES" timestamp="1516384514095">
+        <mark key="'" line="163" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/stateManager.js" timestamp="1513098959370">
         <mark key="'" line="10" column="8" />
       </file>
@@ -759,8 +762,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/external/include/http/data/FileHttpResponseConsumer.h" timestamp="1513092083134">
         <mark key="'" line="26" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/cmake-build-debug/CMakeCache.txt" timestamp="1509724617276">
-        <mark key="'" line="205" column="0" />
+      <file name="$USER_HOME$/dev/ignite/cmake-build-debug/CMakeCache.txt" timestamp="1516384689680">
+        <mark key="'" line="34" column="37" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/nodes/ImageNode.cpp" timestamp="1512057602500">
         <mark key="'" line="251" column="12" />
@@ -1360,12 +1363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
-      <jump line="141" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
-      <jump line="178" column="45" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
-      <jump line="170" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
-      <jump line="180" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
-      <jump line="173" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
       <jump line="0" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
       <jump line="172" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
       <jump line="171" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
@@ -1460,6 +1457,12 @@
       <jump line="995" column="35" filename="/usr/include/jpeglib.h" />
       <jump line="141" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/decoders/libjpeg/JpegDecoder.cpp" />
       <jump line="156" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/decoders/libjpeg/JpegDecoder.cpp" />
+      <jump line="58" column="9" filename="$USER_HOME$/dev/ignite/docs/CHANGES" />
+      <jump line="163" column="0" filename="$USER_HOME$/dev/ignite/docs/CHANGES" />
+      <jump line="177" column="0" filename="$USER_HOME$/dev/ignite/cmake-build-debug/CMakeCache.txt" />
+      <jump line="137" column="0" filename="$USER_HOME$/dev/ignite/cmake-build-debug/CMakeCache.txt" />
+      <jump line="366" column="127" filename="$USER_HOME$/dev/ignite/cmake-build-debug/CMakeCache.txt" />
+      <jump line="34" column="37" filename="$USER_HOME$/dev/ignite/cmake-build-debug/CMakeCache.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1540,7 +1543,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaW5mb1w+</text>
+        <text>c++</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2lmKENVUkxfU0laRU9GX0NVUkxfT0ZGX1QgPiBDVVJMX1NJWkVPRl9MT05HKQo=</text>
@@ -1591,9 +1594,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaW5mb1w+</last-search>
+      <last-search>c++</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaW5mb1w+</last-pattern>
+      <last-pattern>c++</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxmaWxlTmFtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1601,8 +1604,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXh0dXJlUGF0aFw+</entry>
-        <entry>include</entry>
         <entry encoding="base64">XDxMSUJfQ1VSTF9TUkNfRklMRVNcPg==</entry>
         <entry encoding="base64">XDxMSUJfQ1VSTF9JTkNMVURFX0RJUlNcPg==</entry>
         <entry encoding="base64">XDxDVVJMX1BST0pFQ1RfRElSXD4=</entry>
@@ -1621,6 +1622,8 @@
         <entry encoding="base64">XDx0bXBmaWxlXD4=</entry>
         <entry encoding="base64">XDxpZ25pdGlvbl90ZW1wX2Rpclw+</entry>
         <entry encoding="base64">XDxjaW5mb1w+</entry>
+        <entry>std</entry>
+        <entry>c++</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
