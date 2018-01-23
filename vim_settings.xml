@@ -1268,8 +1268,8 @@
       <file name="/usr/include/c++/4.9/bits/ios_base.h" timestamp="1513092264515">
         <mark key="'" line="364" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1516712906225">
-        <mark key="'" line="1670" column="26" />
+      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1516714154740">
+        <mark key="'" line="58" column="48" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SecureStorageBackendContext.h" timestamp="1511541912732">
         <mark key="'" line="14" column="10" />
@@ -1385,8 +1385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="436" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="53" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
       <jump line="84" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
       <jump line="37" column="1" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
@@ -1485,6 +1483,8 @@
       <jump line="18" column="1" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
       <jump line="0" column="13" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
       <jump line="39" column="40" filename="$USER_HOME$/dev/ignite/src/portinglayer.h" />
+      <jump line="58" column="48" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="116" column="30" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
