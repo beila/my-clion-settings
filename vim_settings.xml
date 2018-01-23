@@ -163,6 +163,13 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/device/src/display/DevicePlatformContext.cpp" timestamp="1495465446468">
         <mark key="'" line="152" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" timestamp="1516712883089">
+        <mark key="'" line="576" column="53" />
+        <mark key="[" line="663" column="5" />
+        <mark key="]" line="663" column="4" />
+        <mark key="^" line="663" column="4" />
+        <mark key="." line="663" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLCommonContext.cpp" timestamp="1493982740057">
         <mark key="'" line="0" column="0" />
       </file>
@@ -305,7 +312,7 @@
         <mark key="]" line="436" column="40" />
         <mark key="." line="436" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516705764159">
+      <file name="/Dummy.txt" timestamp="1516713045919">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -683,6 +690,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" timestamp="1512062168120">
         <mark key="'" line="68" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/porting/linux/SDLWrapper.cpp" timestamp="1516712984626">
+        <mark key="'" line="39" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/tests/ffi/LuaFFILibWrapperTest.cpp" timestamp="1493402549290">
         <mark key="'" line="49" column="6" />
       </file>
@@ -822,6 +832,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/version/VersionTable.cpp" timestamp="1513357288954">
         <mark key="'" line="118" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/Logger.h" timestamp="1516712337536">
+        <mark key="'" line="13" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/config-linux.h" timestamp="1515152145927">
         <mark key="'" line="0" column="0" />
       </file>
@@ -918,8 +931,8 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/InputTests.cpp" timestamp="1498747324924">
         <mark key="'" line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.h" timestamp="1509731159024">
-        <mark key="'" line="220" column="5" />
+      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.h" timestamp="1516712633049">
+        <mark key="'" line="189" column="14" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" timestamp="1501253193383">
         <mark key="'" line="28" column="19" />
@@ -1038,7 +1051,7 @@
       <file name="$USER_HOME$/dev/igrpi/devicerpi/include_files.txt" timestamp="1498670874660">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/main.cpp" timestamp="1510243153362">
+      <file name="$USER_HOME$/dev/ignite/src/main.cpp" timestamp="1516712370736">
         <mark key="'" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/CMakeLists.txt" timestamp="1512134572708">
@@ -1090,8 +1103,8 @@
       <file name="/usr/include/c++/4.9/array" timestamp="1513013896579">
         <mark key="'" line="276" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" timestamp="1509730967463">
-        <mark key="'" line="58" column="19" />
+      <file name="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" timestamp="1516713321084">
+        <mark key="'" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/dev/ci/git.cmake" timestamp="1499162312837">
         <mark key="'" line="41" column="9" />
@@ -1155,6 +1168,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" timestamp="1512048119275">
         <mark key="'" line="499" column="49" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/lua_function_binders.h" timestamp="1516712816265">
+        <mark key="'" line="400" column="83" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/perfmetrics/PerformanceMetricsUtil.h" timestamp="1515073285067">
         <mark key="'" line="3" column="16" />
@@ -1251,6 +1267,9 @@
       </file>
       <file name="/usr/include/c++/4.9/bits/ios_base.h" timestamp="1513092264515">
         <mark key="'" line="364" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1516712906225">
+        <mark key="'" line="1670" column="26" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SecureStorageBackendContext.h" timestamp="1511541912732">
         <mark key="'" line="14" column="10" />
@@ -1366,47 +1385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
-      <jump line="36" column="51" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/platform/linux/include/curl/curlbuild.h" />
-      <jump line="178" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/platform/linux/include/curl/curlbuild.h" />
-      <jump line="61" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/platform/linux/include/curl/curlbuild.h" />
-      <jump line="86" column="16" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/platform/linux/include/curl/curlbuild.h" />
-      <jump line="162" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/platform/linux/include/curl/curlbuild.h" />
-      <jump line="60" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/platform/linux/include/curl/curlbuild.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="446" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="461" column="9" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="57" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="65" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="77" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="89" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="97" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="109" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="121" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="129" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="142" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="150" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="158" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="170" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="182" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="191" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="199" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="211" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="222" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="233" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="247" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="255" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="268" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="284" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="286" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="319" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="321" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="352" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="364" column="10" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="378" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="387" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="406" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
-      <jump line="414" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
       <jump line="436" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
       <jump line="53" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" />
       <jump line="84" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" />
@@ -1466,6 +1444,47 @@
       <jump line="34" column="37" filename="$USER_HOME$/dev/ignite/cmake-build-debug/CMakeCache.txt" />
       <jump line="100" column="56" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/bindings/sm/WebSocketExtension.cpp" />
       <jump line="47" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketClient.cpp" />
+      <jump line="1101" column="15" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="1104" column="24" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="6" column="29" filename="$USER_HOME$/dev/ignite/src/main.cpp" />
+      <jump line="1092" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="665" column="7" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="23" column="8" filename="$USER_HOME$/dev/ignite/src/Logger.h" />
+      <jump line="13" column="33" filename="$USER_HOME$/dev/ignite/src/Logger.h" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/ignite/src/Logger.h" />
+      <jump line="7" column="4" filename="$USER_HOME$/dev/ignite/src/main.cpp" />
+      <jump line="692" column="24" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="195" column="20" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="700" column="11" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="435" column="21" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="64" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="95" column="6" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="195" column="14" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="371" column="29" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="449" column="29" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="352" column="20" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="189" column="14" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="131" column="30" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
+      <jump line="364" column="36" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="578" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
+      <jump line="579" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
+      <jump line="554" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
+      <jump line="756" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
+      <jump line="711" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
+      <jump line="676" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
+      <jump line="663" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
+      <jump line="364" column="16" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
+      <jump line="400" column="83" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
+      <jump line="377" column="4" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
+      <jump line="576" column="53" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
+      <jump line="1670" column="26" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="46" column="58" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
+      <jump line="39" column="30" filename="$USER_HOME$/dev/ignite/src/porting/linux/SDLWrapper.cpp" />
+      <jump line="42" column="19" filename="$USER_HOME$/dev/ignite/src/porting/linux/SDLWrapper.h" />
+      <jump line="18" column="1" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
+      <jump line="0" column="13" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
+      <jump line="39" column="40" filename="$USER_HOME$/dev/ignite/src/portinglayer.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1546,7 +1565,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>c++</text>
+        <text>namespace</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2lmKENVUkxfU0laRU9GX0NVUkxfT0ZGX1QgPiBDVVJMX1NJWkVPRl9MT05HKQo=</text>
@@ -1597,9 +1616,9 @@
       </register>
     </registers>
     <search>
-      <last-search>c++</last-search>
+      <last-search>namespace</last-search>
       <last-offset />
-      <last-pattern>c++</last-pattern>
+      <last-pattern>namespace</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxmaWxlTmFtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1607,9 +1626,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMSUJfQ1VSTF9TUkNfRklMRVNcPg==</entry>
-        <entry encoding="base64">XDxMSUJfQ1VSTF9JTkNMVURFX0RJUlNcPg==</entry>
-        <entry encoding="base64">XDxDVVJMX1BST0pFQ1RfRElSXD4=</entry>
         <entry encoding="base64">XDxDVVJMX0FERElUSU9OQUxfSU5DTFVERVNcPg==</entry>
         <entry encoding="base64">XDxDVVJMX1NJWkVPRl9MT05HXD4=</entry>
         <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
@@ -1627,6 +1643,9 @@
         <entry encoding="base64">XDxjaW5mb1w+</entry>
         <entry>std</entry>
         <entry>c++</entry>
+        <entry encoding="base64">XDxJR05fTE9HX0lcPg==</entry>
+        <entry encoding="base64">XDxhZGRfc3RhdGljX21ldGhvZF90b19jbGFzc1w+</entry>
+        <entry>namespace</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
