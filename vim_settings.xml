@@ -305,7 +305,7 @@
         <mark key="]" line="436" column="40" />
         <mark key="." line="436" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516106842400">
+      <file name="/Dummy.txt" timestamp="1516705764159">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1189,6 +1189,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/src/sm/extensions/PluginsExtension.cpp" timestamp="1513090782628">
         <mark key="'" line="108" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/bindings/sm/WebSocketExtension.cpp" timestamp="1516705872182">
+        <mark key="'" line="100" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/device-layer-skeleton/tests/TextToSpeechTest.cpp" timestamp="1493736291751">
         <mark key="'" line="99" column="31" />
       </file>
@@ -1363,8 +1366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
-      <jump line="172" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
       <jump line="171" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" />
       <jump line="36" column="51" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/platform/linux/include/curl/curlbuild.h" />
       <jump line="178" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/platform/linux/include/curl/curlbuild.h" />
@@ -1463,6 +1464,8 @@
       <jump line="137" column="0" filename="$USER_HOME$/dev/ignite/cmake-build-debug/CMakeCache.txt" />
       <jump line="366" column="127" filename="$USER_HOME$/dev/ignite/cmake-build-debug/CMakeCache.txt" />
       <jump line="34" column="37" filename="$USER_HOME$/dev/ignite/cmake-build-debug/CMakeCache.txt" />
+      <jump line="100" column="56" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/bindings/sm/WebSocketExtension.cpp" />
+      <jump line="47" column="21" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketClient.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
