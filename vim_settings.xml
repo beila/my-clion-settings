@@ -305,7 +305,7 @@
         <mark key="]" line="436" column="40" />
         <mark key="." line="436" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516797862246">
+      <file name="/Dummy.txt" timestamp="1516802195675">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -591,8 +591,8 @@
       <file name="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/include/PlatformDevicePropertiesProvider.h" timestamp="1501251767245">
         <mark key="'" line="422" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/function_binders.h" timestamp="1516801882827">
-        <mark key="'" line="311" column="44" />
+      <file name="$USER_HOME$/dev/ignite/src/function_binders.h" timestamp="1516803313496">
+        <mark key="'" line="123" column="49" />
         <mark key="[" line="290" column="32" />
         <mark key="]" line="290" column="41" />
         <mark key="." line="290" column="32" />
@@ -934,9 +934,6 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/InputTests.cpp" timestamp="1498747324924">
         <mark key="'" line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.h" timestamp="1516799312715">
-        <mark key="'" line="283" column="5" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" timestamp="1501253193383">
         <mark key="'" line="28" column="19" />
       </file>
@@ -1181,13 +1178,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" timestamp="1512048119275">
         <mark key="'" line="499" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/lua_function_binders.h" timestamp="1516800111749">
-        <mark key="'" line="373" column="14" />
-        <mark key="[" line="364" column="42" />
-        <mark key="]" line="364" column="42" />
-        <mark key="." line="364" column="42" />
-        <mark key="^" line="364" column="80" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/perfmetrics/PerformanceMetricsUtil.h" timestamp="1515073285067">
         <mark key="'" line="3" column="16" />
       </file>
@@ -1286,9 +1276,6 @@
       </file>
       <file name="/usr/include/c++/4.9/bits/ios_base.h" timestamp="1513092264515">
         <mark key="'" line="364" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1516799332139">
-        <mark key="'" line="1507" column="31" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SecureStorageBackendContext.h" timestamp="1511541912732">
         <mark key="'" line="14" column="10" />
@@ -1408,12 +1395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.puml" />
-      <jump line="9" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.puml" />
-      <jump line="853" column="14" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="967" column="24" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="855" column="24" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="824" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="97" column="17" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
       <jump line="39" column="17" filename="$USER_HOME$/dev/ignite/src/duktape_engine.h" />
       <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.puml" />
@@ -1506,8 +1487,14 @@
       <jump line="303" column="38" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
       <jump line="290" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
       <jump line="309" column="14" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="311" column="44" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="267" column="3" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
       <jump line="274" column="5" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="311" column="24" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="325" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="338" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="122" column="36" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="149" column="39" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="123" column="49" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1588,7 +1575,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWlsZF9hcmd1bWVudF9pbmRpY2VzXD4=</text>
+        <text encoding="base64">XDxnZXRfYXJnXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IDw8KGYsb3JjaGlkKSBmdW5jdGlvbj4+</text>
@@ -1639,9 +1626,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidWlsZF9hcmd1bWVudF9pbmRpY2VzXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRfYXJnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWlsZF9hcmd1bWVudF9pbmRpY2VzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfYXJnXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxmaWxlTmFtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1649,8 +1636,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGaWxlTG9hZGVyRmFjdG9yeVw+</entry>
-        <entry encoding="base64">XDxEdWt0YXBlRW5naW5lXD4=</entry>
         <entry encoding="base64">XDx2aXNpdG9yXD4=</entry>
         <entry encoding="base64">XDxCaW5kaW5nc1Zpc2l0b3JcPg==</entry>
         <entry encoding="base64">XDxERUZJTkVfVklTSVRPUl9FTlRSWV9cPg==</entry>
@@ -1669,6 +1654,8 @@
         <entry encoding="base64">XDxjYWxsX2FyZ3VtZW50c19tYXBwZXJcPg==</entry>
         <entry encoding="base64">XDxhcmd1bWVudHNfbWFwcGVyXD4=</entry>
         <entry encoding="base64">XDxidWlsZF9hcmd1bWVudF9pbmRpY2VzXD4=</entry>
+        <entry encoding="base64">XDxMX3JldGNhbGxlclw+</entry>
+        <entry encoding="base64">XDxnZXRfYXJnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
