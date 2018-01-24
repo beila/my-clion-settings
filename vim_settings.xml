@@ -305,7 +305,7 @@
         <mark key="]" line="436" column="40" />
         <mark key="." line="436" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516804205075">
+      <file name="/Dummy.txt" timestamp="1516807234211">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -591,11 +591,12 @@
       <file name="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/include/PlatformDevicePropertiesProvider.h" timestamp="1501251767245">
         <mark key="'" line="422" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/function_binders.h" timestamp="1516805818713">
-        <mark key="'" line="26" column="7" />
-        <mark key="[" line="156" column="50" />
-        <mark key="]" line="156" column="50" />
-        <mark key="." line="156" column="50" />
+      <file name="$USER_HOME$/dev/ignite/src/function_binders.h" timestamp="1516807569678">
+        <mark key="'" line="392" column="30" />
+        <mark key="[" line="369" column="85" />
+        <mark key="]" line="369" column="90" />
+        <mark key="." line="369" column="90" />
+        <mark key="^" line="369" column="90" />
       </file>
       <file name="$USER_HOME$/dev/igbuild/linux/debug/graph/cmake.ignition" timestamp="1494411013130">
         <mark key="'" line="468" column="5" />
@@ -689,8 +690,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/start.js" timestamp="1513089852592">
         <mark key="'" line="24" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/libs/lua/src/lua.h" timestamp="1516800148488">
-        <mark key="'" line="231" column="52" />
+      <file name="$USER_HOME$/dev/ignite/libs/lua/src/lua.h" timestamp="1516807887112">
+        <mark key="'" line="41" column="35" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyEnvironment.h" timestamp="1512062168120">
         <mark key="'" line="68" column="23" />
@@ -898,8 +899,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyDefs.h" timestamp="1512061939430">
         <mark key="'" line="26" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" timestamp="1516800272153">
-        <mark key="'" line="345" column="8" />
+      <file name="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" timestamp="1516807336917">
+        <mark key="'" line="386" column="78" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/platform/ps3/include/display/PS3DisplayContext.h" timestamp="1499792801704">
         <mark key="'" line="56" column="11" />
@@ -1178,6 +1179,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" timestamp="1512048119275">
         <mark key="'" line="499" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/lua_function_binders.h" timestamp="1516807868425">
+        <mark key="'" line="378" column="79" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/perfmetrics/PerformanceMetricsUtil.h" timestamp="1515073285067">
         <mark key="'" line="3" column="16" />
       </file>
@@ -1395,113 +1399,113 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="735" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
-      <jump line="743" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
-      <jump line="385" column="12" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
-      <jump line="741" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
-      <jump line="896" column="12" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="386" column="17" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
-      <jump line="352" column="0" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
-      <jump line="384" column="5" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
-      <jump line="659" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
-      <jump line="694" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
-      <jump line="341" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="153" column="107" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="158" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="878" column="74" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="185" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="179" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="81" column="27" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/internal/src/devicelayerloader/PluginDeviceLayerLoader.cpp" />
-      <jump line="656" column="57" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
-      <jump line="357" column="19" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
-      <jump line="397" column="19" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
-      <jump line="400" column="12" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
-      <jump line="358" column="7" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
-      <jump line="360" column="46" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
-      <jump line="362" column="21" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
-      <jump line="361" column="12" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
-      <jump line="352" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="361" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="328" column="4" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="387" column="11" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
-      <jump line="1556" column="38" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="99" column="22" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
-      <jump line="283" column="5" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
-      <jump line="564" column="67" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
-      <jump line="560" column="50" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
-      <jump line="1507" column="31" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="34" column="6" filename="$USER_HOME$/dev/ignite/src/StringHolder.h" />
-      <jump line="186" column="25" filename="$USER_HOME$/dev/ignite/libs/lua/src/lua.h" />
-      <jump line="378" column="79" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
-      <jump line="42" column="8" filename="$USER_HOME$/dev/ignite/libs/lua/src/lua.h" />
-      <jump line="364" column="64" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
-      <jump line="366" column="41" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
-      <jump line="367" column="18" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
-      <jump line="368" column="11" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
-      <jump line="373" column="14" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
-      <jump line="231" column="52" filename="$USER_HOME$/dev/ignite/libs/lua/src/lua.h" />
-      <jump line="104" column="14" filename="$USER_HOME$/dev/ignite/libs/lua/src/lua.h" />
-      <jump line="356" column="21" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
-      <jump line="342" column="35" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
-      <jump line="21" column="5" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
-      <jump line="345" column="8" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
-      <jump line="41" column="5" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.cpp" />
-      <jump line="356" column="12" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="334" column="12" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="332" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="321" column="12" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="319" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="315" column="3" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="379" column="12" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="357" column="46" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="330" column="0" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="304" column="4" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="295" column="3" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="299" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="335" column="12" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="322" column="12" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="281" column="25" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="293" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="303" column="38" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="290" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="309" column="14" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="267" column="3" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="274" column="5" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="311" column="24" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="325" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="338" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="122" column="36" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="149" column="39" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="123" column="49" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="264" column="1" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="173" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="260" column="62" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="262" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="156" column="63" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="158" column="11" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="232" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="313" column="15" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="323" column="15" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="63" column="7" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="78" column="7" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="95" column="7" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="111" column="7" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="145" column="7" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="257" column="7" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="279" column="4" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="286" column="7" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="311" column="73" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="59" column="7" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="67" column="16" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="83" column="28" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="947" column="30" filename="$USER_HOME$/dev/ignite/libs/duktape/duktape/duktape.h" />
+      <jump line="314" column="0" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="84" column="28" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="70" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="90" column="122" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="92" column="66" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="148" column="0" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="158" column="71" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="171" column="20" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="230" column="36" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="87" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="138" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
       <jump line="193" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
       <jump line="197" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
       <jump line="201" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
       <jump line="227" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="138" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="142" column="69" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="150" column="69" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="124" column="0" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="99" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="100" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="126" column="41" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="102" column="46" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="26" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="140" column="0" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="142" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="173" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="232" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="256" column="40" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="260" column="62" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="262" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="156" column="5" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="276" column="11" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="248" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="254" column="31" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="257" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="272" column="42" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="311" column="43" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="267" column="3" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="274" column="5" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="303" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="307" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="330" column="0" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="335" column="12" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="295" column="3" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="299" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="322" column="12" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="332" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="334" column="12" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="356" column="12" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="379" column="12" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="386" column="24" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="339" column="7" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
+      <jump line="309" column="7" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="348" column="24" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="381" column="0" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="393" column="16" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="383" column="31" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="390" column="12" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="384" column="5" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="334" column="16" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="386" column="78" filename="$USER_HOME$/dev/ignite/src/duktape_function_binders.h" />
+      <jump line="400" column="74" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
+      <jump line="364" column="16" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
+      <jump line="82" column="23" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="72" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="77" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="205" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="209" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="213" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="217" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="237" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="146" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="164" column="11" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="150" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="183" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="222" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="242" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="338" column="51" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="162" column="4" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="367" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="390" column="15" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="327" column="54" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="340" column="17" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="369" column="24" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="392" column="30" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
+      <jump line="376" column="24" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
+      <jump line="378" column="79" filename="$USER_HOME$/dev/ignite/src/lua_function_binders.h" />
+      <jump line="42" column="33" filename="$USER_HOME$/dev/ignite/libs/lua/src/lua.h" />
+      <jump line="690" column="32" filename="$USER_HOME$/dev/ignite/libs/lua/src/luaconf.h" />
+      <jump line="41" column="35" filename="$USER_HOME$/dev/ignite/libs/lua/src/lua.h" />
+      <jump line="688" column="8" filename="$USER_HOME$/dev/ignite/libs/lua/src/luaconf.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC0+IGRlY2x0eXBlKHJlYmluZGluZ192YWx1ZV9nZXR0ZXI8dHlwZW5hbWUgc3RkOjpkZWNheTxhcmdUeXBlPjo6dHlwZT46OmdldF9hcmd1bWVudF92YWx1ZShzdGF0ZSwgbikp</text>
+        <text>HOJIN</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1535,7 +1539,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0+IGRlY2x0eXBlKHJlYmluZGluZ192YWx1ZV9nZXR0ZXI8dHlwZW5hbWUgc3RkOjpkZWNheTxhcmdUeXBlPjo6dHlwZT46OmdldF9hcmd1bWVudF92YWx1ZShzdGF0ZSwgbikp</text>
+        <text>HOJIN</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1575,7 +1579,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbmFibGVfbm9uX293bmluZ19yZWZlcmVuY2VcPg==</text>
+        <text encoding="base64">XDxnZXRfdGFyZ2V0X2Z1bmN0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IDw8KGYsb3JjaGlkKSBmdW5jdGlvbj4+</text>
@@ -1626,9 +1630,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbmFibGVfbm9uX293bmluZ19yZWZlcmVuY2VcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRfdGFyZ2V0X2Z1bmN0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbmFibGVfbm9uX293bmluZ19yZWZlcmVuY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfdGFyZ2V0X2Z1bmN0aW9uXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxmaWxlTmFtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1636,26 +1640,26 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmdW5jdGlvblR5cGVcPg==</entry>
-        <entry encoding="base64">XDxsdWFfZnVuY3Rpb25fbWFwcGVyXD4=</entry>
-        <entry encoding="base64">XDxzZWxmX3R5cGVcPg==</entry>
-        <entry encoding="base64">XDxjYWxsX2Z1bmN0aW9uX21hcHBlclw+</entry>
-        <entry encoding="base64">XDxOYXRpdmVfUmVnaXN0ZXJGb250XD4=</entry>
-        <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
-        <entry encoding="base64">XDxmb3J3YXJkX2NhbGxlclw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVfZnVuY3Rpb25fbWFwcGVyXD4=</entry>
-        <entry encoding="base64">XDxyZXR1cm5fdHlwZV9tYXBwZXJcPg==</entry>
-        <entry encoding="base64">XDxjYWxsX2FyZ3VtZW50c19tYXBwZXJcPg==</entry>
-        <entry encoding="base64">XDxhcmd1bWVudHNfbWFwcGVyXD4=</entry>
-        <entry encoding="base64">XDxidWlsZF9hcmd1bWVudF9pbmRpY2VzXD4=</entry>
-        <entry encoding="base64">XDxMX3JldGNhbGxlclw+</entry>
-        <entry encoding="base64">XDxnZXRfYXJnXD4=</entry>
-        <entry encoding="base64">XDxkb19nZXRfYXJndW1lbnRfdmFsdWVcPg==</entry>
-        <entry encoding="base64">XDxyZWJpbmRpbmdfdmFsdWVfZ2V0dGVyXD4=</entry>
+        <entry encoding="base64">XDx2YWx1ZV9nZXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxyZWJpbmRpbmdfdmFsdWVfZ2V0dGVyX2ltcGxcPg==</entry>
-        <entry encoding="base64">XDxpc19ub25fb3duaW5nX3JlZmVyZW5jZV9lbmFibGVkXD4=</entry>
-        <entry encoding="base64">XDxpc19ub25fb3duaW5nX3JlZmVyZW5jZV9lbmFibGVkX2ltcGxcPg==</entry>
-        <entry encoding="base64">XDxlbmFibGVfbm9uX293bmluZ19yZWZlcmVuY2VcPg==</entry>
+        <entry encoding="base64">XDxyZWJpbmRpbmdfdmFsdWVfZ2V0dGVyXD4=</entry>
+        <entry encoding="base64">XDxkb19nZXRfYXJndW1lbnRfdmFsdWVcPg==</entry>
+        <entry encoding="base64">XDxhcmd1bWVudF9wYWNrX2VsZW1lbnRcPg==</entry>
+        <entry encoding="base64">XDxnZXRfYXJnXD4=</entry>
+        <entry encoding="base64">XDxMX2NhbGxlcl91bnBhY2tcPg==</entry>
+        <entry encoding="base64">XDxhcmd1bWVudHNfbWFwcGVyXD4=</entry>
+        <entry encoding="base64">XDxyZXR1cm5fdHlwZV9tYXBwZXJcPg==</entry>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDxzdGFydF9vYmplY3RcPg==</entry>
+        <entry encoding="base64">XDxhZGRfc3RhdGljX21ldGhvZF90b19jbGFzc1w+</entry>
+        <entry encoding="base64">XDxwdXNoX21hcHBlclw+</entry>
+        <entry encoding="base64">XDx2YWx1ZV9iaW5kZXJfcHVzaGVyXD4=</entry>
+        <entry encoding="base64">XDx2YWx1ZV9wdXNoZXJcPg==</entry>
+        <entry encoding="base64">XDxyZWJpbmRpbmdfdmFsdWVfcHVzaGVyX2ltcGxcPg==</entry>
+        <entry encoding="base64">XDxyZWJpbmRpbmdfdmFsdWVfcHVzaGVyXD4=</entry>
+        <entry encoding="base64">XDxkb19wdXNoX2FyZ3VtZW50X3ZhbHVlXD4=</entry>
+        <entry encoding="base64">XDxMX2RvY2FsbFw+</entry>
+        <entry encoding="base64">XDxnZXRfdGFyZ2V0X2Z1bmN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
