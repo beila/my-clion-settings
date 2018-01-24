@@ -591,8 +591,8 @@
       <file name="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/include/PlatformDevicePropertiesProvider.h" timestamp="1501251767245">
         <mark key="'" line="422" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/function_binders.h" timestamp="1516800747023">
-        <mark key="'" line="290" column="7" />
+      <file name="$USER_HOME$/dev/ignite/src/function_binders.h" timestamp="1516801882827">
+        <mark key="'" line="311" column="44" />
         <mark key="[" line="290" column="32" />
         <mark key="]" line="290" column="41" />
         <mark key="." line="290" column="32" />
@@ -1408,9 +1408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.puml" />
-      <jump line="32" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.puml" />
-      <jump line="38" column="24" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.puml" />
       <jump line="3" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.puml" />
       <jump line="9" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.puml" />
       <jump line="853" column="14" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
@@ -1508,6 +1505,9 @@
       <jump line="293" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
       <jump line="303" column="38" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
       <jump line="290" column="7" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="309" column="14" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="311" column="44" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
+      <jump line="274" column="5" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
