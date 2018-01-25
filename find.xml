@@ -1,7 +1,41 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.txt,*.</mask>
+      <mask>*.txt,*.s</mask>
+      <mask>*.txt,*.sh</mask>
+      <mask>*.txt,*.sh,</mask>
+      <mask>*.txt,*.sh,*</mask>
+      <mask>*.txt,*.sh,*.</mask>
+      <mask>*.txt,*.sh,*.p</mask>
+      <mask>*.txt,*.sh,*.py</mask>
+      <mask>*.txt,*.sh,*.py,</mask>
+      <mask>*.txt,*.sh,*.py,*</mask>
+      <mask>*.txt,*.sh,*.py,*.</mask>
+      <mask>*.txt,*.sh,*.py,*.con</mask>
+      <mask>*.txt,*.sh,*.py,*.conf</mask>
+      <mask>*.txt,*.sh,*.py,*.config</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.i</mask>
+      <mask>*.id</mask>
+      <mask>*.idl</mask>
+      <mask>*.idl,</mask>
+      <mask>*.idl,*</mask>
+      <mask>*.idl,*.</mask>
+      <mask>*.idl,*.j</mask>
+      <mask>*.idl,*.js</mask>
+      <mask>*.idl,*.js,</mask>
+      <mask>*.idl,*.js,*</mask>
+      <mask>*.idl,*.js,*.</mask>
+      <mask>*.idl,*.js,*.l</mask>
+      <mask>*.idl,*.js,*.lu</mask>
+      <mask>*.idl,*.js,*.lua</mask>
+    </recentFileMasks>
   </component>
 </application>
