@@ -268,7 +268,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyDefs.h" timestamp="1512061939430">
         <mark key="'" line="26" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517251841791">
+      <file name="/Dummy.txt" timestamp="1517310173084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -830,11 +830,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/utils/TaggedBuffer.h" timestamp="1512050850449">
         <mark key="'" line="16" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/script_engine.h" timestamp="1517309829632">
-        <mark key="'" line="117" column="19" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/dev/ignite/src/script_engine.h" timestamp="1517310391501">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="9" />
+        <mark key="^" line="89" column="17" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/tests/SecureStorageBackendTest.cpp" timestamp="1512135431758">
         <mark key="'" line="112" column="0" />
@@ -1430,9 +1430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="722" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="337" column="21" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="738" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="753" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="852" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="751" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
@@ -1530,13 +1527,16 @@
       <jump line="2802" column="57" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
       <jump line="112" column="19" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
       <jump line="70" column="11" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
+      <jump line="58" column="23" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
+      <jump line="120" column="19" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
+      <jump line="117" column="60" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGVtcGxhdGUg</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1570,7 +1570,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHlwZW5hbWUg</text>
+        <text encoding="base64">dGVtcGxhdGUg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1610,7 +1610,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxydW5fbWFpbl9sdWFfYXBwXD4=</text>
+        <text encoding="base64">XDx0eXBlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZW51bSBjbGFzcyBTY3JpcHRFbmdpbmVUeXBlCg==</text>
@@ -1627,31 +1627,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIEF7ZW51bSBFe0UxLCBFMn07fQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">dXNpbmcgU2NyaXB0RW5naW5lVHlwZSA9IFNjcmlwdEVuZ2luZVR5cGU6OlNjcmlwdEVuZ2luZVR5cGVFbnVtOwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFNjcmlwdEVuZ2luZUZhY3Rvcnk8U2NyaXB0RW5naW5lVHlwZTo6RGVmYXVsdEpzPiBzOwo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG9jcy8K</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dm9pZCBhc2lvdGgoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RnJvbSBAYWxleGVuZToKPlRoaXMgc291bmRzIGxpa2UgYSBncmVhdCBpZGVhIGFuZCB3ZSBzaG91bGQgdHJ5IGl0IGZvciBJZ25pdGlvbiBYLgo+Cj5JIHdvdWxkIHNheSB0aGF0IHdlIHNob3VsZCB0byBkbyB0aGlzIGZvcjogCj4tIEFueSBleHBvc2VkIEFQSSBjaGFuZ2VzLgo+LSBBbnkgYmlnIHN5c3RlbSBjaGFuZ2VzIChpbnRyb2R1Y2luZyBhbm90aGVyIGRlYnVnIFVJLCBldGMuLi4pCj4tIE1ham9yIHN5c3RlbSBkZXNpZ25zIChyZW5kZXJlciwgZG93bmxvYWRlciwgcmVzb3VyY2UgbWFuYWdlciwgZXRjLikKPi0gU2lnbmlmaWNhbnQgY2hhbmdlcyBpbiBleGlzdGluZyBzeXN0ZW1zLgo+Cj5JZGVhbGx5IHRoZXkgc2hvdWxkIGhhcHBlbiBiZWZvcmUgc3VibWl0dGluZyB0aGUgYWN0dWFsIGNvZGUgUFIsIGJ1dCBldmVuIGF0dGFjaGluZyBvbmUgbWluaS1kb2N1bWVudCB0byB5b3VyIFBSIHdpdGggdGhlIGNoYW5nZXMgaXMgYW4gaW1wcm92ZW1lbnQgaW4gY2FzZSBhIGRlY2lzaW9uIHdhcyByZWFjaGVkIGluIGEgbWVldGluZyBvciBieSBlbWFpbC4KPgo+SG93IHRvIGRlYWwgd2l0aCBzdGFsZSBkZWNpc2lvbnMgaXMgYSBiaXQgdW5jbGVhciwgYW5kIHdlIHNob3VsZCBzZXQgdXAgYSBjbGVhciBndWlkZWxpbmUgZm9yIHRoYXQgY2FzZS4KPkVnLiBJIG1vZGlmeSB0aGUgd2F5IHNvbWV0aGluZyBpcyBleHBvc2VkIHRvIHRoZSBjbGllbnQgYW5kIHdyaXRlIGEgZG9jdW1lbnRfQS5tZAo+NSBtb250aHMgbGF0ZXIsIEkgbmVlZCB0byBjaGFuZ2UgdGhlIHN5c3RlbSBhZ2FpbiBhbmQgSSB3cml0ZSBkb2N1bWVudF9CLm1kCj5kb2N1bWVudF9BLm1kIGlzIG9ubHkgdmFsaWQgZm9yIGhpc3RvcmljYWwgcmVhc29ucywgYnV0IGRvZXNuJ3QgaGF2ZSBhbnkgaW5mb3JtYXRpb24gdGhhdCByZWZsZWN0cyB0aGUgY3VycmVudCByZWFsaXR5Lgo+RG8gSSBkZWxldGUgZG9jdW1lbnRfQSBhcyBwYXJ0IG9mIGNyZWF0aW5nIGRvY3VtZW50X0IubWQ/IChUaGlzIGlzIG15IHByb3Bvc2FsKS4KPgo+SSB0aGluayBpdCBpcyB3b3J0aCB0byB0cnkgaXQgb3V0IGFuZCBzZWUgaG93IGl0IHdvcmtzIGluIHByYWN0aWNlLgo+SW4gZ2VuZXJhbCBJIGRvbid0IGZpbmQgYW55IG9mIHRoZSBkaXNhZHZhbnRhZ2VzIHByb2JsZW1hdGljIG9yIHNpZ25pZmljYW50IGluIGNvbXBhcmlzb24gd2l0aCB0aGUgYWR2YW50YWdlcyBzbyBJIGhhdmUgdm90ZWQgYXBwcm92ZSB5b3VyIFBSLgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QW5kLCBpbiB0aGUgc2FtZSByZWFzb25pbmcsIEkgd291bGQgYWxzbyBzdWdnZXN0IHRoZSBBRFIgdG8gYmUgaW5jbHVkZWQgaW4gdGhlIGFjdHVhbCBQUiB3aXRoIHRoZSBpbXBsZW1lbnRhdGlvbiwgYXMgYW4gYWZ0ZXJ0aG91Z2h0Lgo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CVVuaXF1ZVB0cjxJU2NyaXB0RW5naW5lPiBjcmVhdGUoKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">CiMgTG9hZCBkZXZpY2UgbGF5ZXIgbGlicmFyeSBhbmQgdXNlIGRldmljZSBBUElzIGZyb20gaXQKQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURVU0VfREVWSUNFX0xBWUVSPVlFUyIKCiMgVXNlIERQQyB0byBnZXQgaW5mb3JtYXRpb24gZnJvbSBkZXZpY2VzLgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRFVTRV9ERVZJQ0VfUFJPUEVSVElFU19DT01QT05FTlQ9WUVTIgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRERFVklDRV9QUk9QRVJUSUVTX1BST1ZJREVSX0xPQ0FUSU9OPSQiCg==</text>
@@ -1661,9 +1661,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxydW5fbWFpbl9sdWFfYXBwXD4=</last-search>
+      <last-search encoding="base64">XDx0eXBlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxydW5fbWFpbl9sdWFfYXBwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0eXBlXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxmaWxlTmFtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1671,7 +1671,6 @@
     </search>
     <history>
       <history-search>
-        <entry>c++</entry>
         <entry encoding="base64">XDxJR05fTE9HX0lcPg==</entry>
         <entry encoding="base64">XDxhZGRfc3RhdGljX21ldGhvZF90b19jbGFzc1w+</entry>
         <entry>namespace</entry>
@@ -1691,6 +1690,7 @@
         <entry encoding="base64">XDxydW5fc2NyaXB0X29uX2VuZ2luZVw+</entry>
         <entry encoding="base64">XDxleGVjX2x1YVw+</entry>
         <entry encoding="base64">XDxydW5fbWFpbl9sdWFfYXBwXD4=</entry>
+        <entry encoding="base64">XDx0eXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
