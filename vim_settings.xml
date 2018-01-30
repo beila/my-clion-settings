@@ -24,8 +24,8 @@
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.core/internal/platform/android/mainlib/src/main.cpp" timestamp="1502116323049">
         <mark key="'" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/main.cpp" timestamp="1517253127300">
-        <mark key="'" line="12" column="58" />
+      <file name="$USER_HOME$/dev/ignite/src/main.cpp" timestamp="1517312974718">
+        <mark key="'" line="12" column="46" />
         <mark key="[" line="14" column="34" />
         <mark key="]" line="14" column="41" />
         <mark key="^" line="14" column="41" />
@@ -480,6 +480,11 @@
       <file name="$USER_HOME$/dev/ignite/docs/CHANGES" timestamp="1516384514095">
         <mark key="'" line="163" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" timestamp="1517335674583">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/thirdparty/kubrick/amp-ps4/apps/AIV/VideoCore/VideoCore.vcxproj" timestamp="1512052391547">
         <mark key="'" line="124" column="3" />
       </file>
@@ -585,6 +590,13 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/image/ImageRegistry.cpp" timestamp="1512058127120">
         <mark key="'" line="411" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/hjdocs/broadcom-binaries-dependency.puml" timestamp="1517335691637">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/external/include/deviceinfo/properties/AbstractDeviceProperties.h" timestamp="1511782748251">
         <mark key="'" line="50" column="17" />
@@ -821,8 +833,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/platform/linux/include/curl/curlbuild.h" timestamp="1515152409598">
         <mark key="'" line="60" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" timestamp="1517307040576">
-        <mark key="'" line="2802" column="74" />
+      <file name="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" timestamp="1517322639932">
+        <mark key="'" line="1644" column="21" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/src/Input.cpp" timestamp="1512655917550">
         <mark key="'" line="138" column="22" />
@@ -1430,113 +1442,113 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="753" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="852" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="751" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="67" column="40" filename="$USER_HOME$/dev/ignite/src/script_engine.cpp" />
-      <jump line="101" column="17" filename="$USER_HOME$/dev/ignite/src/lua_engine.cpp" />
-      <jump line="429" column="16" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
-      <jump line="6" column="16" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/src/script_engine_config.h" />
-      <jump line="100" column="86" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
-      <jump line="6" column="14" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
-      <jump line="76" column="18" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
-      <jump line="67" column="8" filename="$USER_HOME$/dev/ignite/src/script_engine_config.h" />
-      <jump line="36" column="8" filename="$USER_HOME$/dev/ignite/src/script_engine_config.h" />
-      <jump line="25" column="8" filename="$USER_HOME$/dev/ignite/src/script_engine_config.h" />
-      <jump line="11" column="11" filename="$USER_HOME$/dev/ignite/src/main.cpp" />
-      <jump line="736" column="17" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="56" column="8" filename="$USER_HOME$/dev/ignite/src/script_engine_config.h" />
-      <jump line="58" column="8" filename="$USER_HOME$/dev/ignite/src/script_engine_config.h" />
-      <jump line="68" column="4" filename="$USER_HOME$/dev/ignite/src/script_engine_config.h" />
-      <jump line="50" column="15" filename="$USER_HOME$/dev/ignite/src/script_engine_config.h" />
-      <jump line="35" column="15" filename="$USER_HOME$/dev/ignite/src/script_engine_config.h" />
-      <jump line="15" column="17" filename="$USER_HOME$/dev/ignite/src/script_engine_config.h" />
-      <jump line="60" column="12" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="889" column="26" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="161" column="19" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
-      <jump line="341" column="22" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="185" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="179" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="153" column="107" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="158" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="18" column="6" filename="$USER_HOME$/dev/ignite/src/ConfigurationManager.h" />
-      <jump line="694" column="29" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="72" column="21" filename="$USER_HOME$/dev/ignite/src/script_engine.cpp" />
-      <jump line="18" column="16" filename="$USER_HOME$/dev/ignite/src/script_engine.cpp" />
-      <jump line="32" column="8" filename="$USER_HOME$/dev/ignite/src/script_engine.cpp" />
-      <jump line="44" column="8" filename="$USER_HOME$/dev/ignite/src/script_engine.cpp" />
-      <jump line="85" column="19" filename="$USER_HOME$/dev/ignite/src/script_engine.cpp" />
-      <jump line="34" column="8" filename="$USER_HOME$/dev/ignite/src/script_engine_config.h" />
-      <jump line="82" column="42" filename="$USER_HOME$/dev/ignite/src/script_engine.cpp" />
-      <jump line="702" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="709" column="47" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="31" column="19" filename="$USER_HOME$/dev/ignite/src/LUAAllocator.cpp" />
-      <jump line="262" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="692" column="27" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="199" column="81" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="72" column="44" filename="$USER_HOME$/dev/ignite/src/ConfigurationManager.cpp" />
-      <jump line="77" column="27" filename="$USER_HOME$/dev/ignite/src/ConfigurationManager.cpp" />
-      <jump line="322" column="19" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="92" column="20" filename="$USER_HOME$/dev/ignite/src/ConfigurationManager.cpp" />
-      <jump line="144" column="27" filename="$USER_HOME$/dev/ignite/src/ConfigurationManager.cpp" />
-      <jump line="898" column="26" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="97" column="40" filename="$USER_HOME$/dev/ignite/src/lua_engine.cpp" />
-      <jump line="4" column="1" filename="$USER_HOME$/dev/ignite/src/lua_engine.cpp" />
-      <jump line="11" column="1" filename="$USER_HOME$/dev/ignite/src/lua_engine.cpp" />
-      <jump line="12" column="1" filename="$USER_HOME$/dev/ignite/src/lua_engine.cpp" />
-      <jump line="0" column="1" filename="$USER_HOME$/dev/ignite/src/lua_engine.cpp" />
-      <jump line="1" column="1" filename="$USER_HOME$/dev/ignite/src/lua_engine.cpp" />
-      <jump line="2" column="1" filename="$USER_HOME$/dev/ignite/src/lua_engine.cpp" />
-      <jump line="55" column="48" filename="$USER_HOME$/dev/ignite/src/duktape_engine.cpp" />
-      <jump line="8" column="1" filename="$USER_HOME$/dev/ignite/src/duktape_engine.cpp" />
-      <jump line="0" column="1" filename="$USER_HOME$/dev/ignite/src/duktape_engine.cpp" />
-      <jump line="1" column="1" filename="$USER_HOME$/dev/ignite/src/duktape_engine.cpp" />
-      <jump line="2" column="1" filename="$USER_HOME$/dev/ignite/src/duktape_engine.cpp" />
-      <jump line="4" column="1" filename="$USER_HOME$/dev/ignite/src/duktape_engine.cpp" />
-      <jump line="71" column="27" filename="$USER_HOME$/dev/ignite/src/duktape_engine.cpp" />
-      <jump line="469" column="13" filename="$USER_HOME$/dev/ignite/libs/duktape/duktape/duktape.h" />
-      <jump line="824" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="752" column="5" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
-      <jump line="868" column="11" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="787" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="820" column="21" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="855" column="11" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="892" column="26" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="967" column="21" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="853" column="14" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="861" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="14" column="4" filename="$USER_HOME$/dev/ignite/src/main.cpp" />
-      <jump line="878" column="5" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="758" column="17" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="885" column="33" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="521" column="29" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="84" column="4" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
-      <jump line="21" column="6" filename="$USER_HOME$/dev/ignite/src/lua_engine.h" />
-      <jump line="89" column="15" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
-      <jump line="12" column="58" filename="$USER_HOME$/dev/ignite/src/main.cpp" />
-      <jump line="2646" column="48" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="2736" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="297" column="1" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="2793" column="36" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="2019" column="21" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="2358" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="2801" column="24" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="2360" column="12" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="2802" column="57" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="112" column="19" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
-      <jump line="70" column="11" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
-      <jump line="58" column="23" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
-      <jump line="120" column="19" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
-      <jump line="117" column="60" filename="$USER_HOME$/dev/ignite/src/script_engine.h" />
+      <jump line="1489" column="43" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1496" column="85" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1497" column="39" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1703" column="7" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1707" column="7" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1712" column="7" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1719" column="7" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1733" column="10" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1728" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1727" column="8" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1726" column="10" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1722" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1721" column="8" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1720" column="10" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="314" column="6" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="313" column="41" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1715" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1714" column="10" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1709" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1704" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1699" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1695" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1691" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1688" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1685" column="25" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1644" column="21" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="1809" column="18" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="3" column="1" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="82" column="16" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="139" column="8" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="89" column="19" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="114" column="6" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="42" column="5" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="8" column="27" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="81" column="2" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="131" column="13" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="136" column="10" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="18" column="26" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="98" column="3" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="97" column="3" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="117" column="12" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="108" column="33" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="94" column="3" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="130" column="3" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="133" column="31" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="147" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="52" column="22" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="119" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="9" column="9" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="128" column="24" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="10" column="22" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="14" column="5" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="83" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="20" column="16" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="30" column="15" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="137" column="2" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="138" column="3" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="28" column="9" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="29" column="16" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="34" column="16" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="85" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="135" column="3" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="37" column="16" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="84" column="7" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="16" column="43" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="21" column="38" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="80" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="79" column="7" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="12" column="23" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="11" column="23" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="78" column="9" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="95" column="3" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="96" column="3" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="13" column="12" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="102" column="10" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="103" column="32" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="74" column="20" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="104" column="17" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="122" column="18" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="67" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="99" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="100" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="101" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="124" column="111" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="123" column="42" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="118" column="45" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="129" column="55" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="5" column="2" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="120" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="82" column="16" filename="$USER_HOME$/dev/hjdocs/broadcom-binaries-dependency.puml" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-binaries-dependency.puml" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-binaries-dependency.puml" />
+      <jump line="92" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-binaries-dependency.puml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1570,7 +1582,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGVtcGxhdGUg</text>
+        <text>&quot;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1610,13 +1622,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0eXBlXD4=</text>
+        <text encoding="base64">XDxPYnNlcnZhdGlvbnNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZW51bSBjbGFzcyBTY3JpcHRFbmdpbmVUeXBlCg==</text>
+      <register name="0" type="4">
+        <text>https://w.amazon.com/bin/view/Amazon_Video/Distribution/AVPK/Design/BroadcomReference/#HRelationtoexternalentities</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1627,31 +1639,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXN0YXRpYyBVbmlxdWVQdHI8SVNjcmlwdEVuZ2luZT4gbWFrZV9lbmdpbmUoKTsK</text>
+        <text encoding="base64">Ck9ic2VydmF0aW9ucyBmcm9tIFtbUmVsYXRpb24gdG8gZXh0ZXJuYWw+Pmh0dHBzOi8vdy5hbWF6b24uY29tL2Jpbi92aWV3L0FtYXpvbl9WaWRlby9EaXN0cmlidXRpb24vQVZQSy9EZXNpZ24vQnJvYWRjb21SZWZlcmVuY2UvI0hSZWxhdGlvbnRvZXh0ZXJuYWxlbnRpdGllc11dIGVudGl0aWVzIGRpYWdyYW06CjEuIFRoZXJlIG11c3QgYmUgYSBnbG9iYWwgaW5pdC9zaHV0ZG93bi4KMS4gTXVsdGlwbGUgY29tcG9uZW50cyBjYW4gZGVwZW5kIG9uIHRoZSBzYW1lIE5leHVzIG1vZHVsZS4gSW4gdGhhdCBjYXNlLCBhIGhhbmRsZSBvYmplY3QgbXVzdCBiZSBzaGFyZWQgYmV0d2VlbiB0aG9zZSBjb21wb25lbnRzLgoxMS4gV2UgY2FuIGNyZWF0ZSBhIHNlcGFyYXRlIGNvbXBvbmVudHM6ICMjSW5pdGlhbGlzZXIjIyAoZm9yIGluaXRpYWxpc2F0aW9uIHJlcXVlc3QpIGFuZCAjI0hhbmRsZXMjIyAoZm9yIGhhbmRsZXMgcmVnaXN0cnkpLgoxMS4gV2UgY2FuIGNyZWF0ZSBhIG5ldyBjb21wb25lbnQgZm9yIGVhY2ggbGlicmFyeSBjYWxsZWQ6ICMjSW5pdGlhbGlzYXRpb24jIyAoZm9yIHJlcXVlc3RpbmcgaW5pdGlhbGlzYXRpb24gdG8gIyNJbml0aWFsaXNlciMjKQoxLiBUaGVyZSdzIG5vdCBtdWNoIGNvZGUgdG8gc2hhcmUgYmV0d2VlbiBjb21wb25lbnRzLgoxLiAjI1IxMCBEZXZpY2UgSW5mb3JtYXRpb24jIyBoYXMgdG9vIG1hbnkgZGVwZW5kZW5jaWVzLgoxMS4gQnkgZ3JvdXBpbmcgdGhlIGZ1bmN0aW9ucyB0byBpbXBsZW1lbnQgd2UgY2FuIHNwbGl0IHRoZW0gaW50bzogIyNEZXZpY2UgSW5mbyMjLCAjI1BsYXliYWNrIEluZm8jIywgIyNEaXNwbGF5IEluZm8jIywgIyNOZXR3b3JrIEluZm8jIwoxLiAjI0lSMTkgQmFja2dyb3VuZCBNb2RlIyMsIGFuZCAjI0lSMjAgQmFja2dyb3VuZCBWaXNpYmxlIE1vZGUjIyBhcmUgdGlnaHRseSByZWxhdGVkLgoxMS4gV2UgY2FuIGNvbWJpbmUgdGhlbSBpbnRvIG9uZSBjb21wb25lbnQ6ICMjTGlmZWN5Y2xlIEV2ZW50cyMjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlIDxTY3JpcHRFbmdpbmVUeXBlIHR5cGU+Cg==</text>
+        <text encoding="base64">T2JzZXJ2YXRpb25zOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGVtcGxhdGUgPFNjcmlwdEVuZ2luZVR5cGUgdHlwZT4K</text>
+        <text encoding="base64">SVIxNkRpc3BsYXkgLi4uLiB3YXlsYW5kCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SVIyMCAuLi4uIHdheWxhbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU2NyaXB0RW5naW5lVHlwZSA9IFNjcmlwdEVuZ2luZVR5cGU6OlNjcmlwdEVuZ2luZVR5cGVFbnVtOwo=</text>
+        <text encoding="base64">SVIxOSAuLi4uIHdheWxhbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIFt3YXlsYW5kXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNjcmlwdEVuZ2luZUZhY3Rvcnk8U2NyaXB0RW5naW5lVHlwZTo6RGVmYXVsdEpzPiBzOwo=</text>
+        <text encoding="base64">MTEuIEZvciAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">MTEuICJEZXZpY2UgSW5mbyIsICJQbGF5YmFjayBJbmZvIiwgIkRpc3BsYXkgSW5mbyIsICJOZXR3b3JrIEluZm8iCjExLiBGb3IgCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">CiMgTG9hZCBkZXZpY2UgbGF5ZXIgbGlicmFyeSBhbmQgdXNlIGRldmljZSBBUElzIGZyb20gaXQKQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURVU0VfREVWSUNFX0xBWUVSPVlFUyIKCiMgVXNlIERQQyB0byBnZXQgaW5mb3JtYXRpb24gZnJvbSBkZXZpY2VzLgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRFVTRV9ERVZJQ0VfUFJPUEVSVElFU19DT01QT05FTlQ9WUVTIgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRERFVklDRV9QUk9QRVJUSUVTX1BST1ZJREVSX0xPQ0FUSU9OPSQiCg==</text>
@@ -1661,36 +1673,36 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0eXBlXD4=</last-search>
+      <last-search encoding="base64">XDxPYnNlcnZhdGlvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0eXBlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxPYnNlcnZhdGlvbnNcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxmaWxlTmFtZVw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJR05fTE9HX0lcPg==</entry>
-        <entry encoding="base64">XDxhZGRfc3RhdGljX21ldGhvZF90b19jbGFzc1w+</entry>
-        <entry>namespace</entry>
-        <entry encoding="base64">XDxDTUFLRV9DQUNIRV9BUkdTXD4=</entry>
-        <entry encoding="base64">XDxMV1NfQ01BS0VfQVJHU1w+</entry>
-        <entry encoding="base64">XDx0ZXN0X21lZ2FibGFzdFw+</entry>
-        <entry encoding="base64">XDxETFdTX09QRU5TU0xfSU5DTFVERV9ESVJcPg==</entry>
-        <entry encoding="base64">XDxJU19MQU5HVUFHRV9TVVBQT1JURURcPg==</entry>
-        <entry encoding="base64">XDxtYWtlX2VuZ2luZVw+</entry>
-        <entry encoding="base64">XDxMQU5HVUFHRV9MSVNUX0VOVFJZX0x1YVw+</entry>
-        <entry encoding="base64">XDxlcnJvcl9maWxlX3BhdGhcPg==</entry>
-        <entry encoding="base64">XDxzY3JpcHRUeXBlXD4=</entry>
-        <entry encoding="base64">XDxnX2RlZmF1bHRTY3JpcHRFbmdpbmVGb3JMYW5ndWFnZV9cPg==</entry>
-        <entry encoding="base64">XDxnX2RlZmF1bHRTY3JpcHRFbmdpbmVGb3JMYW5ndWFnZV8=</entry>
-        <entry>exec_lua</entry>
-        <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
-        <entry encoding="base64">XDxydW5fc2NyaXB0X29uX2VuZ2luZVw+</entry>
-        <entry encoding="base64">XDxleGVjX2x1YVw+</entry>
-        <entry encoding="base64">XDxydW5fbWFpbl9sdWFfYXBwXD4=</entry>
-        <entry encoding="base64">XDx0eXBlXD4=</entry>
+        <entry encoding="base64">XDxsZWRcPg==</entry>
+        <entry encoding="base64">XDxJUjE5XD4=</entry>
+        <entry encoding="base64">XDxJUjE2UVVJVFw+</entry>
+        <entry encoding="base64">XDxTZWN1cmVcPg==</entry>
+        <entry encoding="base64">XDxjMlw+</entry>
+        <entry encoding="base64">XDxNZWRpYVw+</entry>
+        <entry encoding="base64">XDxjM1w+</entry>
+        <entry encoding="base64">XDxjNFw+</entry>
+        <entry encoding="base64">XDxDcnlwdG9cPg==</entry>
+        <entry encoding="base64">XDxjNVw+</entry>
+        <entry encoding="base64">XDxJUjE0XD4=</entry>
+        <entry encoding="base64">XDxJRExcPg==</entry>
+        <entry encoding="base64">XDxjMVw+</entry>
+        <entry encoding="base64">XDxNYWluXD4=</entry>
+        <entry encoding="base64">XDxJUjE2TWFpblw+</entry>
+        <entry encoding="base64">XDxJbnB1dFw+</entry>
+        <entry encoding="base64">XDxzZGxcPg==</entry>
+        <entry encoding="base64">XDx3YXlsYW5kXD4=</entry>
+        <entry encoding="base64">XDxJbml0aWFsaXNlclw+</entry>
+        <entry encoding="base64">XDxPYnNlcnZhdGlvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>

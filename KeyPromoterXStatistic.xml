@@ -297,6 +297,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Update PlantUml Diagrams - changes only">
+        <Item>
+          <IdeaActionID>PlantUML.Update</IdeaActionID>
+          <ShortCut>'⌃⌥⇧F'</ShortCut>
+          <Description>Update PlantUml Diagrams - changes only</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Update Project...">
         <Item>
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
