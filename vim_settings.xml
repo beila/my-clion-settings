@@ -480,10 +480,12 @@
       <file name="$USER_HOME$/dev/ignite/docs/CHANGES" timestamp="1516384514095">
         <mark key="'" line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" timestamp="1517335674583">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+      <file name="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" timestamp="1517355780565">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+        <mark key="^" line="11" column="10" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/thirdparty/kubrick/amp-ps4/apps/AIV/VideoCore/VideoCore.vcxproj" timestamp="1512052391547">
         <mark key="'" line="124" column="3" />
@@ -591,12 +593,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/image/ImageRegistry.cpp" timestamp="1512058127120">
         <mark key="'" line="411" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/hjdocs/broadcom-binaries-dependency.puml" timestamp="1517335691637">
+      <file name="$USER_HOME$/dev/hjdocs/broadcom-binaries-dependency.puml" timestamp="1517355640043">
         <mark key="'" line="92" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="10" column="0" />
+        <mark key="[" line="5" column="64" />
+        <mark key="]" line="5" column="72" />
+        <mark key="." line="5" column="72" />
+        <mark key="^" line="5" column="72" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/external/include/deviceinfo/properties/AbstractDeviceProperties.h" timestamp="1511782748251">
         <mark key="'" line="50" column="17" />
@@ -1442,8 +1444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1489" column="43" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="1496" column="85" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
       <jump line="1497" column="39" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
       <jump line="1703" column="7" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
       <jump line="1707" column="7" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
@@ -1516,12 +1516,9 @@
       <jump line="80" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
       <jump line="79" column="7" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="12" column="23" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="11" column="23" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
       <jump line="78" column="9" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
       <jump line="95" column="3" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
       <jump line="96" column="3" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="13" column="12" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
       <jump line="102" column="10" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
       <jump line="103" column="32" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
       <jump line="74" column="20" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
@@ -1542,13 +1539,18 @@
       <jump line="11" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-binaries-dependency.puml" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-binaries-dependency.puml" />
       <jump line="92" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-binaries-dependency.puml" />
+      <jump line="109" column="22" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="13" column="5" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="12" column="10" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="11" column="25" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
+      <jump line="77" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>initialisation</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1582,7 +1584,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>initialisation</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1622,7 +1624,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPYnNlcnZhdGlvbnNcPg==</text>
+        <text encoding="base64">XDxJUjE2Q29tbW9uXD4=</text>
       </register>
       <register name="0" type="4">
         <text>https://w.amazon.com/bin/view/Amazon_Video/Distribution/AVPK/Design/BroadcomReference/#HRelationtoexternalentities</text>
@@ -1673,18 +1675,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPYnNlcnZhdGlvbnNcPg==</last-search>
+      <last-search encoding="base64">XDxJUjE2Q29tbW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPYnNlcnZhdGlvbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxJUjE2Q29tbW9uXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxmaWxlTmFtZVw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsZWRcPg==</entry>
-        <entry encoding="base64">XDxJUjE5XD4=</entry>
         <entry encoding="base64">XDxJUjE2UVVJVFw+</entry>
         <entry encoding="base64">XDxTZWN1cmVcPg==</entry>
         <entry encoding="base64">XDxjMlw+</entry>
@@ -1703,6 +1703,8 @@
         <entry encoding="base64">XDx3YXlsYW5kXD4=</entry>
         <entry encoding="base64">XDxJbml0aWFsaXNlclw+</entry>
         <entry encoding="base64">XDxPYnNlcnZhdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxJUjE2XD4=</entry>
+        <entry encoding="base64">XDxJUjE2Q29tbW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
