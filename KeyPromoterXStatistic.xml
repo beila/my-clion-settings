@@ -153,6 +153,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reload PlantUml Diagrams">
+        <Item>
+          <IdeaActionID>PlantUML.Reload</IdeaActionID>
+          <ShortCut>'⌃⌥⇧G'</ShortCut>
+          <Description>Reload PlantUml Diagrams</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ignition without device layer'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -302,7 +310,7 @@
           <IdeaActionID>PlantUML.Update</IdeaActionID>
           <ShortCut>'⌃⌥⇧F'</ShortCut>
           <Description>Update PlantUml Diagrams - changes only</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -377,6 +385,12 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'test_megablast'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show preview only">
+        <Item>
+          <IdeaActionID>MarkdownNavigator.PreviewOnlyLayoutChange</IdeaActionID>
+          <Description>Show preview only</Description>
         </Item>
       </Statistic>
       <Statistic Action="Update Project">
