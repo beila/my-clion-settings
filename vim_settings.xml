@@ -427,8 +427,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/fetchIndexJs.js" timestamp="1513098926963">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererInputEventDelegate.cpp" timestamp="1499076834793">
-        <mark key="'" line="80" column="56" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererInputEventDelegate.cpp" timestamp="1517579591544">
+        <mark key="'" line="298" column="24" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/CMakeLists.txt" timestamp="1502115878109">
         <mark key="'" line="30" column="45" />
@@ -1453,8 +1453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1704" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="1699" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
       <jump line="1695" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
       <jump line="1691" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
       <jump line="1688" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
@@ -1553,6 +1551,8 @@
       <jump line="250" column="49" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
       <jump line="251" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/include/events/KeyInputEvent.h" />
+      <jump line="68" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererInputEventDelegate.cpp" />
+      <jump line="298" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererInputEventDelegate.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
