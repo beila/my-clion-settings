@@ -1040,8 +1040,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/external/src/ignition/texttospeech/PluginTextToSpeech.cpp" timestamp="1512657178881">
         <mark key="'" line="111" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" timestamp="1517570164634">
-        <mark key="'" line="251" column="8" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" timestamp="1517928933435">
+        <mark key="'" line="563" column="8" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" timestamp="1507112793361">
         <mark key="'" line="28" column="7" />
@@ -1453,17 +1453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1695" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="1691" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="1688" column="11" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="1685" column="25" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="1644" column="21" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="1809" column="18" filename="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" />
-      <jump line="50" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="3" column="1" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="82" column="16" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
       <jump line="139" column="8" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
       <jump line="89" column="19" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
@@ -1553,6 +1542,17 @@
       <jump line="51" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.input/include/events/KeyInputEvent.h" />
       <jump line="68" column="19" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererInputEventDelegate.cpp" />
       <jump line="298" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererInputEventDelegate.cpp" />
+      <jump line="129" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/device/include/device/av_text_to_speech.h" />
+      <jump line="391" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="724" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="84" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="419" column="32" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="422" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="423" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="400" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="403" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="409" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="563" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1633,7 +1633,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXNjb25uZWN0XD4=</text>
+        <text encoding="base64">XDxfc2VuZE5leHRNZXNzYWdlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>https://w.amazon.com/bin/view/Amazon_Video/Distribution/AVPK/Design/BroadcomReference/#HRelationtoexternalentities</text>
@@ -1684,9 +1684,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXNjb25uZWN0XD4=</last-search>
+      <last-search encoding="base64">XDxfc2VuZE5leHRNZXNzYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXNjb25uZWN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfc2VuZE5leHRNZXNzYWdlXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxmaWxlTmFtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1694,8 +1694,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjMlw+</entry>
-        <entry encoding="base64">XDxNZWRpYVw+</entry>
         <entry encoding="base64">XDxjM1w+</entry>
         <entry encoding="base64">XDxjNFw+</entry>
         <entry encoding="base64">XDxDcnlwdG9cPg==</entry>
@@ -1714,6 +1712,8 @@
         <entry encoding="base64">XDxJUjE2Q29tbW9uXD4=</entry>
         <entry encoding="base64">XDxfY2xpZW50VGhyZWFkXD4=</entry>
         <entry encoding="base64">XDxkaXNjb25uZWN0XD4=</entry>
+        <entry encoding="base64">XDxfbWVzc2FnZVF1ZXVlXD4=</entry>
+        <entry encoding="base64">XDxfc2VuZE5leHRNZXNzYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
