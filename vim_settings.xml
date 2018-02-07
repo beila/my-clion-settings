@@ -533,6 +533,12 @@
       <file name="$USER_HOME$/dev/ignite/src/lua_function_binders.h" timestamp="1516712816265">
         <mark key="'" line="400" column="83" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1517933722893">
+        <mark key="[" line="43" column="56" />
+        <mark key="]" line="43" column="59" />
+        <mark key="." line="43" column="59" />
+        <mark key="^" line="43" column="59" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/configuration/CMakeLists.txt" timestamp="1494597569682">
         <mark key="'" line="48" column="15" />
       </file>
@@ -854,12 +860,12 @@
         <mark key="." line="89" column="31" />
         <mark key="^" line="89" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" timestamp="1517916501603">
+      <file name="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" timestamp="1517919867575">
         <mark key="'" line="26" column="192" />
-        <mark key="[" line="211" column="36" />
-        <mark key="]" line="211" column="38" />
-        <mark key="." line="211" column="38" />
-        <mark key="^" line="211" column="38" />
+        <mark key="[" line="143" column="210" />
+        <mark key="]" line="143" column="222" />
+        <mark key="." line="143" column="222" />
+        <mark key="^" line="143" column="222" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/tests/SecureStorageBackendTest.cpp" timestamp="1512135431758">
         <mark key="'" line="112" column="0" />
@@ -1567,7 +1573,7 @@
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>svg</text>
+        <text>build a list of unique characters while it should try to include all the duplication.</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1601,7 +1607,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>svg</text>
+        <text>build a list of unique characters while it should try to include all the duplication.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1647,7 +1653,7 @@
         <text encoding="base64">ICAgICAgICBbaW5pdC5qc10gYXMga2NkNwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFWX1JDVV9BQ1RJT05fUExBWSA9IDEyNCwKICAgIC8vIC4uLgo=</text>
+        <text encoding="base64">SXQgc2hvdWxkIGJlIHRoZSBvcHBvc2l0ZS4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1658,25 +1664,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIC4uLgo=</text>
+        <text encoding="base64">SW4gYEdldFBvc2l0aW9uc2AsIGl0IHNoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YHdoaWxlKGlucHV0TGlzdC5Db3VudCgpPjEpO2AgY291bGQgbG9vcCBlbmRsZXNzbHkuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U2luY2UgQW1hem9uIFZpZGVvIGFwcGxpY2F0aW9uCg==</text>
+        <text encoding="base64">ICAgIEFWX1JDVV9BQ1RJT05fUExBWSA9IDEyNCwKICAgIC8vIC4uLgo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlICJhY3Rpb24gY29kZSBkZWZpbml0aW9uXG4gKyBkZXZlbG9wbWVudCBhY3Rpb24gY29kZXMiIGFzIGtjZDgK</text>
+        <text encoding="base64">ICAgIC8vIC4uLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlICJrZXkgY29kZSBkZWZpbml0aW9uIiBhcyBrY2QyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlICJhY3Rpb24gY29kZSBkZWZpbml0aW9uIiBhcyBrY2Q3Cg==</text>
+        <text encoding="base64">U2luY2UgQW1hem9uIFZpZGVvIGFwcGxpY2F0aW9uCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5531,10 +5537,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlICJrZXkgY29kZSBkZWZpbml0aW9uIiBhcyBrY2QyCg==</text>
+        <text encoding="base64">ICAgICAgICBub2RlICJhY3Rpb24gY29kZSBkZWZpbml0aW9uXG4gKyBkZXZlbG9wbWVudCBhY3Rpb24gY29kZXMiIGFzIGtjZDgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlICJhY3Rpb24gY29kZSBkZWZpbml0aW9uIiBhcyBrY2Q3Cg==</text>
+        <text encoding="base64">ICAgICAgICBub2RlICJrZXkgY29kZSBkZWZpbml0aW9uIiBhcyBrY2QyCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">CiMgTG9hZCBkZXZpY2UgbGF5ZXIgbGlicmFyeSBhbmQgdXNlIGRldmljZSBBUElzIGZyb20gaXQKQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURVU0VfREVWSUNFX0xBWUVSPVlFUyIKCiMgVXNlIERQQyB0byBnZXQgaW5mb3JtYXRpb24gZnJvbSBkZXZpY2VzLgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRFVTRV9ERVZJQ0VfUFJPUEVSVElFU19DT01QT05FTlQ9WUVTIgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRERFVklDRV9QUk9QRVJUSUVTX1BST1ZJREVSX0xPQ0FUSU9OPSQiCg==</text>
