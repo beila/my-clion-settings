@@ -24,15 +24,12 @@
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.core/internal/platform/android/mainlib/src/main.cpp" timestamp="1502116323049">
         <mark key="'" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/main.cpp" timestamp="1517312974718">
-        <mark key="'" line="12" column="46" />
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="14" column="41" />
-        <mark key="^" line="14" column="41" />
-        <mark key="." line="14" column="41" />
-      </file>
-      <file name="/LLDB" timestamp="1517253163410">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/ignite/src/main.cpp" timestamp="1518107789780">
+        <mark key="'" line="7" column="11" />
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="41" />
+        <mark key="^" line="5" column="41" />
+        <mark key="." line="5" column="41" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/EGLUtils.cpp" timestamp="1510240826359">
         <mark key="'" line="117" column="41" />
@@ -114,9 +111,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/bindings/sm/WebSocketExtension.cpp" timestamp="1516705872182">
         <mark key="'" line="100" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1517250542174">
-        <mark key="'" line="885" column="33" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/Memory.cpp" timestamp="1512051335104">
         <mark key="'" line="63" column="29" />
       </file>
@@ -157,6 +151,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/AmpConfig.cpp" timestamp="1512050308198">
         <mark key="'" line="57" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/examples/snake.js" timestamp="1518111412439">
+        <mark key="'" line="347" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="347" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/include/av_display.h" timestamp="1493734469271">
         <mark key="'" line="82" column="13" />
       </file>
@@ -180,6 +179,11 @@
       </file>
       <file name="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/adaptor/devicepropertiesprovider/include/PropertyEntry.h" timestamp="1501251681101">
         <mark key="'" line="39" column="58" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/NativeModuleProxy.js" timestamp="1518117536760">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="79" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/manifest.ps4" timestamp="1512052308638">
         <mark key="'" line="21" column="25" />
@@ -268,7 +272,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyDefs.h" timestamp="1512061939430">
         <mark key="'" line="26" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517586078555">
+      <file name="/Dummy.txt" timestamp="1518118623326">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -338,6 +342,19 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" timestamp="1513357226666">
         <mark key="'" line="239" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/libs/duktape/duktape/duk_config.h" timestamp="1518118628719">
+        <mark key="'" line="2880" column="7" />
+        <mark key="[" line="2880" column="1" />
+        <mark key="]" line="2880" column="6" />
+        <mark key="." line="2880" column="6" />
+        <mark key="^" line="2880" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/libs/duktape/duktape/CMakeLists.txt" timestamp="1518120004206">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/DeviceIdentity.cpp" timestamp="1502285644800">
         <mark key="'" line="53" column="50" />
@@ -480,6 +497,13 @@
       <file name="$USER_HOME$/dev/ignite/docs/CHANGES" timestamp="1516384514095">
         <mark key="'" line="163" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/web/ReactNativeWeb.js" timestamp="1518117184342">
+        <mark key="'" line="32" column="16" />
+        <mark key="[" line="61" column="40" />
+        <mark key="]" line="62" column="37" />
+        <mark key="." line="62" column="37" />
+        <mark key="^" line="62" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" timestamp="1517507723376">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="6" column="0" />
@@ -593,6 +617,13 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/perfmetrics/PerformanceMetricsUtil.h" timestamp="1515073285067">
         <mark key="'" line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeWeb.js" timestamp="1518117326971">
+        <mark key="'" line="297" column="0" />
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="41" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/renderer/OffScreenSceneGraphManager.cpp" timestamp="1509106753802">
         <mark key="'" line="237" column="25" />
       </file>
@@ -630,12 +661,15 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/cmakescripts/create-monolith.cmake" timestamp="1503663069607">
         <mark key="'" line="82" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/hjdocs/public/input-api.md" timestamp="1517504293733">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="124" column="121" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2FrameBufferObject.h" timestamp="1494603590831">
         <mark key="'" line="23" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTestRunner.js" timestamp="1518117569380">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="65" />
+        <mark key="]" line="9" column="65" />
+        <mark key="^" line="7" column="91" />
+        <mark key="." line="9" column="65" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/include/ota/PluginOTA.h" timestamp="1513696595678">
         <mark key="'" line="41" column="27" />
@@ -661,8 +695,8 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SecureStorageBackendContext.cpp" timestamp="1511545303051">
         <mark key="'" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.h" timestamp="1517246784300">
-        <mark key="'" line="161" column="19" />
+      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.h" timestamp="1518112168721">
+        <mark key="'" line="266" column="6" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.font/internal/platform/linux/cmakescripts/build.cmake" timestamp="1497968636514">
         <mark key="'" line="7" column="7" />
@@ -712,11 +746,20 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" timestamp="1501251410829">
         <mark key="'" line="28" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/libs/duktape/duktape/extras/console/duk_console.h" timestamp="1518116948215">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/src/renderer/OffScreenSceneGraphManager.cpp" timestamp="1501062737210">
         <mark key="'" line="90" column="48" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/errors/CrashDataMap.h" timestamp="1513013323066">
         <mark key="'" line="45" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/libs/duktape/duktape/extras/console/duk_console.c" timestamp="1518118155206">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/ignition-android/ignition/src/main/java/com/amazon/ignition/IgnitionApplication.java" timestamp="1502117835437">
         <mark key="'" line="57" column="16" />
@@ -727,8 +770,15 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/path/TemplatedPluginPathBuilder.cpp" timestamp="1512036495427">
         <mark key="'" line="88" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" timestamp="1516712883089">
-        <mark key="'" line="576" column="53" />
+      <file name="$USER_HOME$/dev/ignite/install/bin/SimpleTestRunner.js" timestamp="1518114260186">
+        <mark key="'" line="1" column="58" />
+        <mark key="[" line="7" column="75" />
+        <mark key="]" line="7" column="75" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="7" column="75" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" timestamp="1518113811830">
+        <mark key="'" line="338" column="49" />
         <mark key="[" line="663" column="5" />
         <mark key="]" line="663" column="4" />
         <mark key="^" line="663" column="4" />
@@ -788,6 +838,9 @@
         <mark key="." line="13" column="9" />
         <mark key="^" line="13" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/libs/duktape/duktape/duktape.h" timestamp="1518115872977">
+        <mark key="'" line="469" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/errors/ICrashDataCollector.h" timestamp="1513013741523">
         <mark key="'" line="24" column="29" />
       </file>
@@ -802,6 +855,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/DefaultDeviceTypeProvider.cpp" timestamp="1511261913681">
         <mark key="'" line="68" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/src/main.c" timestamp="1518115717701">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ci/doxygen/doxygen.cmake" timestamp="1499162535044">
         <mark key="'" line="142" column="0" />
@@ -854,18 +910,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/utils/TaggedBuffer.h" timestamp="1512050850449">
         <mark key="'" line="16" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/script_engine.h" timestamp="1517312477085">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="89" column="31" />
-        <mark key="." line="89" column="31" />
-        <mark key="^" line="89" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" timestamp="1517919867575">
-        <mark key="'" line="26" column="192" />
-        <mark key="[" line="143" column="210" />
-        <mark key="]" line="143" column="222" />
-        <mark key="." line="143" column="222" />
-        <mark key="^" line="143" column="222" />
+      <file name="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" timestamp="1518006744415">
+        <mark key="'" line="154" column="29" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/tests/SecureStorageBackendTest.cpp" timestamp="1512135431758">
         <mark key="'" line="112" column="0" />
@@ -1001,6 +1047,13 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.font/include/font/utils/ParseState.h" timestamp="1502981865728">
         <mark key="'" line="12" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" timestamp="1518117548409">
+        <mark key="'" line="1732" column="25" />
+        <mark key="[" line="1731" column="4" />
+        <mark key="]" line="1731" column="27" />
+        <mark key="." line="7778" column="40" />
+        <mark key="^" line="52135" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/PluginDeviceInfo.h" timestamp="1502285646175">
         <mark key="'" line="27" column="29" />
       </file>
@@ -1019,6 +1072,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/requestManager.js" timestamp="1513096014959">
         <mark key="'" line="67" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/duktape_engine.h" timestamp="1518115978333">
+        <mark key="'" line="23" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/ci/common/deliveries.cmake" timestamp="1499161998475">
         <mark key="'" line="61" column="18" />
       </file>
@@ -1027,6 +1083,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/tests/CMakeLists.txt" timestamp="1494499436457">
         <mark key="'" line="338" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/portingplatforms/roku/smoke_tests/get-pip.py" timestamp="1518107767299">
+        <mark key="'" line="200" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/common/platform/posix-gnuc/include/amazonite/PodTypes.h" timestamp="1501253604431">
         <mark key="'" line="18" column="17" />
@@ -1077,6 +1136,11 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/install/bin/AlexaReactNativeRuntimePrototype/js/EventSender.js" timestamp="1518114003122">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/allocator/TagAllocator.cpp" timestamp="1512051237594">
         <mark key="'" line="144" column="16" />
@@ -1136,6 +1200,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/assets/launch" timestamp="1494407539106">
         <mark key="'" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" timestamp="1518114812425">
+        <mark key="'" line="32294" column="53" />
+        <mark key="[" line="32291" column="0" />
+        <mark key="]" line="32296" column="79" />
+      </file>
       <file name="$USER_HOME$/dev/iglg/devicelg/implementation/lg/internal/src/SDLDisplayContext.cpp" timestamp="1501077304523">
         <mark key="'" line="324" column="24" />
       </file>
@@ -1182,8 +1251,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/display/GLES2DisplayContext.cpp" timestamp="1499792664973">
         <mark key="'" line="61" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/duktape_engine.cpp" timestamp="1517248319307">
-        <mark key="'" line="71" column="27" />
+      <file name="$USER_HOME$/dev/ignite/src/duktape_engine.cpp" timestamp="1518116883750">
+        <mark key="'" line="0" column="24" />
+        <mark key="[" line="84" column="31" />
+        <mark key="]" line="84" column="31" />
+        <mark key="^" line="84" column="27" />
+        <mark key="." line="84" column="31" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/src/cache/MultiLevelCache.cpp" timestamp="1512644095417">
         <mark key="'" line="59" column="8" />
@@ -1380,12 +1453,12 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/device/include/device/av_display.h" timestamp="1499170753214">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/CMakeLists.txt" timestamp="1516972970315">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="26" />
-        <mark key="^" line="16" column="4" />
-        <mark key="." line="16" column="26" />
+      <file name="$USER_HOME$/dev/ignite/CMakeLists.txt" timestamp="1518116848392">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="53" column="37" />
+        <mark key="]" line="53" column="44" />
+        <mark key="^" line="53" column="44" />
+        <mark key="." line="53" column="44" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" timestamp="1512647905373">
         <mark key="'" line="73" column="63" />
@@ -1396,8 +1469,21 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/IHeapAllocator.h" timestamp="1513076232815">
         <mark key="'" line="25" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/EventSender.js" timestamp="1518115562784">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.player/internal/platform/android/src/player/AndroidPlayerPlatform.cpp" timestamp="1502118068355">
         <mark key="'" line="48" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/SimpleTestRunner.js" timestamp="1518115183985">
+        <mark key="'" line="8" column="50" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="32" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/path/TemplatedPluginPathBuilder.h" timestamp="1496317518515">
         <mark key="'" line="28" column="52" />
@@ -1467,113 +1553,113 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="90" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="87" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="86" column="32" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="131" column="36" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="98" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="97" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="95" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="96" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="99" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="103" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="136" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="189" column="152" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="80" column="106" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="149" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="151" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="156" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="158" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="160" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="162" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="164" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="166" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="200" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="23" column="22" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="56" column="17" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="58" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="227" column="31" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="49" column="23" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="106" column="19" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="157" column="19" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="15" column="4" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="115" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="266" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="257" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="248" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="246" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="242" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="258" column="16" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="261" column="16" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="170" column="14" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="138" column="24" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="192" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="196" column="39" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="201" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="202" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="210" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="214" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="216" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="219" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="233" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="237" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="239" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="273" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="229" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="292" column="4" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="101" column="4" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="278" column="3" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="324" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="13" column="33" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="206" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="207" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="238" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="243" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="250" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="252" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="254" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="224" column="41" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="276" column="21" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="225" column="21" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="228" column="70" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="230" column="72" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="215" column="21" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="223" column="4" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="226" column="4" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="271" column="10" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="220" column="10" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="288" column="269" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="300" column="114" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="290" column="116" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="255" column="62" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="211" column="10" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="222" column="4" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="262" column="10" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="48" column="19" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="84" column="23" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="205" column="19" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="256" column="19" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="287" column="23" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="8" column="4" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="16" column="15" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="22" column="4" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="42" column="4" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="68" column="321" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="59" column="10" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
-      <jump line="26" column="192" filename="$USER_HOME$/dev/hjdocs/public/remote-controller-narrative.md" />
+      <jump line="200" column="28" filename="$USER_HOME$/dev/ignite/examples/snake.js" />
+      <jump line="201" column="29" filename="$USER_HOME$/dev/ignite/examples/snake.js" />
+      <jump line="230" column="12" filename="$USER_HOME$/dev/ignite/examples/snake.js" />
+      <jump line="243" column="16" filename="$USER_HOME$/dev/ignite/examples/snake.js" />
+      <jump line="250" column="12" filename="$USER_HOME$/dev/ignite/examples/snake.js" />
+      <jump line="260" column="20" filename="$USER_HOME$/dev/ignite/examples/snake.js" />
+      <jump line="265" column="24" filename="$USER_HOME$/dev/ignite/examples/snake.js" />
+      <jump line="268" column="16" filename="$USER_HOME$/dev/ignite/examples/snake.js" />
+      <jump line="274" column="12" filename="$USER_HOME$/dev/ignite/examples/snake.js" />
+      <jump line="328" column="23" filename="$USER_HOME$/dev/ignite/examples/snake.js" />
+      <jump line="333" column="27" filename="$USER_HOME$/dev/ignite/examples/snake.js" />
+      <jump line="199" column="24" filename="$USER_HOME$/dev/ignite/examples/snake.js" />
+      <jump line="347" column="4" filename="$USER_HOME$/dev/ignite/examples/snake.js" />
+      <jump line="23" column="28" filename="$USER_HOME$/dev/ignite/install/bin/SimpleTestRunner.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/ignite/install/bin/SimpleTestRunner.js" />
+      <jump line="308" column="8" filename="$USER_HOME$/dev/ignite/install/bin/SimpleTestRunner.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/install/bin/SimpleTestRunner.js" />
+      <jump line="346" column="17" filename="$USER_HOME$/dev/ignite/install/bin/SimpleTestRunner.js" />
+      <jump line="294" column="0" filename="$USER_HOME$/dev/ignite/install/bin/SimpleTestRunner.js" />
+      <jump line="9" column="50" filename="$USER_HOME$/dev/ignite/install/bin/SimpleTestRunner.js" />
+      <jump line="1" column="28" filename="$USER_HOME$/dev/ignite/install/bin/SimpleTestRunner.js" />
+      <jump line="266" column="6" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="892" column="26" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="855" column="26" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="858" column="5" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="338" column="49" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
+      <jump line="17" column="58" filename="$USER_HOME$/dev/ignite/install/bin/SimpleTestRunner.js" />
+      <jump line="6" column="32" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTestRunner.js" />
+      <jump line="80" column="40" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="31918" column="0" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="32312" column="0" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="31224" column="13" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="31185" column="4" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="31248" column="15" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="31390" column="13" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="31211" column="4" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="31212" column="16" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="31032" column="11" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="31240" column="4" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="31024" column="4" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="31025" column="16" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="30906" column="27" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="32296" column="47" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="31863" column="33" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="30960" column="15" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="32294" column="53" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="6" column="46" filename="$USER_HOME$/dev/ignite/SimpleTestRunner.js" />
+      <jump line="97" column="2" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/web/ReactNativeWeb.js" />
+      <jump line="7" column="46" filename="$USER_HOME$/dev/ignite/SimpleTestRunner.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="52133" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="8" column="50" filename="$USER_HOME$/dev/ignite/SimpleTestRunner.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTestRunner.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="1" column="19" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTestRunner.js" />
+      <jump line="39" column="29" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/EventSender.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/EventSender.js" />
+      <jump line="52134" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="52086" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="52135" column="16" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/src/main.c" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTestRunner.js" />
+      <jump line="7778" column="9" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="7779" column="30" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="7790" column="82" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="9057" column="18" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="7784" column="18" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="7758" column="9" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="469" column="13" filename="$USER_HOME$/dev/ignite/libs/duktape/duktape/duktape.h" />
+      <jump line="23" column="6" filename="$USER_HOME$/dev/ignite/src/duktape_engine.h" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
+      <jump line="50" column="29" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
+      <jump line="112" column="22" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
+      <jump line="101" column="0" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
+      <jump line="0" column="24" filename="$USER_HOME$/dev/ignite/src/duktape_engine.cpp" />
+      <jump line="12" column="20" filename="$USER_HOME$/dev/ignite/src/duktape_engine.h" />
+      <jump line="75" column="5" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
+      <jump line="1734" column="28" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="1735" column="27" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="32" column="16" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/web/ReactNativeWeb.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeWeb.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeWeb.js" />
+      <jump line="142" column="12" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeWeb.js" />
+      <jump line="175" column="12" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeWeb.js" />
+      <jump line="226" column="17" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeWeb.js" />
+      <jump line="5" column="11" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeWeb.js" />
+      <jump line="9" column="11" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeWeb.js" />
+      <jump line="18" column="16" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeWeb.js" />
+      <jump line="63" column="12" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeWeb.js" />
+      <jump line="98" column="12" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeWeb.js" />
+      <jump line="49" column="12" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeWeb.js" />
+      <jump line="297" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeWeb.js" />
+      <jump line="1732" column="25" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="2877" column="7" filename="$USER_HOME$/dev/ignite/libs/duktape/duktape/duk_config.h" />
+      <jump line="103" column="0" filename="$USER_HOME$/dev/ignite/libs/duktape/duktape/duk_config.h" />
+      <jump line="2880" column="7" filename="$USER_HOME$/dev/ignite/libs/duktape/duktape/duk_config.h" />
+      <jump line="78" column="11" filename="$USER_HOME$/dev/ignite/libs/duktape/duktape/extras/console/duk_console.c" />
+      <jump line="82" column="11" filename="$USER_HOME$/dev/ignite/libs/duktape/duktape/extras/console/duk_console.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/libs/duktape/duktape/extras/console/duk_console.c" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>build a list of unique characters while it should try to include all the duplication.</text>
+        <text>undef</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1607,7 +1693,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>build a list of unique characters while it should try to include all the duplication.</text>
+        <text>undef</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1647,13 +1733,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZW5lcmljXD4=</text>
+        <text encoding="base64">XDxkdWtfX2NvbnNvbGVfbG9nX2hlbHBlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbaW5pdC5qc10gYXMga2NkNwo=</text>
+        <text encoding="base64">c2V0KFJPT1RfU09VUkNFX0RJUiAiJHtDTUFLRV9DVVJSRU5UX1NPVVJDRV9ESVJ9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SXQgc2hvdWxkIGJlIHRoZSBvcHBvc2l0ZS4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcqKipVTklNUExFTUVOVEVEKioqIHNldFNlbmRJZGxlRXZlbnRzIGZsYWc6ICcgKyBmbGFnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1664,25 +1750,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SW4gYEdldFBvc2l0aW9uc2AsIGl0IHNoCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJyoqKlVOSU1QTEVNRU5URUQqKiogc2V0U2VuZElkbGVFdmVudHMgZmxhZzogJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YHdoaWxlKGlucHV0TGlzdC5Db3VudCgpPjEpO2AgY291bGQgbG9vcCBlbmRsZXNzbHkuCg==</text>
+        <text encoding="base64">ICAgIC8vIGJvcmRlcgogICAgaWYgKHN0eWxlT2JqZWN0LmJvcmRlckJvdHRvbVdpZHRoKSB7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5ib3JkZXJCb3R0b21XaWR0aCA9IHN0eWxlT2JqZWN0LmJvcmRlckJvdHRvbVdpZHRoOwogICAgICAgIGRvbU5vZGUuc3R5bGUuYm9yZGVyQm90dG9tU3R5bGUgPSAnc29saWQnOwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0LmJvcmRlckJvdHRvbUNvbG9yKSB7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5ib3JkZXJCb3R0b21Db2xvciA9IGNvbG9yQXNTdHJpbmcoc3R5bGVPYmplY3QuYm9yZGVyQm90dG9tQ29sb3IpOwogICAgICAgIGRvbU5vZGUuc3R5bGUuYm9yZGVyQm90dG9tU3R5bGUgPSAnc29saWQnOwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0LmJvcmRlckJvdHRvbVN0eWxlKSB7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5ib3JkZXJCb3R0b21TdHlsZSA9IHN0eWxlT2JqZWN0LmJvcmRlckJvdHRvbVN0eWxlOwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0LmJvcmRlclRvcFdpZHRoKSB7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5ib3JkZXJUb3BXaWR0aCA9IHN0eWxlT2JqZWN0LmJvcmRlclRvcFdpZHRoOwogICAgICAgIGRvbU5vZGUuc3R5bGUuYm9yZGVyVG9wU3R5bGUgPSAnc29saWQnOwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0LmJvcmRlclRvcENvbG9yKSB7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5ib3JkZXJUb3BDb2xvciA9IGNvbG9yQXNTdHJpbmcoc3R5bGVPYmplY3QuYm9yZGVyVG9wQ29sb3IpOwogICAgICAgIGRvbU5vZGUuc3R5bGUuYm9yZGVyVG9wU3R5bGUgPSAnc29saWQnOwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0LmJvcmRlclRvcFN0eWxlKSB7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5ib3JkZXJUb3BTdHlsZSA9IHN0eWxlT2JqZWN0LmJvcmRlclRvcFN0eWxlOwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0LmJvcmRlclJhZGl1cykgewogICAgICAgIGRvbU5vZGUuc3R5bGUuYm9yZGVyUmFkaXVzID0gc3R5bGVPYmplY3QuYm9yZGVyUmFkaXVzICsgJ3B4JzsKICAgICAgICBkb21Ob2RlLnN0eWxlLmJvcmRlclN0eWxlID0gJ3NvbGlkJzsKICAgIH0KICAgIGlmIChzdHlsZU9iamVjdC5ib3JkZXJXaWR0aCkgewogICAgICAgIGRvbU5vZGUuc3R5bGUuYm9yZGVyV2lkdGggPSBzdHlsZU9iamVjdC5ib3JkZXJXaWR0aDsKICAgICAgICBkb21Ob2RlLnN0eWxlLmJvcmRlclN0eWxlID0gJ3NvbGlkJzsKICAgIH0KICAgIGlmIChzdHlsZU9iamVjdC5ib3JkZXJDb2xvcikgewogICAgICAgIGRvbU5vZGUuc3R5bGUuYm9yZGVyQ29sb3IgPSBjb2xvckFzU3RyaW5nKHN0eWxlT2JqZWN0LmJvcmRlckNvbG9yKTsKICAgICAgICBkb21Ob2RlLnN0eWxlLmJvcmRlclN0eWxlID0gJ3NvbGlkJzsKICAgIH0KICAgIGlmIChzdHlsZU9iamVjdC5ib3JkZXJTdHlsZSkgewogICAgICAgIGRvbU5vZGUuc3R5bGUuYm9yZGVyU3R5bGUgPSBzdHlsZU9iamVjdC5ib3JkZXJTdHlsZTsKICAgIH0KCiAgICAvLyBmbGV4Ym94CiAgICAvLyBSZWFjdCBOYXRpdmUgZG9lc24ndCBzcGVjaWZ5ICJkaXNwbGF5OmZsZXgiIGJlY2F1c2UgaXQgb25seSBzdXBwb3J0cyBmbGV4Ym94CiAgICAvLyBXaGVuIHdlIHNlZSBhIGNvbnRhaW5lciBwcm9wZXJ0eSwgd2UgYWRkICJkaXNwbGF5OiBmbGV4IgogICAgLy8gVGhlIGRlZmF1bHQgZm9yIFJlYWN0IE5hdGl2ZSAoWW9nYSkgaXMgZmxleCBkaXJlY3Rpb24gImNvbHVtbiIsIGJ1dCBmb3IgYnJvd3NlcnMKICAgIC8vIHRoZSBkZWZhdWx0IGlzICJyb3ciIHNvIHdlIHNldCBkaXJlY3Rpb24gdG8gImNvbHVtbiIgYW5kIGFsbG93IGl0IHRvIGJlIG92ZXJyaWRkZW4KICAgIGlmIChzdHlsZU9iamVjdC5mbGV4V3JhcCkgewogICAgICAgIGRvbU5vZGUuc3R5bGUuZmxleFdyYXAgPSBzdHlsZU9iamVjdC5mbGV4V3JhcDsKICAgICAgICBkb21Ob2RlLnN0eWxlLmZsZXhEaXJlY3Rpb24gPSAnY29sdW1uJzsKICAgICAgICBkb21Ob2RlLnN0eWxlLmRpc3BsYXkgPSAnZmxleCc7CiAgICB9CiAgICBpZiAoc3R5bGVPYmplY3QuanVzdGlmeUNvbnRlbnQpIHsKICAgICAgICBkb21Ob2RlLnN0eWxlLmp1c3RpZnlDb250ZW50ID0gc3R5bGVPYmplY3QuanVzdGlmeUNvbnRlbnQ7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5mbGV4RGlyZWN0aW9uID0gJ2NvbHVtbic7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5kaXNwbGF5ID0gJ2ZsZXgnOwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0LmFsaWduSXRlbXMpIHsKICAgICAgICBkb21Ob2RlLnN0eWxlLmFsaWduSXRlbXMgPSBzdHlsZU9iamVjdC5hbGlnbkl0ZW1zOwogICAgICAgIGRvbU5vZGUuc3R5bGUuZmxleERpcmVjdGlvbiA9ICdjb2x1bW4nOwogICAgICAgIGRvbU5vZGUuc3R5bGUuZGlzcGxheSA9ICdmbGV4JzsKICAgIH0KICAgIGlmIChzdHlsZU9iamVjdC5hbGlnbkNvbnRlbnQpIHsKICAgICAgICBkb21Ob2RlLnN0eWxlLmFsaWduQ29udGVudCA9IHN0eWxlT2JqZWN0LmFsaWduQ29udGVudDsKICAgICAgICBkb21Ob2RlLnN0eWxlLmZsZXhEaXJlY3Rpb24gPSAnY29sdW1uJzsKICAgICAgICBkb21Ob2RlLnN0eWxlLmRpc3BsYXkgPSAnZmxleCc7CiAgICB9CiAgICAvLyB0aGlzIG11c3QgYmUgbGFzdCBzaW5jZSB0aGUgYWJvdmUgZnVuY3Rpb25zIGZvcmNlIGZsZXhEaXJlY3Rpb24gdG8gJ2NvbHVtbicKICAgIGlmIChzdHlsZU9iamVjdC5mbGV4RGlyZWN0aW9uKSB7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5mbGV4RGlyZWN0aW9uID0gc3R5bGVPYmplY3QuZmxleERpcmVjdGlvbjsKICAgICAgICBkb21Ob2RlLnN0eWxlLmRpc3BsYXkgPSAnZmxleCc7CiAgICB9CgogICAgLy8gZmxleGJveCBjaGlsZCBwcm9wZXJ0aWVzCiAgICBpZiAoc3R5bGVPYmplY3QuZmxleCkgewogICAgICAgIGRvbU5vZGUuc3R5bGUuZmxleCA9IHN0eWxlT2JqZWN0LmZsZXg7CiAgICB9CiAgICBpZiAoc3R5bGVPYmplY3QuYWxpZ25TZWxmKSB7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5hbGlnblNlbGYgPSBzdHlsZU9iamVjdC5hbGlnblNlbGY7CiAgICB9CgogICAgLy8gc2l6ZQogICAgaWYgKHN0eWxlT2JqZWN0LnBvc2l0aW9uKSB7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5wb3NpdGlvbiA9IHN0eWxlT2JqZWN0LnBvc2l0aW9uOwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0LndpZHRoKSB7CiAgICAgICAgZG9tTm9kZS5zdHlsZS53aWR0aCA9IHN0eWxlT2JqZWN0LndpZHRoOwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0LmhlaWdodCkgewogICAgICAgIGRvbU5vZGUuc3R5bGUuaGVpZ2h0ID0gc3R5bGVPYmplY3QuaGVpZ2h0OwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0Lm1heFdpZHRoKSB7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5tYXhXaWR0aCA9IHN0eWxlT2JqZWN0Lm1heFdpZHRoOwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0Lm1heEhlaWdodCkgewogICAgICAgIGRvbU5vZGUuc3R5bGUubWF4SGVpZ2h0ID0gc3R5bGVPYmplY3QubWF4SGVpZ2h0OwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0Lm1pbldpZHRoKSB7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5taW5XaWR0aCA9IHN0eWxlT2JqZWN0Lm1pbldpZHRoOwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0Lm1pbkhlaWdodCkgewogICAgICAgIGRvbU5vZGUuc3R5bGUubWluSGVpZ2h0ID0gc3R5bGVPYmplY3QubWluSGVpZ2h0OwogICAgfQoKICAgIC8vIG1hcmdpbgogICAgaWYgKHN0eWxlT2JqZWN0Lm1hcmdpbikgewogICAgICAgIGRvbU5vZGUuc3R5bGUubWFyZ2luID0gc3R5bGVPYmplY3QubWFyZ2luOwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0Lm1hcmdpbkJvdHRvbSkgewogICAgICAgIGRvbU5vZGUuc3R5bGUubWFyZ2luQm90dG9tID0gc3R5bGVPYmplY3QubWFyZ2luQm90dG9tOwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0Lm1hcmdpbkxlZnQpIHsKICAgICAgICBkb21Ob2RlLnN0eWxlLm1hcmdpbkxlZnQgPSBzdHlsZU9iamVjdC5tYXJnaW5MZWZ0OwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0Lm1hcmdpblJpZ2h0KSB7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5tYXJnaW5SaWdodCA9IHN0eWxlT2JqZWN0Lm1hcmdpblJpZ2h0OwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0Lm1hcmdpblRvcCkgewogICAgICAgIGRvbU5vZGUuc3R5bGUubWFyZ2luVG9wID0gc3R5bGVPYmplY3QubWFyZ2luVG9wOwogICAgfQoKICAgIC8vIHBhZGRpbmcKICAgIGlmIChzdHlsZU9iamVjdC5wYWRkaW5nKSB7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5wYWRkaW5nID0gc3R5bGVPYmplY3QucGFkZGluZzsKICAgIH0KCiAgICAvLyBjb2xvcgogICAgaWYgKHN0eWxlT2JqZWN0LmJhY2tncm91bmRDb2xvcikgewogICAgICAgIGRvbU5vZGUuc3R5bGUuYmFja2dyb3VuZENvbG9yID0gY29sb3JBc1N0cmluZyhzdHlsZU9iamVjdC5iYWNrZ3JvdW5kQ29sb3IpOwogICAgfQogICAgaWYgKHN0eWxlT2JqZWN0LmNvbG9yKSB7CiAgICAgICAgZG9tTm9kZS5zdHlsZS5jb2xvciA9IGNvbG9yQXNTdHJpbmcoc3R5bGVPYmplY3QuY29sb3IpOwogICAgfQoKICAgIGRvbU5vZGUuc3R5bGUubWF4SGVpZ2h0ID0gJzEwMCUnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFWX1JDVV9BQ1RJT05fUExBWSA9IDEyNCwKICAgIC8vIC4uLgo=</text>
+        <text encoding="base64">Ly8gY3JlYXRlIHRoZSB0b3AgbGV2ZWwgY29udGFpbmVyCnZhciBjb250YWluZXIgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdkaXYnKTsKY29udGFpbmVyLnN0eWxlLmRpc3BsYXkgPSAnZmxleCc7CmNvbnRhaW5lci5zdHlsZS5mbGV4ID0gJzEnOwpjb250YWluZXIuc3R5bGUuZmxleERpcmVjdGlvbiA9ICdjb2x1bW4nOwpjb250YWluZXIuc3R5bGUub3ZlcmZsb3cgPSAnb3ZlcmxheSc7CmNvbnRhaW5lci5zdHlsZS5taW5IZWlnaHQgPSAnMTAwJSc7CmJvZHkuYXBwZW5kQ2hpbGQoY29udGFpbmVyKTsKCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIC4uLgo=</text>
+        <text encoding="base64">Ly8gZ2V0IHRoZSBib2R5CnZhciBib2R5ID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2JvZHknKVswXTsKYm9keS5zdHlsZS5iYWNrZ3JvdW5kQ29sb3IgPSAnIzAwMDAwMCc7CmJvZHkuc3R5bGUubWFyZ2luID0gMDsKYm9keS5zdHlsZS5kaXNwbGF5ID0gJ2ZsZXgnOwpib2R5LnN0eWxlLmZsZXggPSAnMSc7CmJvZHkuc3R5bGUuZmxleERpcmVjdGlvbiA9ICdjb2x1bW4nOwpib2R5LnN0eWxlLmhlaWdodCA9ICcxMDAlJzsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGh0bWwgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaHRtbCcpWzBdOwpodG1sLnN0eWxlLm1pbkhlaWdodCA9ICcxMDAlJzsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U2luY2UgQW1hem9uIFZpZGVvIGFwcGxpY2F0aW9uCg==</text>
+        <text encoding="base64">TmF0aXZlLlByaW50KCdsb2FkZWQgRXZlbnRTZW5kZXInKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5537,10 +5623,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlICJhY3Rpb24gY29kZSBkZWZpbml0aW9uXG4gKyBkZXZlbG9wbWVudCBhY3Rpb24gY29kZXMiIGFzIGtjZDgK</text>
+        <text encoding="base64">TmF0aXZlLlByaW50KCdsb2FkZWQgU2ltcGxlVGVzdCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlICJrZXkgY29kZSBkZWZpbml0aW9uIiBhcyBrY2QyCg==</text>
+        <text encoding="base64">ICAgIGV2YWwoTmF0aXZlLlJlYWRGaWxlKCdBbGV4YVJlJykpOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">CiMgTG9hZCBkZXZpY2UgbGF5ZXIgbGlicmFyeSBhbmQgdXNlIGRldmljZSBBUElzIGZyb20gaXQKQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURVU0VfREVWSUNFX0xBWUVSPVlFUyIKCiMgVXNlIERQQyB0byBnZXQgaW5mb3JtYXRpb24gZnJvbSBkZXZpY2VzLgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRFVTRV9ERVZJQ0VfUFJPUEVSVElFU19DT01QT05FTlQ9WUVTIgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRERFVklDRV9QUk9QRVJUSUVTX1BST1ZJREVSX0xPQ0FUSU9OPSQiCg==</text>
@@ -5550,36 +5636,36 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZW5lcmljXD4=</last-search>
+      <last-search encoding="base64">XDxkdWtfX2NvbnNvbGVfbG9nX2hlbHBlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZW5lcmljXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkdWtfX2NvbnNvbGVfbG9nX2hlbHBlclw+</last-pattern>
       <last-replace />
-      <last-substitute encoding="base64">XDxJbnRlcnBldGVyXD4=</last-substitute>
+      <last-substitute>option</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzMVw+</entry>
-        <entry encoding="base64">XDxrY2Q5XD4=</entry>
-        <entry encoding="base64">XDxrY2QxXD4=</entry>
-        <entry encoding="base64">XDxrZXlcPg==</entry>
-        <entry encoding="base64">XDxDbGllbnRcPg==</entry>
-        <entry encoding="base64">XDxJbnRlcnBldGVyXD4=</entry>
-        <entry encoding="base64">XDxzdmdcPg==</entry>
-        <entry encoding="base64">XDxJbWFnZXNcPg==</entry>
-        <entry encoding="base64">XDxEZXZlbG9wbWVudFw+</entry>
-        <entry encoding="base64">XDxhY3Rpb25cPg==</entry>
-        <entry encoding="base64">XDxSZWNvbW1lbmRhdGlvblw+</entry>
-        <entry encoding="base64">XDxvYmplY3RpdmVjXD4=</entry>
-        <entry encoding="base64">XDxrY2Q3XD4=</entry>
-        <entry encoding="base64">XDxrY2Q4XD4=</entry>
-        <entry encoding="base64">XDxrY2Q2XD4=</entry>
-        <entry encoding="base64">XDxrY2Q1XD4=</entry>
-        <entry encoding="base64">XDxwYWNrYWdlXD4=</entry>
-        <entry encoding="base64">XDxUT0RPXD4=</entry>
-        <entry encoding="base64">XDxTZXJ2ZXJcPg==</entry>
-        <entry encoding="base64">XDxHZW5lcmljXD4=</entry>
+        <entry encoding="base64">XDxOYXRpdmVcPg==</entry>
+        <entry encoding="base64">XDxIYW5kbGVJbnB1dFw+</entry>
+        <entry encoding="base64">XDxOYXRpdmVfUnVuTHVhRmlsZUluTmV3Q29udGV4dFw+</entry>
+        <entry encoding="base64">XDxidWlsZE5vZGVJbmZvXD4=</entry>
+        <entry encoding="base64">XDxyZW5kZXJGb2N1c1JlbmRlcmFibGVXaXRoTGFiZWxEaW1lbnNpb25cPg==</entry>
+        <entry encoding="base64">XDxyZW5kZXJPYmplY3RcPg==</entry>
+        <entry encoding="base64">XDxkcmF3U29ydGVkTm9kZVJlbmRlcmFibGVzXD4=</entry>
+        <entry encoding="base64">XDxkcmF3Tm9kZVJlbmRlcmFibGVzXD4=</entry>
+        <entry encoding="base64">XDxpbnN0YWxsQ29uc29sZUVycm9yUmVwb3J0ZXJcPg==</entry>
+        <entry encoding="base64">XDxyZWFjdENvbnNvbGVFcnJvckhhbmRsZXJcPg==</entry>
+        <entry>console</entry>
+        <entry encoding="base64">XDxkdWt0YXBlXD4=</entry>
+        <entry>duktape</entry>
+        <entry encoding="base64">XDxfX2ZiQmF0Y2hlZEJyaWRnZUNvbmZpZ1w+</entry>
+        <entry>document</entry>
+        <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
+        <entry encoding="base64">XDxuYXRpdmVNb2R1bGVQcm94eVw+</entry>
+        <entry>DUK_USE_GLOBAL_BINDING</entry>
+        <entry encoding="base64">XDxEVUtfVVNFX0dMT0JBTF9CSU5ESU5HXD4=</entry>
+        <entry encoding="base64">XDxkdWtfX2NvbnNvbGVfbG9nX2hlbHBlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
