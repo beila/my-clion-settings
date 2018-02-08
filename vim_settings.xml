@@ -1040,8 +1040,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.texttospeech/external/src/ignition/texttospeech/PluginTextToSpeech.cpp" timestamp="1512657178881">
         <mark key="'" line="111" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" timestamp="1517928933435">
-        <mark key="'" line="563" column="8" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" timestamp="1517936598697">
+        <mark key="'" line="462" column="48" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2Api.cpp" timestamp="1507112793361">
         <mark key="'" line="28" column="7" />
@@ -1453,24 +1453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="8" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="89" column="19" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="114" column="6" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="42" column="5" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="8" column="27" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="81" column="2" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="131" column="13" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="136" column="10" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="18" column="26" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="98" column="3" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="97" column="3" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="117" column="12" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="108" column="33" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="94" column="3" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="130" column="3" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="133" column="31" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
-      <jump line="19" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
       <jump line="147" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
       <jump line="52" column="22" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
       <jump line="119" column="0" filename="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" />
@@ -1553,6 +1535,24 @@
       <jump line="403" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
       <jump line="409" column="24" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
       <jump line="563" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="577" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="456" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="350" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="330" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="324" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="360" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="404" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="454" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="329" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="331" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="382" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="405" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="458" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="477" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="547" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="228" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="546" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="462" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1633,7 +1633,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2VuZE5leHRNZXNzYWdlXD4=</text>
+        <text encoding="base64">XDxfd2Vic29ja2V0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>https://w.amazon.com/bin/view/Amazon_Video/Distribution/AVPK/Design/BroadcomReference/#HRelationtoexternalentities</text>
@@ -1684,9 +1684,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2VuZE5leHRNZXNzYWdlXD4=</last-search>
+      <last-search encoding="base64">XDxfd2Vic29ja2V0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2VuZE5leHRNZXNzYWdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfd2Vic29ja2V0XD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxmaWxlTmFtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1694,8 +1694,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjM1w+</entry>
-        <entry encoding="base64">XDxjNFw+</entry>
         <entry encoding="base64">XDxDcnlwdG9cPg==</entry>
         <entry encoding="base64">XDxjNVw+</entry>
         <entry encoding="base64">XDxJUjE0XD4=</entry>
@@ -1714,6 +1712,8 @@
         <entry encoding="base64">XDxkaXNjb25uZWN0XD4=</entry>
         <entry encoding="base64">XDxfbWVzc2FnZVF1ZXVlXD4=</entry>
         <entry encoding="base64">XDxfc2VuZE5leHRNZXNzYWdlXD4=</entry>
+        <entry>_websocket</entry>
+        <entry encoding="base64">XDxfd2Vic29ja2V0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
