@@ -270,12 +270,10 @@
         <mark key="]" line="23" column="42" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" timestamp="1518177379333">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="62" column="112" />
-        <mark key="." line="62" column="112" />
-        <mark key="^" line="62" column="112" />
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" timestamp="1518179323296">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/LegacySecureStorage.h" timestamp="1512134549269">
         <mark key="'" line="0" column="0" />
@@ -386,8 +384,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/allocator/HighFilterAllocator.h" timestamp="1512051934908">
         <mark key="'" line="37" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" timestamp="1518178100751">
-        <mark key="'" line="23778" column="0" />
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" timestamp="1518180011531">
+        <mark key="'" line="6757" column="18" />
+        <mark key="[" line="32236" column="116" />
+        <mark key="]" line="32236" column="117" />
+        <mark key="." line="32236" column="117" />
+        <mark key="^" line="32236" column="117" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/MultiPoolAllocator.h" timestamp="1512128209658">
         <mark key="'" line="183" column="36" />
@@ -794,10 +796,12 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" timestamp="1512136101912">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/UIManager.js" timestamp="1518177598768">
-        <mark key="'" line="120" column="42" />
-        <mark key="[" line="98" column="162" />
-        <mark key="." line="98" column="66" />
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/UIManager.js" timestamp="1518179462803">
+        <mark key="'" line="53" column="4" />
+        <mark key="[" line="54" column="126" />
+        <mark key="]" line="54" column="127" />
+        <mark key="." line="54" column="127" />
+        <mark key="^" line="54" column="127" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/test_files.txt" timestamp="1493982510659">
         <mark key="'" line="0" column="0" />
@@ -1206,6 +1210,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/src/filesystem/LinuxFileSystemFacade.cpp" timestamp="1511279928111">
         <mark key="'" line="260" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" timestamp="1518180497589">
+        <mark key="'" line="68" column="42" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/cmakescripts/CMakeMacros.cmake" timestamp="1512054133191">
         <mark key="'" line="188" column="0" />
       </file>
@@ -1498,42 +1505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="577" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="456" column="29" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="350" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="330" column="35" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="324" column="26" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="360" column="20" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="404" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="454" column="33" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="329" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="331" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="382" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="405" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="458" column="22" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="477" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="547" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="228" column="4" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="546" column="12" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="462" column="48" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
-      <jump line="369" column="25" filename="$USER_HOME$/dev/ignite/src/function_binders.h" />
-      <jump line="59" column="18" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
-      <jump line="1576" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
-      <jump line="1734" column="28" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
-      <jump line="1735" column="27" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
-      <jump line="1733" column="7" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
-      <jump line="1731" column="11" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
-      <jump line="4" column="4" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/NativeModuleProxy.js" />
-      <jump line="14" column="38" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTestRunner.js" />
-      <jump line="59" column="2" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeIgnite.js" />
-      <jump line="228" column="34" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeIgnite.js" />
-      <jump line="486" column="34" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/web/ReactNativeWeb.js" />
-      <jump line="492" column="34" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/web/ReactNativeWeb.js" />
-      <jump line="1732" column="2" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
-      <jump line="52133" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
-      <jump line="52120" column="11" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
-      <jump line="263" column="10" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
-      <jump line="378" column="9" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
       <jump line="593" column="12" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
       <jump line="642" column="25" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
       <jump line="1642" column="21" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
@@ -1556,7 +1527,6 @@
       <jump line="125" column="6" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/UIManager.js" />
       <jump line="120" column="42" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/UIManager.js" />
       <jump line="52131" column="15" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
       <jump line="21732" column="28" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
       <jump line="22637" column="22" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
       <jump line="29382" column="57" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
@@ -1598,13 +1568,50 @@
       <jump line="21551" column="223" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
       <jump line="22355" column="81" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
       <jump line="23778" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="18" column="7" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
+      <jump line="19" column="40" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
+      <jump line="53" column="4" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/UIManager.js" />
+      <jump line="23811" column="30" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="21897" column="25" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="22659" column="59" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="23064" column="63" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="24785" column="7" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="24793" column="146" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="24799" column="15" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="24924" column="24" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="22661" column="25" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="24984" column="19" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="29291" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="29407" column="18" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="29413" column="25" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="31597" column="25" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="32241" column="25" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="6757" column="18" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="6763" column="25" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="6754" column="66" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="6765" column="25" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="21895" column="118" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="21900" column="25" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="22658" column="118" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="22665" column="25" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="29408" column="138" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="29412" column="18" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="29417" column="139" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="29419" column="25" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="31599" column="117" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="31604" column="25" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="32244" column="117" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="32249" column="25" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="6758" column="18" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
+      <jump line="68" column="42" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5pbnRlcnZhbE1hcFtpZF0pIHsKICAgICAgICAgICAgb3JpZ2luYWxDbGVhckludGVydmFsKHRoaXMuaW50ZXJ2YWxNYXBbaWRdKTsKICAgICAgICAgICAgZGVsZXRlIHRoaXMuaW50ZXJ2YWxNYXBbaWRdOwogICAgICAgIH0gZWxzZSBpZiAodGhpcy50aW1lb3V0TWFwW2lkXSkgewogICAgICAgICAgICBvcmlnaW5hbENsZWFyVGltZW91dCh0aGlzLnRpbWVvdXRNYXBbaWRdKTsKICAgICAgICAgICAgZGVsZXRlIHRoaXMudGltZW91dE1hcFtpZF07CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIG1vdW50Q29tcG9uZW50OiBmdW5jdGlvbiBtb3VudENvbXBvbmVudCh0cmFuc2FjdGlvbiwgaG9zdFBhcmVudCwgaG9zdENvbnRhaW5lckluZm8sIGNvbnRleHQpIHsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1638,7 +1645,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgJywgZHVyYXRpb246ICcgKyBkdXJhdGlvbiArICcsIHN0YXJ0VGltZTogJyArIHN0YXJ0VGltZSArICcsIHJlcGVhdDogJyArIHJlcGVhdA==</text>
+        <text encoding="base64">ICsgJywgcHJvcHM6ICcgKyBKU09OLnN0cmluZ2lmeShwcm9wcykpOw==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1678,13 +1685,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>array</text>
+        <text encoding="base64">XDxjcmVhdGVWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnTkFUSVZFX2NyZWF0ZVRpbWVyIGlkOiAnICsgaWQgKyAnLCBkdXJhdGlvbjogJyArIGR1cmF0aW9uICsgJywgc3RhcnRUaW1lOiAnICsgc3RhcnRUaW1lICsgJywgcmVwZWF0OiAnICsgcmVwZWF0KTsK</text>
+        <text encoding="base64">ICAgIG1vdW50Q29tcG9uZW50OiBmdW5jdGlvbiBtb3VudENvbXBvbmVudCh0cmFuc2FjdGlvbiwgaG9zdFBhcmVudCwgaG9zdENvbnRhaW5lckluZm8sIGNvbnRleHQpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5pbnRlcnZhbE1hcFtpZF0pIHsKICAgICAgICAgICAgb3JpZ2luYWxDbGVhckludGVydmFsKHRoaXMuaW50ZXJ2YWxNYXBbaWRdKTsKICAgICAgICAgICAgZGVsZXRlIHRoaXMuaW50ZXJ2YWxNYXBbaWRdOwogICAgICAgIH0gZWxzZSBpZiAodGhpcy50aW1lb3V0TWFwW2lkXSkgewogICAgICAgICAgICBvcmlnaW5hbENsZWFyVGltZW91dCh0aGlzLnRpbWVvdXRNYXBbaWRdKTsKICAgICAgICAgICAgZGVsZXRlIHRoaXMudGltZW91dE1hcFtpZF07CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBOYXRpdmUuUHJpbnQoInByb3BzOiAiICsgcHJvcHMpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1695,31 +1702,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBSZWFjdCBOYXRpdmUgcmVwbGFjZXMgc2V0SW50ZXJ2YWwgYW5kIHNldFRpbWVvdXQsIGFuZAogICAgICAgIC8vIGtlZXBzIHRoZSBvcmlnaW5hbHMgYXJvdW5kIHdpdGggZGlmZmVyZW50IG5hbWVzCiAgICAgICAgLy8gRm9yIHRoZSB3ZWIsIHdlIGNhbiB1c2UgdGhlIG9yaWdpbmFscwogICAgICAgIGlmIChyZXBlYXQpIHsKICAgICAgICAgICAgdGhpcy5pbnRlcnZhbE1hcFtpZF0gPSBvcmlnaW5hbFNldEludGVydmFsKGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgVGltZXJFeGVjdXRpb24uY2FsbFRpbWVyKGlkLCAwLCBmYWxzZSk7CiAgICAgICAgICAgIH0sIGR1cmF0aW9uKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB0aGlzLnRpbWVvdXRNYXBbaWRdID0gb3JpZ2luYWxTZXRUaW1lb3V0KGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgVGltZXJFeGVjdXRpb24uY2FsbFRpbWVyKGlkLCAwLCBmYWxzZSk7CiAgICAgICAgICAgIH0sIGR1cmF0aW9uKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBOYXRpdmUuUHJpbnQoInByb3BzOiAiICsgcHJvcHMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBOYXRpdmUuUHJpbnQoInByb3BzOiAiICsgcHJvcHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBmcmFtZXMgPSBKU09OLnBhcnNlKHZhbHVlcyk7CiAgICB2YXIgbm9kZSA9IHZpZXdzW3RhZ107CiAgICB2YXIgY3VySW5kZXggPSAwOwogICAgZnVuY3Rpb24gc3RlcCgpIHsKICAgICAgICBpZiAoY3VySW5kZXggPCBmcmFtZXMubGVuZ3RoKSB7CiAgICAgICAgICAgIGN1ckluZGV4Kys7CiAgICAgICAgICAgIG5vZGUuc3R5bGVbc3R5bGVOYW1lXSA9IGZyYW1lc1tjdXJJbmRleF07CiAgICAgICAgICAgIHJlcUFuaW1GcmFtZShzdGVwKTsKICAgICAgICB9CiAgICB9CiAgICByZXFBbmltRnJhbWUoc3RlcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciB2aWV3ID0gdmlld3NbdGFnXTsKICAgIHN1Y2Nlc3Modmlldy5vZmZzZXRMZWZ0LCB2aWV3Lm9mZnNldFRvcCwgdmlldy5vZmZzZXRXaWR0aCwgdmlldy5vZmZzZXRIZWlnaHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBwYXJlbnQgPSB2aWV3c1t0YWddIHx8IGNvbnRhaW5lcjsKCiAgICB2YXIgYyA9IEpTT04ucGFyc2UoY2hpbGRyZW4pOwogICAgZm9yICh2YXIgaSA9IDA7IGkgPCBjLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgdmFyIGNoaWxkVGFnID0gY1tpXTsKICAgICAgICB2YXIgY2hpbGROb2RlID0gdmlld3NbY2hpbGRUYWddOwogICAgICAgIGlmIChjaGlsZE5vZGUpIHsKICAgICAgICAgICAgcGFyZW50LmFwcGVuZENoaWxkKGNoaWxkTm9kZSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgY29uc29sZS5sb2coJ3Vua25vd24gY2hpbGQgbm9kZTogJyArIGNoaWxkVGFnKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZpZXdzW3RhZ10udGV4dENvbnRlbnQgPSB0ZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZpZXdzW3RhZ10gPSBkb2N1bWVudC5jcmVhdGVUZXh0Tm9kZSh0ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICB7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBkID0gdmlld3NbdGFnXTsKCiAgICAvLyBzZXQgc3R5bGVzIGJhc2VkIG9uIHByb3BlcnRpZXMKICAgIHZhciBwID0gSlNPTi5wYXJzZShwcm9wcyk7CiAgICBwYXJzZVN0eWxlKHAsIGQpOwogICAgaWYgKHAuZm9udFNpemUpIHsKICAgICAgICBkLnN0eWxlLmZvbnRTaXplID0gcC5mb250U2l6ZTsKICAgIH0KICAgIGlmIChwLmZvbnRXZWlnaHQpIHsKICAgICAgICBkLnN0eWxlLmZvbnRXZWlnaHQgPSBwLmZvbnRXZWlnaHQ7CiAgICB9CiAgICBpZiAocC50ZXh0QWxpZ24pIHsKICAgICAgICBkLnN0eWxlLnRleHRBbGlnbiA9IHAudGV4dEFsaWduOwogICAgfQo=</text>
+        <text encoding="base64">T2JqZWN0LmRlZmluZVByb3BlcnR5KE9iamVjdC5wcm90b3R5cGUsICdfX2RlZmluZUZvckVhY2hfXycsIHsKICAgIHZhbHVlOiBmdW5jdGlvbihuYW1lLCBmdW5jKSB7T2JqZWN0LmRlZmluZVByb3BlcnR5KHRoaXMsIG5hbWUsIHtmb3JFYWNoOiBmdW5jLCBlbnVtZXJhYmxlOiB0cnVlfSl9LAogICAgY29uZmlndXJhYmxlOiB0cnVlLAogICAgZW51bWVyYWJsZTogdHJ1ZQp9KTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">CiMgTG9hZCBkZXZpY2UgbGF5ZXIgbGlicmFyeSBhbmQgdXNlIGRldmljZSBBUElzIGZyb20gaXQKQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURVU0VfREVWSUNFX0xBWUVSPVlFUyIKCiMgVXNlIERQQyB0byBnZXQgaW5mb3JtYXRpb24gZnJvbSBkZXZpY2VzLgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRFVTRV9ERVZJQ0VfUFJPUEVSVElFU19DT01QT05FTlQ9WUVTIgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRERFVklDRV9QUk9QRVJUSUVTX1BST1ZJREVSX0xPQ0FUSU9OPSQiCg==</text>
@@ -1729,9 +1736,9 @@
       </register>
     </registers>
     <search>
-      <last-search>array</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVWaWV3XD4=</last-search>
       <last-offset />
-      <last-pattern>array</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVWaWV3XD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxmaWxlTmFtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1739,9 +1746,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY2xpZW50VGhyZWFkXD4=</entry>
-        <entry encoding="base64">XDxkaXNjb25uZWN0XD4=</entry>
-        <entry encoding="base64">XDxfbWVzc2FnZVF1ZXVlXD4=</entry>
         <entry encoding="base64">XDxfc2VuZE5leHRNZXNzYWdlXD4=</entry>
         <entry>_websocket</entry>
         <entry encoding="base64">XDxfd2Vic29ja2V0XD4=</entry>
@@ -1759,6 +1763,9 @@
         <entry encoding="base64">XDxhcHBlbmRDaGlsZFw+</entry>
         <entry encoding="base64">XDxhcnJheVw+</entry>
         <entry>array</entry>
+        <entry encoding="base64">XDxkZWZpbmVQcm9wZXJ0eVw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVWaWV3XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
