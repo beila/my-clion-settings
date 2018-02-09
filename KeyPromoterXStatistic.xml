@@ -236,14 +236,6 @@
       <Statistic Action="Run 'run test_megablast'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⌃R'</ShortCut>
-          <Description>Run 'run test_megablast'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'run test_megablast'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'run test_megablast'</Description>
           <Count>1</Count>
@@ -294,7 +286,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>24</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Hierarchy">
