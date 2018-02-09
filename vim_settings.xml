@@ -169,8 +169,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/HeapAllocatorMultiPoolFrontEnd.h" timestamp="1512127942344">
         <mark key="'" line="22" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/web/ReactNativeWeb.js" timestamp="1518183848076">
-        <mark key="'" line="113" column="8" />
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/web/ReactNativeWeb.js" timestamp="1518192987483">
+        <mark key="'" line="489" column="16" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/libcurl.cmake" timestamp="1515152273694">
         <mark key="'" line="171" column="6" />
@@ -310,7 +310,7 @@
         <mark key="]" line="436" column="40" />
         <mark key="." line="436" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518181763867">
+      <file name="/Dummy.txt" timestamp="1518192990047">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1514,9 +1514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30883" column="58" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
-      <jump line="30891" column="58" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
-      <jump line="30892" column="36" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
       <jump line="30908" column="14" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
       <jump line="30909" column="26" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
       <jump line="30912" column="43" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
@@ -1614,6 +1611,9 @@
       <jump line="32076" column="4" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
       <jump line="32310" column="2" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
       <jump line="312" column="30" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
+      <jump line="488" column="44" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/web/ReactNativeWeb.js" />
+      <jump line="492" column="24" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/web/ReactNativeWeb.js" />
+      <jump line="489" column="16" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/web/ReactNativeWeb.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1694,7 +1694,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVSU1hbmFnZXJcPg==</text>
+        <text encoding="base64">XDxUaW1lckV4ZWN1dGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgTmF0aXZlLlN3YXBCdWZmZXJzKCkK</text>
@@ -1745,9 +1745,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVSU1hbmFnZXJcPg==</last-search>
+      <last-search encoding="base64">XDxUaW1lckV4ZWN1dGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVSU1hbmFnZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxUaW1lckV4ZWN1dGlvblw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxmaWxlTmFtZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1755,7 +1755,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBlbmRDaGlsZFw+</entry>
         <entry encoding="base64">XDxhcnJheVw+</entry>
         <entry>array</entry>
         <entry encoding="base64">XDxkZWZpbmVQcm9wZXJ0eVw+</entry>
@@ -1775,6 +1774,7 @@
         <entry>Native.Draw</entry>
         <entry encoding="base64">XDxyZW5kZXJCYWNrZ3JvdW5kUmVuZGVyYWJsZVw+</entry>
         <entry encoding="base64">XDxVSU1hbmFnZXJcPg==</entry>
+        <entry encoding="base64">XDxUaW1lckV4ZWN1dGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
