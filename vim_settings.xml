@@ -966,8 +966,8 @@
       <file name="$USER_HOME$/local/depo/src/depo/dependencies/OverridesParser.py" timestamp="1495212547243">
         <mark key="'" line="123" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" timestamp="1518197841822">
-        <mark key="'" line="30020" column="10" />
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" timestamp="1518197950295">
+        <mark key="'" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/identity/GeneratedSerialNumberProvider.h" timestamp="1502284831781">
         <mark key="'" line="15" column="15" />
@@ -1595,7 +1595,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
       <jump line="1482" column="6" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
       <jump line="1483" column="41" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
       <jump line="31443" column="17" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
       <jump line="32284" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
       <jump line="32293" column="48" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
@@ -1603,7 +1602,6 @@
       <jump line="32026" column="15" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
       <jump line="32173" column="4" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
       <jump line="32076" column="4" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
-      <jump line="32310" column="2" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
       <jump line="312" column="30" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
       <jump line="488" column="44" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/web/ReactNativeWeb.js" />
       <jump line="492" column="24" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/web/ReactNativeWeb.js" />
@@ -1614,6 +1612,8 @@
       <jump line="30104" column="36" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
       <jump line="32083" column="30" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
       <jump line="30020" column="10" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
+      <jump line="32310" column="2" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
+      <jump line="0" column="4" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/init.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
