@@ -1237,7 +1237,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/src/filesystem/LinuxFileSystemFacade.cpp" timestamp="1511279928111">
         <mark key="'" line="260" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" timestamp="1518187835446">
+      <file name="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" timestamp="1518520295701">
+        <mark key="'" line="32311" column="2" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/cmakescripts/CMakeMacros.cmake" timestamp="1512054133191">
@@ -1535,7 +1536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1233" column="16" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
       <jump line="1240" column="13" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
       <jump line="23053" column="63" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
       <jump line="1412" column="11" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
@@ -1635,6 +1635,7 @@
       <jump line="7" column="40" filename="$USER_HOME$/dev/ignite/TextTest/index.embedded.js" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/ignite/TextTest/index.embedded.js" />
       <jump line="1888" column="17" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.webworker.d.ts" />
+      <jump line="32311" column="2" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
