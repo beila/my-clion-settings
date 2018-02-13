@@ -765,11 +765,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/AmpConfig.cpp" timestamp="1512050308198">
         <mark key="'" line="57" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/TextTest/App.js" timestamp="1518455794096">
-        <mark key="'" line="6" column="7" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/dev/ignite/TextTest/App.js" timestamp="1518524134728">
+        <mark key="'" line="20" column="7" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/dev/ci/prepare-source/common.cmake" timestamp="1499159670257">
         <mark key="'" line="10" column="4" />
@@ -915,12 +916,11 @@
       <file name="$USER_HOME$/dev/ignite/TextTest/dist/TextTest.js" timestamp="1518439800046">
         <mark key="'" line="52457" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/NativeModuleProxy.js" timestamp="1518176730435">
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/NativeModuleProxy.js" timestamp="1518524103381">
         <mark key="'" line="4" column="4" />
-        <mark key="[" line="30" column="2" />
-        <mark key="]" line="31" column="44" />
-        <mark key="^" line="31" column="44" />
-        <mark key="." line="31" column="44" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/bindings/sm/DeviceInfoExtension.cpp" timestamp="1499792491045">
         <mark key="'" line="24" column="16" />
@@ -1211,8 +1211,8 @@
       <file name="/usr/include/c++/4.9/array" timestamp="1513013896579">
         <mark key="'" line="276" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTestRunner.js" timestamp="1518461642341">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTestRunner.js" timestamp="1518523841123">
+        <mark key="[" line="1" column="0" />
         <mark key="]" line="14" column="98" />
         <mark key="." line="20" column="0" />
       </file>
@@ -1394,6 +1394,9 @@
       <file name="$USER_HOME$/dev/igbuildlg/lg/debug/amazonite/lg/platform/device-properties/implementation/devicepropertiesprovider/lg/include/_lgnc_ls_call.h" timestamp="1499769097058">
         <mark key="'" line="145" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" timestamp="1518523983004">
+        <mark key="'" line="24549" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/ignite/libs/duktape/duktape/duk_console.c" timestamp="1518453297396">
         <mark key="'" line="94" column="17" />
       </file>
@@ -1536,7 +1539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1240" column="13" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
       <jump line="23053" column="63" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
       <jump line="1412" column="11" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
       <jump line="52673" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
@@ -1636,13 +1638,14 @@
       <jump line="14" column="0" filename="$USER_HOME$/dev/ignite/TextTest/index.embedded.js" />
       <jump line="1888" column="17" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.webworker.d.ts" />
       <jump line="32311" column="2" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
+      <jump line="24549" column="36" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Z2xvYmFsLm5hdGl2ZU1vZHVsZVByb3h5ID0gbmF0aXZlTW9kdWxlUHJveHk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1676,7 +1679,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>Native.Print(</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1716,13 +1719,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnRlcm5hbENvbnRleHRUYWdcPg==</text>
+        <text>Duktape</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV2YWwoTmF0aXZlLlJlYWRGaWxlKCcuLi8uLi9BbGV4YVJlYWN0TmF0aXZlUnVudGltZVByb3RvdHlwZS9qcy9EdWt0YXBlUG9seWZpbGxzLmpzJykpOwogICAgTmF0aXZlLlByaW50KCJsb2FkaW5nIEV2ZW50U2VuZGVyIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvRXZlbnRTZW5kZXIuanMnKSk7CiAgICBOYXRpdmUuUHJpbnQoImxvYWRpbmcgVGltZXJFeGVjdXRpb24iKTsKICAgIGV2YWwoTmF0aXZlLlJlYWRGaWxlKCcuLi8uLi9BbGV4YVJlYWN0TmF0aXZlUnVudGltZVByb3RvdHlwZS9qcy9UaW1lckV4ZWN1dGlvbi5qcycpKTsKICAgIE5hdGl2ZS5QcmludCgibG9hZGluZyBOYXRpdmVNb2R1bGVQcm94eSIpOwogICAgZXZhbChOYXRpdmUuUmVhZEZpbGUoJy4uLy4uL0FsZXhhUmVhY3ROYXRpdmVSdW50aW1lUHJvdG90eXBlL2pzL05hdGl2ZU1vZHVsZVByb3h5LmpzJykpOwogICAgTmF0aXZlLlByaW50KCJsb2FkaW5nIE5hdGl2ZUFuaW1hdGVNb2R1bGUiKTsKICAgIGV2YWwoTmF0aXZlLlJlYWRGaWxlKCcuLi8uLi9BbGV4YVJlYWN0TmF0aXZlUnVudGltZVByb3RvdHlwZS9qcy9OYXRpdmVBbmltYXRlZE1vZHVsZS5qcycpKTsKICAgIE5hdGl2ZS5QcmludCgibG9hZGluZyBVSU1hbmFnZXIiKTsKICAgIGV2YWwoTmF0aXZlLlJlYWRGaWxlKCcuLi8uLi9BbGV4YVJlYWN0TmF0aXZlUnVudGltZVByb3RvdHlwZS9qcy9VSU1hbmFnZXIuanMnKSk7CiAgICBOYXRpdmUuUHJpbnQoImxvYWRpbmcgUmVhY3ROYXRpdmVJZ25pdGUiKTsKICAgIGV2YWwoTmF0aXZlLlJlYWRGaWxlKCcuLi8uLi9BbGV4YVJlYWN0TmF0aXZlUnVudGltZVByb3RvdHlwZS9qcy9pZ25pdGUvUmVhY3ROYXRpdmVJZ25pdGUuanMnKSk7Cg==</text>
+        <text encoding="base64">ICAgIE5hdGl2ZS5QcmludCgibG9hZGluZyBEdWt0YXBlUG9seWZpbGxzIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvRHVrdGFwZVBvbHlmaWxscy5qcycpKTsKICAgIE5hdGl2ZS5QcmludCgibG9hZGluZyBFdmVudFNlbmRlciIpOwogICAgZXZhbChOYXRpdmUuUmVhZEZpbGUoJy4uLy4uL0FsZXhhUmVhY3ROYXRpdmVSdW50aW1lUHJvdG90eXBlL2pzL0V2ZW50U2VuZGVyLmpzJykpOwogICAgTmF0aXZlLlByaW50KCJsb2FkaW5nIFRpbWVyRXhlY3V0aW9uIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvVGltZXJFeGVjdXRpb24uanMnKSk7CiAgICBOYXRpdmUuUHJpbnQoImxvYWRpbmcgTmF0aXZlTW9kdWxlUHJveHkiKTsKICAgIGV2YWwoTmF0aXZlLlJlYWRGaWxlKCcuLi8uLi9BbGV4YVJlYWN0TmF0aXZlUnVudGltZVByb3RvdHlwZS9qcy9OYXRpdmVNb2R1bGVQcm94eS5qcycpKTsKICAgIE5hdGl2ZS5QcmludCgibG9hZGluZyBOYXRpdmVBbmltYXRlTW9kdWxlIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvTmF0aXZlQW5pbWF0ZWRNb2R1bGUuanMnKSk7CiAgICBOYXRpdmUuUHJpbnQoImxvYWRpbmcgVUlNYW5hZ2VyIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvVUlNYW5hZ2VyLmpzJykpOwogICAgTmF0aXZlLlByaW50KCJsb2FkaW5nIFJlYWN0TmF0aXZlSWduaXRlIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvaWduaXRlL1JlYWN0TmF0aXZlSWduaXRlLmpzJykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD5JR05JVEUhITwvVGV4dD4K</text>
+        <text encoding="base64">Z2xvYmFsLm5hdGl2ZU1vZHVsZVByb3h5ID0gbmF0aXZlTW9kdWxlUHJveHk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1736,28 +1739,28 @@
         <text encoding="base64">ICAgICAgICA8VGV4dD5JR05JVEUhITwvVGV4dD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKCdGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD5JR05JVEUhITwvVGV4dD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgVGV4dCwgVmlldyB9IGZyb20gJy4uL0FsZXhhUmVhY3ROYXRpdmVSdW50aW1lUHJvdG90eXBlL2pzL2lnbml0ZS9SZWFjdE5hdGl2ZUlnbml0ZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKCdGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGJyk7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS53YXJuKCdzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3MnKTsK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgVGV4dCwgVmlldyB9IGZyb20gJy4uL0FsZXhhUmVhY3ROYXRpdmVSdW50aW1lUHJvdG90eXBlL2pzL2lnbml0ZS9SZWFjdE5hdGl2ZUlnbml0ZSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD5JR05JVEUhITwvVGV4dD4K</text>
+        <text encoding="base64">Y29uc29sZS53YXJuKCdzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3MnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8vIGh0dHA6Ly93aWtpLmR1a3RhcGUub3JnL0hvd3RvR2xvYmFsT2JqZWN0UmVmZXJlbmNlLmh0bWwKaWYgKHR5cGVvZiBnbG9iYWwgPT09ICd1bmRlZmluZWQnKSB7CiAgICAoZnVuY3Rpb24gKCkgewogICAgICAgIHZhciBnbG9iYWwgPSBuZXcgRnVuY3Rpb24oJ3JldHVybiB0aGlzOycpKCk7CiAgICAgICAgT2JqZWN0LmRlZmluZVByb3BlcnR5KGdsb2JhbCwgJ2dsb2JhbCcsIHsKICAgICAgICAgICAgdmFsdWU6IGdsb2JhbCwKICAgICAgICAgICAgd3JpdGFibGU6IHRydWUsCiAgICAgICAgICAgIGVudW1lcmFibGU6IGZhbHNlLAogICAgICAgICAgICBjb25maWd1cmFibGU6IHRydWUKICAgICAgICB9KTsKICAgIH0pKCk7Cn0K</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD5JR05JVEUhITwvVGV4dD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIF9fREVWX189dHJ1ZSxfX0JVTkRMRV9TVEFSVF9USU1FX189dGhpcy5uYXRpdmVQZXJmb3JtYW5jZU5vdz9uYXRpdmVQZXJmb3JtYW5jZU5vdygpOkRhdGUubm93KCkscHJvY2Vzcz10aGlzLnByb2Nlc3N8fHt9O3Byb2Nlc3MuZW52PXByb2Nlc3MuZW52fHx7fTtwcm9jZXNzLmVudi5OT0RFX0VOVj0nZGV2ZWxvcG1lbnQnOwo=</text>
+        <text encoding="base64">Ci8vIGh0dHA6Ly93aWtpLmR1a3RhcGUub3JnL0hvd3RvR2xvYmFsT2JqZWN0UmVmZXJlbmNlLmh0bWwKaWYgKHR5cGVvZiBnbG9iYWwgPT09ICd1bmRlZmluZWQnKSB7CiAgICAoZnVuY3Rpb24gKCkgewogICAgICAgIHZhciBnbG9iYWwgPSBuZXcgRnVuY3Rpb24oJ3JldHVybiB0aGlzOycpKCk7CiAgICAgICAgT2JqZWN0LmRlZmluZVByb3BlcnR5KGdsb2JhbCwgJ2dsb2JhbCcsIHsKICAgICAgICAgICAgdmFsdWU6IGdsb2JhbCwKICAgICAgICAgICAgd3JpdGFibGU6IHRydWUsCiAgICAgICAgICAgIGVudW1lcmFibGU6IGZhbHNlLAogICAgICAgICAgICBjb25maWd1cmFibGU6IHRydWUKICAgICAgICB9KTsKICAgIH0pKCk7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGZ1bmN0aW9uIChleHBvcnRzKSB7J3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">dmFyIF9fREVWX189dHJ1ZSxfX0JVTkRMRV9TVEFSVF9USU1FX189dGhpcy5uYXRpdmVQZXJmb3JtYW5jZU5vdz9uYXRpdmVQZXJmb3JtYW5jZU5vdygpOkRhdGUubm93KCkscHJvY2Vzcz10aGlzLnByb2Nlc3N8fHt9O3Byb2Nlc3MuZW52PXByb2Nlc3MuZW52fHx7fTtwcm9jZXNzLmVudi5OT0RFX0VOVj0nZGV2ZWxvcG1lbnQnOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">CiMgTG9hZCBkZXZpY2UgbGF5ZXIgbGlicmFyeSBhbmQgdXNlIGRldmljZSBBUElzIGZyb20gaXQKQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURVU0VfREVWSUNFX0xBWUVSPVlFUyIKCiMgVXNlIERQQyB0byBnZXQgaW5mb3JtYXRpb24gZnJvbSBkZXZpY2VzLgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRFVTRV9ERVZJQ0VfUFJPUEVSVElFU19DT01QT05FTlQ9WUVTIgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRERFVklDRV9QUk9QRVJUSUVTX1BST1ZJREVSX0xPQ0FUSU9OPSQiCg==</text>
@@ -1767,9 +1770,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnRlcm5hbENvbnRleHRUYWdcPg==</last-search>
+      <last-search>Duktape</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnRlcm5hbENvbnRleHRUYWdcPg==</last-pattern>
+      <last-pattern>Duktape</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1777,7 +1780,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfQXBwXD4=</entry>
         <entry encoding="base64">XDxfQXBwMlw+</entry>
         <entry encoding="base64">XDxTaW1wbGVUZXN0XD4=</entry>
         <entry encoding="base64">XDxzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NcPg==</entry>
@@ -1797,6 +1799,7 @@
         <entry encoding="base64">XDxpbmZvXD4=</entry>
         <entry>Element type is invalid:</entry>
         <entry encoding="base64">XDxpbnRlcm5hbENvbnRleHRUYWdcPg==</entry>
+        <entry>Duktape</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
