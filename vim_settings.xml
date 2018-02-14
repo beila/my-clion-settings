@@ -27,6 +27,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/StartupJob.lua" timestamp="1512645833987">
         <mark key="'" line="5" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/timeline/utils/TimelinePrinter.cpp" timestamp="1518618777079">
+        <mark key="'" line="50" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/Network.cpp" timestamp="1502117425936">
         <mark key="'" line="28" column="18" />
       </file>
@@ -283,6 +286,9 @@
       <file name="$USER_HOME$/dev/igbuild/linux/relwithdebinfo/CMakeCache.txt" timestamp="1512046951790">
         <mark key="'" line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/timeline/output/ITimelineOutput.h" timestamp="1518618779975">
+        <mark key="'" line="17" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SDLCommonContext.h" timestamp="1493982759051">
         <mark key="'" line="0" column="0" />
       </file>
@@ -374,6 +380,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/PluginOTA.cpp" timestamp="1513696793766">
         <mark key="'" line="77" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/timeline/Timeline.cpp" timestamp="1518618888296">
+        <mark key="'" line="315" column="25" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatform.cpp" timestamp="1497612368796">
         <mark key="'" line="60" column="29" />
       </file>
@@ -446,8 +455,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/fetchIndexJs.js" timestamp="1513098926963">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererInputEventDelegate.cpp" timestamp="1517579591544">
-        <mark key="'" line="298" column="24" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererInputEventDelegate.cpp" timestamp="1518618850223">
+        <mark key="'" line="136" column="39" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/CMakeLists.txt" timestamp="1502115878109">
         <mark key="'" line="30" column="45" />
@@ -1538,13 +1547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23053" column="63" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/SimpleTest.js" />
-      <jump line="1412" column="11" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
-      <jump line="52673" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
-      <jump line="1399" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
-      <jump line="1821" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
-      <jump line="1420" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
-      <jump line="2705" column="47" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
       <jump line="1467" column="36" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
       <jump line="8" column="24" filename="$USER_HOME$/dev/ignite/TextTest/index.embedded.js" />
       <jump line="1419" column="2" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
@@ -1638,6 +1640,13 @@
       <jump line="1888" column="17" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.webworker.d.ts" />
       <jump line="32311" column="2" filename="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" />
       <jump line="24549" column="36" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
+      <jump line="41" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/timeline/utils/TimelinePrinter.cpp" />
+      <jump line="128" column="39" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererInputEventDelegate.cpp" />
+      <jump line="50" column="14" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/timeline/utils/TimelinePrinter.cpp" />
+      <jump line="17" column="17" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/timeline/output/ITimelineOutput.h" />
+      <jump line="28" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/timeline/utils/TimelinePrinter.cpp" />
+      <jump line="136" column="39" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererInputEventDelegate.cpp" />
+      <jump line="315" column="25" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/timeline/Timeline.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1718,7 +1727,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>Duktape</text>
+        <text encoding="base64">XDxUaW1lbGluZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIE5hdGl2ZS5QcmludCgibG9hZGluZyBEdWt0YXBlUG9seWZpbGxzIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvRHVrdGFwZVBvbHlmaWxscy5qcycpKTsKICAgIE5hdGl2ZS5QcmludCgibG9hZGluZyBFdmVudFNlbmRlciIpOwogICAgZXZhbChOYXRpdmUuUmVhZEZpbGUoJy4uLy4uL0FsZXhhUmVhY3ROYXRpdmVSdW50aW1lUHJvdG90eXBlL2pzL0V2ZW50U2VuZGVyLmpzJykpOwogICAgTmF0aXZlLlByaW50KCJsb2FkaW5nIFRpbWVyRXhlY3V0aW9uIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvVGltZXJFeGVjdXRpb24uanMnKSk7CiAgICBOYXRpdmUuUHJpbnQoImxvYWRpbmcgTmF0aXZlTW9kdWxlUHJveHkiKTsKICAgIGV2YWwoTmF0aXZlLlJlYWRGaWxlKCcuLi8uLi9BbGV4YVJlYWN0TmF0aXZlUnVudGltZVByb3RvdHlwZS9qcy9OYXRpdmVNb2R1bGVQcm94eS5qcycpKTsKICAgIE5hdGl2ZS5QcmludCgibG9hZGluZyBOYXRpdmVBbmltYXRlTW9kdWxlIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvTmF0aXZlQW5pbWF0ZWRNb2R1bGUuanMnKSk7CiAgICBOYXRpdmUuUHJpbnQoImxvYWRpbmcgVUlNYW5hZ2VyIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvVUlNYW5hZ2VyLmpzJykpOwogICAgTmF0aXZlLlByaW50KCJsb2FkaW5nIFJlYWN0TmF0aXZlSWduaXRlIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvaWduaXRlL1JlYWN0TmF0aXZlSWduaXRlLmpzJykpOwo=</text>
@@ -1769,9 +1778,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Duktape</last-search>
+      <last-search encoding="base64">XDxUaW1lbGluZVw+</last-search>
       <last-offset />
-      <last-pattern>Duktape</last-pattern>
+      <last-pattern encoding="base64">XDxUaW1lbGluZVw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1779,7 +1788,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfQXBwMlw+</entry>
         <entry encoding="base64">XDxTaW1wbGVUZXN0XD4=</entry>
         <entry encoding="base64">XDxzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NcPg==</entry>
         <entry encoding="base64">XDxfX2RcPg==</entry>
@@ -1799,6 +1807,7 @@
         <entry>Element type is invalid:</entry>
         <entry encoding="base64">XDxpbnRlcm5hbENvbnRleHRUYWdcPg==</entry>
         <entry>Duktape</entry>
+        <entry encoding="base64">XDxUaW1lbGluZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
