@@ -153,6 +153,13 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/device/src/display/DevicePlatformContext.cpp" timestamp="1495465446468">
         <mark key="'" line="152" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" timestamp="1516712883089">
+        <mark key="'" line="538" column="53" />
+        <mark key="[" line="625" column="5" />
+        <mark key="]" line="625" column="4" />
+        <mark key="^" line="625" column="4" />
+        <mark key="." line="625" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLCommonContext.cpp" timestamp="1493982740057">
         <mark key="'" line="0" column="0" />
       </file>
@@ -258,6 +265,18 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLDisplayContext.cpp" timestamp="1512045845050">
         <mark key="'" line="242" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/CMakeLists.txt" timestamp="1512135951587">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="42" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" timestamp="1518454699805">
+        <mark key="'" line="260" column="76" />
+        <mark key="[" line="260" column="3" />
+        <mark key="]" line="260" column="8" />
+        <mark key="." line="260" column="8" />
+        <mark key="^" line="260" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/LegacySecureStorage.h" timestamp="1512134549269">
         <mark key="'" line="0" column="0" />
       </file>
@@ -293,6 +312,16 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/include/curl/system.h" timestamp="1515159948670">
+        <mark key="[" line="436" column="0" />
+        <mark key="]" line="436" column="40" />
+        <mark key="." line="436" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1519308864098">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/porting/linux/SDLRenderBackend.cpp" timestamp="1510306611131">
         <mark key="'" line="213" column="61" />
@@ -390,6 +419,13 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/Manager.lua" timestamp="1512645531443">
         <mark key="'" line="3" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/TextTest/index.embedded.js" timestamp="1518461766778">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="79" />
+        <mark key="]" line="14" column="79" />
+        <mark key="." line="14" column="79" />
+        <mark key="^" line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/external/include/ota/package/PayloadMetadata.h" timestamp="1512650413971">
         <mark key="'" line="26" column="29" />
       </file>
@@ -480,6 +516,11 @@
       <file name="$USER_HOME$/dev/ig/devicelayerskeleton/tests/DisplayTests.cpp" timestamp="1496410086413">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/src/tool_paramhlp.c" timestamp="1515160595642">
+        <mark key="[" line="404" column="0" />
+        <mark key="]" line="404" column="0" />
+        <mark key="." line="404" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/api/RenderStateManager.h" timestamp="1499949585650">
         <mark key="'" line="68" column="19" />
       </file>
@@ -503,6 +544,11 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/plugin/PluginPath.h" timestamp="1513185226469">
         <mark key="'" line="53" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/mime.c" timestamp="1515084197902">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/PlayerPlatformFactory.cpp" timestamp="1512053004470">
         <mark key="'" line="12" column="22" />
@@ -534,6 +580,16 @@
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.player/internal/platform/android/src/player/AndroidPlayerPlatform.cpp" timestamp="1502118068355">
         <mark key="'" line="48" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/strtoofft.h" timestamp="1515160503282">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/strtoofft.c" timestamp="1515160454874">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_display.h" timestamp="1498747160839">
         <mark key="'" line="101" column="0" />
       </file>
@@ -551,6 +607,11 @@
       </file>
       <file name="$USER_HOME$/dev/igbuild/linux/debug/graph/cmake.ignition" timestamp="1494411013130">
         <mark key="'" line="468" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/utils/bits/FileSystemFlipBit.cpp" timestamp="1513357162855">
+        <mark key="[" line="58" column="49" />
+        <mark key="]" line="58" column="50" />
+        <mark key="." line="58" column="50" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/backends/DeviceSecureStorageBackend.cpp" timestamp="1512134972837">
         <mark key="'" line="0" column="0" />
@@ -705,6 +766,11 @@
       <file name="$USER_HOME$/dev/ig/devicelg/implementation/lg/internal/src/SDLInputContext.cpp" timestamp="1502462612770">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/configure.ac" timestamp="1515159267387">
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="186" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/device/tests/SecureStorageBackendTest.cpp" timestamp="1512135431758">
         <mark key="'" line="112" column="0" />
       </file>
@@ -725,6 +791,13 @@
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/LegacySecureStorage.cpp" timestamp="1512136101912">
         <mark key="'" line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/UIManager.js" timestamp="1518443083563">
+        <mark key="'" line="81" column="34" />
+        <mark key="[" line="54" column="126" />
+        <mark key="]" line="54" column="127" />
+        <mark key="." line="54" column="127" />
+        <mark key="^" line="54" column="127" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/test_files.txt" timestamp="1493982510659">
         <mark key="'" line="0" column="0" />
@@ -921,6 +994,13 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/src/LuaState.cpp" timestamp="1512644974382">
         <mark key="'" line="192" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/lua_engine.cpp" timestamp="1517253154001">
+        <mark key="'" line="2" column="1" />
+        <mark key="[" line="75" column="2" />
+        <mark key="]" line="75" column="22" />
+        <mark key="^" line="75" column="22" />
+        <mark key="." line="75" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/ignite/src/script_engine.cpp" timestamp="1517247283469">
         <mark key="'" line="82" column="42" />
       </file>
@@ -956,6 +1036,13 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/thirdparty/fruit/include/fruit/impl/util/hash_helpers.h" timestamp="1494596531672">
         <mark key="'" line="26" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/ignite/ReactNativeIgnite.js" timestamp="1518455809690">
+        <mark key="'" line="54" column="3" />
+        <mark key="[" line="122" column="24" />
+        <mark key="]" line="123" column="15" />
+        <mark key="." line="123" column="15" />
+        <mark key="^" line="123" column="15" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/Render.cpp" timestamp="1510244136755">
         <mark key="'" line="46" column="25" />
@@ -1044,6 +1131,20 @@
       <file name="$USER_HOME$/dev/igrpi/devicerpi/include_files.txt" timestamp="1498670874660">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/main.cpp" timestamp="1517312974718">
+        <mark key="'" line="12" column="46" />
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="14" column="41" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/CMakeLists.txt" timestamp="1516972970315">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="26" />
+        <mark key="^" line="16" column="4" />
+        <mark key="." line="16" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/CMakeLists.txt" timestamp="1512134572708">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1062,14 +1163,29 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.app.stark/scripts/networkUtils.js" timestamp="1513096069172">
         <mark key="'" line="92" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/.gitignore" timestamp="1516988082103">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/device/include/device/av_display.h" timestamp="1499170753214">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/job/FetchPackagesJob.lua" timestamp="1512648287586">
         <mark key="'" line="129" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/manifest.ps4" timestamp="1515147096104">
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="51" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/factory/HttpResponseConsumerFactory.cpp" timestamp="1513092050014">
         <mark key="'" line="39" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/manifest.ps3" timestamp="1515147093916">
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="51" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/include/report/listeners/LogListener.h" timestamp="1518619964330">
         <mark key="'" line="41" column="11" />
@@ -1115,10 +1231,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/src/filesystem/LinuxFileSystemFacade.cpp" timestamp="1511279928111">
         <mark key="'" line="260" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/ATVLunarCore/src/js/init.js" timestamp="1518520295701">
-        <mark key="'" line="32311" column="2" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/cmakescripts/CMakeMacros.cmake" timestamp="1512054133191">
         <mark key="'" line="188" column="0" />
       </file>
@@ -1146,6 +1258,13 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/resource/texture/TextureLoader.cpp" timestamp="1515081267119">
         <mark key="'" line="427" column="56" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/docs/adr/README.md" timestamp="1516988850503">
+        <mark key="'" line="47" column="51" />
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="13" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/external/include/deviceinfo/properties/AbstractDeviceProperties.h" timestamp="1511782748251">
         <mark key="'" line="50" column="17" />
       </file>
@@ -1158,8 +1277,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/EventService.h" timestamp="1497440237449">
         <mark key="'" line="138" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" timestamp="1512048119275">
-        <mark key="'" line="499" column="49" />
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" timestamp="1519308657513">
+        <mark key="'" line="410" column="36" />
+        <mark key="[" line="203" column="41" />
+        <mark key="]" line="204" column="8" />
+        <mark key="^" line="204" column="8" />
+        <mark key="." line="204" column="8" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/Library.cpp" timestamp="1497021800229">
         <mark key="'" line="19" column="11" />
@@ -1230,6 +1353,13 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" timestamp="1513357226666">
         <mark key="'" line="239" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/cmake/websocket.cmake" timestamp="1516973175762">
+        <mark key="'" line="13" column="5" />
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.deviceinfo/internal/platform/panda/src/deviceinfo/properties/PlatformDeviceProperties.cpp" timestamp="1499793586646">
         <mark key="'" line="109" column="43" />
       </file>
@@ -1269,6 +1399,13 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/PluginJavaScriptConfig.cmake" timestamp="1497535348943">
         <mark key="'" line="149" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/hjdocs/broadcom-relation-to-external.puml" timestamp="1517355780565">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+        <mark key="^" line="11" column="10" />
+      </file>
       <file name="/usr/include/c++/4.9/bits/ios_base.h" timestamp="1513092264515">
         <mark key="'" line="364" column="10" />
       </file>
@@ -1283,6 +1420,13 @@
       </file>
       <file name="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" timestamp="1501251293580">
         <mark key="'" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/hjdocs/broadcom-binaries-dependency.puml" timestamp="1517355640043">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="5" column="64" />
+        <mark key="]" line="5" column="72" />
+        <mark key="." line="5" column="72" />
+        <mark key="^" line="5" column="72" />
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.core/internal/platform/android/src/utils/AndroidJniAttachment.cpp" timestamp="1502118320515">
         <mark key="'" line="135" column="0" />
@@ -1391,12 +1535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="15" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
-      <jump line="28" column="4" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
-      <jump line="43" column="4" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
-      <jump line="247" column="84" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
-      <jump line="246" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
       <jump line="237" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
@@ -1491,6 +1629,12 @@
       <jump line="108" column="34" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/messages/DeviceEventMessage.cpp" />
       <jump line="43" column="65" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/messages/DeviceEventMessage.cpp" />
       <jump line="12" column="31" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/timing/posix/SystemClockSource.cpp" />
+      <jump line="427" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" />
+      <jump line="203" column="8" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" />
+      <jump line="297" column="28" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" />
+      <jump line="409" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" />
+      <jump line="283" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" />
+      <jump line="410" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1571,7 +1715,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRTb3VyY2VOYW1lXD4=</text>
+        <text encoding="base64">XDxTRVRfUFRIUkVBRF9OQU1FX0NBTExfRlJPTV9USFJFQURcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIE5hdGl2ZS5QcmludCgibG9hZGluZyBEdWt0YXBlUG9seWZpbGxzIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvRHVrdGFwZVBvbHlmaWxscy5qcycpKTsKICAgIE5hdGl2ZS5QcmludCgibG9hZGluZyBFdmVudFNlbmRlciIpOwogICAgZXZhbChOYXRpdmUuUmVhZEZpbGUoJy4uLy4uL0FsZXhhUmVhY3ROYXRpdmVSdW50aW1lUHJvdG90eXBlL2pzL0V2ZW50U2VuZGVyLmpzJykpOwogICAgTmF0aXZlLlByaW50KCJsb2FkaW5nIFRpbWVyRXhlY3V0aW9uIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvVGltZXJFeGVjdXRpb24uanMnKSk7CiAgICBOYXRpdmUuUHJpbnQoImxvYWRpbmcgTmF0aXZlTW9kdWxlUHJveHkiKTsKICAgIGV2YWwoTmF0aXZlLlJlYWRGaWxlKCcuLi8uLi9BbGV4YVJlYWN0TmF0aXZlUnVudGltZVByb3RvdHlwZS9qcy9OYXRpdmVNb2R1bGVQcm94eS5qcycpKTsKICAgIE5hdGl2ZS5QcmludCgibG9hZGluZyBOYXRpdmVBbmltYXRlTW9kdWxlIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvTmF0aXZlQW5pbWF0ZWRNb2R1bGUuanMnKSk7CiAgICBOYXRpdmUuUHJpbnQoImxvYWRpbmcgVUlNYW5hZ2VyIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvVUlNYW5hZ2VyLmpzJykpOwogICAgTmF0aXZlLlByaW50KCJsb2FkaW5nIFJlYWN0TmF0aXZlSWduaXRlIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvaWduaXRlL1JlYWN0TmF0aXZlSWduaXRlLmpzJykpOwo=</text>
@@ -1622,9 +1766,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRTb3VyY2VOYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxTRVRfUFRIUkVBRF9OQU1FX0NBTExfRlJPTV9USFJFQURcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRTb3VyY2VOYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTRVRfUFRIUkVBRF9OQU1FX0NBTExfRlJPTV9USFJFQURcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxBcHBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1632,7 +1776,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX2RcPg==</entry>
         <entry encoding="base64">XDwxMVw+</entry>
         <entry>YellowBox</entry>
         <entry encoding="base64">XDxZZWxsb3dCb3hcPg==</entry>
@@ -1652,6 +1795,7 @@
         <entry encoding="base64">XDxUaW1lbGluZVw+</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxnZXRTb3VyY2VOYW1lXD4=</entry>
+        <entry encoding="base64">XDxTRVRfUFRIUkVBRF9OQU1FX0NBTExfRlJPTV9USFJFQURcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
