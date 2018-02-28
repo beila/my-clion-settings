@@ -1211,11 +1211,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/device/src/display/DevicePlatformContext.cpp" timestamp="1495465446468">
         <mark key="'" line="152" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1519835801133">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="35" column="94" />
-        <mark key="^" line="3" column="107" />
-        <mark key="." line="3" column="107" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1519836485171">
+        <mark key="[" line="14" column="72" />
+        <mark key="]" line="14" column="89" />
+        <mark key="^" line="14" column="89" />
+        <mark key="." line="14" column="89" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/cmakescripts/config/devicelayer.cmake" timestamp="1510927825049">
         <mark key="'" line="2" column="8" />
@@ -1663,8 +1663,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBTdW1tYXJ5ClJlY29tbWVuZGF0aW9uOiBbT25zaXRlLCBSZWN5Y2xlLCBSZWplY3RdIE9uc2l0ZQoKSnVzdGlmaWNhdGlvbjogUTEgZGlkbid0IGNvbXBpbGUsIGJ1dCBJIHRoaW5rIGl0IGNhbiBydW4gd2l0aCB2ZXJ5IHNtYWxsIGZpeC4gSGUgaXMgYWJsZSB0byB3cml0ZSBub24tdHJpdmFsIGNvZGUgYW5kIGl0J3Mgd29ydGggdG8KCiMgUTEKIyMgQ29tcGxleGl0eQpTY29yZTogWzAtM10gMgoKSnVzdGlmaWNhdGlvbjogSXQgaXRlcmF0ZXMgdGhlIHN0cmluZyBhbmQgYnVpbGQgYSBuZXcgdHJlZSBmb3IgZWFjaCBpdGVyYXRpb24uCgojIyBTdHlsZQpTY29yZTogWzAtM10gMgoKSnVzdGlmaWNhdGlvbjogUmVhc29uYWJsZSBuYW1pbmcgYW5kIHN0cnVjdHVyZS4gTWFueSBjb21tZW50ZWQtb3V0IGNvZGUuCgojIyBDb3JyZWN0bmVzcwpTY29yZTogWzAtM10gMQoKSnVzdGlmaWNhdGlvbjogSXQgc2VlbXMgb2theSBidXQgZG9lc24ndCBldmVuIGNvbXBpbGUuIE5vIGR1cGxpY2F0aW9uIGNoZWNrIGZvciByZXN1bHQuCgojIFEyCiMjIENvbXBsZXhpdHkKU2NvcmU6IFswLTNdIDEKCkp1c3RpZmljYXRpb246IEl0IGl0ZXJhdGVzIGZyb20gdGhlIGZpcnN0IGF2YWlsYWJsZSB0YWcgYW5kIHdoZW4gaXQgaXMgaW4gdGFyZ2V0IGxpc3QsIHN0YXJ0cyBuZXN0ZWQgaXRlcmF0aW9uIHRvIGZpbmQgdGhlIGluZGV4IHdoZXJlIGFsbCB0aGUgdGFyZ2V0IHRhZ3MgYXBwZWFyZWQuIE8oTl4yKQoKIyMgU3R5bGUKU2NvcmU6IFswLTNdIDMKCkp1c3RpZmljYXRpb246IE5vIGNhbGwtb3V0LiBJIGxpa2VkIHRoZSB3YXkgYEluUmVtYWluaW5nTGlnaHRgIGhhcyBiZWVuIHNlcGFyYXRlZC4KCiMjIENvcnJlY3RuZXNzClNjb3JlOiBbMC0zXSAyCgpKdXN0aWZpY2F0aW9uOiBPbmUgbWlub3IgYnVnIHdoZXJlIGl0IGlnbm9yZXMgdGhlIHJlc3VsdCB3aGVuIHRoZSBzaXplIG9mIHRoZSB0YXJnZXQgbGlzdCBpcyAxLgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZXZlbiA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1698,7 +1698,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Iterating</text>
+        <text encoding="base64">ZXZlbiA=</text>
       </register>
       <register name="m" type="4">
         <keys>
