@@ -233,6 +233,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'KVHolderTest.LoadBufferShouldPassIfBuffe...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'KVHolderTest.LoadBufferShouldPassIfBuffe...'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SimpleTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
