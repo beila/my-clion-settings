@@ -266,6 +266,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/IBindable.h" timestamp="1497355949826">
         <mark key="'" line="19" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/libs/gtest/include/gtest/gtest_pred_impl.h" timestamp="1519913465657">
+        <mark key="'" line="146" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" timestamp="1503659122474">
         <mark key="'" line="198" column="21" />
       </file>
@@ -291,7 +294,7 @@
       <file name="$USER_HOME$/dev/ignite/src/StorageRegister.h" timestamp="1519827632248">
         <mark key="'" line="19" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519907024036">
+      <file name="/Dummy.txt" timestamp="1519912125489">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/SceneLifecycleManager.cpp" timestamp="1512057545856">
@@ -327,8 +330,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginVersionManager.cpp" timestamp="1513357231106">
         <mark key="'" line="93" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" timestamp="1519827943416">
-        <mark key="'" line="0" column="22" />
+      <file name="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" timestamp="1519912762365">
+        <mark key="'" line="52" column="30" />
         <mark key="[" line="67" column="4" />
         <mark key="]" line="67" column="9" />
         <mark key="^" line="67" column="9" />
@@ -359,6 +362,9 @@
       <file name="/usr/include/c++/4.9/bits/unique_ptr.h" timestamp="1513100943345">
         <mark key="'" line="231" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/libs/gtest/include/gtest/gtest.h" timestamp="1519913457064">
+        <mark key="'" line="1943" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/PluginOTA.cpp" timestamp="1513696793766">
         <mark key="'" line="77" column="23" />
       </file>
@@ -374,19 +380,19 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" timestamp="1513357226666">
         <mark key="'" line="239" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/KVHolder.cpp" timestamp="1519906919551">
-        <mark key="'" line="92" column="0" />
+      <file name="$USER_HOME$/dev/ignite/src/KVHolder.cpp" timestamp="1519912793362">
+        <mark key="'" line="199" column="0" />
         <mark key="[" line="106" column="4" />
         <mark key="]" line="106" column="14" />
         <mark key="." line="106" column="14" />
         <mark key="^" line="106" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" timestamp="1519907035676">
-        <mark key="'" line="201" column="5" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="8" />
-        <mark key="^" line="224" column="44" />
-        <mark key="." line="223" column="0" />
+      <file name="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" timestamp="1519913445167">
+        <mark key="'" line="236" column="12" />
+        <mark key="[" line="236" column="38" />
+        <mark key="]" line="236" column="49" />
+        <mark key="^" line="236" column="49" />
+        <mark key="." line="236" column="49" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/DeviceIdentity.cpp" timestamp="1502285644800">
         <mark key="'" line="53" column="50" />
@@ -1528,22 +1534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="21" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="1274" column="65" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/document.h" />
-      <jump line="35" column="33" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="60" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="219" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="84" column="38" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/stringbuffer.h" />
-      <jump line="111" column="23" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/stringbuffer.h" />
-      <jump line="47" column="74" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/stringbuffer.h" />
-      <jump line="53" column="5" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/stringbuffer.h" />
-      <jump line="55" column="22" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/stringbuffer.h" />
-      <jump line="64" column="8" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/stringbuffer.h" />
-      <jump line="67" column="33" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/stringbuffer.h" />
-      <jump line="68" column="36" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/stringbuffer.h" />
-      <jump line="69" column="42" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/stringbuffer.h" />
-      <jump line="70" column="29" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/stringbuffer.h" />
-      <jump line="87" column="24" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/stringbuffer.h" />
       <jump line="100" column="6" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/internal/stack.h" />
       <jump line="161" column="46" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/internal/stack.h" />
       <jump line="164" column="58" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/internal/stack.h" />
@@ -1628,13 +1618,29 @@
       <jump line="201" column="5" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
       <jump line="109" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
       <jump line="92" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
+      <jump line="215" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="52" column="30" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="348" column="54" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="199" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
+      <jump line="232" column="12" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="323" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="383" column="25" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="233" column="21" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="356" column="74" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="384" column="25" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="236" column="12" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="1963" column="36" filename="$USER_HOME$/dev/ignite/libs/gtest/include/gtest/gtest.h" />
+      <jump line="1943" column="14" filename="$USER_HOME$/dev/ignite/libs/gtest/include/gtest/gtest.h" />
+      <jump line="165" column="15" filename="$USER_HOME$/dev/ignite/libs/gtest/include/gtest/gtest_pred_impl.h" />
+      <jump line="146" column="12" filename="$USER_HOME$/dev/ignite/libs/gtest/include/gtest/gtest_pred_impl.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyogRklYTUUK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1668,7 +1674,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FailIfElementNotExists</text>
+        <text>0</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1708,13 +1714,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGSVhNRVw+</text>
+        <text encoding="base64">XDxnZXRfZGF0YV9zaXplXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VEVTVChLVkhvbGRlclRlc3QsIEVyYXNlU2hvdWxkTm90RmFpbElmRWxlbWVudE5vdEV4aXN0cykK</text>
+        <text encoding="base64">ICAgIGhvbGRlci5zZXQoInMxIiwgImsxIiwgImFiYyIsIDQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyogRklYTUUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1725,28 +1731,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSByYXBpZGpzb247Cg==</text>
+        <text encoding="base64">ICAgIEFTU0VSVF9GQUxTRShob2xkZXIuZXhpc3RzKCJzMSIsICJrMSIpKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSByYXBpZGpzb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyogRklYTUUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dm9pZCBLVkhvbGRlcjo6ZXJhc2UoY29uc3QgY2hhciogc2VjdGlvbiwgY29uc3QgY2hhcioga2V5KQp7CiAgICBhc3NlcnQoc2VjdGlvbiAmJiBrZXkpOwp9Cgo=</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dm9pZCBLVkhvbGRlcjo6ZXJhc2UoY29uc3QgY2hhciogc2VjdGlvbiwgY29uc3QgY2hhcioga2V5KQp7CiAgICBhc3NlcnQoc2VjdGlvbiAmJiBrZXkpOwp9Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBLZXlWYWx1ZUluZm8gaW5mbzsKICAgIHNpemVfdCBwb3MgPSBfZmluZF9rZXlfZGF0YShzZWN0aW9uLCBrZXksIGluZm8pOwoKICAgIGlmIChwb3MgPT0gaW52YWxpZF9zaXplKQogICAgewogICAgICAgIHJldHVybjsKICAgIH0KCiAgICBzaXplX3Qgc2VjdGlvbl9rZXlfc2l6ZSA9IHN0cmxlbihzZWN0aW9uKSArIDEgKyBzdHJsZW4oa2V5KSArIDE7CiAgICBzaXplX3QgdG90YWxfc2l6ZSA9IHNlY3Rpb25fa2V5X3NpemUgKyBzaXplb2YoQmxvYlNpemUpICsgaW5mby52YWx1ZV9zaXplOwoKICAgIGNoYXIqIGZvdW5kX2RhdGEgPSBfZGF0YSArIHBvczsKICAgIG1lbW1vdmUoZm91bmRfZGF0YSwgZm91bmRfZGF0YSArIHRvdGFsX3NpemUsIF9zaXplIC0gKHBvcyArIHRvdGFsX3NpemUpKTsKICAgIF9zaXplIC09IHRvdGFsX3NpemU7CgogICAgaWYgKF9zaG91bGRfcmVkdWNlX3NpemUoKSkKICAgIHsKICAgICAgICBkbyB7CiAgICAgICAgX2NhcGFjaXR5ID0gX2NhcGFjaXR5IC8gMjsKICAgICAgICB9IHdoaWxlIChfc2hvdWxkX3JlZHVjZV9zaXplKCkpOwogICAgICAgIF9yZWFsbG9jYXRlKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyogRklYTUUK</text>
+        <text encoding="base64">ICAgIC8vIEZJWE1FCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5614,9 +5620,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGSVhNRVw+</last-search>
+      <last-search encoding="base64">XDxnZXRfZGF0YV9zaXplXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGSVhNRVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfZGF0YV9zaXplXD4=</last-pattern>
       <last-replace />
       <last-substitute>option</last-substitute>
       <last-dir>1</last-dir>
@@ -5624,8 +5630,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWx1ZUVudHJ5XD4=</entry>
-        <entry encoding="base64">XDxfbXR4XD4=</entry>
         <entry encoding="base64">XDxzZWN0aW9uRW50cnlcPg==</entry>
         <entry encoding="base64">XDxLVkhvbGRlclRlc3RcPg==</entry>
         <entry encoding="base64">XDxfcmVhZF9kYXRhX2F0X3Bvc2l0aW9uXD4=</entry>
@@ -5644,6 +5648,8 @@
         <entry encoding="base64">XDxzRW50cnlcPg==</entry>
         <entry encoding="base64">XDxnZXRWYWx1ZVw+</entry>
         <entry encoding="base64">XDxGSVhNRVw+</entry>
+        <entry encoding="base64">XDxnZXRfZGF0YVw+</entry>
+        <entry encoding="base64">XDxnZXRfZGF0YV9zaXplXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
