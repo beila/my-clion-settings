@@ -1277,12 +1277,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/EventService.h" timestamp="1497440237449">
         <mark key="'" line="138" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" timestamp="1519308657513">
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" timestamp="1520002659020">
         <mark key="'" line="410" column="36" />
-        <mark key="[" line="203" column="41" />
-        <mark key="]" line="204" column="8" />
-        <mark key="^" line="204" column="8" />
-        <mark key="." line="204" column="8" />
+        <mark key="[" line="424" column="24" />
+        <mark key="]" line="424" column="23" />
+        <mark key="^" line="424" column="23" />
+        <mark key="." line="424" column="23" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/Library.cpp" timestamp="1497021800229">
         <mark key="'" line="19" column="11" />
@@ -1640,8 +1640,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLicK</text>
+      <register name="&quot;" type="4">
+        <text>G</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1675,7 +1675,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Native.Print(</text>
+        <text>G</text>
       </register>
       <register name="m" type="4">
         <keys>
