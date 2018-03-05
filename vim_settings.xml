@@ -39,6 +39,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/allocation/memory/IAllocator.h" timestamp="1512051744483">
         <mark key="'" line="43" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/portingplatforms/roku/project.config" timestamp="1520267393466">
+        <mark key="'" line="2" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/Bucket.cpp" timestamp="1510922247224">
         <mark key="'" line="18" column="21" />
       </file>
@@ -318,7 +321,7 @@
         <mark key="]" line="436" column="40" />
         <mark key="." line="436" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520262924496">
+      <file name="/Dummy.txt" timestamp="1520267671095">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -494,6 +497,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginManifest.cpp" timestamp="1497611971145">
         <mark key="'" line="439" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/portingplatforms/roku/cmake/toolchain.cmake" timestamp="1520267425431">
+        <mark key="'" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/ScopedAllocator.cpp" timestamp="1512051583416">
         <mark key="'" line="14" column="25" />
@@ -739,6 +745,9 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RendererPlatformStats.cpp" timestamp="1499434875157">
         <mark key="'" line="241" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/portingplatforms/roku/download_sdk.py" timestamp="1520265837711">
+        <mark key="'" line="17" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_text_to_speech.h" timestamp="1496226602485">
         <mark key="'" line="0" column="0" />
       </file>
@@ -750,12 +759,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/platform/ps3/src/player/AmpConfig.cpp" timestamp="1512050308198">
         <mark key="'" line="57" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/TextTest/App.js" timestamp="1518524227434">
-        <mark key="'" line="20" column="7" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ci/prepare-source/common.cmake" timestamp="1499159670257">
         <mark key="'" line="10" column="4" />
@@ -903,12 +906,6 @@
       </file>
       <file name="$USER_HOME$/dev/ignite/TextTest/dist/TextTest.js" timestamp="1518439800046">
         <mark key="'" line="52457" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/NativeModuleProxy.js" timestamp="1518524103381">
-        <mark key="'" line="4" column="4" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/bindings/sm/DeviceInfoExtension.cpp" timestamp="1499792491045">
         <mark key="'" line="24" column="16" />
@@ -1141,12 +1138,12 @@
         <mark key="^" line="14" column="41" />
         <mark key="." line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/CMakeLists.txt" timestamp="1516972970315">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="26" />
-        <mark key="^" line="16" column="4" />
-        <mark key="." line="16" column="26" />
+      <file name="$USER_HOME$/dev/ignite/CMakeLists.txt" timestamp="1520268294522">
+        <mark key="'" line="119" column="22" />
+        <mark key="[" line="121" column="41" />
+        <mark key="]" line="122" column="9" />
+        <mark key="^" line="122" column="9" />
+        <mark key="." line="122" column="9" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/CMakeLists.txt" timestamp="1512134572708">
         <mark key="'" line="0" column="0" />
@@ -1468,8 +1465,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/manifest.ps4" timestamp="1512052308638">
         <mark key="'" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/tools/generate_project.py" timestamp="1509725245499">
-        <mark key="'" line="60" column="41" />
+      <file name="$USER_HOME$/dev/ignite/tools/generate_project.py" timestamp="1520267250703">
+        <mark key="'" line="44" column="6" />
+        <mark key="[" line="45" column="45" />
+        <mark key="]" line="45" column="54" />
+        <mark key="^" line="45" column="54" />
+        <mark key="." line="45" column="54" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_display_defs.h" timestamp="1512487770262">
         <mark key="'" line="43" column="2" />
@@ -1545,15 +1546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
-      <jump line="21" column="44" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
-      <jump line="113" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
-      <jump line="260" column="76" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/DuktapePolyfills.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
-      <jump line="24533" column="41" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
       <jump line="24532" column="461" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
       <jump line="7862" column="20" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
       <jump line="5926" column="201" filename="$USER_HOME$/dev/ignite/AlexaReactNativeRuntimePrototype/js/apps/TextTest.js" />
@@ -1645,13 +1637,22 @@
       <jump line="283" column="7" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" />
       <jump line="410" column="36" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/platform/thread/posix/Thread.cpp" />
       <jump line="24" column="29" filename="$USER_HOME$/dev/ignite/tools/s3_downloader.py" />
+      <jump line="17" column="17" filename="$USER_HOME$/dev/ignite/portingplatforms/roku/download_sdk.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/tools/generate_project.py" />
+      <jump line="2" column="48" filename="$USER_HOME$/dev/ignite/portingplatforms/roku/cmake/toolchain.cmake" />
+      <jump line="44" column="6" filename="$USER_HOME$/dev/ignite/tools/generate_project.py" />
+      <jump line="2" column="34" filename="$USER_HOME$/dev/ignite/portingplatforms/roku/project.config" />
+      <jump line="4" column="33" filename="$USER_HOME$/dev/ignite/portingplatforms/roku/cmake/toolchain.cmake" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
+      <jump line="119" column="22" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>G</text>
+        <text>install_${PROJECT_NAME}</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1685,7 +1686,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>install_${PROJECT_NAME}</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1728,10 +1729,10 @@
         <text encoding="base64">XDxTRVRfUFRIUkVBRF9OQU1FX0NBTExfRlJPTV9USFJFQURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE5hdGl2ZS5QcmludCgibG9hZGluZyBEdWt0YXBlUG9seWZpbGxzIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvRHVrdGFwZVBvbHlmaWxscy5qcycpKTsKICAgIE5hdGl2ZS5QcmludCgibG9hZGluZyBFdmVudFNlbmRlciIpOwogICAgZXZhbChOYXRpdmUuUmVhZEZpbGUoJy4uLy4uL0FsZXhhUmVhY3ROYXRpdmVSdW50aW1lUHJvdG90eXBlL2pzL0V2ZW50U2VuZGVyLmpzJykpOwogICAgTmF0aXZlLlByaW50KCJsb2FkaW5nIFRpbWVyRXhlY3V0aW9uIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvVGltZXJFeGVjdXRpb24uanMnKSk7CiAgICBOYXRpdmUuUHJpbnQoImxvYWRpbmcgTmF0aXZlTW9kdWxlUHJveHkiKTsKICAgIGV2YWwoTmF0aXZlLlJlYWRGaWxlKCcuLi8uLi9BbGV4YVJlYWN0TmF0aXZlUnVudGltZVByb3RvdHlwZS9qcy9OYXRpdmVNb2R1bGVQcm94eS5qcycpKTsKICAgIE5hdGl2ZS5QcmludCgibG9hZGluZyBOYXRpdmVBbmltYXRlTW9kdWxlIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvTmF0aXZlQW5pbWF0ZWRNb2R1bGUuanMnKSk7CiAgICBOYXRpdmUuUHJpbnQoImxvYWRpbmcgVUlNYW5hZ2VyIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvVUlNYW5hZ2VyLmpzJykpOwogICAgTmF0aXZlLlByaW50KCJsb2FkaW5nIFJlYWN0TmF0aXZlSWduaXRlIik7CiAgICBldmFsKE5hdGl2ZS5SZWFkRmlsZSgnLi4vLi4vQWxleGFSZWFjdE5hdGl2ZVJ1bnRpbWVQcm90b3R5cGUvanMvaWduaXRlL1JlYWN0TmF0aXZlSWduaXRlLmpzJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiZXhwb3J0ICIgKyBlbnZfdmFyICsgIj0iICsgZW52X3Zhcl92YWx1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLicK</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1742,31 +1743,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2xvYmFsLm5hdGl2ZU1vZHVsZVByb3h5ID0gbmF0aXZlTW9kdWxlUHJveHk7Cg==</text>
+        <text encoding="base64">YWRkX2RlZmluaXRpb25zKC1EVVNFX1NFUEFSQVRFX1JFTkRFUl9USFJFQUQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD5JR05JVEUhITwvVGV4dD4K</text>
+        <text encoding="base64">aW1wb3J0ICcuLicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD5JR05JVEUhITwvVGV4dD4K</text>
+        <text encoding="base64">Z2xvYmFsLm5hdGl2ZU1vZHVsZVByb3h5ID0gbmF0aXZlTW9kdWxlUHJveHk7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKCdGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGJyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgVGV4dCwgVmlldyB9IGZyb20gJy4uL0FsZXhhUmVhY3ROYXRpdmVSdW50aW1lUHJvdG90eXBlL2pzL2lnbml0ZS9SZWFjdE5hdGl2ZUlnbml0ZSc7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS53YXJuKCdzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3MnKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8VGV4dD5JR05JVEUhITwvVGV4dD4K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8VGV4dD5JR05JVEUhITwvVGV4dD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKCdGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGJyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IHsgVGV4dCwgVmlldyB9IGZyb20gJy4uL0FsZXhhUmVhY3ROYXRpdmVSdW50aW1lUHJvdG90eXBlL2pzL2lnbml0ZS9SZWFjdE5hdGl2ZUlnbml0ZSc7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vIGh0dHA6Ly93aWtpLmR1a3RhcGUub3JnL0hvd3RvR2xvYmFsT2JqZWN0UmVmZXJlbmNlLmh0bWwKaWYgKHR5cGVvZiBnbG9iYWwgPT09ICd1bmRlZmluZWQnKSB7CiAgICAoZnVuY3Rpb24gKCkgewogICAgICAgIHZhciBnbG9iYWwgPSBuZXcgRnVuY3Rpb24oJ3JldHVybiB0aGlzOycpKCk7CiAgICAgICAgT2JqZWN0LmRlZmluZVByb3BlcnR5KGdsb2JhbCwgJ2dsb2JhbCcsIHsKICAgICAgICAgICAgdmFsdWU6IGdsb2JhbCwKICAgICAgICAgICAgd3JpdGFibGU6IHRydWUsCiAgICAgICAgICAgIGVudW1lcmFibGU6IGZhbHNlLAogICAgICAgICAgICBjb25maWd1cmFibGU6IHRydWUKICAgICAgICB9KTsKICAgIH0pKCk7Cn0K</text>
+        <text encoding="base64">Y29uc29sZS53YXJuKCdzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3MnKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">CiMgTG9hZCBkZXZpY2UgbGF5ZXIgbGlicmFyeSBhbmQgdXNlIGRldmljZSBBUElzIGZyb20gaXQKQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURVU0VfREVWSUNFX0xBWUVSPVlFUyIKCiMgVXNlIERQQyB0byBnZXQgaW5mb3JtYXRpb24gZnJvbSBkZXZpY2VzLgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRFVTRV9ERVZJQ0VfUFJPUEVSVElFU19DT01QT05FTlQ9WUVTIgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRERFVklDRV9QUk9QRVJUSUVTX1BST1ZJREVSX0xPQ0FUSU9OPSQiCg==</text>
