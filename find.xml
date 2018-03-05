@@ -1,16 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
+    <option name="customScope" value="Changed Files" />
+    <option name="defaultScopeName" value="Changed Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Changed Files" />
     <recentFileMasks>
-      <mask>*.txt,*.</mask>
       <mask>*.txt,*.s</mask>
       <mask>*.txt,*.sh</mask>
       <mask>*.txt,*.sh,</mask>
@@ -40,6 +35,7 @@
       <mask>*.idl,*.js,*.l</mask>
       <mask>*.idl,*.js,*.lu</mask>
       <mask>*.idl,*.js,*.lua</mask>
+      <mask>*.cpp</mask>
     </recentFileMasks>
   </component>
 </application>
