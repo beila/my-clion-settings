@@ -34,7 +34,7 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="/LLDB" timestamp="1519932861171">
+      <file name="/LLDB" timestamp="1520005717013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/EGLUtils.cpp" timestamp="1510240826359">
@@ -70,8 +70,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/nodes/SceneNode.cpp" timestamp="1506332108199">
         <mark key="'" line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.h" timestamp="1519734492715">
-        <mark key="'" line="32" column="6" />
+      <file name="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.h" timestamp="1520005022358">
+        <mark key="'" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/Ignition.cpp" timestamp="1511443510827">
         <mark key="'" line="550" column="18" />
@@ -120,6 +120,11 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/bindings/sm/WebSocketExtension.cpp" timestamp="1516705872182">
         <mark key="'" line="100" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1520247375697">
+        <mark key="'" line="431" column="24" />
+        <mark key="[" line="525" column="0" />
+        <mark key="]" line="528" column="31" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/Memory.cpp" timestamp="1512051335104">
         <mark key="'" line="63" column="29" />
@@ -209,6 +214,13 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.lua/tests/ffi/LuaFFILibWrapperTest.cpp" timestamp="1493402549290">
         <mark key="'" line="49" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/tests/deviceLayer/DeviceLayerSecureStorageTest.cpp" timestamp="1520247949439">
+        <mark key="'" line="17" column="55" />
+        <mark key="[" line="18" column="50" />
+        <mark key="]" line="18" column="56" />
+        <mark key="." line="18" column="56" />
+        <mark key="^" line="18" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/ignite/libs/lua/src/lua.h" timestamp="1510243400045">
         <mark key="'" line="340" column="28" />
       </file>
@@ -282,12 +294,19 @@
         <mark key="^" line="25" column="116" />
         <mark key="." line="25" column="116" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/KVHolder.h" timestamp="1519934483185">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="17" />
-        <mark key="^" line="67" column="3" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/dev/ignite/src/KVHolder.h" timestamp="1520006117621">
+        <mark key="'" line="27" column="12" />
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="12" />
+        <mark key="^" line="37" column="12" />
+        <mark key="." line="37" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/portinglayer.h" timestamp="1520247828357">
+        <mark key="'" line="17" column="9" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="45" />
+        <mark key="^" line="12" column="39" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicerpi/implementation/linux/src/avDisplay.cpp" timestamp="1504720197545">
         <mark key="'" line="163" column="0" />
@@ -295,10 +314,10 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/SpiderMonkeyDefs.h" timestamp="1512061939430">
         <mark key="'" line="26" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/StorageRegister.h" timestamp="1519827632248">
-        <mark key="'" line="19" column="21" />
+      <file name="$USER_HOME$/dev/ignite/src/StorageRegister.h" timestamp="1519995600704">
+        <mark key="'" line="16" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519934559086">
+      <file name="/Dummy.txt" timestamp="1520247776220">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -336,12 +355,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginVersionManager.cpp" timestamp="1513357231106">
         <mark key="'" line="93" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" timestamp="1519934624117">
-        <mark key="'" line="29" column="10" />
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="30" />
+      <file name="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" timestamp="1519996654554">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
         <mark key="^" line="3" column="30" />
-        <mark key="." line="3" column="30" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/bindings/sm/ManagerEventsExtension.cpp" timestamp="1513696719118">
         <mark key="'" line="58" column="18" />
@@ -358,12 +377,12 @@
       <file name="$USER_HOME$/dev/ig/install/plugins/com.amazon.ignition.app.stark/static/1.4.3/scripts/config.js" timestamp="1513095940431">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" timestamp="1519821993973">
-        <mark key="'" line="41" column="35" />
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="21" column="14" />
+      <file name="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" timestamp="1519999781010">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="15" />
       </file>
       <file name="/usr/include/c++/4.9/bits/unique_ptr.h" timestamp="1513100943345">
         <mark key="'" line="231" column="6" />
@@ -386,15 +405,18 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstaller.cpp" timestamp="1513357226666">
         <mark key="'" line="239" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/KVHolder.cpp" timestamp="1519934552361">
-        <mark key="'" line="158" column="52" />
-        <mark key="[" line="157" column="55" />
-        <mark key="]" line="157" column="55" />
-        <mark key="." line="157" column="55" />
+      <file name="$USER_HOME$/dev/ignite/tests/avpk/LoaderTest.cpp" timestamp="1520006195791">
+        <mark key="'" line="34" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/KVHolder.cpp" timestamp="1520000903040">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="157" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" timestamp="1519934471466">
-        <mark key="'" line="24" column="18" />
+      <file name="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" timestamp="1520002370272">
+        <mark key="'" line="225" column="12" />
         <mark key="[" line="23" column="18" />
         <mark key="]" line="23" column="18" />
         <mark key="^" line="13" column="9" />
@@ -409,11 +431,18 @@
       <file name="$USER_HOME$/dev/ig/devicerpi/tests/SecureStorageBackendTest.cpp" timestamp="1512136033775">
         <mark key="'" line="35" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/porting/osx/system_utils.cpp" timestamp="1520246916001">
+        <mark key="'" line="35" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicerpi/interface/include/device/av_secure_storage_migration_from_v0.h" timestamp="1512558550224">
         <mark key="'" line="52" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" timestamp="1519933041271">
-        <mark key="'" line="123" column="37" />
+      <file name="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" timestamp="1520002381073">
+        <mark key="'" line="340" column="0" />
+        <mark key="[" line="160" column="76" />
+        <mark key="]" line="160" column="76" />
+        <mark key="." line="160" column="76" />
+        <mark key="^" line="202" column="63" />
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.renderer/internal/platform/android/cmakescripts/build.cmake" timestamp="1498065989182">
         <mark key="'" line="0" column="18" />
@@ -441,6 +470,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-panda/com.amazon.ignition.framework.renderer/internal/platform/panda/cmakescripts/build.cmake" timestamp="1498065991635">
         <mark key="'" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/avpk/Loader.cpp" timestamp="1520005784647">
+        <mark key="'" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.focus.logic/scripts/lua/FocusApi.lua" timestamp="1512580276749">
         <mark key="'" line="16" column="20" />
@@ -739,8 +771,13 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SecureStorageBackendContext.cpp" timestamp="1511545303051">
         <mark key="'" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.h" timestamp="1518112168721">
-        <mark key="'" line="266" column="6" />
+      <file name="/fragment.mm" timestamp="1520005153410">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.h" timestamp="1520247809359">
+        <mark key="'" line="152" column="21" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="33" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.font/internal/platform/linux/cmakescripts/build.cmake" timestamp="1497968636514">
         <mark key="'" line="7" column="7" />
@@ -925,7 +962,7 @@
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.core/internal/platform/android/src/utils/AndroidJniAttachment.cpp" timestamp="1502118320515">
         <mark key="'" line="135" column="0" />
       </file>
-      <file name="/RokuAVPKSecureStorageBackend.cpp" timestamp="1519827710620">
+      <file name="/RokuAVPKSecureStorageBackend.cpp" timestamp="1519996828335">
         <mark key="'" line="22" column="10" />
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.player/internal/platform/android/include/player/AndroidPlayerPlatform.h" timestamp="1502118076013">
@@ -988,8 +1025,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RendererPlatformStats.cpp" timestamp="1504699313200">
         <mark key="'" line="245" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" timestamp="1516713321084">
-        <mark key="'" line="0" column="13" />
+      <file name="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" timestamp="1520247664413">
+        <mark key="'" line="25" column="10" />
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/external/include/IDisplay.h" timestamp="1499248385720">
         <mark key="'" line="30" column="18" />
@@ -1157,8 +1194,12 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/test_files.txt" timestamp="1493982510659">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/tests/CMakeLists.txt" timestamp="1516878138149">
-        <mark key="'" line="87" column="60" />
+      <file name="$USER_HOME$/dev/ignite/tests/CMakeLists.txt" timestamp="1520246677914">
+        <mark key="'" line="13" column="10" />
+        <mark key="[" line="75" column="6" />
+        <mark key="]" line="75" column="17" />
+        <mark key="^" line="75" column="17" />
+        <mark key="." line="75" column="17" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/SecureStorageBackendMigrator.h" timestamp="1512134999238">
         <mark key="'" line="0" column="0" />
@@ -1251,6 +1292,9 @@
       <file name="/usr/include/c++/4.9/array" timestamp="1513013896579">
         <mark key="'" line="276" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/tests/avpk/SecureStorageBackendTest.cpp" timestamp="1520005745022">
+        <mark key="'" line="7" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/api/RendererObjectFactory.h" timestamp="1494605317227">
         <mark key="'" line="62" column="12" />
       </file>
@@ -1321,6 +1365,10 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/data/FileHttpResponseConsumer.cpp" timestamp="1513092251238">
         <mark key="'" line="40" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/ResourceLoader.h" timestamp="1520006010629">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_input_defs.h" timestamp="1495626114088">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1368,6 +1416,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/ps4/src/egl/PS4PlatformContext.cpp" timestamp="1511525779989">
         <mark key="'" line="41" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/porting/linux/LinuxAVPKSecureStorageBackend.cpp" timestamp="1520005025413">
+        <mark key="'" line="84" column="13" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageInstallerFactory.cpp" timestamp="1512648464854">
         <mark key="'" line="33" column="57" />
@@ -1549,113 +1600,113 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="24" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="176" column="15" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="336" column="21" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="390" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="256" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="296" column="1" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="235" column="23" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="331" column="74" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="1546" column="9" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/document.h" />
-      <jump line="1400" column="9" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/document.h" />
-      <jump line="190" column="12" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="355" column="14" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="188" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="375" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="304" column="3" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="89" column="15" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="59" column="26" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/stringbuffer.h" />
-      <jump line="97" column="9" filename="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/internal/stack.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="46" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="63" column="57" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="270" column="32" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="271" column="28" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="70" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="75" column="13" filename="/usr/include/string.h" />
-      <jump line="30" column="26" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="45" column="61" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="81" column="9" filename="/usr/include/string.h" />
-      <jump line="44" column="61" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="9" column="10" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="0" column="0" filename="/Library/Developer/CommandLineTools/usr/include/c++/v1/cstring" />
-      <jump line="92" column="8" filename="/Library/Developer/CommandLineTools/usr/include/c++/v1/cstring" />
-      <jump line="53" column="7" filename="/Library/Developer/CommandLineTools/usr/include/c++/v1/cstring" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="12" column="16" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="72" column="32" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="349" column="3" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="376" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="107" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="96" column="48" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="13" column="18" filename="$USER_HOME$/dev/ignite/src/KVHolder.h" />
-      <jump line="50" column="75" filename="$USER_HOME$/dev/ignite/src/KVHolder.h" />
-      <jump line="348" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="374" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="358" column="9" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="325" column="40" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="346" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="340" column="39" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="292" column="1" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="238" column="3" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="102" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="253" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="60" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="291" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="131" column="8" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="133" column="8" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="105" column="5" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
-      <jump line="95" column="8" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="40" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="145" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="283" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="273" column="20" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="180" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="182" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="242" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="236" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="232" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="222" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="216" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="213" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="204" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="198" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="195" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="187" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="183" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="256" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="86" column="22" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="11" column="23" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="132" column="18" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="112" column="51" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="94" column="43" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="78" column="25" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="44" column="8" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="157" column="55" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="2" column="10" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="18" column="13" filename="$USER_HOME$/dev/ignite/src/StandardContainers.h" />
+      <jump line="46" column="38" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="87" column="28" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="165" column="60" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="130" column="0" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="19" column="17" filename="$USER_HOME$/dev/ignite/src/StorageRegister.h" />
+      <jump line="226" column="0" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="242" column="26" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="358" column="0" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="200" column="36" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="27" column="38" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="117" column="14" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="67" column="41" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="184" column="11" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="199" column="24" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="182" column="26" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="16" column="10" filename="$USER_HOME$/dev/ignite/src/StorageRegister.h" />
+      <jump line="346" column="19" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="11" column="8" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="37" column="23" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
+      <jump line="2" column="10" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/src/Logger.h" />
+      <jump line="59" column="21" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
+      <jump line="40" column="0" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
+      <jump line="74" column="0" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="123" column="37" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
-      <jump line="22" column="36" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
-      <jump line="82" column="38" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.h" />
-      <jump line="34" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.h" />
-      <jump line="28" column="53" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
-      <jump line="70" column="0" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
-      <jump line="448" column="60" filename="/Library/Developer/CommandLineTools/usr/include/c++/v1/vector" />
-      <jump line="67" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="42" column="0" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="24" column="18" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.h" />
-      <jump line="158" column="52" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="449" column="27" filename="/Library/Developer/CommandLineTools/usr/include/c++/v1/vector" />
-      <jump line="416" column="9" filename="$USER_HOME$/dev/ignite/src/downloader/CurlDownloader.cpp" />
-      <jump line="29" column="10" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.h" />
+      <jump line="160" column="25" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
+      <jump line="62" column="33" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
+      <jump line="50" column="22" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
+      <jump line="116" column="27" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
+      <jump line="227" column="12" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="35" column="11" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="49" column="11" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="59" column="11" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="72" column="11" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="83" column="11" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="88" column="11" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="101" column="11" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="106" column="11" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="119" column="11" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="124" column="11" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="146" column="15" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="164" column="11" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="186" column="11" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="201" column="11" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="70" column="30" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
+      <jump line="95" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
+      <jump line="225" column="12" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="341" column="0" filename="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" />
+      <jump line="19" column="13" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.h" />
+      <jump line="84" column="13" filename="$USER_HOME$/dev/ignite/src/porting/linux/LinuxAVPKSecureStorageBackend.cpp" />
+      <jump line="7" column="41" filename="$USER_HOME$/dev/ignite/tests/avpk/SecureStorageBackendTest.cpp" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/ignite/src/avpk/Loader.cpp" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/ignite/src/avpk/Loader.cpp" />
+      <jump line="21" column="6" filename="$USER_HOME$/dev/ignite/src/UniquePtr.h" />
+      <jump line="27" column="12" filename="$USER_HOME$/dev/ignite/src/KVHolder.h" />
+      <jump line="34" column="31" filename="$USER_HOME$/dev/ignite/tests/avpk/LoaderTest.cpp" />
+      <jump line="528" column="13" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="101" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="10" column="51" filename="$USER_HOME$/dev/ignite/tests/deviceLayer/DeviceLayerSecureStorageTest.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/tests/CMakeLists.txt" />
+      <jump line="3" column="32" filename="$USER_HOME$/dev/ignite/tests/CMakeLists.txt" />
+      <jump line="73" column="6" filename="$USER_HOME$/dev/ignite/tests/CMakeLists.txt" />
+      <jump line="12" column="38" filename="$USER_HOME$/dev/ignite/tests/CMakeLists.txt" />
+      <jump line="75" column="6" filename="$USER_HOME$/dev/ignite/tests/CMakeLists.txt" />
+      <jump line="13" column="10" filename="$USER_HOME$/dev/ignite/tests/CMakeLists.txt" />
+      <jump line="71" column="10" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="35" column="12" filename="$USER_HOME$/dev/ignite/src/porting/osx/system_utils.cpp" />
+      <jump line="11" column="4" filename="$USER_HOME$/dev/ignite/tests/deviceLayer/DeviceLayerSecureStorageTest.cpp" />
+      <jump line="6" column="21" filename="$USER_HOME$/dev/ignite/tests/deviceLayer/DeviceLayerSecureStorageTest.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/src/filesystem.h" />
+      <jump line="100" column="0" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
+      <jump line="17" column="55" filename="$USER_HOME$/dev/ignite/tests/deviceLayer/DeviceLayerSecureStorageTest.cpp" />
+      <jump line="99" column="21" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
+      <jump line="525" column="32" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="48" column="32" filename="$USER_HOME$/dev/ignite/src/portinglayer.h" />
+      <jump line="14" column="7" filename="$USER_HOME$/dev/ignite/src/portinglayer.h" />
+      <jump line="601" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="617" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="42" column="29" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="431" column="24" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="23" column="42" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
+      <jump line="17" column="9" filename="$USER_HOME$/dev/ignite/src/portinglayer.h" />
+      <jump line="25" column="10" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
+      <jump line="14" column="12" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
+      <jump line="153" column="21" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="151" column="21" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="152" column="21" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Logger.h&quot;</text>
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1689,7 +1740,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Logger.h&quot;</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1729,13 +1780,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlX3Rlc3RfaW5mb1w+</text>
+        <text encoding="base64">XDxyZW5kZXJpbmdfb3B0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkxvZ2dlci5oIgo=</text>
+        <text encoding="base64">ZXh0ZXJuIE1lZ2FQb3J0aW5nTGF5ZXIgbWVnYV9wb3J0aW5nX2xheWVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvb2wgdXNlX2h3X2FjY2VsZXJhdGVkX3JlbmRlcmluZyA9IHRydWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1746,28 +1797,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dG8gYnVmZmVyID0gY29yZTo6dmVjdG9yPGNoYXI+KG5ldyBjb3JlOjp2ZWN0b3I8Y2hhcj57c3NiX3NpemUsIDB9KTsK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyAK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSByYXBpZGpzb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZVtdIGJ1ZmZlcjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgInN5c3RlbV91dGlscy5oIgo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJsb2JTaXplIHZhbHVlX3NpemUgPSAwOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgImZpbGVzeXN0ZW0uaCIKI2luY2x1ZGUgInN5c3RlbV91dGlscy5oIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImZpbGVzeXN0ZW0uaCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgUHJpbnRlciA9IHZvaWQoKikoY29uc3QgY2hhciogLyogc3RyICovLCB2b2lkKiAvKiB1c2VyX2RhdGEgKi8pOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgImF2cGsvTG9hZGVyLmgiCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5622,10 +5673,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNoYXJbXVtdIGRhdGEgewogICAgICAgIHsiczEiLCAiazEiLCAiYWJjIn0sCiAgICAgICAgeyJzMSIsICJrMiIsICJkZWZnIn0sCiAgICAgICAgeyJzMiIsICJrMiIsICJoaWprbG0ifQogICAgfTsKCiAgICAvLyBBY3QKICAgIGZvciAoY29uc3QgYXV0byYgZCA6IGRhdGEpCiAgICB7CiAgICAgICAgaG9sZGVyLnNldChkWzBdLCBkWzFdLCBkWzJdLCBzdGF0aWNfY2FzdDxCbG9iU2l6ZT4oc3RybGVuKGRbMl0pICsgMSkpOwogICAgfQo=</text>
+        <text encoding="base64">I2luY2x1ZGUgImF2cGsvTG9hZGVyLmgiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImF2cGsvU2VjdXJlU3RvcmFnZUJhY2tlbmQuaCIK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">CiMgTG9hZCBkZXZpY2UgbGF5ZXIgbGlicmFyeSBhbmQgdXNlIGRldmljZSBBUElzIGZyb20gaXQKQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURVU0VfREVWSUNFX0xBWUVSPVlFUyIKCiMgVXNlIERQQyB0byBnZXQgaW5mb3JtYXRpb24gZnJvbSBkZXZpY2VzLgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRFVTRV9ERVZJQ0VfUFJPUEVSVElFU19DT01QT05FTlQ9WUVTIgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRERFVklDRV9QUk9QRVJUSUVTX1BST1ZJREVSX0xPQ0FUSU9OPSQiCg==</text>
@@ -5635,9 +5686,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWtlX3Rlc3RfaW5mb1w+</last-search>
+      <last-search encoding="base64">XDxyZW5kZXJpbmdfb3B0aW9uc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlX3Rlc3RfaW5mb1w+</last-pattern>
+      <last-pattern encoding="base64">XDxyZW5kZXJpbmdfb3B0aW9uc1w+</last-pattern>
       <last-replace />
       <last-substitute>option</last-substitute>
       <last-dir>1</last-dir>
@@ -5645,26 +5696,26 @@
     </search>
     <history>
       <history-search>
-        <entry>exists</entry>
-        <entry encoding="base64">XDxzdGFja19cPg==</entry>
-        <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
-        <entry encoding="base64">XDxWYWx1ZVR5cGVcPg==</entry>
-        <entry encoding="base64">XDx2RW50cnlcPg==</entry>
-        <entry encoding="base64">XDxrdkVudHJ5XD4=</entry>
-        <entry encoding="base64">XDxzRW50cnlcPg==</entry>
-        <entry encoding="base64">XDxnZXRWYWx1ZVw+</entry>
-        <entry encoding="base64">XDwwdVw+</entry>
-        <entry encoding="base64">XDxnZXRcPg==</entry>
-        <entry encoding="base64">XDxnZXRfZGF0YVw+</entry>
-        <entry encoding="base64">XDxfdmFsaWRhdGVfYnVmZmVyXD4=</entry>
-        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
-        <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
-        <entry encoding="base64">XDxpdHJcPg==</entry>
-        <entry encoding="base64">XDxyYXBpZGpzb25cPg==</entry>
-        <entry encoding="base64">XDxnZXRfZGF0YV9zaXplXD4=</entry>
-        <entry encoding="base64">XDxzdHJsZW5cPg==</entry>
-        <entry encoding="base64">XDxGSVhNRVw+</entry>
         <entry encoding="base64">XDxtYWtlX3Rlc3RfaW5mb1w+</entry>
+        <entry encoding="base64">XDxnZXRfZGVmYXVsdF9tb2NrX2Z1bmN0aW9uc1w+</entry>
+        <entry encoding="base64">XDxmdW5jdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxzZXRfdmFsdWVcPg==</entry>
+        <entry encoding="base64">XDxmdW5jdGlvbnNfY291bnRcPg==</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxnZXRfdmFsdWVcPg==</entry>
+        <entry encoding="base64">XDxkZXN0cm95X2NvbnRleHRcPg==</entry>
+        <entry encoding="base64">XDxyZWFkXD4=</entry>
+        <entry encoding="base64">XDxnZXRWYWx1ZUVudHJ5XD4=</entry>
+        <entry encoding="base64">XDxzZXRcPg==</entry>
+        <entry>srt</entry>
+        <entry>mem</entry>
+        <entry>avpk</entry>
+        <entry encoding="base64">XDxhdnBrXD4=</entry>
+        <entry encoding="base64">XDxBVlBLX1RFU1RfU09VUkNFU1w+</entry>
+        <entry encoding="base64">XDxERVZJQ0VfTEFZRVJfVEVTVF9TT1VSQ0VTXD4=</entry>
+        <entry encoding="base64">XDxtZWdhX3BvcnRpbmdfbGF5ZXJcPg==</entry>
+        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
+        <entry encoding="base64">XDxyZW5kZXJpbmdfb3B0aW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
