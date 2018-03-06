@@ -177,25 +177,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/device/src/display/DevicePlatformContext.cpp" timestamp="1495465446468">
         <mark key="'" line="152" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" timestamp="1518113811830">
-        <mark key="'" line="338" column="49" />
-        <mark key="[" line="663" column="5" />
-        <mark key="]" line="663" column="4" />
-        <mark key="^" line="663" column="4" />
-        <mark key="." line="663" column="4" />
-      </file>
       <file name="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/internal/meta.h" timestamp="1519901096243">
         <mark key="'" line="54" column="99" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLCommonContext.cpp" timestamp="1493982740057">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/KVHolder.cpp" timestamp="1520335433584">
-        <mark key="'" line="100" column="40" />
-        <mark key="[" line="164" column="16" />
-        <mark key="]" line="164" column="17" />
-        <mark key="^" line="167" column="29" />
-        <mark key="." line="164" column="17" />
       </file>
       <file name="$USER_HOME$/dev/igbuild/linux/debug/amazonite/linux/platform/device-properties/implementation/devicepropertiesprovider/src/PlatformDevicePropertiesProvider.cpp" timestamp="1499795243833">
         <mark key="'" line="425" column="70" />
@@ -561,12 +547,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" timestamp="1511782746358">
         <mark key="'" line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" timestamp="1520335072694">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/allocator/MallocAllocator.cpp" timestamp="1513076227168">
         <mark key="'" line="76" column="18" />
       </file>
@@ -638,12 +618,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/api/RenderStateManager.h" timestamp="1499949585650">
         <mark key="'" line="68" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" timestamp="1520334876880">
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="24" column="62" />
-        <mark key="^" line="24" column="62" />
-        <mark key="." line="24" column="62" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/PoolAllocator.cpp" timestamp="1512128150110">
         <mark key="'" line="88" column="30" />
@@ -1175,11 +1149,6 @@
       <file name="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" timestamp="1517322639932">
         <mark key="'" line="1644" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.h" timestamp="1520247809359">
-        <mark key="'" line="152" column="21" />
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="33" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" timestamp="1501253193383">
         <mark key="'" line="28" column="19" />
       </file>
@@ -1348,9 +1317,6 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/CMakeLists.txt" timestamp="1520335872475">
-        <mark key="'" line="121" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/CMakeLists.txt" timestamp="1512134572708">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1420,7 +1386,7 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" timestamp="1520250064341">
-        <mark key="'" line="143" column="0" />
+        <mark key="'" line="134" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ci/git.cmake" timestamp="1499162312837">
         <mark key="'" line="41" column="9" />
@@ -1672,11 +1638,6 @@
         <mark key="[" line="55" column="13" />
         <mark key="]" line="55" column="14" />
         <mark key="." line="55" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1520331920857">
-        <mark key="'" line="546" column="27" />
-        <mark key="[" line="525" column="0" />
-        <mark key="]" line="528" column="31" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SecureStorageBackendContext.h" timestamp="1511541912732">
         <mark key="'" line="14" column="10" />
