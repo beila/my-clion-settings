@@ -129,6 +129,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/utils/ThreadSafeInitialiser.h" timestamp="1502723863814">
         <mark key="'" line="18" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketClient.cpp" timestamp="1520444946238">
+        <mark key="'" line="83" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.renderer/internal/platform/android/cmakescripts/build.cmake" timestamp="1498065989182">
         <mark key="'" line="0" column="18" />
       </file>
@@ -355,7 +358,7 @@
         <mark key="]" line="436" column="40" />
         <mark key="." line="436" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520423021313">
+      <file name="/Dummy.txt" timestamp="1520445092609">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -544,12 +547,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" timestamp="1511782746358">
         <mark key="'" line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" timestamp="1520423564006">
+      <file name="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" timestamp="1520423795199">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="42" />
-        <mark key="^" line="13" column="42" />
-        <mark key="." line="13" column="42" />
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="48" />
+        <mark key="^" line="13" column="48" />
+        <mark key="." line="13" column="48" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/allocator/MallocAllocator.cpp" timestamp="1513076227168">
         <mark key="'" line="76" column="18" />
@@ -1508,7 +1511,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/platform/linux/include/curl/curlbuild.h" timestamp="1515152409598">
         <mark key="'" line="60" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/ig/install/plugins/com.amazon.ignition.app.stark/var/web-cache/init.js" timestamp="1503074081198">
+      <file name="$USER_HOME$/dev/ig/install/plugins/com.amazon.ignition.app.stark/var/web-cache/init.js" timestamp="1520445076373">
         <mark key="'" line="41" column="28823" />
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/properties/DevicePropertiesDelegate.h" timestamp="1501249979048">
@@ -1782,8 +1785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="4" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="38" column="0" filename="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" />
       <jump line="101" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
       <jump line="85" column="29" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
       <jump line="172" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
@@ -1882,6 +1883,8 @@
       <jump line="96" column="24" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
       <jump line="50" column="0" filename="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" />
+      <jump line="83" column="13" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketClient.cpp" />
+      <jump line="46" column="6" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/external/include/websockets/WebSocketDelegate.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
