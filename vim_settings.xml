@@ -72,6 +72,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.font/include/font/GlyphAtlas.h" timestamp="1512048391450">
         <mark key="'" line="57" column="26" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/ignite/portingplatforms/uwp/project.config" timestamp="1520523874675">
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="41" />
+        <mark key="." line="4" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/resource/texture/TextureLoader.cpp" timestamp="1515081267119">
         <mark key="'" line="427" column="56" />
       </file>
@@ -1770,8 +1775,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2lmICFkZWZpbmVkKF9fY3BsdXNwbHVzX3dpbnJ0KQojZXJyb3IgYWdpbGUuaCBjYW4gb25seSBiZSB1c2VkIHdpdGggL1pXCiNlbmRpZgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">MjAxNyA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1805,7 +1810,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>injection</text>
+        <text encoding="base64">MjAxNyA=</text>
       </register>
       <register name="m" type="4">
         <keys>
