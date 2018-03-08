@@ -355,7 +355,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/include/display/DisplayDeviceLayerData.h" timestamp="1506619965112">
         <mark key="'" line="17" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520515572919">
+      <file name="/Dummy.txt" timestamp="1520522099908">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -699,6 +699,13 @@
       <file name="vim_settings.xml" timestamp="1520250899643">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.cpp" timestamp="1520522050612">
+        <mark key="'" line="326" column="22" />
+        <mark key="[" line="97" column="42" />
+        <mark key="]" line="97" column="3" />
+        <mark key="." line="97" column="3" />
+        <mark key="^" line="97" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/bindings/lua/LuaSceneBinding.cpp" timestamp="1509109379266">
         <mark key="'" line="157" column="20" />
       </file>
@@ -859,6 +866,11 @@
       <file name="$USER_HOME$/psdev/ig382build/init.js" timestamp="1510827609967">
         <mark key="'" line="83483" column="4" />
       </file>
+      <file name="C:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/VC/Tools/MSVC/14.13.26128/include/agile.h" timestamp="1520522361252">
+        <mark key="'" line="113" column="10" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/utils/TaggedBuffer.h" timestamp="1512050850449">
         <mark key="'" line="16" column="50" />
       </file>
@@ -915,6 +927,13 @@
       </file>
       <file name="/KVHolder.cpp" timestamp="1519828734950">
         <mark key="'" line="159" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" timestamp="1520522348174">
+        <mark key="'" line="13" column="13" />
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/src/CustomMalloc.cpp" timestamp="1512127757301">
         <mark key="'" line="121" column="28" />
@@ -1538,6 +1557,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.javascript/include/sm/IBindable.h" timestamp="1497355949826">
         <mark key="'" line="19" column="29" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/ignite/src/porting/uwp/uwp.cpp" timestamp="1520521808424">
+        <mark key="'" line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/igrpi/devicerpi/include_files.txt" timestamp="1498670874660">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1643,33 +1665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="17" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="165" column="58" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="247" column="21" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="395" column="36" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="431" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="437" column="23" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="438" column="16" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="439" column="12" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="442" column="15" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="461" column="37" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="470" column="28" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="473" column="19" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="474" column="20" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="512" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="525" column="32" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="601" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="617" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="618" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="627" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="628" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="631" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="638" column="25" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="725" column="36" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="1573" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="1592" column="63" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="1619" column="11" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="1638" column="11" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="1657" column="11" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="1693" column="15" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="1714" column="15" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
@@ -1743,13 +1738,40 @@
       <jump line="141" column="50" filename="$USER_HOME$/dev/ignite/Jenkinsfile" />
       <jump line="150" column="0" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
+      <jump line="6" column="15" filename="$USER_HOME$/CLionProjects/ignite/src/porting/uwp/uwp.cpp" />
+      <jump line="5" column="0" filename="C:/Program Files (x86)/Windows Kits/10/Include/10.0.16299.0/um/Windows.h" />
+      <jump line="76" column="34" filename="$USER_HOME$/CLionProjects/ignite/src/porting/uwp/uwp.cpp" />
+      <jump line="0" column="12" filename="$USER_HOME$/CLionProjects/ignite/src/porting/uwp/uwp.cpp" />
+      <jump line="1" column="0" filename="$USER_HOME$/CLionProjects/ignite/src/portinglayer.h" />
+      <jump line="1" column="12" filename="$USER_HOME$/CLionProjects/ignite/src/porting/uwp/uwp.cpp" />
+      <jump line="4" column="17" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/ignite/src/display/IDisplayContext.h" />
+      <jump line="5" column="17" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
+      <jump line="3" column="15" filename="$USER_HOME$/CLionProjects/ignite/src/Resource.h" />
+      <jump line="6" column="17" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/ignite/src/fontloader/IFontLoader.h" />
+      <jump line="113" column="10" filename="C:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/VC/Tools/MSVC/14.13.26128/include/agile.h" />
+      <jump line="62" column="0" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
+      <jump line="61" column="25" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
+      <jump line="51" column="35" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
+      <jump line="64" column="51" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
+      <jump line="30" column="4" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
+      <jump line="79" column="12" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.cpp" />
+      <jump line="80" column="6" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.cpp" />
+      <jump line="89" column="30" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.cpp" />
+      <jump line="99" column="4" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.cpp" />
+      <jump line="266" column="8" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.cpp" />
+      <jump line="267" column="8" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.cpp" />
+      <jump line="282" column="18" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.cpp" />
+      <jump line="326" column="22" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.cpp" />
+      <jump line="13" column="13" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>injection</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2lmICFkZWZpbmVkKF9fY3BsdXNwbHVzX3dpbnJ0KQojZXJyb3IgYWdpbGUuaCBjYW4gb25seSBiZSB1c2VkIHdpdGggL1pXCiNlbmRpZgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1823,7 +1845,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXR1cFRlc3RzXD4=</text>
+        <text encoding="base64">XDxfd2luZG93XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxpc3QoQVBQRU5EIFRFU1RfU09VUkNFUyAke01lZ2FibGFzdF9TT1VSQ0VfRElSfS9wb3J0aW5nL2xpbnV4L3N5c3RlbV91dGlscy5jcHApCg==</text>
@@ -5729,9 +5751,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXR1cFRlc3RzXD4=</last-search>
+      <last-search encoding="base64">XDxfd2luZG93XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXR1cFRlc3RzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfd2luZG93XD4=</last-pattern>
       <last-replace />
       <last-substitute>option</last-substitute>
       <last-dir>1</last-dir>
@@ -5739,9 +5761,6 @@
     </search>
     <history>
       <history-search>
-        <entry>avpk</entry>
-        <entry encoding="base64">XDxhdnBrXD4=</entry>
-        <entry encoding="base64">XDxBVlBLX1RFU1RfU09VUkNFU1w+</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJpbmdfb3B0aW9uc1w+</entry>
         <entry encoding="base64">XDxERVZJQ0VfTEFZRVJfVEVTVF9TT1VSQ0VTXD4=</entry>
@@ -5759,6 +5778,9 @@
         <entry>device</entry>
         <entry encoding="base64">XDx0ZXN0VGFyZ2V0XD4=</entry>
         <entry encoding="base64">XDxzZXR1cFRlc3RzXD4=</entry>
+        <entry>agile.h</entry>
+        <entry encoding="base64">XDxBZ2lsZVw+</entry>
+        <entry encoding="base64">XDxfd2luZG93XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
