@@ -320,7 +320,7 @@
       <file name="$USER_HOME$/dev/ignite/src/StorageRegister.h" timestamp="1519995600704">
         <mark key="'" line="16" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520254055605">
+      <file name="/Dummy.txt" timestamp="1520597665753">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -367,9 +367,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="3" column="30" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/CMakeLists.txt" timestamp="1520249754053">
-        <mark key="'" line="120" column="16" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/bindings/sm/ManagerEventsExtension.cpp" timestamp="1513696719118">
         <mark key="'" line="58" column="18" />
@@ -728,7 +725,7 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="vim_settings.xml" timestamp="1520250899643">
+      <file name="vim_settings.xml" timestamp="1520514509073">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/renderer/OffScreenSceneGraphManager.cpp" timestamp="1509106753802">
@@ -771,8 +768,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2FrameBufferObject.h" timestamp="1494603590831">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/tests/megablast_test_runner.cpp" timestamp="1520253470337">
-        <mark key="'" line="14" column="17" />
+      <file name="$USER_HOME$/dev/ignite/tests/megablast_test_runner.cpp" timestamp="1520597642884">
+        <mark key="'" line="0" column="27" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -937,8 +934,8 @@
       <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/ignition/filesystem/cleaner/ArgumentParser.py" timestamp="1495201457105">
         <mark key="'" line="28" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/cmake/websocket.cmake" timestamp="1519733886484">
-        <mark key="'" line="42" column="54" />
+      <file name="$USER_HOME$/dev/ignite/cmake/websocket.cmake" timestamp="1520598289514">
+        <mark key="'" line="28" column="8" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -1547,12 +1544,6 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/device/include/device/av_display.h" timestamp="1499170753214">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/CMakeLists.txt" timestamp="1520445602908">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/scripts/lua/availability/s4nd/S4NDCandidateRetriever.lua" timestamp="1512647905373">
         <mark key="'" line="73" column="63" />
       </file>
@@ -1643,13 +1634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="17" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="165" column="58" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="247" column="21" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="395" column="36" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="431" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="437" column="23" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="438" column="16" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="439" column="12" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="442" column="15" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="461" column="37" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
@@ -1743,6 +1727,13 @@
       <jump line="141" column="50" filename="$USER_HOME$/dev/ignite/Jenkinsfile" />
       <jump line="150" column="0" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
+      <jump line="0" column="27" filename="$USER_HOME$/dev/ignite/tests/megablast_test_runner.cpp" />
+      <jump line="23" column="14" filename="$USER_HOME$/dev/ignite/cmake/websocket.cmake" />
+      <jump line="27" column="10" filename="$USER_HOME$/dev/ignite/cmake/websocket.cmake" />
+      <jump line="24" column="70" filename="$USER_HOME$/dev/ignite/cmake/websocket.cmake" />
+      <jump line="49" column="4" filename="$USER_HOME$/dev/ignite/cmake/websocket.cmake" />
+      <jump line="46" column="29" filename="$USER_HOME$/dev/ignite/cmake/websocket.cmake" />
+      <jump line="28" column="8" filename="$USER_HOME$/dev/ignite/cmake/websocket.cmake" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1823,7 +1814,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXR1cFRlc3RzXD4=</text>
+        <text encoding="base64">XDxUT09MQ0hBSU5fRU5WX0NNRFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxpc3QoQVBQRU5EIFRFU1RfU09VUkNFUyAke01lZ2FibGFzdF9TT1VSQ0VfRElSfS9wb3J0aW5nL2xpbnV4L3N5c3RlbV91dGlscy5jcHApCg==</text>
@@ -5729,9 +5720,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXR1cFRlc3RzXD4=</last-search>
+      <last-search encoding="base64">XDxUT09MQ0hBSU5fRU5WX0NNRFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXR1cFRlc3RzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxUT09MQ0hBSU5fRU5WX0NNRFw+</last-pattern>
       <last-replace />
       <last-substitute>option</last-substitute>
       <last-dir>1</last-dir>
@@ -5739,9 +5730,6 @@
     </search>
     <history>
       <history-search>
-        <entry>avpk</entry>
-        <entry encoding="base64">XDxhdnBrXD4=</entry>
-        <entry encoding="base64">XDxBVlBLX1RFU1RfU09VUkNFU1w+</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJpbmdfb3B0aW9uc1w+</entry>
         <entry encoding="base64">XDxERVZJQ0VfTEFZRVJfVEVTVF9TT1VSQ0VTXD4=</entry>
@@ -5759,6 +5747,9 @@
         <entry>device</entry>
         <entry encoding="base64">XDx0ZXN0VGFyZ2V0XD4=</entry>
         <entry encoding="base64">XDxzZXR1cFRlc3RzXD4=</entry>
+        <entry encoding="base64">XDxPUEVOU1NMX1JPT1RfRElSXD4=</entry>
+        <entry encoding="base64">XDxUT09MQ0hBSU5fRU5WX1ZBUlNcPg==</entry>
+        <entry encoding="base64">XDxUT09MQ0hBSU5fRU5WX0NNRFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
