@@ -414,11 +414,11 @@
       <file name="$USER_HOME$/dev/ignite/tests/avpk/LoaderTest.cpp" timestamp="1520006195791">
         <mark key="'" line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/KVHolder.cpp" timestamp="1520000903040">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev/ignite/src/KVHolder.cpp" timestamp="1520610198434">
+        <mark key="'" line="161" column="15" />
+        <mark key="[" line="167" column="14" />
+        <mark key="]" line="167" column="15" />
+        <mark key="." line="167" column="15" />
         <mark key="^" line="157" column="67" />
       </file>
       <file name="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" timestamp="1520002370272">
@@ -935,11 +935,11 @@
         <mark key="'" line="28" column="7" />
       </file>
       <file name="$USER_HOME$/dev/ignite/cmake/websocket.cmake" timestamp="1520598289514">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="34" column="17" />
+        <mark key="'" line="24" column="8" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="30" column="17" />
       </file>
       <file name="$USER_HOME$/dev/ignite/libs/duktape/duktape/duktape.h" timestamp="1518115872977">
         <mark key="'" line="469" column="13" />
@@ -1634,8 +1634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="12" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="442" column="15" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="461" column="37" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="470" column="28" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="473" column="19" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
@@ -1734,6 +1732,8 @@
       <jump line="49" column="4" filename="$USER_HOME$/dev/ignite/cmake/websocket.cmake" />
       <jump line="46" column="29" filename="$USER_HOME$/dev/ignite/cmake/websocket.cmake" />
       <jump line="28" column="8" filename="$USER_HOME$/dev/ignite/cmake/websocket.cmake" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
+      <jump line="161" column="15" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
