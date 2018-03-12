@@ -195,13 +195,6 @@
       <file name="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/internal/meta.h" timestamp="1519901096243">
         <mark key="'" line="54" column="99" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/KVHolder.cpp" timestamp="1520609837223">
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="170" column="43" />
-        <mark key="]" line="170" column="43" />
-        <mark key="." line="170" column="43" />
-        <mark key="^" line="170" column="43" />
-      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLCommonContext.cpp" timestamp="1493982740057">
         <mark key="'" line="0" column="0" />
       </file>
@@ -356,7 +349,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520609729914">
+      <file name="/Dummy.txt" timestamp="1520862265955">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -791,8 +784,8 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" timestamp="1503663233092">
         <mark key="'" line="152" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/portinglayer.h" timestamp="1520253461567">
-        <mark key="'" line="34" column="33" />
+      <file name="$USER_HOME$/dev/ignite/src/portinglayer.h" timestamp="1520862242206">
+        <mark key="'" line="18" column="7" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="45" />
         <mark key="^" line="11" column="39" />
@@ -1250,12 +1243,6 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/CMakeLists.txt" timestamp="1520445602908">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/CMakeLists.txt" timestamp="1512134572708">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1676,8 +1663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/tests/ResourceManagerTestHelper.cpp" />
-      <jump line="31" column="36" filename="$USER_HOME$/dev/ignite/tests/ResourceManagerTestHelper.cpp" />
       <jump line="50" column="4" filename="$USER_HOME$/dev/ignite/tests/ResourceManagerTestHelper.cpp" />
       <jump line="58" column="4" filename="$USER_HOME$/dev/ignite/tests/ResourceManagerTestHelper.cpp" />
       <jump line="6" column="32" filename="$USER_HOME$/dev/ignite/tests/ResourceManagerTestHelper.cpp" />
@@ -1776,6 +1761,8 @@
       <jump line="37" column="4" filename="$USER_HOME$/CLionProjects/ignite/portingplatforms/uwp/cmake/platform-config.cmake" />
       <jump line="171" column="7" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
       <jump line="142" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
+      <jump line="60" column="24" filename="$USER_HOME$/dev/ignite/src/portinglayer.h" />
+      <jump line="18" column="7" filename="$USER_HOME$/dev/ignite/src/portinglayer.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
