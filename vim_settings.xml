@@ -326,7 +326,7 @@
       <file name="$USER_HOME$/dev/ignite/src/StorageRegister.h" timestamp="1519995600704">
         <mark key="'" line="16" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521028649815">
+      <file name="/Dummy.txt" timestamp="1521037222686">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -418,12 +418,6 @@
       </file>
       <file name="$USER_HOME$/dev/ignite/tests/avpk/LoaderTest.cpp" timestamp="1520947452078">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/KVHolder.cpp" timestamp="1520942243497">
-        <mark key="'" line="157" column="15" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="27" />
-        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/identity/DeviceIdentity.cpp" timestamp="1502285644800">
         <mark key="'" line="53" column="50" />
@@ -774,12 +768,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2FrameBufferObject.h" timestamp="1494603590831">
         <mark key="'" line="23" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/tests/megablast_test_runner.cpp" timestamp="1520597642884">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/include/ota/PluginOTA.h" timestamp="1513696595678">
         <mark key="'" line="41" column="27" />
@@ -1267,6 +1255,13 @@
       <file name="$USER_HOME$/dev/ReactNativeIgnite/src/apps/CardTest.js" timestamp="1518693645797">
         <mark key="'" line="19821" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/.gitignore" timestamp="1521037200002">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="17" column="12" />
+        <mark key="^" line="17" column="12" />
+        <mark key="." line="17" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/allocator/TagAllocator.cpp" timestamp="1512051237594">
         <mark key="'" line="144" column="16" />
       </file>
@@ -1290,12 +1285,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" timestamp="1502118148994">
         <mark key="'" line="337" column="25" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/TextToSpeechController.cpp" timestamp="1520952458512">
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/CommandBuffer.h" timestamp="1510243688832">
         <mark key="'" line="103" column="8" />
@@ -1671,7 +1660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="595" column="62" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="603" column="16" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="20" column="8" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.cpp" />
       <jump line="19" column="8" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.cpp" />
@@ -1771,6 +1759,7 @@
       <jump line="2" column="47" filename="$USER_HOME$/dev/ignite/integrationTests/ignite-and-device-layer-test/secure-storage-integ-test.js" />
       <jump line="305" column="53" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
       <jump line="418" column="57" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="2">
