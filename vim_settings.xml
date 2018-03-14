@@ -133,6 +133,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/Memory.cpp" timestamp="1512051335104">
         <mark key="'" line="63" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/integrationTests/webpack.config.js" timestamp="1521040542390">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/version/VersionTable.cpp" timestamp="1513357288954">
         <mark key="'" line="118" column="35" />
       </file>
@@ -381,6 +387,12 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.animation/src/Animation.cpp" timestamp="1497535790047">
         <mark key="'" line="145" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/webpack.config.js" timestamp="1521040579615">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+        <mark key="^" line="1" column="38" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/thirdparty/boost/tools/build/v2/engine/build.sh" timestamp="1496844122638">
         <mark key="'" line="66" column="8" />
@@ -1790,8 +1802,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">TW9jaGEucHJvdG90eXBlLmxvYWRGaWxlcyA9IGZ1bmN0aW9uIChmbikgewogIHZhciBzZWxmID0gdGhpczsKICB2YXIgc3VpdGUgPSB0aGlzLnN1aXRlOwogIHRoaXMuZmlsZXMuZm9yRWFjaChmdW5jdGlvbiAoZmlsZSkgewogICAgZmlsZSA9IHBhdGgucmVzb2x2ZShmaWxlKTsKICAgIHN1aXRlLmVtaXQoJ3ByZS1yZXF1aXJlJywgZ2xvYmFsLCBmaWxlLCBzZWxmKTsKICAgIHN1aXRlLmVtaXQoJ3JlcXVpcmUnLCByZXF1aXJlKGZpbGUpLCBmaWxlLCBzZWxmKTsKICAgIHN1aXRlLmVtaXQoJ3Bvc3QtcmVxdWlyZScsIGdsb2JhbCwgZmlsZSwgc2VsZik7CiAgfSk7CiAgZm4gJiYgZm4oKTsKfTsK</text>
+      <register name="&quot;" type="4">
+        <text>./path/to/my/entry/file.js</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1825,7 +1837,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>./path/to/my/entry/file.js</text>
       </register>
       <register name="m" type="4">
         <keys>
