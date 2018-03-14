@@ -707,11 +707,12 @@
       <file name="$USER_HOME$/dev/ignite/src/Render.h" timestamp="1510243481406">
         <mark key="'" line="78" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/integrationTests/ignite-and-device-layer-test/secure-storage-integ-test.js" timestamp="1521028625343">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="3" column="31" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/dev/ignite/integrationTests/ignite-and-device-layer-test/secure-storage-integ-test.js" timestamp="1521039527224">
+        <mark key="'" line="2" column="4" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/local/depo/src/depo/dependencies/OverridesParser.py" timestamp="1495212547243">
         <mark key="'" line="123" column="32" />
@@ -905,6 +906,12 @@
       </file>
       <file name="/KVHolder.cpp" timestamp="1519828734950">
         <mark key="'" line="159" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/integrationTests/custom-mocha.js" timestamp="1521039443314">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/tests/scene/utils/nodepropertyappliers/EffectUtilsTest.cpp" timestamp="1513942352695">
         <mark key="'" line="20" column="6" />
@@ -1326,6 +1333,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatform.cpp" timestamp="1497612368796">
         <mark key="'" line="60" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/node_modules/mocha/lib/mocha.js" timestamp="1521039438446">
+        <mark key="'" line="230" column="26" />
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="234" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/include/allocation/HeapAllocatorMatHeapDecorator.h" timestamp="1512127576896">
         <mark key="'" line="41" column="18" />
       </file>
@@ -1365,6 +1377,12 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.cache/src/cache/MultiLevelCache.cpp" timestamp="1512644095417">
         <mark key="'" line="59" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/integrationTests/ignite-and-device-layer-test/momo.js" timestamp="1521039514351">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="0" column="42" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelayerskeleton/CMakeLists.txt" timestamp="1496226746053">
         <mark key="'" line="0" column="0" />
@@ -1464,6 +1482,13 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/tick/TickGenerator.cpp" timestamp="1510939743273">
         <mark key="'" line="44" column="48" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" timestamp="1521039118249">
+        <mark key="'" line="1612" column="12" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/ps4/src/egl/PS4PlatformContext.cpp" timestamp="1511525779989">
         <mark key="'" line="41" column="4" />
@@ -1660,64 +1685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="603" column="16" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="20" column="8" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.cpp" />
-      <jump line="19" column="8" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.cpp" />
-      <jump line="63" column="35" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.cpp" />
-      <jump line="72" column="42" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.cpp" />
-      <jump line="40" column="35" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.cpp" />
-      <jump line="52" column="35" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.cpp" />
-      <jump line="18" column="4" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.cpp" />
-      <jump line="12" column="4" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.cpp" />
-      <jump line="21" column="32" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.h" />
-      <jump line="15" column="27" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.h" />
-      <jump line="186" column="78" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="63" column="8" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="68" column="4" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="58" column="26" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.h" />
-      <jump line="81" column="76" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="90" column="8" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="101" column="57" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="112" column="24" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="23" column="35" filename="$USER_HOME$/dev/ignite/src/avpk/av_text_to_speech_extended.h" />
-      <jump line="124" column="20" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="130" column="38" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="34" column="2" filename="$USER_HOME$/dev/ignite/libs/avpk/include/device/av_common.h" />
-      <jump line="150" column="33" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="152" column="24" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="164" column="33" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="166" column="24" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="180" column="29" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="183" column="24" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="27" column="43" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.h" />
-      <jump line="74" column="31" filename="$USER_HOME$/dev/ignite/src/porting/linux/LinuxAVPKTTS.cpp" />
-      <jump line="143" column="50" filename="$USER_HOME$/dev/ignite/Jenkinsfile" />
-      <jump line="209" column="9" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="194" column="63" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="4" column="17" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="212" column="9" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="213" column="13" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="214" column="13" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="215" column="13" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="216" column="13" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="217" column="13" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="218" column="13" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="229" column="70" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="65" column="8" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="32" column="29" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.h" />
-      <jump line="17" column="4" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.cpp" />
-      <jump line="46" column="0" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.h" />
-      <jump line="221" column="20" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="36" column="35" filename="$USER_HOME$/dev/ignite/src/avpk/Loader.cpp" />
-      <jump line="197" column="0" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
-      <jump line="35" column="4" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.h" />
-      <jump line="36" column="4" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.h" />
-      <jump line="441" column="5" filename="$USER_HOME$/dev/ignite/src/script_engine/lua_function_binders.h" />
-      <jump line="37" column="4" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.h" />
-      <jump line="429" column="5" filename="$USER_HOME$/dev/ignite/src/script_engine/duktape_function_binders.h" />
-      <jump line="123" column="4" filename="$USER_HOME$/dev/ignite/src/porting/roku/RokuEventListener.h" />
-      <jump line="139" column="21" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
       <jump line="177" column="11" filename="$USER_HOME$/dev/ignite/src/porting/windows/win32.cpp" />
       <jump line="29" column="30" filename="$USER_HOME$/dev/ignite/src/portinglayer.h" />
       <jump line="72" column="17" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
@@ -1756,17 +1723,75 @@
       <jump line="959" column="12" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="306" column="53" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
       <jump line="2370" column="12" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="2" column="47" filename="$USER_HOME$/dev/ignite/integrationTests/ignite-and-device-layer-test/secure-storage-integ-test.js" />
       <jump line="305" column="53" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
       <jump line="418" column="57" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/.gitignore" />
+      <jump line="1278" column="9" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1584" column="23" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="5848" column="20" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="5852" column="18" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="5855" column="26" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="5857" column="2" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="5868" column="11" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="5898" column="16" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="5879" column="10" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="5887" column="8" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="5909" column="1" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="6318" column="0" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="6319" column="9" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="8294" column="54" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="10646" column="54" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="11927" column="54" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="12052" column="54" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="12101" column="54" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="13110" column="54" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="13326" column="54" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="14225" column="54" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="14708" column="54" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1123" column="7" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1171" column="7" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1265" column="19" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1272" column="7" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1580" column="11" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1579" column="11" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1570" column="37" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1568" column="18" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1274" column="4" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1275" column="4" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1276" column="4" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1460" column="7" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1472" column="7" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1486" column="7" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1500" column="7" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1537" column="14" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1546" column="30" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1555" column="48" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1578" column="32" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1609" column="23" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1610" column="30" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="1612" column="12" filename="$USER_HOME$/dev/ignite/node_modules/mocha/mocha.js" />
+      <jump line="246" column="4" filename="$USER_HOME$/dev/ignite/node_modules/mocha/lib/mocha.js" />
+      <jump line="531" column="18" filename="$USER_HOME$/dev/ignite/node_modules/mocha/lib/mocha.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/node_modules/mocha/lib/mocha.js" />
+      <jump line="78" column="7" filename="$USER_HOME$/dev/ignite/node_modules/mocha/lib/mocha.js" />
+      <jump line="126" column="7" filename="$USER_HOME$/dev/ignite/node_modules/mocha/lib/mocha.js" />
+      <jump line="220" column="19" filename="$USER_HOME$/dev/ignite/node_modules/mocha/lib/mocha.js" />
+      <jump line="227" column="7" filename="$USER_HOME$/dev/ignite/node_modules/mocha/lib/mocha.js" />
+      <jump line="523" column="18" filename="$USER_HOME$/dev/ignite/node_modules/mocha/lib/mocha.js" />
+      <jump line="525" column="37" filename="$USER_HOME$/dev/ignite/node_modules/mocha/lib/mocha.js" />
+      <jump line="534" column="11" filename="$USER_HOME$/dev/ignite/node_modules/mocha/lib/mocha.js" />
+      <jump line="539" column="23" filename="$USER_HOME$/dev/ignite/node_modules/mocha/lib/mocha.js" />
+      <jump line="535" column="17" filename="$USER_HOME$/dev/ignite/node_modules/mocha/lib/mocha.js" />
+      <jump line="230" column="26" filename="$USER_HOME$/dev/ignite/node_modules/mocha/lib/mocha.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/src/sharun/thirdparty/nghttp2/doc/_themes/sphinx_rtd_theme/static/js/theme.js" />
+      <jump line="2" column="4" filename="$USER_HOME$/dev/ignite/integrationTests/ignite-and-device-layer-test/secure-storage-integ-test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">TW9jaGEucHJvdG90eXBlLmxvYWRGaWxlcyA9IGZ1bmN0aW9uIChmbikgewogIHZhciBzZWxmID0gdGhpczsKICB2YXIgc3VpdGUgPSB0aGlzLnN1aXRlOwogIHRoaXMuZmlsZXMuZm9yRWFjaChmdW5jdGlvbiAoZmlsZSkgewogICAgZmlsZSA9IHBhdGgucmVzb2x2ZShmaWxlKTsKICAgIHN1aXRlLmVtaXQoJ3ByZS1yZXF1aXJlJywgZ2xvYmFsLCBmaWxlLCBzZWxmKTsKICAgIHN1aXRlLmVtaXQoJ3JlcXVpcmUnLCByZXF1aXJlKGZpbGUpLCBmaWxlLCBzZWxmKTsKICAgIHN1aXRlLmVtaXQoJ3Bvc3QtcmVxdWlyZScsIGdsb2JhbCwgZmlsZSwgc2VsZik7CiAgfSk7CiAgZm4gJiYgZm4oKTsKfTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1840,10 +1865,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2dnZXJcPg==</text>
+        <text encoding="base64">XDxmaWxlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TmF0aXZlLlByaW50KE5hdGl2ZS5HZXRSZWdpc3RyeVZhbHVlKCdteWtleScsICdpbnRlZ3JhdGlvbi10ZXN0JykpOwo=</text>
+        <text encoding="base64">TW9jaGEucHJvdG90eXBlLmxvYWRGaWxlcyA9IGZ1bmN0aW9uIChmbikgewogIHZhciBzZWxmID0gdGhpczsKICB2YXIgc3VpdGUgPSB0aGlzLnN1aXRlOwogIHRoaXMuZmlsZXMuZm9yRWFjaChmdW5jdGlvbiAoZmlsZSkgewogICAgZmlsZSA9IHBhdGgucmVzb2x2ZShmaWxlKTsKICAgIHN1aXRlLmVtaXQoJ3ByZS1yZXF1aXJlJywgZ2xvYmFsLCBmaWxlLCBzZWxmKTsKICAgIHN1aXRlLmVtaXQoJ3JlcXVpcmUnLCByZXF1aXJlKGZpbGUpLCBmaWxlLCBzZWxmKTsKICAgIHN1aXRlLmVtaXQoJ3Bvc3QtcmVxdWlyZScsIGdsb2JhbCwgZmlsZSwgc2VsZik7CiAgfSk7CiAgZm4gJiYgZm4oKTsKfTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc3QgcmVhZFZhbHVlID0gTmF0aXZlLkdldFJlZ2lzdHJ5VmFsdWUoJ215a2V5JywgJ2ludGVncmF0aW9uLXRlc3QnKTsK</text>
@@ -5746,9 +5771,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2dnZXJcPg==</last-search>
+      <last-search encoding="base64">XDxmaWxlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2dnZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlc1w+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDx9XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -5756,10 +5781,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkX2J1ZmZlclw+</entry>
-        <entry encoding="base64">XDxBU1NFUlRfVEhBVFw+</entry>
-        <entry encoding="base64">XDxob2xkZXJcPg==</entry>
-        <entry encoding="base64">XDxsb2FkX2Z1bmN0aW9uc1w+</entry>
         <entry encoding="base64">XDxUVFNGdW5jdGlvbkxvYWRlclw+</entry>
         <entry encoding="base64">XDxfYXJlX3R0c19mdW5jdGlvbnNfdmFsaWRcPg==</entry>
         <entry encoding="base64">XDxfYXJlX2Jhc2VfZnVuY3Rpb25zX3ZhbGlkXD4=</entry>
@@ -5776,6 +5797,10 @@
         <entry>Log</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxzdWl0ZVw+</entry>
+        <entry encoding="base64">XDxmblw+</entry>
+        <entry>files</entry>
+        <entry encoding="base64">XDxmaWxlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
