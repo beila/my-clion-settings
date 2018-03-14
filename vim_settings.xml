@@ -416,6 +416,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/PluginOTA.cpp" timestamp="1513696793766">
         <mark key="'" line="77" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/node_modules/jest/build/jest.js" timestamp="1521054891054">
+        <mark key="'" line="5" column="57" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/CMakeLists.txt" timestamp="1499092408811">
         <mark key="'" line="651" column="0" />
       </file>
@@ -1697,7 +1700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="11" filename="$USER_HOME$/dev/ignite/src/porting/windows/win32.cpp" />
       <jump line="29" column="30" filename="$USER_HOME$/dev/ignite/src/portinglayer.h" />
       <jump line="72" column="17" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
       <jump line="11" column="7" filename="$USER_HOME$/dev/ignite/src/Resource.h" />
@@ -1797,6 +1799,7 @@
       <jump line="230" column="26" filename="$USER_HOME$/dev/ignite/node_modules/mocha/lib/mocha.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/src/sharun/thirdparty/nghttp2/doc/_themes/sphinx_rtd_theme/static/js/theme.js" />
       <jump line="2" column="4" filename="$USER_HOME$/dev/ignite/integrationTests/ignite-and-device-layer-test/secure-storage-integ-test.js" />
+      <jump line="5" column="57" filename="$USER_HOME$/dev/ignite/node_modules/jest/build/jest.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
