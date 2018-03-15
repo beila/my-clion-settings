@@ -119,12 +119,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/bindings/sm/ManagerEventsExtension.cpp" timestamp="1513696719118">
         <mark key="'" line="58" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/tests/megablast_test_runner.cpp" timestamp="1520253470337">
-        <mark key="'" line="14" column="17" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/include/backends/SecureStorageBackend.h" timestamp="1511277827809">
         <mark key="'" line="0" column="0" />
       </file>
@@ -192,10 +186,8 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLCommonContext.cpp" timestamp="1493982740057">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/KVHolder.cpp" timestamp="1521133955547">
-        <mark key="'" line="180" column="0" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="178" column="41" />
+      <file name="$USER_HOME$/dev/ignite/src/KVHolder.cpp" timestamp="1521136089652">
+        <mark key="]" line="184" column="41" />
       </file>
       <file name="$USER_HOME$/dev/igbuild/linux/debug/amazonite/linux/platform/device-properties/implementation/devicepropertiesprovider/src/PlatformDevicePropertiesProvider.cpp" timestamp="1499795243833">
         <mark key="'" line="425" column="70" />
@@ -538,12 +530,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" timestamp="1511782746358">
         <mark key="'" line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" timestamp="1521134164171">
+      <file name="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" timestamp="1521134501748">
         <mark key="'" line="45" column="21" />
-        <mark key="[" line="50" column="28" />
-        <mark key="]" line="50" column="30" />
-        <mark key="^" line="50" column="30" />
-        <mark key="." line="50" column="30" />
+        <mark key="[" line="50" column="18" />
+        <mark key="]" line="79" column="18" />
+        <mark key="^" line="79" column="18" />
+        <mark key="." line="50" column="19" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/allocator/MallocAllocator.cpp" timestamp="1513076227168">
         <mark key="'" line="76" column="18" />
@@ -609,8 +601,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/api/RenderStateManager.h" timestamp="1499949585650">
         <mark key="'" line="68" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" timestamp="1519996654554">
-        <mark key="'" line="74" column="0" />
+      <file name="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" timestamp="1521135749196">
+        <mark key="'" line="28" column="0" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="3" column="30" />
@@ -1653,14 +1645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="571" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="573" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="15" column="4" filename="$USER_HOME$/dev/ignite/tests/deviceLayer/DeviceLayerSecureStorageTest.cpp" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/ignite/tests/deviceLayer/DeviceLayerSecureStorageTest.cpp" />
-      <jump line="26" column="0" filename="$USER_HOME$/dev/ignite/tests/deviceLayer/DeviceLayerSecureStorageTest.cpp" />
-      <jump line="127" column="18" filename="$USER_HOME$/dev/ignite/tests/avpk/CommonTest.cpp" />
-      <jump line="0" column="10" filename="$USER_HOME$/dev/ignite/tests/avpk/CommonTest.cpp" />
-      <jump line="11" column="26" filename="$USER_HOME$/dev/ignite/tests/avpk/SecureStorageBackendTest.cpp" />
       <jump line="7" column="33" filename="$USER_HOME$/dev/ignite/tests/avpk/SecureStorageBackendTest.cpp" />
       <jump line="11" column="27" filename="$USER_HOME$/dev/ignite/src/avpk/Loader.cpp" />
       <jump line="45" column="25" filename="$USER_HOME$/dev/ignite/src/platform/posix/POSIXSharedLibraryLoader.cpp" />
@@ -1753,13 +1737,21 @@
       <jump line="180" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
       <jump line="40" column="26" filename="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" />
       <jump line="45" column="21" filename="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" />
+      <jump line="83" column="4" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
+      <jump line="27" column="4" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
+      <jump line="30" column="35" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
+      <jump line="32" column="47" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
+      <jump line="23" column="13" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
+      <jump line="24" column="8" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
+      <jump line="109" column="11" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>READ</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1793,7 +1785,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>READ</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1833,10 +1825,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWZmZXJfc2l6ZVw+</text>
+        <text encoding="base64">XDxzc2Jfc2l6ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyIG51bGxfdGVybWluYXRlZF9idWZmZXJbMjA0OF17MH07CiAgICAgICAgc2l6ZV90IGNvcGllZF9zaXplID0gKGJ1ZmZlcl9zaXplIDwgMjA0OCkgPyBidWZmZXJfc2l6ZSA6IDIwNDc7CiAgICAgICAgc3RybmNweShudWxsX3Rlcm1pbmF0ZWRfYnVmZmVyLCBidWZmZXIsIGNvcGllZF9zaXplKTsKICAgICAgICBJR05fTE9HX0UoTE9HX0NBVF9SRUdJU1RFUiwKICAgICAgICAgICAgICAgICAgIkZhaWx1cmUgcGFyc2luZyB0aGUgbG9hZGVkIGJ1ZmZlciAoKChlcnJvciBjb2RlOiV1KSkpLCAoKChidWZmZXIgc2l6ZTolenUpKSksICIKICAgICAgICAgICAgICAgICAgICAgICAgICAiKCgocHJpbnRlZCAlenUgYnl0ZXMpKSksICgoKGJ1ZmZlcjolcykpKSIsCiAgICAgICAgICAgICAgICAgIGNvZGUsCiAgICAgICAgICAgICAgICAgIGJ1ZmZlcl9zaXplLAogICAgICAgICAgICAgICAgICBjb3BpZWRfc2l6ZSwKICAgICAgICAgICAgICAgICAgbnVsbF90ZXJtaW5hdGVkX2J1ZmZlcik7Cg==</text>
+        <text encoding="base64">ICAgIGNoYXIgbnVsbF90ZXJtaW5hdGVkX2J1ZmZlclsyMDQ4XXswfTsKICAgIHNpemVfdCBjb3BpZWRfc2l6ZSA9IChidWZmZXJTaXplIDwgMjA0OCkgPyBidWZmZXJTaXplIDogMjA0NzsKICAgIHN0cm5jcHkobnVsbF90ZXJtaW5hdGVkX2J1ZmZlciwgYnVmZmVyLCBjb3BpZWRfc2l6ZSk7CiAgICBwcmludGYoCiAgICAgICAgICAgICAgIkZhaWx1cmUgcGFyc2luZyB0aGUgbG9hZGVkIGJ1ZmZlciAoKChidWZmZXIgc2l6ZTolenUpKSksICIKICAgICAgICAgICAgICAgICAgICAgICIoKChwcmludGVkICV6dSBieXRlcykpKSxcbigoKGJ1ZmZlcjolcykpKVxuKCgoIiwKICAgICAgICAgICAgICBidWZmZXJTaXplLAogICAgICAgICAgICAgIGNvcGllZF9zaXplLAogICAgICAgICAgICAgIG51bGxfdGVybWluYXRlZF9idWZmZXIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPD0gNjA7ICsraSkKICAgIHsKICAgICAgICBwcmludGYoIjwlMmQ+NDU2Nzg5IiwgaSk7CiAgICB9CiAgICBwcmludGYoIlxuIik7Cg==</text>
       </register>
       <register name="1" type="4">
         <text>(
@@ -5754,9 +5746,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidWZmZXJfc2l6ZVw+</last-search>
+      <last-search encoding="base64">XDxzc2Jfc2l6ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWZmZXJfc2l6ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzc2Jfc2l6ZVw+</last-pattern>
       <last-replace />
       <last-substitute>option</last-substitute>
       <last-dir>1</last-dir>
@@ -5764,9 +5756,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNRUdBQkxBU1RfQ1hYX1NPVVJDRVNcPg==</entry>
-        <entry>tests</entry>
-        <entry encoding="base64">XDx0ZXN0c1w+</entry>
         <entry encoding="base64">XDxtZWdhX3BvcnRpbmdfbGF5ZXJcPg==</entry>
         <entry encoding="base64">XDxfZmlsZV9tYXBcPg==</entry>
         <entry encoding="base64">XDxzZWN1cmVfc3RvcmFnZVw+</entry>
@@ -5784,6 +5773,9 @@
         <entry encoding="base64">XDxfc2VuZE5leHRNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxDTElFTlRfVEhSRUFEXD4=</entry>
         <entry encoding="base64">XDxidWZmZXJfc2l6ZVw+</entry>
+        <entry>read</entry>
+        <entry encoding="base64">XDxyZWFkXD4=</entry>
+        <entry encoding="base64">XDxzc2Jfc2l6ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
