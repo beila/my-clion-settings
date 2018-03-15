@@ -344,7 +344,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521132022581">
+      <file name="/Dummy.txt" timestamp="1521141320645">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -519,7 +519,6 @@
         <mark key="'" line="72" column="30" />
       </file>
       <file name="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" timestamp="1521140305029">
-        <mark key="'" line="205" column="9" />
         <mark key="[" line="252" column="4" />
         <mark key="]" line="252" column="4" />
         <mark key="^" line="38" column="9" />
@@ -533,13 +532,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" timestamp="1511782746358">
         <mark key="'" line="45" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" timestamp="1521138536804">
-        <mark key="'" line="45" column="21" />
-        <mark key="[" line="52" column="20" />
-        <mark key="]" line="52" column="21" />
-        <mark key="." line="52" column="21" />
-        <mark key="^" line="52" column="21" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/allocator/MallocAllocator.cpp" timestamp="1513076227168">
         <mark key="'" line="76" column="18" />
@@ -604,13 +596,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/api/RenderStateManager.h" timestamp="1499949585650">
         <mark key="'" line="68" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" timestamp="1521140251030">
-        <mark key="'" line="73" column="14" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="73" column="9" />
-        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/PoolAllocator.cpp" timestamp="1512128150110">
         <mark key="'" line="88" column="30" />
@@ -1649,7 +1634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="12" filename="$USER_HOME$/CLionProjects/ignite/src/porting/uwp/uwp.cpp" />
       <jump line="4" column="17" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
       <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/ignite/src/display/IDisplayContext.h" />
       <jump line="5" column="17" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
@@ -1749,6 +1733,7 @@
       <jump line="120" column="9" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
       <jump line="150" column="9" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
       <jump line="205" column="9" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
+      <jump line="69" column="47" filename="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
