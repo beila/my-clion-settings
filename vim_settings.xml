@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1519729352999">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ignite/libs/gtest/include/gtest/gtest_pred_impl.h" timestamp="1519913465657">
         <mark key="'" line="146" column="12" />
       </file>
@@ -41,9 +38,6 @@
       </file>
       <file name="$USER_HOME$/dev/ignite/libs/rapidjson/include/rapidjson/document.h" timestamp="1519901224225">
         <mark key="'" line="2214" column="54" />
-      </file>
-      <file name="/LLDB" timestamp="1520253370699">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/Network.cpp" timestamp="1502117425936">
         <mark key="'" line="28" column="18" />
@@ -197,6 +191,11 @@
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLCommonContext.cpp" timestamp="1493982740057">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/KVHolder.cpp" timestamp="1521133955547">
+        <mark key="'" line="180" column="0" />
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="178" column="41" />
       </file>
       <file name="$USER_HOME$/dev/igbuild/linux/debug/amazonite/linux/platform/device-properties/implementation/devicepropertiesprovider/src/PlatformDevicePropertiesProvider.cpp" timestamp="1499795243833">
         <mark key="'" line="425" column="70" />
@@ -406,9 +405,6 @@
       <file name="$USER_HOME$/dev/ignite/src/CommandBuffer.h" timestamp="1510243688832">
         <mark key="'" line="103" column="8" />
       </file>
-      <file name="find.xml" timestamp="1520250835059">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/get-plugin-platform-dir.cmake" timestamp="1496761900229">
         <mark key="'" line="17" column="23" />
       </file>
@@ -542,11 +538,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/internal/src/deviceinfo/properties/AbstractDeviceProperties.cpp" timestamp="1511782746358">
         <mark key="'" line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" timestamp="1521132036960">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="67" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" timestamp="1521134164171">
+        <mark key="'" line="45" column="21" />
+        <mark key="[" line="50" column="28" />
+        <mark key="]" line="50" column="30" />
+        <mark key="^" line="50" column="30" />
+        <mark key="." line="50" column="30" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/allocator/MallocAllocator.cpp" timestamp="1513076227168">
         <mark key="'" line="76" column="18" />
@@ -691,9 +688,6 @@
       <file name="$USER_HOME$/dev/igbuild/linux/debug/graph/cmake.ignition" timestamp="1494411013130">
         <mark key="'" line="468" column="5" />
       </file>
-      <file name="vim_settings.xml" timestamp="1520250899643">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" timestamp="1502118148994">
         <mark key="'" line="337" column="25" />
       </file>
@@ -747,9 +741,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2RendererPlatformStats.cpp" timestamp="1504699313200">
         <mark key="'" line="245" column="50" />
-      </file>
-      <file name="/fragment.mm" timestamp="1520005153410">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiesprovider/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" timestamp="1501251632397">
         <mark key="'" line="23" column="34" />
@@ -1154,9 +1145,6 @@
         <mark key="]" line="97" column="3" />
         <mark key="." line="97" column="3" />
         <mark key="^" line="97" column="3" />
-      </file>
-      <file name="KeyPromoterXStatistic.xml" timestamp="1520250866618">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/src/DisplayContext.cpp" timestamp="1498671449324">
         <mark key="'" line="44" column="0" />
@@ -1665,9 +1653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="566" column="46" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="568" column="25" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="569" column="28" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="571" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="573" column="8" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="15" column="4" filename="$USER_HOME$/dev/ignite/tests/deviceLayer/DeviceLayerSecureStorageTest.cpp" />
@@ -1765,13 +1750,16 @@
       <jump line="205" column="88" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
       <jump line="283" column="0" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
       <jump line="326" column="18" filename="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/websockets/WebSocketDelegate.cpp" />
+      <jump line="180" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
+      <jump line="40" column="26" filename="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" />
+      <jump line="45" column="21" filename="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1805,7 +1793,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CLIENT_THREAD</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1845,13 +1833,18 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDTElFTlRfVEhSRUFEXD4=</text>
+        <text encoding="base64">XDxidWZmZXJfc2l6ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly9XRUJTT0NLRVRfVEhSRUFEREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREQK</text>
+        <text encoding="base64">ICAgICAgICBjaGFyIG51bGxfdGVybWluYXRlZF9idWZmZXJbMjA0OF17MH07CiAgICAgICAgc2l6ZV90IGNvcGllZF9zaXplID0gKGJ1ZmZlcl9zaXplIDwgMjA0OCkgPyBidWZmZXJfc2l6ZSA6IDIwNDc7CiAgICAgICAgc3RybmNweShudWxsX3Rlcm1pbmF0ZWRfYnVmZmVyLCBidWZmZXIsIGNvcGllZF9zaXplKTsKICAgICAgICBJR05fTE9HX0UoTE9HX0NBVF9SRUdJU1RFUiwKICAgICAgICAgICAgICAgICAgIkZhaWx1cmUgcGFyc2luZyB0aGUgbG9hZGVkIGJ1ZmZlciAoKChlcnJvciBjb2RlOiV1KSkpLCAoKChidWZmZXIgc2l6ZTolenUpKSksICIKICAgICAgICAgICAgICAgICAgICAgICAgICAiKCgocHJpbnRlZCAlenUgYnl0ZXMpKSksICgoKGJ1ZmZlcjolcykpKSIsCiAgICAgICAgICAgICAgICAgIGNvZGUsCiAgICAgICAgICAgICAgICAgIGJ1ZmZlcl9zaXplLAogICAgICAgICAgICAgICAgICBjb3BpZWRfc2l6ZSwKICAgICAgICAgICAgICAgICAgbnVsbF90ZXJtaW5hdGVkX2J1ZmZlcik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCgpCg==</text>
+      <register name="1" type="4">
+        <text>(
+              &quot;Failure parsing the loaded buffer (((error code:%u))), (((buffer size:%zu))), &quot;
+                      &quot;(((printed %zu bytes))), (((buffer:%s)))&quot;,
+              buffer_size,
+              copied_size,
+              null_terminated_buffer)</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1861,34 +1854,34 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">I2lmIGRlZmluZWQoUExVR0lOTkVUV09SS19CVUlMRF9XRUJTT0NLRVRTKSAmJiAhZGVmaW5lZChQTFVHSU5ORVRXT1JLX0JVSUxEX0xJQldFQlNPQ0tFVCkKCnR5cGVkZWYgaWduaXRpb246OmNvcmU6Om1lbW9yeTo6U2hhcmVkUHRyPGJvb3N0Ojphc2lvOjpzc2w6OmNvbnRleHQ+IGNvbnRleHRfcHRyOwoKbmFtZXNwYWNlCnsKY29udGV4dF9wdHIgb25UTFNJbml0KHdlYnNvY2tldHBwOjpjb25uZWN0aW9uX2hkbCBoZGwpCnsKCWNvcmU6OkNvbW1hbmRMaW5lICZjb21tYW5kTGluZSA9IGNvcmU6OkNvbW1hbmRMaW5lOjpHZXQoKTsKCWF1dG8gY2VydENvbmZpZyA9IENlcnRDb25maWd1cmF0aW9uOjpnZXQoKTsKCWNvbnRleHRfcHRyIGN0eCA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8Ym9vc3Q6OmFzaW86OnNzbDo6Y29udGV4dD4oCgkJYm9vc3Q6OmFzaW86OnNzbDo6Y29udGV4dDo6dGxzdjEpOwoJaWYgKCFjb21tYW5kTGluZS5jb250YWluc0FyZ3VtZW50KE5ldHdvcms6OkVOQUJMRV9XU19GTEFHKSAmJiBjZXJ0Q29uZmlnKQoJewoJCWN0eC0+c2V0X29wdGlvbnMoYm9vc3Q6OmFzaW86OnNzbDo6Y29udGV4dDo6ZGVmYXVsdF93b3JrYXJvdW5kcyB8CgkJCQlib29zdDo6YXNpbzo6c3NsOjpjb250ZXh0Ojpub19zc2x2MiB8CgkJCQlib29zdDo6YXNpbzo6c3NsOjpjb250ZXh0Ojpub19zc2x2MyB8CgkJCQlib29zdDo6YXNpbzo6c3NsOjpjb250ZXh0OjpzaW5nbGVfZGhfdXNlKTsKCQlpZiAoY2VydENvbmZpZy0+aGFzQ0FCdW5kbGVQYXRoKCkpCgkJewoJCQljdHgtPmxvYWRfdmVyaWZ5X2ZpbGUoY2VydENvbmZpZy0+Z2V0Q0FCdW5kbGVQYXRoKCkuY19zdHIoKSk7CgkJfQoJCWlmIChjZXJ0Q29uZmlnLT5oYXNDQUNlcnRzRGlyUGF0aCgpKQoJCXsKCQkJY3R4LT5hZGRfdmVyaWZ5X3BhdGgoY2VydENvbmZpZy0+Z2V0Q0FDZXJ0c0RpclBhdGgoKS5jX3N0cigpKTsKCQl9CgkJY3R4LT5zZXRfdmVyaWZ5X21vZGUoYm9vc3Q6OmFzaW86OnNzbDo6dmVyaWZ5X3BlZXIpOwoJfQoJcmV0dXJuIGN0eDsKfQp9CgpXZWJTb2NrZXREZWxlZ2F0ZTo6V2ViU29ja2V0RGVsZWdhdGUoaWduaXRpb246OmNvcmU6OlVVSUQgdXVpZCkgOgoJX3V1aWQodXVpZCksCglfY2xpZW50VGhyZWFkKG51bGxwdHIpCnsKCVRSQUNFUE9JTlRfQ0FMTFNUQUNLX05BVElWRSgpOwoKCXVzaW5nIHdlYnNvY2tldHBwOjpsaWI6OmJpbmQ7CgoJX2NsaWVudC5jbGVhcl9hY2Nlc3NfY2hhbm5lbHMod2Vic29ja2V0cHA6OmxvZzo6YWxldmVsOjphbGwpOwoKCV9jbGllbnQuaW5pdF9hc2lvKCk7CglfY2xpZW50LnNldF9vcGVuX2hhbmRsZXIoYmluZCgmV2ViU29ja2V0RGVsZWdhdGU6Om9uT3BlbiwgdGhpcywgOjpfMSkpOwoJX2NsaWVudC5zZXRfY2xvc2VfaGFuZGxlcihiaW5kKCZXZWJTb2NrZXREZWxlZ2F0ZTo6b25DbG9zZSwgdGhpcywgOjpfMSkpOwoJX2NsaWVudC5zZXRfZmFpbF9oYW5kbGVyKGJpbmQoJldlYlNvY2tldERlbGVnYXRlOjpvbkZhaWwsIHRoaXMsIDo6XzEpKTsKCV9jbGllbnQuc2V0X21lc3NhZ2VfaGFuZGxlcihiaW5kKCZXZWJTb2NrZXREZWxlZ2F0ZTo6b25NZXNzYWdlLCB0aGlzLCA6Ol8xLCA6Ol8yKSk7CglfY2xpZW50LnNldF90bHNfaW5pdF9oYW5kbGVyKG9uVExTSW5pdCk7CgoJaWYgKCsrX2luc3RhbmNlQ291bnRlciA+IElOU1RBTkNFX0NPVU5URVJfV0FSTklOR19USFJFU0hPTEQpCgl7CgkJTG9nOjpnZXQoKS53YXJuaW5nKElOZXR3b3JrOjpJRCgpLAoJCQkJIk1vcmUgdGhhbiAlZCB3ZWJzb2NrZXQgKD09IHRocmVhZHMpIGluc3RhbmNlcyBjcmVhdGVkLiBQbGVhc2UgcmUtdXNlLiIsCgkJCQlJTlNUQU5DRV9DT1VOVEVSX1dBUk5JTkdfVEhSRVNIT0xEKTsKCX0KfQoKV2ViU29ja2V0RGVsZWdhdGU6On5XZWJTb2NrZXREZWxlZ2F0ZSgpCnsKCVRSQUNFUE9JTlRfQ0FMTFNUQUNLX05BVElWRSgpOwoKCXdlYnNvY2tldHBwOjpsaWI6OmVycm9yX2NvZGUgZWM7CgoJaWYgKF9jb25uZWN0aW9uICE9IG51bGxwdHIpCgkJX2Nvbm5lY3Rpb24tPmNsb3NlKDAsICIiLCBlYyk7CgoJX2NsaWVudC5zdG9wKCk7CgoJaWYgKF9jbGllbnRUaHJlYWQgJiYgX2NsaWVudFRocmVhZC0+am9pbmFibGUoKSkKCXsKCQlfY2xpZW50VGhyZWFkLT5qb2luKCk7Cgl9CgoJLS1faW5zdGFuY2VDb3VudGVyOwp9Cgpib29sIFdlYlNvY2tldERlbGVnYXRlOjpjb25uZWN0KGNvbnN0IHN0ZDo6c3RyaW5nJiB1cmkpCnsKCVRSQUNFUE9JTlRfQ0FMTFNUQUNLX05BVElWRSgpOwoKCV9jbGllbnQuc3RvcCgpOwoJX2NsaWVudC5yZXNldCgpOwoKCXdlYnNvY2tldHBwOjpsaWI6OmVycm9yX2NvZGUgZWM7CglfY29ubmVjdGlvbiA9IF9jbGllbnQuZ2V0X2Nvbm5lY3Rpb24odXJpLCBlYyk7CglpZiAoZWMpCgl7CgkJLy8gVE9ETyAoSUdOLTE3NjIpCgkJTG9nOjpnZXQoKS5lcnJvcihMb2dNZXRhZGF0YShJTmV0d29yazo6SUQoKSwgIldlYlNvY2tldERlbGVnYXRlXzg3IiksCgkJCQkiJXMgZmFpbGVkOiAlcyIsIF9fRlVOQ1RJT05fXywgZWMubWVzc2FnZSgpLmNfc3RyKCkpOwoJCXJldHVybiBmYWxzZTsKCX0KCglfdXJpID0gdXJpOwoJX2Nvbm5lY3Rpb24gPSBfY2xpZW50LmNvbm5lY3QoX2Nvbm5lY3Rpb24pOwoKCV9jbGllbnRUaHJlYWQgPSBuZXcgYm9vc3Q6OnRocmVhZChib29zdDo6YmluZCgmY2xpZW50OjpydW4sICZfY2xpZW50KSk7CgoJcmV0dXJuIHRydWU7Cn0KCnZvaWQgV2ViU29ja2V0RGVsZWdhdGU6OmRpc2Nvbm5lY3QodW5zaWduZWQgaW50IHN0YXR1c0NvZGUpCnsKCVRSQUNFUE9JTlRfQ0FMTFNUQUNLX05BVElWRSgpOwoKCXdlYnNvY2tldHBwOjpsaWI6OmVycm9yX2NvZGUgZWM7CglfY29ubmVjdGlvbi0+Y2xvc2Uoc3RhdHVzQ29kZSwgIiIsIGVjKTsKCglpZiAoZWMpCgl7CgkJLy8gVE9ETyAoSUdOLTE3NjIpCgkJTG9nOjpnZXQoKS5lcnJvcihMb2dNZXRhZGF0YShJTmV0d29yazo6SUQoKSwgIldlYlNvY2tldERlbGVnYXRlXzEwOCIpLAoJCQkJIiVzIGZhaWxlZDogJXMiLCBfX0ZVTkNUSU9OX18sIGVjLm1lc3NhZ2UoKS5jX3N0cigpKTsKCX0KfQoKYm9vbCBXZWJTb2NrZXREZWxlZ2F0ZTo6c2VuZChjb25zdCBjaGFyKiBkYXRhLCB1bnNpZ25lZCBpbnQgbGVuZ3RoLCBXZWJTb2NrZXRTZW5kRGF0YVR5cGUgdHlwZSkKewoJVFJBQ0VQT0lOVF9DQUxMU1RBQ0tfTkFUSVZFKCk7CgoJd2Vic29ja2V0cHA6OmxpYjo6ZXJyb3JfY29kZSBlYyA9IF9jb25uZWN0aW9uLT5zZW5kKGRhdGEsIGxlbmd0aCk7CgoJaWYgKGVjKQoJewoJCS8vIFRPRE8gKElHTi0xNzYyKQoJCUxvZzo6Z2V0KCkuZXJyb3IoTG9nTWV0YWRhdGEoSU5ldHdvcms6OklEKCksICJXZWJTb2NrZXREZWxlZ2F0ZV8xMjAiKSwKCQkJCSIlcyBmYWlsZWQ6ICVzIiwgX19GVU5DVElPTl9fLCBlYy5tZXNzYWdlKCkuY19zdHIoKSk7CgkJcmV0dXJuIGZhbHNlOwoJfQoJcmV0dXJuIHRydWU7Cn0KCnZvaWQgV2ViU29ja2V0RGVsZWdhdGU6Om9uT3Blbih3ZWJzb2NrZXRwcDo6Y29ubmVjdGlvbl9oZGwgaGRsKQp7CglUUkFDRVBPSU5UX0NBTExTVEFDS19OQVRJVkUoKTsKCglpZ25pdGlvbjo6TG9nOjpnZXQoKS5pbmZvKElOZXR3b3JrOjpJRCgpLCAiV2ViU29ja2V0IGNvbm5lY3Rpb24gZXN0YWJsaXNoZWQgKCVzKS4iLCBfdXJpLmNfc3RyKCkpOwoKCVdlYlNvY2tldEV2ZW50KiB3ZWJTb2NrZXRFdmVudCA9IFdlYlNvY2tldEV2ZW50OjpjcmVhdGUoCgkJCVdlYlNvY2tldEV2ZW50OjpPTl9PUEVOLCBfdXVpZCwgIkNvbm5lY3Rpb24gZXN0YWJsaXNoZWQiKTsKCWNvcmU6OmV2ZW50OjpFdmVudFNlcnZpY2U6OkdldCgpLnB1Ymxpc2god2ViU29ja2V0RXZlbnQpOwp9Cgp2b2lkIFdlYlNvY2tldERlbGVnYXRlOjpvbkNsb3NlKHdlYnNvY2tldHBwOjpjb25uZWN0aW9uX2hkbCBoZGwpCnsKCVRSQUNFUE9JTlRfQ0FMTFNUQUNLX05BVElWRSgpOwoKCWlnbml0aW9uOjpMb2c6OmdldCgpLmluZm8oSU5ldHdvcms6OklEKCksICJXZWJTb2NrZXQgY29ubmVjdGlvbiBjbG9zZWQgKCVzKS4iLCBfdXJpLmNfc3RyKCkpOwoKCVdlYlNvY2tldEV2ZW50KiB3ZWJTb2NrZXRFdmVudCA9IFdlYlNvY2tldEV2ZW50OjpjcmVhdGUoCgkJCVdlYlNvY2tldEV2ZW50OjpPTl9DTE9TRSwgX3V1aWQsICJDb25uZWN0aW9uIGNsb3NlZCIpOwoJY29yZTo6ZXZlbnQ6OkV2ZW50U2VydmljZTo6R2V0KCkucHVibGlzaCh3ZWJTb2NrZXRFdmVudCk7Cn0KCnZvaWQgV2ViU29ja2V0RGVsZWdhdGU6Om9uRmFpbCh3ZWJzb2NrZXRwcDo6Y29ubmVjdGlvbl9oZGwgaGRsKQp7CglUUkFDRVBPSU5UX0NBTExTVEFDS19OQVRJVkUoKTsKCglzdGQ6OnN0cmluZyBzZXJ2ZXIgPSBfY29ubmVjdGlvbi0+Z2V0X2hvc3QoKTsKCXN0ZDo6c3RyaW5nIGVycm9yUmVhc29uID0gX2Nvbm5lY3Rpb24tPmdldF9lYygpLm1lc3NhZ2UoKTsKCglMb2c6OmdldCgpLmVycm9yKAoJCQlMb2dNZXRhZGF0YShJTmV0d29yazo6SUQoKSwgIldlYlNvY2tldERlbGVnYXRlQ29ubmVjdGlvbkZhaWxVc2VXZWJzb2NrZXRwcCIpLAoJCQkiV2ViU29ja2V0IGNvbm5lY3Rpb24gZmFpbGVkIHdpdGggcmVhc29uID0gJyVzJy4gW1NlcnZlciA9ICclcyddIiwKCQkJZXJyb3JSZWFzb24uY19zdHIoKSwgc2VydmVyLmNfc3RyKCkpOwoJTG9nOjpnZXQoKS5pbmZvKElOZXR3b3JrOjpJRCgpLCAiV2ViU29ja2V0IGZhaWwgdG8gY29ubmVjdCAoJXMpLiIsX3VyaS5jX3N0cigpKTsKCglXZWJTb2NrZXRFdmVudCogd2ViU29ja2V0RXZlbnQgPSBXZWJTb2NrZXRFdmVudDo6Y3JlYXRlKAoJCQlXZWJTb2NrZXRFdmVudDo6T05fRkFJTCwgX3V1aWQsICJDb25uZWN0aW9uIGZhaWxlZCIpOwoJY29yZTo6ZXZlbnQ6OkV2ZW50U2VydmljZTo6R2V0KCkucHVibGlzaCh3ZWJTb2NrZXRFdmVudCk7Cn0KCnZvaWQgV2ViU29ja2V0RGVsZWdhdGU6Om9uTWVzc2FnZSh3ZWJzb2NrZXRwcDo6Y29ubmVjdGlvbl9oZGwgaGRsLCBjbGllbnQ6Om1lc3NhZ2VfcHRyIG1zZykKewoJVFJBQ0VQT0lOVF9DQUxMU1RBQ0tfTkFUSVZFKCk7CgoJaWduaXRpb246OkxvZzo6Z2V0KCkuaW5mbyhJTmV0d29yazo6SUQoKSwKCQkJIk1lc3NhZ2UgcmVjZWl2ZWQgKGZyb206ICVkLCAlZCBieXRlcyk6ICVzIiwKCQkJX3V1aWQuZ2V0SWQoKSwgbXNnLT5nZXRfcGF5bG9hZCgpLnNpemUoKSwgbXNnLT5nZXRfcGF5bG9hZCgpLmNfc3RyKCkpOwoKCVdlYlNvY2tldEV2ZW50KiB3ZWJTb2NrZXRFdmVudCA9IFdlYlNvY2tldEV2ZW50OjpjcmVhdGUoCgkJCVdlYlNvY2tldEV2ZW50OjpPTl9NRVNTQUdFLCBfdXVpZCwgbXNnLT5nZXRfcGF5bG9hZCgpKTsKCWNvcmU6OmV2ZW50OjpFdmVudFNlcnZpY2U6OkdldCgpLnB1Ymxpc2god2ViU29ja2V0RXZlbnQpOwp9Cgpjb25zdCBzdGQ6OnN0cmluZyYgV2ViU29ja2V0RGVsZWdhdGU6OmdldFVyaSgpCnsKCVRSQUNFUE9JTlRfQ0FMTFNUQUNLX05BVElWRSgpOwoKCXJldHVybiBfdXJpOwp9Cgp2b2lkIFdlYlNvY2tldERlbGVnYXRlOjpzZXRTU0xGbGFnKGludCkKewp9CgojZWxpZiBkZWZpbmVkKFBMVUdJTk5FVFdPUktfQlVJTERfTElCV0VCU09DS0VUKQo=</text>
+      <register name="2" type="4">
+        <text>(
+              &quot;Failure parsing the loaded buffer (((error code:%u))), (((buffer size:%zu))), &quot;
+                      &quot;(((printed %zu bytes))), (((buffer:%s)))&quot;,
+              buffer_size,
+              copied_size,
+              null_terminated_buffer)</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSByYXBpZGpzb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2VuZGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb2RlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29waWVkX3NpemUsCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCgpCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>(LOG_CAT_REGISTER,
-                  &quot;Failure parsing the loaded buffer (((error code:%u))), (((buffer size:%zu))), (((buffer:%s))), (((printed %s bytes)))&quot;,
-                  code,
-                  buffer_size,
-                  null_terminated_buffer,
-                  copied_size)</text>
+      <register name="5" type="2">
+        <text encoding="base64">I2lmIGRlZmluZWQoUExVR0lOTkVUV09SS19CVUlMRF9XRUJTT0NLRVRTKSAmJiAhZGVmaW5lZChQTFVHSU5ORVRXT1JLX0JVSUxEX0xJQldFQlNPQ0tFVCkKCnR5cGVkZWYgaWduaXRpb246OmNvcmU6Om1lbW9yeTo6U2hhcmVkUHRyPGJvb3N0Ojphc2lvOjpzc2w6OmNvbnRleHQ+IGNvbnRleHRfcHRyOwoKbmFtZXNwYWNlCnsKY29udGV4dF9wdHIgb25UTFNJbml0KHdlYnNvY2tldHBwOjpjb25uZWN0aW9uX2hkbCBoZGwpCnsKCWNvcmU6OkNvbW1hbmRMaW5lICZjb21tYW5kTGluZSA9IGNvcmU6OkNvbW1hbmRMaW5lOjpHZXQoKTsKCWF1dG8gY2VydENvbmZpZyA9IENlcnRDb25maWd1cmF0aW9uOjpnZXQoKTsKCWNvbnRleHRfcHRyIGN0eCA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8Ym9vc3Q6OmFzaW86OnNzbDo6Y29udGV4dD4oCgkJYm9vc3Q6OmFzaW86OnNzbDo6Y29udGV4dDo6dGxzdjEpOwoJaWYgKCFjb21tYW5kTGluZS5jb250YWluc0FyZ3VtZW50KE5ldHdvcms6OkVOQUJMRV9XU19GTEFHKSAmJiBjZXJ0Q29uZmlnKQoJewoJCWN0eC0+c2V0X29wdGlvbnMoYm9vc3Q6OmFzaW86OnNzbDo6Y29udGV4dDo6ZGVmYXVsdF93b3JrYXJvdW5kcyB8CgkJCQlib29zdDo6YXNpbzo6c3NsOjpjb250ZXh0Ojpub19zc2x2MiB8CgkJCQlib29zdDo6YXNpbzo6c3NsOjpjb250ZXh0Ojpub19zc2x2MyB8CgkJCQlib29zdDo6YXNpbzo6c3NsOjpjb250ZXh0OjpzaW5nbGVfZGhfdXNlKTsKCQlpZiAoY2VydENvbmZpZy0+aGFzQ0FCdW5kbGVQYXRoKCkpCgkJewoJCQljdHgtPmxvYWRfdmVyaWZ5X2ZpbGUoY2VydENvbmZpZy0+Z2V0Q0FCdW5kbGVQYXRoKCkuY19zdHIoKSk7CgkJfQoJCWlmIChjZXJ0Q29uZmlnLT5oYXNDQUNlcnRzRGlyUGF0aCgpKQoJCXsKCQkJY3R4LT5hZGRfdmVyaWZ5X3BhdGgoY2VydENvbmZpZy0+Z2V0Q0FDZXJ0c0RpclBhdGgoKS5jX3N0cigpKTsKCQl9CgkJY3R4LT5zZXRfdmVyaWZ5X21vZGUoYm9vc3Q6OmFzaW86OnNzbDo6dmVyaWZ5X3BlZXIpOwoJfQoJcmV0dXJuIGN0eDsKfQp9CgpXZWJTb2NrZXREZWxlZ2F0ZTo6V2ViU29ja2V0RGVsZWdhdGUoaWduaXRpb246OmNvcmU6OlVVSUQgdXVpZCkgOgoJX3V1aWQodXVpZCksCglfY2xpZW50VGhyZWFkKG51bGxwdHIpCnsKCVRSQUNFUE9JTlRfQ0FMTFNUQUNLX05BVElWRSgpOwoKCXVzaW5nIHdlYnNvY2tldHBwOjpsaWI6OmJpbmQ7CgoJX2NsaWVudC5jbGVhcl9hY2Nlc3NfY2hhbm5lbHMod2Vic29ja2V0cHA6OmxvZzo6YWxldmVsOjphbGwpOwoKCV9jbGllbnQuaW5pdF9hc2lvKCk7CglfY2xpZW50LnNldF9vcGVuX2hhbmRsZXIoYmluZCgmV2ViU29ja2V0RGVsZWdhdGU6Om9uT3BlbiwgdGhpcywgOjpfMSkpOwoJX2NsaWVudC5zZXRfY2xvc2VfaGFuZGxlcihiaW5kKCZXZWJTb2NrZXREZWxlZ2F0ZTo6b25DbG9zZSwgdGhpcywgOjpfMSkpOwoJX2NsaWVudC5zZXRfZmFpbF9oYW5kbGVyKGJpbmQoJldlYlNvY2tldERlbGVnYXRlOjpvbkZhaWwsIHRoaXMsIDo6XzEpKTsKCV9jbGllbnQuc2V0X21lc3NhZ2VfaGFuZGxlcihiaW5kKCZXZWJTb2NrZXREZWxlZ2F0ZTo6b25NZXNzYWdlLCB0aGlzLCA6Ol8xLCA6Ol8yKSk7CglfY2xpZW50LnNldF90bHNfaW5pdF9oYW5kbGVyKG9uVExTSW5pdCk7CgoJaWYgKCsrX2luc3RhbmNlQ291bnRlciA+IElOU1RBTkNFX0NPVU5URVJfV0FSTklOR19USFJFU0hPTEQpCgl7CgkJTG9nOjpnZXQoKS53YXJuaW5nKElOZXR3b3JrOjpJRCgpLAoJCQkJIk1vcmUgdGhhbiAlZCB3ZWJzb2NrZXQgKD09IHRocmVhZHMpIGluc3RhbmNlcyBjcmVhdGVkLiBQbGVhc2UgcmUtdXNlLiIsCgkJCQlJTlNUQU5DRV9DT1VOVEVSX1dBUk5JTkdfVEhSRVNIT0xEKTsKCX0KfQoKV2ViU29ja2V0RGVsZWdhdGU6On5XZWJTb2NrZXREZWxlZ2F0ZSgpCnsKCVRSQUNFUE9JTlRfQ0FMTFNUQUNLX05BVElWRSgpOwoKCXdlYnNvY2tldHBwOjpsaWI6OmVycm9yX2NvZGUgZWM7CgoJaWYgKF9jb25uZWN0aW9uICE9IG51bGxwdHIpCgkJX2Nvbm5lY3Rpb24tPmNsb3NlKDAsICIiLCBlYyk7CgoJX2NsaWVudC5zdG9wKCk7CgoJaWYgKF9jbGllbnRUaHJlYWQgJiYgX2NsaWVudFRocmVhZC0+am9pbmFibGUoKSkKCXsKCQlfY2xpZW50VGhyZWFkLT5qb2luKCk7Cgl9CgoJLS1faW5zdGFuY2VDb3VudGVyOwp9Cgpib29sIFdlYlNvY2tldERlbGVnYXRlOjpjb25uZWN0KGNvbnN0IHN0ZDo6c3RyaW5nJiB1cmkpCnsKCVRSQUNFUE9JTlRfQ0FMTFNUQUNLX05BVElWRSgpOwoKCV9jbGllbnQuc3RvcCgpOwoJX2NsaWVudC5yZXNldCgpOwoKCXdlYnNvY2tldHBwOjpsaWI6OmVycm9yX2NvZGUgZWM7CglfY29ubmVjdGlvbiA9IF9jbGllbnQuZ2V0X2Nvbm5lY3Rpb24odXJpLCBlYyk7CglpZiAoZWMpCgl7CgkJLy8gVE9ETyAoSUdOLTE3NjIpCgkJTG9nOjpnZXQoKS5lcnJvcihMb2dNZXRhZGF0YShJTmV0d29yazo6SUQoKSwgIldlYlNvY2tldERlbGVnYXRlXzg3IiksCgkJCQkiJXMgZmFpbGVkOiAlcyIsIF9fRlVOQ1RJT05fXywgZWMubWVzc2FnZSgpLmNfc3RyKCkpOwoJCXJldHVybiBmYWxzZTsKCX0KCglfdXJpID0gdXJpOwoJX2Nvbm5lY3Rpb24gPSBfY2xpZW50LmNvbm5lY3QoX2Nvbm5lY3Rpb24pOwoKCV9jbGllbnRUaHJlYWQgPSBuZXcgYm9vc3Q6OnRocmVhZChib29zdDo6YmluZCgmY2xpZW50OjpydW4sICZfY2xpZW50KSk7CgoJcmV0dXJuIHRydWU7Cn0KCnZvaWQgV2ViU29ja2V0RGVsZWdhdGU6OmRpc2Nvbm5lY3QodW5zaWduZWQgaW50IHN0YXR1c0NvZGUpCnsKCVRSQUNFUE9JTlRfQ0FMTFNUQUNLX05BVElWRSgpOwoKCXdlYnNvY2tldHBwOjpsaWI6OmVycm9yX2NvZGUgZWM7CglfY29ubmVjdGlvbi0+Y2xvc2Uoc3RhdHVzQ29kZSwgIiIsIGVjKTsKCglpZiAoZWMpCgl7CgkJLy8gVE9ETyAoSUdOLTE3NjIpCgkJTG9nOjpnZXQoKS5lcnJvcihMb2dNZXRhZGF0YShJTmV0d29yazo6SUQoKSwgIldlYlNvY2tldERlbGVnYXRlXzEwOCIpLAoJCQkJIiVzIGZhaWxlZDogJXMiLCBfX0ZVTkNUSU9OX18sIGVjLm1lc3NhZ2UoKS5jX3N0cigpKTsKCX0KfQoKYm9vbCBXZWJTb2NrZXREZWxlZ2F0ZTo6c2VuZChjb25zdCBjaGFyKiBkYXRhLCB1bnNpZ25lZCBpbnQgbGVuZ3RoLCBXZWJTb2NrZXRTZW5kRGF0YVR5cGUgdHlwZSkKewoJVFJBQ0VQT0lOVF9DQUxMU1RBQ0tfTkFUSVZFKCk7CgoJd2Vic29ja2V0cHA6OmxpYjo6ZXJyb3JfY29kZSBlYyA9IF9jb25uZWN0aW9uLT5zZW5kKGRhdGEsIGxlbmd0aCk7CgoJaWYgKGVjKQoJewoJCS8vIFRPRE8gKElHTi0xNzYyKQoJCUxvZzo6Z2V0KCkuZXJyb3IoTG9nTWV0YWRhdGEoSU5ldHdvcms6OklEKCksICJXZWJTb2NrZXREZWxlZ2F0ZV8xMjAiKSwKCQkJCSIlcyBmYWlsZWQ6ICVzIiwgX19GVU5DVElPTl9fLCBlYy5tZXNzYWdlKCkuY19zdHIoKSk7CgkJcmV0dXJuIGZhbHNlOwoJfQoJcmV0dXJuIHRydWU7Cn0KCnZvaWQgV2ViU29ja2V0RGVsZWdhdGU6Om9uT3Blbih3ZWJzb2NrZXRwcDo6Y29ubmVjdGlvbl9oZGwgaGRsKQp7CglUUkFDRVBPSU5UX0NBTExTVEFDS19OQVRJVkUoKTsKCglpZ25pdGlvbjo6TG9nOjpnZXQoKS5pbmZvKElOZXR3b3JrOjpJRCgpLCAiV2ViU29ja2V0IGNvbm5lY3Rpb24gZXN0YWJsaXNoZWQgKCVzKS4iLCBfdXJpLmNfc3RyKCkpOwoKCVdlYlNvY2tldEV2ZW50KiB3ZWJTb2NrZXRFdmVudCA9IFdlYlNvY2tldEV2ZW50OjpjcmVhdGUoCgkJCVdlYlNvY2tldEV2ZW50OjpPTl9PUEVOLCBfdXVpZCwgIkNvbm5lY3Rpb24gZXN0YWJsaXNoZWQiKTsKCWNvcmU6OmV2ZW50OjpFdmVudFNlcnZpY2U6OkdldCgpLnB1Ymxpc2god2ViU29ja2V0RXZlbnQpOwp9Cgp2b2lkIFdlYlNvY2tldERlbGVnYXRlOjpvbkNsb3NlKHdlYnNvY2tldHBwOjpjb25uZWN0aW9uX2hkbCBoZGwpCnsKCVRSQUNFUE9JTlRfQ0FMTFNUQUNLX05BVElWRSgpOwoKCWlnbml0aW9uOjpMb2c6OmdldCgpLmluZm8oSU5ldHdvcms6OklEKCksICJXZWJTb2NrZXQgY29ubmVjdGlvbiBjbG9zZWQgKCVzKS4iLCBfdXJpLmNfc3RyKCkpOwoKCVdlYlNvY2tldEV2ZW50KiB3ZWJTb2NrZXRFdmVudCA9IFdlYlNvY2tldEV2ZW50OjpjcmVhdGUoCgkJCVdlYlNvY2tldEV2ZW50OjpPTl9DTE9TRSwgX3V1aWQsICJDb25uZWN0aW9uIGNsb3NlZCIpOwoJY29yZTo6ZXZlbnQ6OkV2ZW50U2VydmljZTo6R2V0KCkucHVibGlzaCh3ZWJTb2NrZXRFdmVudCk7Cn0KCnZvaWQgV2ViU29ja2V0RGVsZWdhdGU6Om9uRmFpbCh3ZWJzb2NrZXRwcDo6Y29ubmVjdGlvbl9oZGwgaGRsKQp7CglUUkFDRVBPSU5UX0NBTExTVEFDS19OQVRJVkUoKTsKCglzdGQ6OnN0cmluZyBzZXJ2ZXIgPSBfY29ubmVjdGlvbi0+Z2V0X2hvc3QoKTsKCXN0ZDo6c3RyaW5nIGVycm9yUmVhc29uID0gX2Nvbm5lY3Rpb24tPmdldF9lYygpLm1lc3NhZ2UoKTsKCglMb2c6OmdldCgpLmVycm9yKAoJCQlMb2dNZXRhZGF0YShJTmV0d29yazo6SUQoKSwgIldlYlNvY2tldERlbGVnYXRlQ29ubmVjdGlvbkZhaWxVc2VXZWJzb2NrZXRwcCIpLAoJCQkiV2ViU29ja2V0IGNvbm5lY3Rpb24gZmFpbGVkIHdpdGggcmVhc29uID0gJyVzJy4gW1NlcnZlciA9ICclcyddIiwKCQkJZXJyb3JSZWFzb24uY19zdHIoKSwgc2VydmVyLmNfc3RyKCkpOwoJTG9nOjpnZXQoKS5pbmZvKElOZXR3b3JrOjpJRCgpLCAiV2ViU29ja2V0IGZhaWwgdG8gY29ubmVjdCAoJXMpLiIsX3VyaS5jX3N0cigpKTsKCglXZWJTb2NrZXRFdmVudCogd2ViU29ja2V0RXZlbnQgPSBXZWJTb2NrZXRFdmVudDo6Y3JlYXRlKAoJCQlXZWJTb2NrZXRFdmVudDo6T05fRkFJTCwgX3V1aWQsICJDb25uZWN0aW9uIGZhaWxlZCIpOwoJY29yZTo6ZXZlbnQ6OkV2ZW50U2VydmljZTo6R2V0KCkucHVibGlzaCh3ZWJTb2NrZXRFdmVudCk7Cn0KCnZvaWQgV2ViU29ja2V0RGVsZWdhdGU6Om9uTWVzc2FnZSh3ZWJzb2NrZXRwcDo6Y29ubmVjdGlvbl9oZGwgaGRsLCBjbGllbnQ6Om1lc3NhZ2VfcHRyIG1zZykKewoJVFJBQ0VQT0lOVF9DQUxMU1RBQ0tfTkFUSVZFKCk7CgoJaWduaXRpb246OkxvZzo6Z2V0KCkuaW5mbyhJTmV0d29yazo6SUQoKSwKCQkJIk1lc3NhZ2UgcmVjZWl2ZWQgKGZyb206ICVkLCAlZCBieXRlcyk6ICVzIiwKCQkJX3V1aWQuZ2V0SWQoKSwgbXNnLT5nZXRfcGF5bG9hZCgpLnNpemUoKSwgbXNnLT5nZXRfcGF5bG9hZCgpLmNfc3RyKCkpOwoKCVdlYlNvY2tldEV2ZW50KiB3ZWJTb2NrZXRFdmVudCA9IFdlYlNvY2tldEV2ZW50OjpjcmVhdGUoCgkJCVdlYlNvY2tldEV2ZW50OjpPTl9NRVNTQUdFLCBfdXVpZCwgbXNnLT5nZXRfcGF5bG9hZCgpKTsKCWNvcmU6OmV2ZW50OjpFdmVudFNlcnZpY2U6OkdldCgpLnB1Ymxpc2god2ViU29ja2V0RXZlbnQpOwp9Cgpjb25zdCBzdGQ6OnN0cmluZyYgV2ViU29ja2V0RGVsZWdhdGU6OmdldFVyaSgpCnsKCVRSQUNFUE9JTlRfQ0FMTFNUQUNLX05BVElWRSgpOwoKCXJldHVybiBfdXJpOwp9Cgp2b2lkIFdlYlNvY2tldERlbGVnYXRlOjpzZXRTU0xGbGFnKGludCkKewp9CgojZWxpZiBkZWZpbmVkKFBMVUdJTk5FVFdPUktfQlVJTERfTElCV0VCU09DS0VUKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY28K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29waWVkX3NpemUsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5742,11 +5735,16 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplX3QgY29waWVkX3NpemUK</text>
+      <register name="8" type="4">
+        <text>(LOG_CAT_REGISTER,
+                  &quot;Failure parsing the loaded buffer (((error code:%u))), (((buffer size:%zu))), (((buffer:%s))), (((printed %s bytes)))&quot;,
+                  code,
+                  buffer_size,
+                  null_terminated_buffer,
+                  copied_size)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">CiMgTG9hZCBkZXZpY2UgbGF5ZXIgbGlicmFyeSBhbmQgdXNlIGRldmljZSBBUElzIGZyb20gaXQKQ01BS0VfT1BUSU9OUz0iJENNQUtFX09QVElPTlMgLURVU0VfREVWSUNFX0xBWUVSPVlFUyIKCiMgVXNlIERQQyB0byBnZXQgaW5mb3JtYXRpb24gZnJvbSBkZXZpY2VzLgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRFVTRV9ERVZJQ0VfUFJPUEVSVElFU19DT01QT05FTlQ9WUVTIgpDTUFLRV9PUFRJT05TPSIkQ01BS0VfT1BUSU9OUyAtRERFVklDRV9QUk9QRVJUSUVTX1BST1ZJREVSX0xPQ0FUSU9OPSQiCg==</text>
@@ -5756,9 +5754,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDTElFTlRfVEhSRUFEXD4=</last-search>
+      <last-search encoding="base64">XDxidWZmZXJfc2l6ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDTElFTlRfVEhSRUFEXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxidWZmZXJfc2l6ZVw+</last-pattern>
       <last-replace />
       <last-substitute>option</last-substitute>
       <last-dir>1</last-dir>
@@ -5766,7 +5764,6 @@
     </search>
     <history>
       <history-search>
-        <entry>portinglayer</entry>
         <entry encoding="base64">XDxNRUdBQkxBU1RfQ1hYX1NPVVJDRVNcPg==</entry>
         <entry>tests</entry>
         <entry encoding="base64">XDx0ZXN0c1w+</entry>
@@ -5786,6 +5783,7 @@
         <entry encoding="base64">XDxTSE9SVF9OQU1FXD4=</entry>
         <entry encoding="base64">XDxfc2VuZE5leHRNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxDTElFTlRfVEhSRUFEXD4=</entry>
+        <entry encoding="base64">XDxidWZmZXJfc2l6ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
