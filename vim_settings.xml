@@ -337,7 +337,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521206260691">
+      <file name="/Dummy.txt" timestamp="1521219898565">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1195,6 +1195,10 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/CMakeLists.txt" timestamp="1521219952040">
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/CMakeLists.txt" timestamp="1512134572708">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1716,7 +1720,7 @@
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>avStorageBackendCreateContext</text>
+        <text encoding="base64">Q01BS0VfQ1hYX1NUQU5EQVJEIA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1793,7 +1797,7 @@
         <text encoding="base64">XDxCbG9iU2l6ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG8gYnVmZmVyU2l6ZSA9IHN0cmxlbih2YWx1ZSk7CiAgICBjaGFyIG51bGxfdGVybWluYXRlZF9idWZmZXJbMjA0OF17Jz0nfTsKICAgIG1lbXNldChudWxsX3Rlcm1pbmF0ZWRfYnVmZmVyLCAnPScsIDIwNDgpOwogICAgc2l6ZV90IGNvcGllZF9zaXplID0gKGJ1ZmZlclNpemUgPCAyMDQ4KSA/IGJ1ZmZlclNpemUgOiAyMDQ3OwogICAgbWVtY3B5KG51bGxfdGVybWluYXRlZF9idWZmZXIsIHZhbHVlLCBjb3BpZWRfc2l6ZSk7CiAgICBudWxsX3Rlcm1pbmF0ZWRfYnVmZmVyW2NvcGllZF9zaXplXSA9ICdcMCc7CiAgICBwcmludGYoCiAgICAgICAgICAgICJTdG9yYWdlUmVnaXN0ZXI6OnNldF92YWx1ZSAoKChidWZmZXIgc2l6ZTolenUpKSksICIKICAgICAgICAgICAgICAgICAgICAiKCgocHJpbnRlZCAlenUgYnl0ZXMpKSksXG4oKCglcykpKVxuKCgoIiwKICAgICAgICAgICAgYnVmZmVyU2l6ZSwKICAgICAgICAgICAgY29waWVkX3NpemUsCiAgICAgICAgICAgIG51bGxfdGVybWluYXRlZF9idWZmZXIpOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPD0gNjA7ICsraSkKICAgIHsKICAgICAgICBwcmludGYoIjwlMDJkPjQ1Njc4OSIsIGkpOwogICAgfQogICAgcHJpbnRmKCJcbiIpOwo=</text>
+        <text encoding="base64">c2V0KENNQUtFX0NYWF9TVEFOREFSRCAxMSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgQmxvYlNpemUgPSBpZ25pdGU6OktWSG9sZGVyOjpCbG9iU2l6ZTsK</text>
