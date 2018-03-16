@@ -121,9 +121,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/bindings/sm/WebSocketExtension.cpp" timestamp="1516705872182">
         <mark key="'" line="100" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1521027987912">
-        <mark key="'" line="2370" column="12" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/Memory.cpp" timestamp="1512051335104">
         <mark key="'" line="63" column="29" />
       </file>
@@ -311,10 +308,10 @@
         <mark key="." line="25" column="116" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/KVHolder.h" timestamp="1521127174147">
-        <mark key="[" line="90" column="4" />
-        <mark key="]" line="90" column="12" />
-        <mark key="^" line="90" column="12" />
-        <mark key="." line="90" column="12" />
+        <mark key="[" line="147" column="4" />
+        <mark key="]" line="147" column="12" />
+        <mark key="^" line="147" column="12" />
+        <mark key="." line="147" column="12" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/portinglayer.h" timestamp="1520958504225">
         <mark key="'" line="29" column="30" />
@@ -332,7 +329,7 @@
       <file name="$USER_HOME$/dev/ignite/src/StorageRegister.h" timestamp="1519995600704">
         <mark key="'" line="16" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521141123868">
+      <file name="/Dummy.txt" timestamp="1521210596226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -372,12 +369,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginVersionManager.cpp" timestamp="1513357231106">
         <mark key="'" line="93" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" timestamp="1521140922464">
-        <mark key="'" line="30" column="15" />
-        <mark key="[" line="30" column="45" />
-        <mark key="]" line="30" column="89" />
-        <mark key="." line="30" column="45" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/CMakeLists.txt" timestamp="1520876104956">
         <mark key="'" line="169" column="7" />
@@ -454,9 +445,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/devicerpi/interface/include/device/av_secure_storage_migration_from_v0.h" timestamp="1512558550224">
         <mark key="'" line="52" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/tests/StorageRegisterTest.cpp" timestamp="1521141689860">
-        <mark key="'" line="218" column="20" />
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.renderer/internal/platform/android/cmakescripts/build.cmake" timestamp="1498065989182">
         <mark key="'" line="0" column="18" />
@@ -788,12 +776,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/include/api/GLES2FrameBufferObject.h" timestamp="1494603590831">
         <mark key="'" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/tests/megablast_test_runner.cpp" timestamp="1520597642884">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/include/ota/PluginOTA.h" timestamp="1513696595678">
         <mark key="'" line="41" column="27" />
       </file>
@@ -931,7 +913,7 @@
       <file name="/KVHolder.cpp" timestamp="1519828734950">
         <mark key="'" line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/integrationTests/custom-mocha.js" timestamp="1521057613698">
+      <file name="$USER_HOME$/dev/ignite/integrationTests/custom-mocha.js" timestamp="1521215713159">
         <mark key="'" line="5" column="20" />
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="29" />
@@ -1308,24 +1290,18 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/internal/src/videoPlayer/player/amp/PlayerPlatform.cpp" timestamp="1502118148994">
         <mark key="'" line="337" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/TextToSpeechController.cpp" timestamp="1520952458512">
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ignite/src/CommandBuffer.h" timestamp="1510243688832">
         <mark key="'" line="103" column="8" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/TextToSpeechTest.cpp" timestamp="1493982507515">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.md" timestamp="1521196552808">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.md" timestamp="1521202582746">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="23" column="63" />
-        <mark key="." line="23" column="63" />
-        <mark key="^" line="23" column="63" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="43" column="39" />
+        <mark key="." line="6" column="97" />
+        <mark key="^" line="6" column="97" />
       </file>
       <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/src/avSecureStorageBackend.cpp" timestamp="1498736188272">
         <mark key="'" line="38" column="25" />
@@ -1816,7 +1792,7 @@
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">bWlub3IgYnVnOiB3b3Jkc1RvRXhjbHVkZSBpcyBub3QgdXNlZAo=</text>
+        <text encoding="base64">IyBTdW1tYXJ5ClJlY29tbWVuZGF0aW9uOiBbT25zaXRlLCBSZWN5Y2xlLCBSZWplY3RdIFJlamVjdAoKSnVzdGlmaWNhdGlvbjogSSBjb3VsZG4ndCBnZXQgYW55IGRhdGEgZnJvbSB0aGUgc2Vjb25kIHNvbHV0aW9uIHNpbmNlIGl0IGRvZXNuJ3QgaGF2ZSBlbm91Z2ggY29kZS4KCiMgUTEKIyMgQ29tcGxleGl0eQpTY29yZTogWzAtM10gMQoKSnVzdGlmaWNhdGlvbjogSXQgY2hlY2tzIHRoZSBsaXN0IG9mIGV4Y2x1ZGVkIHdvcmRzIGluc2lkZSBmb3IgaXRlcmF0aW9uIHdoaWNoIHdpbGwgaGF2ZSB0aGUgY29tcGxleGl0eSBvZiBPKG5tKSB3aGVyZSBuIGlzIHRoZSBudW1iZXIgb2Ygd29yZHMgaW4gdGhlIHRleHQgYW5kIG0gaXMgdGhlIG51bWJlciBvZiBleGNsdWRlZCB3b3JkcwoKIyMgU3R5bGUKU2NvcmU6IFswLTNdIDMKCkp1c3RpZmljYXRpb246CkNvcnJlY3QgYW5kIGRldGFpbGVkIG5hbWluZywgZ29vZCBzZXBhcmF0aW9uIG9mIG1ldGhvZHMgbWFrZSB0aGUgY29kZSByZWFkYWJsZS4KCiMjIENvcnJlY3RuZXNzClNjb3JlOiBbMC0zXSAyCgpKdXN0aWZpY2F0aW9uOiBubyBtYWpvciBidWcgYnV0IGEgZmV3IG1pbm9yIGJ1Z3Mgb24gZWRnZSBjYXNlcwptYXhDb3VudCBpcyBub3QgdXBkYXRlZCBpbiBjYXNlIHdoZW4gdGhlIGJpZ2dlc3QgZnJlcXVlbmN5IGlzIDEuCkxpc3Qgb2YgcHVuY3R1YXRpb24gaXMgbm90IGNvbXBsZXRlLgpFeGNsdXNpb24gY2hlY2sgZG9lc24ndCBkZWFsIHdpdGggZGlmZmVyZW50IGNhc2VzLgoKCiMgUTIKIyMgQ29tcGxleGl0eQpTY29yZTogWzAtM10gMAoKSnVzdGlmaWNhdGlvbjogTm90IGVub3VnaCBpbXBsZW1lbnRhdGlvbgoKIyMgU3R5bGUKU2NvcmU6IFswLTNdIDAKCkp1c3RpZmljYXRpb246IE5vdCBlbm91Z2ggaW1wbGVtZW50YXRpb24KCiMjIENvcnJlY3RuZXNzClNjb3JlOiBbMC0zXSAwCgpKdXN0aWZpY2F0aW9uOiBOb3QgZW5vdWdoIGltcGxlbWVudGF0aW9uCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1850,7 +1826,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAvLyBnZXRfc2l6ZSgpIG11c3QgaW5jbHVkZSBudWxsLXRlcm1pbmF0b3I=</text>
+        <text>Not much code is written but it seems okay.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1893,7 +1869,7 @@
         <text encoding="base64">XDxTZXRTdHJpbmdcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IC8vIG51bGwtdGVybWluYXRvciBpcyBpbmNsdWRlZCBpbiBnZXRfZGF0YV9zaXplKCk=</text>
+        <text>Not enough implementation</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bWlub3IgYnVnOiB3b3Jkc1RvRXhjbHVkZSBpcyBub3QgdXNlZAo=</text>
