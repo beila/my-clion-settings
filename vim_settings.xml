@@ -186,13 +186,6 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLCommonContext.cpp" timestamp="1493982740057">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/KVHolder.cpp" timestamp="1521142331560">
-        <mark key="'" line="93" column="8" />
-        <mark key="[" line="168" column="75" />
-        <mark key="]" line="168" column="81" />
-        <mark key="^" line="168" column="81" />
-        <mark key="." line="168" column="81" />
-      </file>
       <file name="$USER_HOME$/dev/igbuild/linux/debug/amazonite/linux/platform/device-properties/implementation/devicepropertiesprovider/src/PlatformDevicePropertiesProvider.cpp" timestamp="1499795243833">
         <mark key="'" line="425" column="70" />
       </file>
@@ -517,12 +510,6 @@
       </file>
       <file name="$USER_HOME$/CLionProjects/ignite/tools/generate_project.py" timestamp="1520531114023">
         <mark key="'" line="72" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" timestamp="1521140305029">
-        <mark key="[" line="252" column="4" />
-        <mark key="]" line="252" column="4" />
-        <mark key="^" line="38" column="9" />
-        <mark key="." line="252" column="9" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/cmakescripts/build.cmake" timestamp="1497605980688">
         <mark key="'" line="203" column="12" />
@@ -876,12 +863,6 @@
       <file name="$USER_HOME$/dev/igrpi/com.amazon.ignition.framework.core/internal/platform/ps4/src/SystemInit.cpp" timestamp="1503482736546">
         <mark key="'" line="261" column="32" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.md" timestamp="1520451200096">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="41" />
-        <mark key="^" line="7" column="41" />
-        <mark key="." line="7" column="41" />
-      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/thirdparty/SDL2/cmake/sdlchecks.cmake" timestamp="1497022769343">
         <mark key="'" line="338" column="4" />
       </file>
@@ -1050,11 +1031,6 @@
       </file>
       <file name="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" timestamp="1517322639932">
         <mark key="'" line="1644" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.h" timestamp="1520253004582">
-        <mark key="'" line="223" column="51" />
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="33" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" timestamp="1501253193383">
         <mark key="'" line="28" column="19" />
@@ -1740,7 +1716,7 @@
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>BlobSize</text>
+        <text>avStorageBackendCreateContext</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
