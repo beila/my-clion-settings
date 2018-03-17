@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/dev/ig/lg-ignition/lg/com.amazon.ignition.framework.core/internal/platform/lg/src/luna/SystemSettingUtils.cpp" timestamp="1495733524774">
         <mark key="'" line="105" column="5" />
       </file>
+      <file name="/start_script.py" timestamp="1519729352999">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/src/plugin/LifecycleEventManager.cpp" timestamp="1501162978602">
         <mark key="'" line="16" column="52" />
       </file>
@@ -30,6 +33,9 @@
         <mark key="]" line="5" column="41" />
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
+      </file>
+      <file name="/LLDB" timestamp="1521027875792">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicerpi/implementation/rpi/internal/src/EGLUtils.cpp" timestamp="1510240826359">
         <mark key="'" line="117" column="41" />
@@ -446,6 +452,9 @@
       <file name="$USER_HOME$/dev/ig/devicerpi/interface/include/device/av_secure_storage_migration_from_v0.h" timestamp="1512558550224">
         <mark key="'" line="52" column="33" />
       </file>
+      <file name="find.xml" timestamp="1521240095965">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.renderer/internal/platform/android/cmakescripts/build.cmake" timestamp="1498065989182">
         <mark key="'" line="0" column="18" />
       </file>
@@ -736,6 +745,9 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="41" column="4" />
       </file>
+      <file name="vim_settings.xml" timestamp="1520514509073">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/renderer/OffScreenSceneGraphManager.cpp" timestamp="1509106753802">
         <mark key="'" line="237" column="25" />
       </file>
@@ -802,6 +814,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SecureStorageBackendContext.cpp" timestamp="1511545303051">
         <mark key="'" line="53" column="0" />
+      </file>
+      <file name="/fragment.mm" timestamp="1520005153410">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.font/internal/platform/linux/cmakescripts/build.cmake" timestamp="1497968636514">
         <mark key="'" line="7" column="7" />
@@ -913,12 +928,12 @@
       <file name="/KVHolder.cpp" timestamp="1519828734950">
         <mark key="'" line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/integrationTests/custom-mocha.js" timestamp="1521215713159">
+      <file name="$USER_HOME$/dev/ignite/integrationTests/custom-mocha.js" timestamp="1521243187053">
         <mark key="'" line="5" column="20" />
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="5" column="24" />
-        <mark key="." line="6" column="29" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="20" column="4" />
+        <mark key="." line="20" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/tests/scene/utils/nodepropertyappliers/EffectUtilsTest.cpp" timestamp="1513942352695">
         <mark key="'" line="20" column="6" />
@@ -1216,6 +1231,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" timestamp="1512650562951">
         <mark key="'" line="99" column="21" />
+      </file>
+      <file name="KeyPromoterXStatistic.xml" timestamp="1520250866618">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/SanityChecklistChecker.py" timestamp="1495201580315">
         <mark key="'" line="111" column="20" />
@@ -1791,8 +1809,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBTdW1tYXJ5ClJlY29tbWVuZGF0aW9uOiBbT25zaXRlLCBSZWN5Y2xlLCBSZWplY3RdIFJlamVjdAoKSnVzdGlmaWNhdGlvbjogSSBjb3VsZG4ndCBnZXQgYW55IGRhdGEgZnJvbSB0aGUgc2Vjb25kIHNvbHV0aW9uIHNpbmNlIGl0IGRvZXNuJ3QgaGF2ZSBlbm91Z2ggY29kZS4KCiMgUTEKIyMgQ29tcGxleGl0eQpTY29yZTogWzAtM10gMQoKSnVzdGlmaWNhdGlvbjogSXQgY2hlY2tzIHRoZSBsaXN0IG9mIGV4Y2x1ZGVkIHdvcmRzIGluc2lkZSBmb3IgaXRlcmF0aW9uIHdoaWNoIHdpbGwgaGF2ZSB0aGUgY29tcGxleGl0eSBvZiBPKG5tKSB3aGVyZSBuIGlzIHRoZSBudW1iZXIgb2Ygd29yZHMgaW4gdGhlIHRleHQgYW5kIG0gaXMgdGhlIG51bWJlciBvZiBleGNsdWRlZCB3b3JkcwoKIyMgU3R5bGUKU2NvcmU6IFswLTNdIDMKCkp1c3RpZmljYXRpb246CkNvcnJlY3QgYW5kIGRldGFpbGVkIG5hbWluZywgZ29vZCBzZXBhcmF0aW9uIG9mIG1ldGhvZHMgbWFrZSB0aGUgY29kZSByZWFkYWJsZS4KCiMjIENvcnJlY3RuZXNzClNjb3JlOiBbMC0zXSAyCgpKdXN0aWZpY2F0aW9uOiBubyBtYWpvciBidWcgYnV0IGEgZmV3IG1pbm9yIGJ1Z3Mgb24gZWRnZSBjYXNlcwptYXhDb3VudCBpcyBub3QgdXBkYXRlZCBpbiBjYXNlIHdoZW4gdGhlIGJpZ2dlc3QgZnJlcXVlbmN5IGlzIDEuCkxpc3Qgb2YgcHVuY3R1YXRpb24gaXMgbm90IGNvbXBsZXRlLgpFeGNsdXNpb24gY2hlY2sgZG9lc24ndCBkZWFsIHdpdGggZGlmZmVyZW50IGNhc2VzLgoKCiMgUTIKIyMgQ29tcGxleGl0eQpTY29yZTogWzAtM10gMAoKSnVzdGlmaWNhdGlvbjogTm90IGVub3VnaCBpbXBsZW1lbnRhdGlvbgoKIyMgU3R5bGUKU2NvcmU6IFswLTNdIDAKCkp1c3RpZmljYXRpb246IE5vdCBlbm91Z2ggaW1wbGVtZW50YXRpb24KCiMjIENvcnJlY3RuZXNzClNjb3JlOiBbMC0zXSAwCgpKdXN0aWZpY2F0aW9uOiBOb3QgZW5vdWdoIGltcGxlbWVudGF0aW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>new Mocha()</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1826,7 +1844,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Not much code is written but it seems okay.</text>
+        <text>new Mocha()</text>
       </register>
       <register name="m" type="4">
         <keys>
