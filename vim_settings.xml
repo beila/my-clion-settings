@@ -220,6 +220,9 @@
       <file name="$USER_HOME$/dev/ignite/src/downloader/CurlDownloader.cpp" timestamp="1519934607866">
         <mark key="'" line="416" column="9" />
       </file>
+      <file name="/usr/include/openssl/bio.h" timestamp="1521653747105">
+        <mark key="'" line="667" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/portingkitreleasetools/tools/release/export_clean/src/filesystem/cleaner/FileSystemCleaner.py" timestamp="1495201610283">
         <mark key="'" line="50" column="17" />
       </file>
@@ -337,7 +340,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521219898565">
+      <file name="/Dummy.txt" timestamp="1521655312349">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1530,8 +1533,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/manifest.ps4" timestamp="1512052308638">
         <mark key="'" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/tools/generate_project.py" timestamp="1519730752208">
-        <mark key="'" line="108" column="4" />
+      <file name="$USER_HOME$/dev/ignite/tools/generate_project.py" timestamp="1521655048234">
+        <mark key="'" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/errors/CrashDataMap.h" timestamp="1513013323066">
         <mark key="'" line="45" column="16" />
@@ -1544,6 +1547,13 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PayloadMetadata.cpp" timestamp="1512650562951">
         <mark key="'" line="99" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/SignatureVerification.cpp" timestamp="1521654139046">
+        <mark key="'" line="33" column="26" />
+        <mark key="[" line="33" column="36" />
+        <mark key="]" line="33" column="36" />
+        <mark key="." line="33" column="36" />
+        <mark key="^" line="33" column="36" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/api/Texture.cpp" timestamp="1512643582909">
         <mark key="'" line="316" column="8" />
@@ -1614,15 +1624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/ignite/src/display/IDisplayContext.h" />
-      <jump line="5" column="17" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
-      <jump line="3" column="15" filename="$USER_HOME$/CLionProjects/ignite/src/Resource.h" />
-      <jump line="6" column="17" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/ignite/src/fontloader/IFontLoader.h" />
-      <jump line="113" column="10" filename="C:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/VC/Tools/MSVC/14.13.26128/include/agile.h" />
-      <jump line="62" column="0" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
-      <jump line="61" column="25" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
-      <jump line="51" column="35" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
       <jump line="64" column="51" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
       <jump line="30" column="4" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.h" />
       <jump line="79" column="12" filename="$USER_HOME$/CLionProjects/ignite/src/display/uwp/UWPDisplay.cpp" />
@@ -1714,13 +1715,22 @@
       <jump line="205" column="9" filename="$USER_HOME$/dev/ignite/tests/KVHolderTest.cpp" />
       <jump line="69" column="47" filename="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" />
       <jump line="93" column="8" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
+      <jump line="667" column="5" filename="/usr/include/openssl/bio.h" />
+      <jump line="0" column="0" filename="/usr/include/openssl/bio.h" />
+      <jump line="74" column="44" filename="$USER_HOME$/dev/ignite/src/SignatureVerification.cpp" />
+      <jump line="31" column="12" filename="$USER_HOME$/dev/ignite/src/SignatureVerification.cpp" />
+      <jump line="33" column="26" filename="$USER_HOME$/dev/ignite/src/SignatureVerification.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/tools/generate_project.py" />
+      <jump line="74" column="30" filename="$USER_HOME$/dev/ignite/tools/generate_project.py" />
+      <jump line="162" column="35" filename="$USER_HOME$/dev/ignite/tools/generate_project.py" />
+      <jump line="10" column="29" filename="$USER_HOME$/dev/ignite/tools/generate_project.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q01BS0VfQ1hYX1NUQU5EQVJEIA==</text>
+        <text>.c_str()</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1754,7 +1764,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>BlobSize</text>
+        <text>.c_str()</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1794,7 +1804,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCbG9iU2l6ZVw+</text>
+        <text encoding="base64">XDxidWlsZF9kaXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2V0KENNQUtFX0NYWF9TVEFOREFSRCAxMSkK</text>
@@ -5700,9 +5710,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCbG9iU2l6ZVw+</last-search>
+      <last-search encoding="base64">XDxidWlsZF9kaXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCbG9iU2l6ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZF9kaXJcPg==</last-pattern>
       <last-replace />
       <last-substitute>option</last-substitute>
       <last-dir>1</last-dir>
@@ -5710,14 +5720,12 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNb2NrU2hhcmVkTGlicmFyeVw+</entry>
         <entry>device</entry>
         <entry encoding="base64">XDx0ZXN0VGFyZ2V0XD4=</entry>
         <entry encoding="base64">XDxzZXR1cFRlc3RzXD4=</entry>
         <entry>agile.h</entry>
         <entry encoding="base64">XDxBZ2lsZVw+</entry>
         <entry encoding="base64">XDxfd2luZG93XD4=</entry>
-        <entry encoding="base64">XDxidWlsZF9kaXJcPg==</entry>
         <entry encoding="base64">XDxFWEVfTkFNRVw+</entry>
         <entry encoding="base64">XDxTSE9SVF9OQU1FXD4=</entry>
         <entry encoding="base64">XDxfc2VuZE5leHRNZXNzYWdlXD4=</entry>
@@ -5730,6 +5738,8 @@
         <entry encoding="base64">XDxidWZmZXJTaXplXD4=</entry>
         <entry encoding="base64">XDxTZXRTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxCbG9iU2l6ZVw+</entry>
+        <entry encoding="base64">XDxiYXNlNjRfZGVjb2RlXD4=</entry>
+        <entry encoding="base64">XDxidWlsZF9kaXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
