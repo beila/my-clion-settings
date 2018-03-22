@@ -344,7 +344,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521655312349">
+      <file name="/Dummy.txt" timestamp="1521730764272">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -642,6 +642,11 @@
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.player/internal/platform/android/src/player/AndroidPlayerPlatform.cpp" timestamp="1502118068355">
         <mark key="'" line="48" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/porting/windows/CMakeLists.txt" timestamp="1521730786151">
+        <mark key="[" line="32" column="19" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="39" />
+      </file>
       <file name="$USER_HOME$/dev/ignite/src/duktape_engine.h" timestamp="1518115978333">
         <mark key="'" line="23" column="6" />
       </file>
@@ -732,6 +737,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/events/LifecycleEvent.h" timestamp="1497629640221">
         <mark key="'" line="38" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/porting/linux/CMakeLists.txt" timestamp="1521720054838">
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="37" column="20" />
+        <mark key="." line="37" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/ignite/src/platform/posix/CMakeLists.txt" timestamp="1520249940084">
         <mark key="'" line="4" column="50" />
       </file>
@@ -783,11 +793,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/ps3/include/allocation/HeapAllocatorMatHeapDecorator.h" timestamp="1512127576896">
         <mark key="'" line="41" column="18" />
-      </file>
-      <file name="C:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/VC/Tools/MSVC/14.13.26128/include/agile.h" timestamp="1520522361252">
-        <mark key="'" line="113" column="10" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="19" column="6" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/SplashScreenManager.cpp" timestamp="1515080962636">
         <mark key="'" line="38" column="25" />
@@ -1110,6 +1115,11 @@
         <mark key="." line="97" column="3" />
         <mark key="^" line="97" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/porting/linux/rust-avpk/Cargo.toml" timestamp="1521720062477">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/src/DisplayContext.cpp" timestamp="1498671449324">
         <mark key="'" line="44" column="0" />
       </file>
@@ -1212,8 +1222,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" timestamp="1515152749263">
         <mark key="'" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/CMakeLists.txt" timestamp="1520249754053">
+      <file name="$USER_HOME$/dev/ignite/src/CMakeLists.txt" timestamp="1521723665448">
         <mark key="'" line="120" column="16" />
+        <mark key="[" line="68" column="40" />
+        <mark key="]" line="68" column="42" />
+        <mark key="." line="68" column="42" />
+        <mark key="^" line="68" column="42" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/path/PluginPathResolver.cpp" timestamp="1513090795872">
         <mark key="'" line="37" column="21" />
@@ -1247,6 +1261,12 @@
       </file>
       <file name="/usr/include/c++/4.9/array" timestamp="1513013896579">
         <mark key="'" line="276" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/porting/linux/rust-avpk/CMakeLists.txt" timestamp="1521723643406">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="13" />
+        <mark key="." line="23" column="13" />
+        <mark key="^" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/filesystem.h" timestamp="1520251430310">
         <mark key="'" line="28" column="5" />
@@ -1368,6 +1388,12 @@
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.deviceinfo/internal/include/deviceinfo/properties/DevicePropertiesDelegate.h" timestamp="1501249979048">
         <mark key="'" line="64" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/porting/uwp/CMakeLists.txt" timestamp="1521730776919">
+        <mark key="[" line="76" column="19" />
+        <mark key="]" line="76" column="39" />
+        <mark key="." line="76" column="39" />
+        <mark key="^" line="76" column="39" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/include/ota/PluginOTA.h" timestamp="1513696595678">
         <mark key="'" line="41" column="27" />
@@ -1491,6 +1517,12 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SecureStorageBackendContext.h" timestamp="1511541912732">
         <mark key="'" line="14" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1521723694729">
+        <mark key="[" line="585" column="74" />
+        <mark key="]" line="585" column="76" />
+        <mark key="." line="585" column="76" />
+        <mark key="^" line="585" column="76" />
+      </file>
       <file name="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" timestamp="1501251293580">
         <mark key="'" line="11" column="0" />
       </file>
@@ -1516,8 +1548,12 @@
       <file name="$USER_HOME$/dev/ignite/src/porting/linux/system_utils.cpp" timestamp="1520250141356">
         <mark key="'" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/osx/CMakeLists.txt" timestamp="1520249990462">
+      <file name="$USER_HOME$/dev/ignite/src/porting/osx/CMakeLists.txt" timestamp="1521730721787">
         <mark key="'" line="3" column="37" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="17" column="36" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2CubeTexture.cpp" timestamp="1494605209507">
         <mark key="'" line="67" column="32" />
@@ -1734,7 +1770,7 @@
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.c_str()</text>
+        <text>megablast-avpk</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1768,7 +1804,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.c_str()</text>
+        <text>megablast-avpk</text>
       </register>
       <register name="m" type="4">
         <keys>
