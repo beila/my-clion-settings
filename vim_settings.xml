@@ -143,8 +143,15 @@
       <file name="$USER_HOME$/dev/ig/devicerpi/implementation/linux/src/avDisplay.cpp" timestamp="1504720197545">
         <mark key="'" line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" timestamp="1521810395335">
+      <file name="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" timestamp="1521821698862">
         <mark key="'" line="14" column="60" />
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+      </file>
+      <file name="/GDB" timestamp="1521719466854">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" timestamp="1501076700002">
         <mark key="'" line="99" column="26" />
@@ -349,7 +356,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521811404189">
+      <file name="/Dummy.txt" timestamp="1521821842137">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -408,6 +415,9 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/cmakescripts/get-plugin-platform-dir.cmake" timestamp="1496761900229">
         <mark key="'" line="17" column="23" />
+      </file>
+      <file name="find.xml" timestamp="1521821091303">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLInputContext.cpp" timestamp="1512132530056">
         <mark key="'" line="0" column="0" />
@@ -1007,6 +1017,11 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/src/utils/RendererObjectScope.cpp" timestamp="1494604082073">
         <mark key="'" line="19" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/iglg/tools/CMakeLists.txt" timestamp="1521821352839">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="83" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/internal/src/http/cache/CacheServiceHttpCacheProvider.cpp" timestamp="1512050768326">
         <mark key="'" line="34" column="34" />
       </file>
@@ -1235,6 +1250,10 @@
         <mark key="]" line="5" column="41" />
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/CMakeLists.txt" timestamp="1521821402093">
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="22" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/CMakeLists.txt" timestamp="1512134572708">
         <mark key="'" line="0" column="0" />
@@ -1536,6 +1555,9 @@
       <file name="/usr/include/c++/4.9/bits/ios_base.h" timestamp="1513092264515">
         <mark key="'" line="364" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/portingplatforms/roku/cmake/platform-config.cmake" timestamp="1521821792223">
+        <mark key="'" line="59" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SecureStorageBackendContext.h" timestamp="1511541912732">
         <mark key="'" line="14" column="10" />
       </file>
@@ -1690,16 +1712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
-      <jump line="109" column="11" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="177" column="22" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="74" column="50" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
-      <jump line="122" column="58" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
-      <jump line="101" column="44" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
-      <jump line="107" column="15" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
-      <jump line="57" column="47" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
-      <jump line="63" column="12" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
-      <jump line="98" column="9" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
       <jump line="54" column="9" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
       <jump line="162" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
       <jump line="45" column="0" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
@@ -1790,13 +1802,23 @@
       <jump line="14" column="107" filename="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" />
       <jump line="15" column="60" filename="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" />
       <jump line="40" column="8" filename="$USER_HOME$/dev/ignite/libs/libwebsockets/CMakeLists.txt" />
+      <jump line="82" column="0" filename="$USER_HOME$/dev/iglg/tools/CMakeLists.txt" />
+      <jump line="54" column="24" filename="$USER_HOME$/dev/ignite/portingplatforms/roku/cmake/platform-config.cmake" />
+      <jump line="57" column="50" filename="$USER_HOME$/dev/ignite/portingplatforms/roku/cmake/platform-config.cmake" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/portingplatforms/roku/cmake/platform-config.cmake" />
+      <jump line="23" column="44" filename="$USER_HOME$/dev/ignite/portingplatforms/roku/cmake/platform-config.cmake" />
+      <jump line="24" column="24" filename="$USER_HOME$/dev/ignite/portingplatforms/roku/cmake/platform-config.cmake" />
+      <jump line="38" column="50" filename="$USER_HOME$/dev/ignite/portingplatforms/roku/cmake/platform-config.cmake" />
+      <jump line="39" column="35" filename="$USER_HOME$/dev/ignite/portingplatforms/roku/cmake/platform-config.cmake" />
+      <jump line="59" column="61" filename="$USER_HOME$/dev/ignite/portingplatforms/roku/cmake/platform-config.cmake" />
+      <jump line="6" column="16" filename="$USER_HOME$/dev/ignite/portingplatforms/roku/cmake/roku-deploy-target.cmake" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>STATUS</text>
+        <text>upload_all</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1830,7 +1852,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>STATUS</text>
+        <text>upload_all</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1870,7 +1892,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDTUFLRV9UT09MQ0hBSU5fUk9PVFw+</text>
+        <text encoding="base64">XDxERVBMT1lfUFJFRklYXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2V0KFRPT0xDSEFJTl9FTlZfVkFSUyAiQ01BS0VfU0RLX1JPT1Q9JEVOVntDTUFLRV9TREtfUk9PVH07Q01BS0VfVE9PTENIQUlOX1JPT1Q9JEVOVntDTUFLRV9UT09MQ0hBSU5fUk9PVH0iKQo=</text>
@@ -5776,9 +5798,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDTUFLRV9UT09MQ0hBSU5fUk9PVFw+</last-search>
+      <last-search encoding="base64">XDxERVBMT1lfUFJFRklYXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDTUFLRV9UT09MQ0hBSU5fUk9PVFw+</last-pattern>
+      <last-pattern encoding="base64">XDxERVBMT1lfUFJFRklYXD4=</last-pattern>
       <last-replace />
       <last-substitute>option</last-substitute>
       <last-dir>1</last-dir>
@@ -5786,7 +5808,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFWEVfTkFNRVw+</entry>
         <entry encoding="base64">XDxTSE9SVF9OQU1FXD4=</entry>
         <entry encoding="base64">XDxfc2VuZE5leHRNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxDTElFTlRfVEhSRUFEXD4=</entry>
@@ -5806,6 +5827,7 @@
         <entry encoding="base64">XDxUT09MQ0hBSU5fRU5WX1ZBUlNcPg==</entry>
         <entry encoding="base64">XDxUT09MQ0hBSU5fRU5WX0NNRFw+</entry>
         <entry encoding="base64">XDxDTUFLRV9UT09MQ0hBSU5fUk9PVFw+</entry>
+        <entry encoding="base64">XDxERVBMT1lfUFJFRklYXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
