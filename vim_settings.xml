@@ -143,12 +143,12 @@
       <file name="$USER_HOME$/dev/ig/devicerpi/implementation/linux/src/avDisplay.cpp" timestamp="1504720197545">
         <mark key="'" line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" timestamp="1522069180265">
+      <file name="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" timestamp="1522072617122">
         <mark key="'" line="28" column="19" />
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="32" column="30" />
-        <mark key="^" line="32" column="30" />
-        <mark key="." line="32" column="30" />
+        <mark key="[" line="34" column="158" />
+        <mark key="]" line="34" column="165" />
+        <mark key="^" line="34" column="165" />
+        <mark key="." line="34" column="165" />
       </file>
       <file name="/GDB" timestamp="1521719466854">
         <mark key="[" line="0" column="0" />
@@ -383,12 +383,12 @@
       <file name="/usr/include/c++/4.9/bits/unique_ptr.h" timestamp="1513100943345">
         <mark key="'" line="231" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" timestamp="1522068439170">
-        <mark key="'" line="77" column="37" />
-        <mark key="[" line="70" column="30" />
-        <mark key="]" line="71" column="24" />
-        <mark key="." line="71" column="24" />
-        <mark key="^" line="71" column="24" />
+      <file name="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" timestamp="1522072594158">
+        <mark key="'" line="51" column="12" />
+        <mark key="[" line="62" column="12" />
+        <mark key="]" line="62" column="12" />
+        <mark key="." line="62" column="20" />
+        <mark key="^" line="82" column="12" />
       </file>
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.core/internal/platform/samsungtv/src/plugin/PluginPathPlatform.cpp" timestamp="1497621666727">
         <mark key="'" line="28" column="29" />
@@ -1715,12 +1715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="19" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="117" column="81" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="73" column="15" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
-      <jump line="90" column="14" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
-      <jump line="142" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="125" column="12" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
       <jump line="46" column="16" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
       <jump line="65" column="16" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
       <jump line="149" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
@@ -1815,13 +1809,19 @@
       <jump line="34" column="19" filename="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" />
       <jump line="28" column="19" filename="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" />
       <jump line="133" column="50" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
+      <jump line="62" column="4" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
+      <jump line="82" column="12" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
+      <jump line="87" column="12" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
+      <jump line="96" column="12" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
+      <jump line="32" column="12" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
+      <jump line="51" column="12" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDT01NRU5UICJJbnN0YWxsaW5nICR7UFJPSkVDVF9OQU1FfSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QVZQSzpERUJVRyA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1855,7 +1855,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">QVZQSzpERUJVRyA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1895,7 +1895,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFVk5cPg==</text>
+        <text encoding="base64">XDxJR05fTE9HX0RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CmlmIChOT1QgVEFSR0VUIGRlcGxveSkKICAgIGFkZF9jdXN0b21fdGFyZ2V0KGRlcGxveQogICAgICAgICIke0NNQUtFX0NPTU1BTkR9IiAtLWJ1aWxkICIke0NNQUtFX0JJTkFSWV9ESVJ9IiAtLXRhcmdldCBpbnN0YWxsCiAgICAgICAgQ09NTUVOVCAiSW5zdGFsbGluZyAke1BST0pFQ1RfTkFNRX0iKQplbmRpZiAoKQo=</text>
@@ -5801,9 +5801,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFVk5cPg==</last-search>
+      <last-search encoding="base64">XDxJR05fTE9HX0RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFVk5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxJR05fTE9HX0RcPg==</last-pattern>
       <last-replace />
       <last-substitute>option</last-substitute>
       <last-dir>1</last-dir>
@@ -5811,7 +5811,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWZmZXJfc2l6ZVw+</entry>
         <entry>read</entry>
         <entry encoding="base64">XDxyZWFkXD4=</entry>
         <entry encoding="base64">XDxzc2Jfc2l6ZVw+</entry>
@@ -5831,6 +5830,7 @@
         <entry>readStatus</entry>
         <entry encoding="base64">XDxsZ3R2XD4=</entry>
         <entry encoding="base64">XDxFVk5cPg==</entry>
+        <entry encoding="base64">XDxJR05fTE9HX0RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
