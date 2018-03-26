@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
@@ -21,7 +19,6 @@
       <mask>*.txt,*.sh,*.py,*.</mask>
       <mask>*.txt,*.sh,*.py,*.con</mask>
       <mask>*.txt,*.sh,*.py,*.conf</mask>
-      <mask>*.txt,*.sh,*.py,*.config</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.i</mask>
@@ -40,6 +37,7 @@
       <mask>*.idl,*.js,*.lua</mask>
       <mask>*.cpp</mask>
       <mask>*.brs</mask>
+      <mask>*.txt,*.sh,*.py,*.config</mask>
     </recentFileMasks>
   </component>
 </application>
