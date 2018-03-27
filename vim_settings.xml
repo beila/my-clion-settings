@@ -149,10 +149,10 @@
       <file name="$USER_HOME$/dev/ig/devicerpi/implementation/linux/src/avDisplay.cpp" timestamp="1504720197545">
         <mark key="'" line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" timestamp="1522079914662">
+      <file name="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" timestamp="1522148954807">
         <mark key="'" line="28" column="19" />
-        <mark key="[" line="34" column="123" />
-        <mark key="]" line="34" column="3" />
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="34" column="176" />
         <mark key="^" line="34" column="3" />
         <mark key="." line="34" column="3" />
       </file>
@@ -400,12 +400,12 @@
       <file name="/usr/include/c++/4.9/bits/unique_ptr.h" timestamp="1513100943345">
         <mark key="'" line="231" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" timestamp="1522077786616">
-        <mark key="'" line="107" column="33" />
-        <mark key="[" line="85" column="82" />
-        <mark key="]" line="86" column="19" />
-        <mark key="." line="86" column="19" />
-        <mark key="^" line="86" column="19" />
+      <file name="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" timestamp="1522150114386">
+        <mark key="'" line="65" column="53" />
+        <mark key="[" line="103" column="22" />
+        <mark key="]" line="103" column="25" />
+        <mark key="." line="103" column="25" />
+        <mark key="^" line="103" column="25" />
       </file>
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.core/internal/platform/samsungtv/src/plugin/PluginPathPlatform.cpp" timestamp="1497621666727">
         <mark key="'" line="28" column="29" />
@@ -1781,7 +1781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="28" filename="$USER_HOME$/dev/ignite/src/porting/linux/rust-avpk/Cargo.toml" />
       <jump line="0" column="16" filename="$USER_HOME$/dev/ignite/src/backend/gles2/GLES2FuncList.inc" />
       <jump line="5" column="18" filename="$USER_HOME$/dev/ignite/src/backend/gles2/GLES2API.h" />
       <jump line="7" column="16" filename="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/toolchain.cmake" />
@@ -1881,13 +1880,14 @@
       <jump line="17" column="8" filename="$USER_HOME$/dev/ignite/src/config/config.h" />
       <jump line="168" column="44" filename="$USER_HOME$/dev/ignite/src/sharun/httpclient/platform/posix/src/CurlOptionUtils.cpp" />
       <jump line="145" column="31" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="64" column="53" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>XDG_RUNTIME_DIR=/tmp/xdg jailer -t native_mvpd -p /media/cryptofs/apps/usr/palm/applications/amazon -i amazon bin/ignition --log-level=AVPK,REGISTER:DEBUG</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
