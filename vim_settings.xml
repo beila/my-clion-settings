@@ -1663,8 +1663,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.player/manifest.ps4" timestamp="1512052308638">
         <mark key="'" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/tools/generate_project.py" timestamp="1522240968832">
-        <mark key="'" line="27" column="44" />
+      <file name="$USER_HOME$/dev/ignite/tools/generate_project.py" timestamp="1522251079136">
+        <mark key="'" line="177" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/errors/CrashDataMap.h" timestamp="1513013323066">
         <mark key="'" line="45" column="16" />
@@ -1747,7 +1747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="30" filename="$USER_HOME$/dev/ignite/src/porting/roku/roku.cpp" />
       <jump line="597" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="602" column="29" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="69" column="48" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
@@ -1847,6 +1846,7 @@
       <jump line="62" column="79" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
       <jump line="71" column="53" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
       <jump line="8" column="14" filename="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" />
+      <jump line="177" column="0" filename="$USER_HOME$/dev/ignite/tools/generate_project.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
