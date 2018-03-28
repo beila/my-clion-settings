@@ -51,12 +51,6 @@
       <file name="$USER_HOME$/dev/ignite/src/avpk/Common.cpp" timestamp="1522080036121">
         <mark key="'" line="7" column="80" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" timestamp="1522233488085">
-        <mark key="[" line="153" column="70" />
-        <mark key="]" line="153" column="78" />
-        <mark key="^" line="153" column="78" />
-        <mark key="." line="153" column="78" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/Bucket.cpp" timestamp="1510922247224">
         <mark key="'" line="18" column="21" />
       </file>
@@ -68,11 +62,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.core/internal/platform/android/src/SystemInit.cpp" timestamp="1516102548337">
         <mark key="'" line="130" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/ignite/portingplatforms/uwp/project.config" timestamp="1520523874675">
-        <mark key="[" line="4" column="41" />
-        <mark key="]" line="4" column="41" />
-        <mark key="." line="4" column="41" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/SceneLifecycleManager.cpp" timestamp="1512057545856">
         <mark key="'" line="76" column="28" />
@@ -149,8 +138,12 @@
       <file name="$USER_HOME$/dev/ig/devicerpi/implementation/linux/src/avDisplay.cpp" timestamp="1504720197545">
         <mark key="'" line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" timestamp="1522243087653">
-        <mark key="'" line="22" column="28" />
+      <file name="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" timestamp="1522248581544">
+        <mark key="'" line="8" column="14" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="216" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.display/internal/src/PluginDisplay.cpp" timestamp="1501076700002">
         <mark key="'" line="99" column="26" />
@@ -366,7 +359,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522243167006">
+      <file name="/Dummy.txt" timestamp="1522248198187">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -393,8 +386,11 @@
       <file name="/usr/include/c++/4.9/bits/unique_ptr.h" timestamp="1513100943345">
         <mark key="'" line="231" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" timestamp="1522238388833">
-        <mark key="'" line="84" column="38" />
+      <file name="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" timestamp="1522247091590">
+        <mark key="[" line="62" column="75" />
+        <mark key="]" line="83" column="4" />
+        <mark key="." line="83" column="4" />
+        <mark key="^" line="83" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.core/internal/platform/samsungtv/src/plugin/PluginPathPlatform.cpp" timestamp="1497621666727">
         <mark key="'" line="28" column="29" />
@@ -873,6 +869,10 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_text_to_speech.h" timestamp="1496226602485">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/platform-config.cmake" timestamp="1522247133991">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="23" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/CMakeLists.txt" timestamp="1499345611968">
         <mark key="'" line="12" column="29" />
       </file>
@@ -1349,10 +1349,10 @@
       </file>
       <file name="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" timestamp="1522242486915">
         <mark key="'" line="46" column="19" />
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="0" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ci/git.cmake" timestamp="1499162312837">
         <mark key="'" line="41" column="9" />
@@ -1747,10 +1747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="0" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
-      <jump line="605" column="5" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="54" column="16" filename="$USER_HOME$/dev/ignite/src/portinglayer.h" />
-      <jump line="45" column="4" filename="$USER_HOME$/dev/ignite/src/portinglayer.h" />
       <jump line="145" column="30" filename="$USER_HOME$/dev/ignite/src/porting/roku/roku.cpp" />
       <jump line="597" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="602" column="29" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
@@ -1847,13 +1843,17 @@
       <jump line="45" column="19" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
       <jump line="71" column="6" filename="$USER_HOME$/dev/ignite/tests/CMakeLists.txt" />
       <jump line="22" column="28" filename="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" />
+      <jump line="73" column="27" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
+      <jump line="62" column="79" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
+      <jump line="71" column="53" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
+      <jump line="8" column="14" filename="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNsaW1pdHM+Cg==</text>
+        <text encoding="base64">ICAgIENPTU1BTkQgc3NoIGxndHYgXCJYREdfUlVOVElNRV9ESVI9L3RtcC94ZGcgamFpbGVyIC10IG5hdGl2ZV9tdnBkIC1wIC9tZWRpYS9jcnlwdG9mcy9hcHBzL3Vzci9wYWxtL2FwcGxpY2F0aW9ucy9hbWF6b24gLWkgYW1hem9uIGJpbi9pZ25pdGlvbiAtLWxvZy1sZXZlbD1BVlBLLFJFR0lTVEVSOkRFQlVHIC0tdXNlLWxvY2FsLWx1YSAtLWJ5cGFzcy1ibHVyLXNlcnZlclwiCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1887,7 +1887,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>gles2</text>
+        <text>}</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1930,7 +1930,7 @@
         <text encoding="base64">XDxQQVRIX01BWFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIF9hdnBrX3NzYi0+d3JpdGUoX3N0b3JhZ2UuZ2V0X2RhdGEoKSwgc3RhdGljX2Nhc3Q8dWludDMyX3Q+KF9zdG9yYWdlLmdldF9kYXRhX3NpemUoKSkpOyAvLyBEbyBub3QgaW5jbHVkZSBudWxsLXRlcm1pbmF0b3IgaW4gYnVmZmVyX3NpemUK</text>
+        <text encoding="base64">ICAgIENPTU1BTkQgc3NoIGxndHYgXCJYREdfUlVOVElNRV9ESVI9L3RtcC94ZGcgamFpbGVyIC10IG5hdGl2ZV9tdnBkIC1wIC9tZWRpYS9jcnlwdG9mcy9hcHBzL3Vzci9wYWxtL2FwcGxpY2F0aW9ucy9hbWF6b24gLWkgYW1hem9uIGJpbi9pZ25pdGlvbiAtLWxvZy1sZXZlbD1BVlBLLFJFR0lTVEVSOkRFQlVHIC0tdXNlLWxvY2FsLWx1YSAtLWJ5cGFzcy1ibHVyLXNlcnZlclwiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I2luY2x1ZGUgPGNsaW1pdHM+Cg==</text>
