@@ -51,6 +51,12 @@
       <file name="$USER_HOME$/dev/ignite/src/avpk/Common.cpp" timestamp="1522080036121">
         <mark key="'" line="7" column="80" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" timestamp="1522233488085">
+        <mark key="[" line="153" column="70" />
+        <mark key="]" line="153" column="78" />
+        <mark key="^" line="153" column="78" />
+        <mark key="." line="153" column="78" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/Bucket.cpp" timestamp="1510922247224">
         <mark key="'" line="18" column="21" />
       </file>
@@ -143,12 +149,11 @@
       <file name="$USER_HOME$/dev/ig/devicerpi/implementation/linux/src/avDisplay.cpp" timestamp="1504720197545">
         <mark key="'" line="163" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" timestamp="1522162874278">
-        <mark key="'" line="28" column="19" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="34" column="3" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" timestamp="1522234948729">
+        <mark key="[" line="34" column="213" />
+        <mark key="]" line="34" column="213" />
+        <mark key="^" line="34" column="213" />
+        <mark key="." line="34" column="213" />
       </file>
       <file name="/GDB" timestamp="1521719466854">
         <mark key="[" line="0" column="0" />
@@ -360,7 +365,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522154635902">
+      <file name="/Dummy.txt" timestamp="1522234239822">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -386,13 +391,6 @@
       </file>
       <file name="/usr/include/c++/4.9/bits/unique_ptr.h" timestamp="1513100943345">
         <mark key="'" line="231" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" timestamp="1522154737065">
-        <mark key="'" line="70" column="68" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="67" column="140" />
       </file>
       <file name="$USER_HOME$/dev/ig/samsung-ignition/com.amazon.ignition.framework.core/internal/platform/samsungtv/src/plugin/PluginPathPlatform.cpp" timestamp="1497621666727">
         <mark key="'" line="28" column="29" />
@@ -450,7 +448,7 @@
         <mark key="." line="3" column="101" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/avpk/Loader.cpp" timestamp="1522154562152">
-        <mark key="'" line="12" column="26" />
+        <mark key="'" line="11" column="26" />
         <mark key="[" line="11" column="63" />
         <mark key="]" line="11" column="68" />
         <mark key="." line="11" column="68" />
@@ -678,12 +676,6 @@
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.player/internal/platform/android/src/player/AndroidPlayerPlatform.cpp" timestamp="1502118068355">
         <mark key="'" line="48" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/windows/CMakeLists.txt" timestamp="1521732676036">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="39" />
-      </file>
       <file name="$USER_HOME$/dev/ignite/src/duktape_engine.h" timestamp="1518115978333">
         <mark key="'" line="23" column="6" />
       </file>
@@ -794,12 +786,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/events/LifecycleEvent.h" timestamp="1497629640221">
         <mark key="'" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/linux/CMakeLists.txt" timestamp="1521732717601">
-        <mark key="'" line="37" column="20" />
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="20" />
-        <mark key="." line="37" column="40" />
-      </file>
       <file name="$USER_HOME$/dev/ignite/src/platform/posix/CMakeLists.txt" timestamp="1520249940084">
         <mark key="'" line="4" column="50" />
       </file>
@@ -816,11 +802,11 @@
         <mark key="'" line="67" column="19" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/config/config.h" timestamp="1522154602776">
-        <mark key="'" line="21" column="41" />
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="21" column="41" />
-        <mark key="^" line="21" column="41" />
-        <mark key="." line="21" column="41" />
+        <mark key="'" line="20" column="41" />
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="41" />
+        <mark key="^" line="20" column="41" />
+        <mark key="." line="20" column="41" />
       </file>
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" timestamp="1503663233092">
         <mark key="'" line="152" column="17" />
@@ -1202,12 +1188,6 @@
         <mark key="." line="97" column="3" />
         <mark key="^" line="97" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/linux/rust-avpk/Cargo.toml" timestamp="1521732745737">
-        <mark key="'" line="3" column="28" />
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="28" />
-      </file>
       <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/src/DisplayContext.cpp" timestamp="1498671449324">
         <mark key="'" line="44" column="0" />
       </file>
@@ -1358,12 +1338,6 @@
       </file>
       <file name="$USER_HOME$/dev/ignite/src/filesystem.h" timestamp="1520251430310">
         <mark key="'" line="28" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" timestamp="1522154569752">
-        <mark key="'" line="166" column="13" />
-        <mark key="[" line="166" column="13" />
-        <mark key="]" line="166" column="14" />
-        <mark key="." line="166" column="14" />
       </file>
       <file name="$USER_HOME$/dev/ci/git.cmake" timestamp="1499162312837">
         <mark key="'" line="41" column="9" />
@@ -1871,8 +1845,8 @@
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENPTU1BTkQgY3AgLWYgJHtDTUFLRV9JTlNUQUxMX1BSRUZJWH0vYmluL21lZ2FibGFzdCAke0NNQUtFX0lOU1RBTExfUFJFRklYfS9iaW4vaWduaXRpb24K</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1906,7 +1880,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>c</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1949,7 +1923,7 @@
         <text>\.\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEF2UmVzdWx0Q29kZSBjb2RlID0gX2Z1bmN0aW9ucy53cml0ZShfY29udGV4dCwgc3MuY19zdHIoKSwgc3Muc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgIHsKICAgICAgICBJR05fTE9HX0QoTE9HX0NBVF9BVlBLLCAiTnVtYmVyIG9mIFRUUyBzdXBwb3J0ZWQgOiAlZCIsIGxhbmd1YWdlX2NvdW50KTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIENPTU1BTkQgY3AgLWYgJHtDTUFLRV9JTlNUQUxMX1BSRUZJWH0vYmluL21lZ2FibGFzdCAke0NNQUtFX0lOU1RBTExfUFJFRklYfS9iaW4vaWduaXRpb24K</text>
