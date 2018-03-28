@@ -424,8 +424,8 @@
       <file name="$USER_HOME$/dev/ignite/src/CommandBuffer.h" timestamp="1510243688832">
         <mark key="'" line="103" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/cmake-build-debug/src/sharun/thirdparty/libcurl-prefix/src/libcurl-build/lib/CMakeFiles/libcurl.dir/build.make" timestamp="1522253834258">
-        <mark key="'" line="971" column="83" />
+      <file name="$USER_HOME$/dev/ignite/cmake-build-debug/src/sharun/thirdparty/libcurl-prefix/src/libcurl-build/lib/CMakeFiles/libcurl.dir/build.make" timestamp="1522253897927">
+        <mark key="'" line="971" column="84" />
         <mark key="[" line="3395" column="111" />
         <mark key="]" line="3395" column="112" />
         <mark key="^" line="3395" column="112" />
@@ -1865,7 +1865,7 @@
       <jump line="518" column="258" filename="$USER_HOME$/dev/ignite/cmake-build-debug/src/sharun/thirdparty/libcurl-prefix/src/libcurl-build/lib/CMakeFiles/libcurl.dir/build.make" />
       <jump line="520" column="29" filename="$USER_HOME$/dev/ignite/cmake-build-debug/src/sharun/thirdparty/libcurl-prefix/src/libcurl-build/lib/CMakeFiles/libcurl.dir/build.make" />
       <jump line="3397" column="172" filename="$USER_HOME$/dev/ignite/cmake-build-debug/src/sharun/thirdparty/libcurl-prefix/src/libcurl-build/lib/CMakeFiles/libcurl.dir/build.make" />
-      <jump line="971" column="83" filename="$USER_HOME$/dev/ignite/cmake-build-debug/src/sharun/thirdparty/libcurl-prefix/src/libcurl-build/lib/CMakeFiles/libcurl.dir/build.make" />
+      <jump line="971" column="84" filename="$USER_HOME$/dev/ignite/cmake-build-debug/src/sharun/thirdparty/libcurl-prefix/src/libcurl-build/lib/CMakeFiles/libcurl.dir/build.make" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1946,7 +1946,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsblw+</text>
+        <text encoding="base64">XDxsZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CmFkZF9jdXN0b21fdGFyZ2V0KGluc3RhbGxfYWxsCiAgICAiJHtDTUFLRV9DT01NQU5EfSIgLS1idWlsZCAiJHtDTUFLRV9CSU5BUllfRElSfSIgLS10YXJnZXQgaW5zdGFsbAogICAgQ09NTUVOVCAiSW5zdGFsbGluZyAke1BST0pFQ1RfTkFNRX0iKQoKYWRkX2N1c3RvbV90YXJnZXQoZGVwbG95CiAgICBERVBFTkRTIGluc3RhbGxfYWxsCiAgICBDT01NQU5EIHNzaCBsZ3R2IGtpbGxhbGwgLXcgLTkgaWduaXRpb24gfHwgdHJ1ZQogICAgQ09NTUFORCBzY3AgLUJyICR7Q01BS0VfSU5TVEFMTF9QUkVGSVh9LyogbGd0djovbWVkaWEvY3J5cHRvZnMvYXBwcy91c3IvcGFsbS9hcHBsaWNhdGlvbnMvYW1hem9uCiAgICApCgphZGRfY3VzdG9tX3RhcmdldChydW5fb25fZGV2aWNlCiAgICBDT01NQU5EIHNzaCBsZ3R2IGtpbGxhbGwgLXcgLTkgaWduaXRpb24gfHwgdHJ1ZQogICAgQ09NTUFORCBzc2ggbGd0diBcIlhER19SVU5USU1FX0RJUj0vdG1wL3hkZyBqYWlsZXIgLXQgbmF0aXZlX212cGQgLXAgL21lZGlhL2NyeXB0b2ZzL2FwcHMvdXNyL3BhbG0vYXBwbGljYXRpb25zL2FtYXpvbiAtaSBhbWF6b24gYmluL2lnbml0aW9uIC0tbG9nLWxldmVsPUFWUEssUkVHSVNURVI6REVCVUcgLS11c2UtbG9jYWwtbHVhIC0tYnlwYXNzLWJsdXItc2VydmVyXCIKICAgICkK</text>
@@ -5852,9 +5852,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsblw+</last-search>
+      <last-search encoding="base64">XDxsZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsblw+</last-pattern>
+      <last-pattern encoding="base64">XDxsZFw+</last-pattern>
       <last-replace />
       <last-substitute>option</last-substitute>
       <last-dir>1</last-dir>
@@ -5862,7 +5862,6 @@
     </search>
     <history>
       <history-search>
-        <entry>readStatus</entry>
         <entry encoding="base64">XDxsZ3R2XD4=</entry>
         <entry encoding="base64">XDxFVk5cPg==</entry>
         <entry encoding="base64">XDxJR05fTE9HX0RcPg==</entry>
@@ -5882,6 +5881,7 @@
         <entry encoding="base64">XDxQQVRIX01BWFw+</entry>
         <entry>ln</entry>
         <entry encoding="base64">XDxsblw+</entry>
+        <entry encoding="base64">XDxsZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
