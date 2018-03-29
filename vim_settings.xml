@@ -51,6 +51,13 @@
       <file name="$USER_HOME$/dev/ignite/src/avpk/Common.cpp" timestamp="1522080036121">
         <mark key="'" line="7" column="80" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" timestamp="1522324767210">
+        <mark key="'" line="206" column="37" />
+        <mark key="[" line="209" column="9" />
+        <mark key="]" line="210" column="28" />
+        <mark key="." line="210" column="28" />
+        <mark key="^" line="210" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/src/Bucket.cpp" timestamp="1510922247224">
         <mark key="'" line="18" column="21" />
       </file>
@@ -357,7 +364,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522255266035">
+      <file name="/Dummy.txt" timestamp="1522324415513">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -442,6 +449,10 @@
         <mark key="]" line="11" column="68" />
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
+      </file>
+      <file name="/TextToSpeech.cpp" timestamp="1522324595417">
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="46" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/internal/platform/linux/src/plugin/PluginPathPlatform.cpp" timestamp="1497612368796">
         <mark key="'" line="60" column="29" />
@@ -607,12 +618,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/api/RenderStateManager.h" timestamp="1499949585650">
         <mark key="'" line="68" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" timestamp="1522240219533">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/PoolAllocator.cpp" timestamp="1512128150110">
         <mark key="'" line="88" column="30" />
       </file>
@@ -649,13 +654,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/utils/RendererObjectScope.h" timestamp="1494604594673">
         <mark key="'" line="20" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/tests/CMakeLists.txt" timestamp="1522242489659">
-        <mark key="'" line="71" column="6" />
-        <mark key="[" line="71" column="36" />
-        <mark key="]" line="71" column="63" />
-        <mark key="^" line="71" column="63" />
-        <mark key="." line="71" column="63" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.devicelayerloader/CMakeLists.txt" timestamp="1510927834413">
         <mark key="'" line="100" column="55" />
       </file>
@@ -670,12 +668,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/ignition-android/com.amazon.ignition.framework.player/internal/platform/android/src/player/AndroidPlayerPlatform.cpp" timestamp="1502118068355">
         <mark key="'" line="48" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/windows/CMakeLists.txt" timestamp="1521732676036">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="39" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/duktape_engine.h" timestamp="1518115978333">
         <mark key="'" line="23" column="6" />
@@ -784,12 +776,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/event/events/LifecycleEvent.h" timestamp="1497629640221">
         <mark key="'" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/linux/CMakeLists.txt" timestamp="1521732717601">
-        <mark key="'" line="42" column="20" />
-        <mark key="[" line="42" column="20" />
-        <mark key="]" line="42" column="20" />
-        <mark key="." line="42" column="40" />
-      </file>
       <file name="$USER_HOME$/dev/ignite/src/platform/posix/CMakeLists.txt" timestamp="1520249940084">
         <mark key="'" line="4" column="50" />
       </file>
@@ -861,9 +847,9 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/interface/include/device/av_text_to_speech.h" timestamp="1496226602485">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/platform-config.cmake" timestamp="1522252736636">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="23" column="4" />
+      <file name="/platform-config.cmake" timestamp="1522324393346">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="36" column="4" />
       </file>
       <file name="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/CMakeLists.txt" timestamp="1499345611968">
         <mark key="'" line="12" column="29" />
@@ -930,9 +916,6 @@
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.report/internal/src/report/listeners/LogListener.cpp" timestamp="1497549186902">
         <mark key="'" line="315" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/roku/roku.cpp" timestamp="1522079372983">
-        <mark key="'" line="145" column="30" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/image/ImageRegistry.cpp" timestamp="1512058127120">
         <mark key="'" line="411" column="20" />
@@ -1189,12 +1172,6 @@
         <mark key="." line="97" column="3" />
         <mark key="^" line="97" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/linux/rust-avpk/Cargo.toml" timestamp="1521732745737">
-        <mark key="'" line="3" column="28" />
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="28" />
-      </file>
       <file name="$USER_HOME$/dev/igrpi/devicerpi/implementation/rpi/internal/src/DisplayContext.cpp" timestamp="1498671449324">
         <mark key="'" line="44" column="0" />
       </file>
@@ -1290,18 +1267,17 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/CMakeLists.txt" timestamp="1522324931146">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/tests/avpk/TextToSpeechTest.cpp" timestamp="1522324894249">
+        <mark key="'" line="135" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.storage/CMakeLists.txt" timestamp="1512134572708">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.network/thirdparty/curl/lib/warnless.c" timestamp="1515152749263">
         <mark key="'" line="30" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/CMakeLists.txt" timestamp="1522065323587">
-        <mark key="'" line="68" column="42" />
-        <mark key="[" line="68" column="40" />
-        <mark key="]" line="68" column="42" />
-        <mark key="." line="68" column="42" />
-        <mark key="^" line="68" column="42" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/path/PluginPathResolver.cpp" timestamp="1513090795872">
         <mark key="'" line="37" column="21" />
@@ -1352,13 +1328,6 @@
       </file>
       <file name="$USER_HOME$/dev/ignite/src/filesystem.h" timestamp="1520251430310">
         <mark key="'" line="28" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" timestamp="1522242486915">
-        <mark key="'" line="46" column="19" />
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ci/git.cmake" timestamp="1499162312837">
         <mark key="'" line="41" column="9" />
@@ -1550,12 +1519,6 @@
       <file name="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.h" timestamp="1522154397937">
         <mark key="'" line="40" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/portingplatforms/linux/project.config" timestamp="1522241327561">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-      </file>
       <file name="$USER_HOME$/dev/ig/devicelinux/tests/Library.h" timestamp="1493982516851">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1643,11 +1606,11 @@
         <mark key="'" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/porting/osx/CMakeLists.txt" timestamp="1521732692476">
-        <mark key="'" line="17" column="36" />
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="16" />
+        <mark key="'" line="8" column="36" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
         <mark key="^" line="8" column="24" />
-        <mark key="." line="17" column="36" />
+        <mark key="." line="8" column="36" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/backend/gles2/src/api/GLES2CubeTexture.cpp" timestamp="1494605209507">
         <mark key="'" line="67" column="32" />
@@ -1751,17 +1714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="599" column="17" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="161" column="14" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
-      <jump line="165" column="0" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
-      <jump line="589" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="147" column="66" filename="$USER_HOME$/dev/ignite/src/downloader/CurlWrapper.cpp" />
-      <jump line="17" column="8" filename="$USER_HOME$/dev/ignite/src/config/config.h" />
-      <jump line="168" column="44" filename="$USER_HOME$/dev/ignite/src/sharun/httpclient/platform/posix/src/CurlOptionUtils.cpp" />
-      <jump line="145" column="31" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="64" column="53" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
-      <jump line="40" column="10" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.h" />
-      <jump line="70" column="68" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
       <jump line="55" column="14" filename="$USER_HOME$/dev/ignite/src/platform/posix/POSIXSharedLibraryLoader.cpp" />
       <jump line="590" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="12" column="26" filename="$USER_HOME$/dev/ignite/src/avpk/Loader.cpp" />
@@ -1851,13 +1803,24 @@
       <jump line="4" column="7" filename="$USER_HOME$/dev/ignite/portingplatforms/linux/cmake/platform-config.cmake" />
       <jump line="5" column="7" filename="$USER_HOME$/dev/ignite/portingplatforms/linux/cmake/platform-config.cmake" />
       <jump line="8" column="7" filename="$USER_HOME$/dev/ignite/portingplatforms/linux/cmake/platform-config.cmake" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
+      <jump line="21" column="14" filename="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" />
+      <jump line="195" column="17" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
+      <jump line="199" column="80" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
+      <jump line="204" column="8" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
+      <jump line="206" column="37" filename="$USER_HOME$/dev/ignite/src/avpk/TextToSpeech.cpp" />
+      <jump line="228" column="5" filename="$USER_HOME$/dev/ignite/tests/avpk/TextToSpeechTest.cpp" />
+      <jump line="245" column="5" filename="$USER_HOME$/dev/ignite/tests/avpk/TextToSpeechTest.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/tests/avpk/TextToSpeechTest.cpp" />
+      <jump line="135" column="18" filename="$USER_HOME$/dev/ignite/tests/avpk/TextToSpeechTest.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>z</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdGQ6Om1lbXNldChidWZmZXIsIDAsIHNpemVvZiBidWZmZXIpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1931,13 +1894,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMSU5VWF9TREtfUk9PVFw+</text>
+        <text encoding="base64">XDxBVlBLVGV4dFRvU3BlZWNoVGVzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CmFkZF9jdXN0b21fdGFyZ2V0KGluc3RhbGxfYWxsCiAgICAiJHtDTUFLRV9DT01NQU5EfSIgLS1idWlsZCAiJHtDTUFLRV9CSU5BUllfRElSfSIgLS10YXJnZXQgaW5zdGFsbAogICAgQ09NTUVOVCAiSW5zdGFsbGluZyAke1BST0pFQ1RfTkFNRX0iKQoKYWRkX2N1c3RvbV90YXJnZXQoZGVwbG95CiAgICBERVBFTkRTIGluc3RhbGxfYWxsCiAgICBDT01NQU5EIHNzaCBsZ3R2IGtpbGxhbGwgLXcgLTkgaWduaXRpb24gfHwgdHJ1ZQogICAgQ09NTUFORCBzY3AgLUJyICR7Q01BS0VfSU5TVEFMTF9QUkVGSVh9LyogbGd0djovbWVkaWEvY3J5cHRvZnMvYXBwcy91c3IvcGFsbS9hcHBsaWNhdGlvbnMvYW1hem9uCiAgICApCgphZGRfY3VzdG9tX3RhcmdldChydW5fb25fZGV2aWNlCiAgICBDT01NQU5EIHNzaCBsZ3R2IGtpbGxhbGwgLXcgLTkgaWduaXRpb24gfHwgdHJ1ZQogICAgQ09NTUFORCBzc2ggbGd0diBcIlhER19SVU5USU1FX0RJUj0vdG1wL3hkZyBqYWlsZXIgLXQgbmF0aXZlX212cGQgLXAgL21lZGlhL2NyeXB0b2ZzL2FwcHMvdXNyL3BhbG0vYXBwbGljYXRpb25zL2FtYXpvbiAtaSBhbWF6b24gYmluL2lnbml0aW9uIC0tbG9nLWxldmVsPUFWUEssUkVHSVNURVI6REVCVUcgLS11c2UtbG9jYWwtbHVhIC0tYnlwYXNzLWJsdXItc2VydmVyXCIKICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6Om1lbXNldChidWZmZXIsIDAsIHNpemVvZiBidWZmZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb2RlID09IEFWX09LOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1948,28 +1911,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb2RlID09IEFWX09LOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSByYXBpZGpzb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNsaW1pdHM+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNpemVfdCBzaXplezB1fTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNsaW1pdHM+Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">CnN0cnVjdCBNb2NrTG9nTGlzdGVuZXIgOiBwdWJsaWMgSUxvZ0xpc3RlbmVyCnsKCU1PQ0tfTUVUSE9EMShsaXN0ZW5Ub01lc3NhZ2UsIHZvaWQoY29uc3QgSUxvZ0xpc3RlbmVyOjpMb2dNZXNzYWdlJikpOwoJTU9DS19NRVRIT0QwKHByb2Nlc3NNZXNzYWdlcywgdm9pZCgpKTsKCU1PQ0tfTUVUSE9EMShmbHVzaE1lc3NhZ2VzLCB2b2lkKGNvbnN0IElMb2dMaXN0ZW5lcjo6Rmx1c2hPcHRpb24pKTsKfTsKClRFU1RfRihMb2dUZXN0LCBsaXN0ZW5Ub01lc3NhZ2VfY2FuQ2FsbExvZykKewoJYXV0byBsaXN0ZW5lciA9IGNvcmU6Om1lbW9yeTo6bWFrZV9zaGFyZWQ8TW9ja0xvZ0xpc3RlbmVyPigpOwoJRVhQRUNUX0NBTEwoKmxpc3RlbmVyLCBsaXN0ZW5Ub01lc3NhZ2UoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQoKVEVTVF9GKExvZ1Rlc3QsIHByb2Nlc3NNZXNzYWdlc19jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIHByb2Nlc3NNZXNzYWdlcygpKQoJCQkuV2lsbE9uY2UoCgkJCQkJSW52b2tlV2l0aG91dEFyZ3MoCgkJCQkJCQlbdGhpc10oKQoJCQkJCQkJewoJCQkJCQkJCUxvZzo6Z2V0KCkuZGVidWcoCgkJCQkJCQkJCQl0ZXN0Q2hhbm5lbElkLAoJCQkJCQkJCQkJIkNhbGxpbmcgbG9nIGZyb20gbG9nIGxpc3RlbmVyIik7CgkJCQkJCQl9KSk7CgoJTG9nOjpnZXQoKS5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKCUxvZzo6Z2V0KCkuZGVidWcodGVzdENoYW5uZWxJZCwgImxvZ2dpbmcgYSBkZWJ1ZyBtZXNzYWdlIik7CglsaXN0ZW5lci0+cHJvY2Vzc01lc3NhZ2VzKCk7CglMb2c6OmdldCgpLnVucmVnaXN0ZXJMaXN0ZW5lcihsaXN0ZW5lci5nZXQoKSk7Cn0KClRFU1RfRihMb2dUZXN0LCBmbHVzaF9jYW5DYWxsTG9nKQp7CglhdXRvIGxpc3RlbmVyID0gY29yZTo6bWVtb3J5OjptYWtlX3NoYXJlZDxNb2NrTG9nTGlzdGVuZXI+KCk7CglFWFBFQ1RfQ0FMTCgqbGlzdGVuZXIsIGZsdXNoTWVzc2FnZXMoXykpCgkJCS5XaWxsT25jZSgKCQkJCQlJbnZva2VXaXRob3V0QXJncygKCQkJCQkJCVt0aGlzXSgpCgkJCQkJCQl7CgkJCQkJCQkJTG9nOjpnZXQoKS5kZWJ1ZygKCQkJCQkJCQkJCXRlc3RDaGFubmVsSWQsCgkJCQkJCQkJCQkiQ2FsbGluZyBsb2cgZnJvbSBsb2cgbGlzdGVuZXIiKTsKCQkJCQkJCX0pKTsKCglMb2c6OmdldCgpLnJlZ2lzdGVyTGlzdGVuZXIobGlzdGVuZXIuZ2V0KCkpOwoJTG9nOjpnZXQoKS5kZWJ1Zyh0ZXN0Q2hhbm5lbElkLCAibG9nZ2luZyBhIGRlYnVnIG1lc3NhZ2UiKTsKCUxvZzo6Z2V0KCkuZmx1c2goKTsKCUxvZzo6Z2V0KCkudW5yZWdpc3Rlckxpc3RlbmVyKGxpc3RlbmVyLmdldCgpKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEFTU0VSVF9FUSg4dSwgc2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgIHNpemVfdCBzaXplezB1fTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFTU0VSVF9FUSg3dSwgc2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgIEFTU0VSVF9FUSg4dSwgc2l6ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFTU0VSVF9FUSg2dSwgc2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgIEFTU0VSVF9FUSg3dSwgc2l6ZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5824,7 +5787,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNpemVfdCBzaXplOwo=</text>
+        <text encoding="base64">ICAgIEFTU0VSVF9FUSg2dSwgc2l6ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHNpemVfdCBzaXplOwo=</text>
@@ -5837,9 +5800,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMSU5VWF9TREtfUk9PVFw+</last-search>
+      <last-search encoding="base64">XDxBVlBLVGV4dFRvU3BlZWNoVGVzdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMSU5VWF9TREtfUk9PVFw+</last-pattern>
+      <last-pattern encoding="base64">XDxBVlBLVGV4dFRvU3BlZWNoVGVzdFw+</last-pattern>
       <last-replace />
       <last-substitute>option</last-substitute>
       <last-dir>1</last-dir>
@@ -5847,8 +5810,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFVk5cPg==</entry>
-        <entry encoding="base64">XDxJR05fTE9HX0RcPg==</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxnZXRfcm9vdF9kaXJcPg==</entry>
         <entry>..</entry>
@@ -5867,6 +5828,8 @@
         <entry encoding="base64">XDxsblw+</entry>
         <entry encoding="base64">XDxsZFw+</entry>
         <entry encoding="base64">XDxMSU5VWF9TREtfUk9PVFw+</entry>
+        <entry encoding="base64">XDxsYW5ndWFnZV9jb3VudFw+</entry>
+        <entry encoding="base64">XDxBVlBLVGV4dFRvU3BlZWNoVGVzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
