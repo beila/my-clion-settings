@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Build">
+        <Item>
+          <IdeaActionID>Build</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Build</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Collapse All">
         <Item>
           <IdeaActionID>CollapseAll</IdeaActionID>
@@ -30,7 +38,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>20</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -39,14 +47,6 @@
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Copy Relative Path">
-        <Item>
-          <IdeaActionID>CopyReference</IdeaActionID>
-          <ShortCut>'⌃⌥⇧C'</ShortCut>
-          <Description>Copy Relative Path</Description>
-          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All in KVHolderTest.cpp'">
@@ -81,20 +81,20 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'megablast after deploy'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'megablast after deploy'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'megablast'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'megablast'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'secure storage integration test'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'secure storage integration test'</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -110,15 +110,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Delete...">
-        <Item>
-          <IdeaActionID>$Delete</IdeaActionID>
-          <ShortCut>'⌦'</ShortCut>
-          <Description>Delete...</Description>
-          <Count>2</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -262,7 +254,15 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>15</Count>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Build All'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Build All'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KVHolderTest.AddSingleKey'">
@@ -297,6 +297,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'deploy'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'deploy'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ignition-device-layer-test wit...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -311,14 +319,6 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'install_ignite'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'integration tests'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⇧F10'</ShortCut>
-          <Description>Run 'integration tests'</Description>
-          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'make install'">
@@ -342,7 +342,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'run on roku'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'run test_megablast'">
@@ -350,7 +350,23 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'run test_megablast'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'run_ignition'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'run_ignition'</Description>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'run_on_device'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'run_on_device'</Description>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'snake'">
@@ -441,12 +457,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'megablast after deploy'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'megablast after deploy'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'megablast'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'megablast'</Description>
-          <Count>2</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'run on roku'">
@@ -454,7 +478,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'run on roku'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'test-deploy'">
@@ -494,7 +518,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'Ctrl+Shift+U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>8</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update PlantUml Diagrams - changes only">
