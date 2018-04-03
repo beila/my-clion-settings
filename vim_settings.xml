@@ -186,8 +186,8 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.display/internal/platform/device/src/display/DevicePlatformContext.cpp" timestamp="1495465446468">
         <mark key="'" line="152" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" timestamp="1518113811830">
-        <mark key="'" line="338" column="49" />
+      <file name="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" timestamp="1522337726047">
+        <mark key="'" line="345" column="57" />
         <mark key="[" line="663" column="5" />
         <mark key="]" line="663" column="4" />
         <mark key="^" line="663" column="4" />
@@ -956,6 +956,9 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/include/errors/ICrashDataCollector.h" timestamp="1513013741523">
         <mark key="'" line="24" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/TextToSpeechController.cpp" timestamp="1522336537951">
+        <mark key="'" line="17" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.scene/src/scene/utils/SceneUpdateThread.cpp" timestamp="1497959164402">
         <mark key="'" line="74" column="44" />
       </file>
@@ -1100,6 +1103,9 @@
       </file>
       <file name="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" timestamp="1517322639932">
         <mark key="'" line="1644" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.h" timestamp="1522337733014">
+        <mark key="'" line="137" column="16" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" timestamp="1501253193383">
         <mark key="'" line="28" column="19" />
@@ -1577,6 +1583,9 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SecureStorageBackendContext.h" timestamp="1511541912732">
         <mark key="'" line="14" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1522337740639">
+        <mark key="'" line="470" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" timestamp="1501251293580">
         <mark key="'" line="11" column="0" />
       </file>
@@ -1714,11 +1723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="14" filename="$USER_HOME$/dev/ignite/src/platform/posix/POSIXSharedLibraryLoader.cpp" />
-      <jump line="590" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
-      <jump line="12" column="26" filename="$USER_HOME$/dev/ignite/src/avpk/Loader.cpp" />
-      <jump line="166" column="13" filename="$USER_HOME$/dev/ignite/src/porting/linux/linux.cpp" />
-      <jump line="108" column="26" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
       <jump line="243" column="93" filename="$USER_HOME$/dev/ignite/src/downloader/CurlDownloader.cpp" />
       <jump line="21" column="41" filename="$USER_HOME$/dev/ignite/src/config/config.h" />
       <jump line="61" column="130" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
@@ -1814,6 +1818,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/tests/avpk/TextToSpeechTest.cpp" />
       <jump line="135" column="18" filename="$USER_HOME$/dev/ignite/tests/avpk/TextToSpeechTest.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
+      <jump line="17" column="7" filename="$USER_HOME$/dev/ignite/src/TextToSpeechController.cpp" />
+      <jump line="345" column="57" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
+      <jump line="2646" column="26" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="137" column="16" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="470" column="34" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
