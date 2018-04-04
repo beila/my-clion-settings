@@ -801,8 +801,8 @@
       <file name="$USER_HOME$/dev/iglg/com.amazon.ignition.framework.core/tools/MonolithDependencyGenerator.py" timestamp="1503663233092">
         <mark key="'" line="152" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/portinglayer.h" timestamp="1522079367559">
-        <mark key="'" line="54" column="16" />
+      <file name="$USER_HOME$/dev/ignite/src/portinglayer.h" timestamp="1522759771974">
+        <mark key="'" line="56" column="22" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="45" />
         <mark key="^" line="11" column="39" />
@@ -1104,8 +1104,8 @@
       <file name="$USER_HOME$/dev/ignite/libs/di/include/boost/di.hpp" timestamp="1517322639932">
         <mark key="'" line="1644" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.h" timestamp="1522337733014">
-        <mark key="'" line="137" column="16" />
+      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.h" timestamp="1522759715578">
+        <mark key="'" line="188" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" timestamp="1501253193383">
         <mark key="'" line="28" column="19" />
@@ -1583,8 +1583,8 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SecureStorageBackendContext.h" timestamp="1511541912732">
         <mark key="'" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1522337740639">
-        <mark key="'" line="470" column="34" />
+      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1522759756154">
+        <mark key="'" line="76" column="10" />
       </file>
       <file name="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" timestamp="1501251293580">
         <mark key="'" line="11" column="0" />
@@ -1723,12 +1723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="93" filename="$USER_HOME$/dev/ignite/src/downloader/CurlDownloader.cpp" />
-      <jump line="21" column="41" filename="$USER_HOME$/dev/ignite/src/config/config.h" />
-      <jump line="61" column="130" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
-      <jump line="30" column="20" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
-      <jump line="104" column="27" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
-      <jump line="20" column="39" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
       <jump line="84" column="38" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
       <jump line="89" column="35" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
       <jump line="23" column="35" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
@@ -1823,6 +1817,12 @@
       <jump line="2646" column="26" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="137" column="16" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
       <jump line="470" column="34" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="102" column="6" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="570" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="568" column="24" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="188" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
+      <jump line="76" column="10" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="56" column="22" filename="$USER_HOME$/dev/ignite/src/portinglayer.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1903,7 +1903,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBVlBLVGV4dFRvU3BlZWNoVGVzdFw+</text>
+        <text encoding="base64">XDxNZWdhYmxhc3RSb2t1XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGQ6Om1lbXNldChidWZmZXIsIDAsIHNpemVvZiBidWZmZXIpOwo=</text>
@@ -5809,9 +5809,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBVlBLVGV4dFRvU3BlZWNoVGVzdFw+</last-search>
+      <last-search encoding="base64">XDxNZWdhYmxhc3RSb2t1XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBVlBLVGV4dFRvU3BlZWNoVGVzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxNZWdhYmxhc3RSb2t1XD4=</last-pattern>
       <last-replace />
       <last-substitute>option</last-substitute>
       <last-dir>1</last-dir>
@@ -5819,7 +5819,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxnZXRfcm9vdF9kaXJcPg==</entry>
         <entry>..</entry>
         <entry>\.\.</entry>
@@ -5839,6 +5838,7 @@
         <entry encoding="base64">XDxMSU5VWF9TREtfUk9PVFw+</entry>
         <entry encoding="base64">XDxsYW5ndWFnZV9jb3VudFw+</entry>
         <entry encoding="base64">XDxBVlBLVGV4dFRvU3BlZWNoVGVzdFw+</entry>
+        <entry encoding="base64">XDxNZWdhYmxhc3RSb2t1XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
