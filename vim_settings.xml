@@ -364,7 +364,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522328543708">
+      <file name="/Dummy.txt" timestamp="1522832009731">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1583,8 +1583,8 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SecureStorageBackendContext.h" timestamp="1511541912732">
         <mark key="'" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1522759756154">
-        <mark key="'" line="76" column="10" />
+      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1522831632728">
+        <mark key="'" line="594" column="0" />
       </file>
       <file name="$USER_HOME$/dev/igbuildlg/lg/release/amazonite/lg/platform/device-properties/adaptor/devicepropertiesprovider/src/DevicePropertiesProviderAdapter.cpp" timestamp="1501251293580">
         <mark key="'" line="11" column="0" />
@@ -1723,7 +1723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="38" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
       <jump line="89" column="35" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
       <jump line="23" column="35" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
       <jump line="29" column="52" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
@@ -1823,6 +1822,7 @@
       <jump line="188" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.h" />
       <jump line="76" column="10" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="56" column="22" filename="$USER_HOME$/dev/ignite/src/portinglayer.h" />
+      <jump line="594" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
