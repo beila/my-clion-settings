@@ -199,13 +199,6 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/src/SDLCommonContext.cpp" timestamp="1493982740057">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/KVHolder.cpp" timestamp="1522240488766">
-        <mark key="'" line="157" column="17" />
-        <mark key="[" line="159" column="34" />
-        <mark key="]" line="159" column="34" />
-        <mark key="." line="131" column="56" />
-        <mark key="^" line="159" column="34" />
-      </file>
       <file name="$USER_HOME$/dev/igbuild/linux/debug/amazonite/linux/platform/device-properties/implementation/devicepropertiesprovider/src/PlatformDevicePropertiesProvider.cpp" timestamp="1499795243833">
         <mark key="'" line="425" column="70" />
       </file>
@@ -364,7 +357,7 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/package/PackageExpander.cpp" timestamp="1512649116679">
         <mark key="'" line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522937838970">
+      <file name="/Dummy.txt" timestamp="1522950372374">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -625,10 +618,6 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.renderer/internal/include/api/RenderStateManager.h" timestamp="1499949585650">
         <mark key="'" line="68" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" timestamp="1522943340092">
-        <mark key="'" line="82" column="65" />
-        <mark key="^" line="12" column="10" />
-      </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/allocation/memory/PoolAllocator.cpp" timestamp="1512128150110">
         <mark key="'" line="88" column="30" />
       </file>
@@ -813,7 +802,6 @@
         <mark key="'" line="152" column="17" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/portinglayer.h" timestamp="1522759771974">
-        <mark key="'" line="56" column="22" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="45" />
         <mark key="^" line="11" column="39" />
@@ -1116,7 +1104,7 @@
         <mark key="'" line="1644" column="21" />
       </file>
       <file name="$USER_HOME$/dev/ignite/src/megablast_roku.h" timestamp="1522759715578">
-        <mark key="'" line="188" column="4" />
+        <mark key="'" line="190" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.deviceinfo/thirdparty/devicepropertiescomponent/amazonite/device-properties/src/DevicePropertiesProvider.cpp" timestamp="1501253193383">
         <mark key="'" line="28" column="19" />
@@ -1283,10 +1271,6 @@
         <mark key="]" line="5" column="41" />
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
-      </file>
-      <file name="$USER_HOME$/dev/ignite/CMakeLists.txt" timestamp="1522929226030">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="160" column="23" />
       </file>
       <file name="$USER_HOME$/dev/ignite/tests/avpk/TextToSpeechTest.cpp" timestamp="1522324894249">
         <mark key="'" line="135" column="18" />
@@ -1741,7 +1725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="9" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
       <jump line="117" column="74" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
       <jump line="398" column="14" filename="/usr/include/string.h" />
       <jump line="131" column="15" filename="$USER_HOME$/dev/ignite/src/KVHolder.cpp" />
@@ -1841,6 +1824,7 @@
       <jump line="24" column="10" filename="$USER_HOME$/dev/ignite/src/StorageRegister.h" />
       <jump line="61" column="0" filename="$USER_HOME$/dev/ignite/src/porting/roku/RokuAVPKSecureStorageBackend.cpp" />
       <jump line="90" column="65" filename="$USER_HOME$/dev/ignite/src/StorageRegister.cpp" />
+      <jump line="147" column="6" filename="$USER_HOME$/dev/ignite/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
