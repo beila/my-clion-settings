@@ -381,12 +381,12 @@
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.core/src/plugin/PluginVersionManager.cpp" timestamp="1513357231106">
         <mark key="'" line="93" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/CMakeLists.txt" timestamp="1522065323587">
-        <mark key="'" line="68" column="42" />
-        <mark key="[" line="68" column="40" />
-        <mark key="]" line="68" column="42" />
-        <mark key="." line="68" column="42" />
-        <mark key="^" line="68" column="42" />
+      <file name="$USER_HOME$/dev/ignite/src/CMakeLists.txt" timestamp="1523002884869">
+        <mark key="'" line="32" column="10" />
+        <mark key="[" line="45" column="8" />
+        <mark key="]" line="44" column="4" />
+        <mark key="." line="45" column="8" />
+        <mark key="^" line="44" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ig/com.amazon.ignition.framework.ota/internal/src/ota/bindings/sm/ManagerEventsExtension.cpp" timestamp="1513696719118">
         <mark key="'" line="58" column="18" />
@@ -1729,7 +1729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="31" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="64" column="53" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
       <jump line="40" column="10" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.h" />
       <jump line="70" column="68" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
@@ -1829,13 +1828,14 @@
       <jump line="75" column="13" filename="$USER_HOME$/dev/ignite/src/porting/linux/LinuxAVPKSecureStorageBackend.cpp" />
       <jump line="19" column="16" filename="$USER_HOME$/dev/ignite/src/porting/linux/LinuxAVPKSecureStorageBackend.cpp" />
       <jump line="59" column="5" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="32" column="10" filename="$USER_HOME$/dev/ignite/src/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Ly8hIEBkZWZncm91cCBkaXNwbGF5IERpc3BsYXkKLy8hIEBpbmdyb3VwIGlkbAovLyEgQHsKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PT0gV2hhdCB3ZW50IHdlbGwKKiBLZXB0IHRoZSBjb21taXR0ZWQgZGF0ZQoqIFByb3ZlZCB3ZSBjYW4gdXNlIHRoZSBleGlzdGluZyBkZXZpY2UgbGF5ZXJzIGFuZCBEUFBzCiogUXVpY2tseSBzb2x2ZWQgdW5leHBlY3RlZCBpc3N1ZXMKKiBHb3QgYSB0YW5naWJsZSBwcm9kdWN0IGluc3RlYWQgb2YgU0lNIHByb2dyZXNzCiogUmVkdWNlZCBudW1iZXIgb2YgaGFyZC1jb2RlZCB2YWx1ZXMKKiBQb3J0ZWQgcmVsYXRpdmVseSBzdHJhaWdodGZvcndhcmQKCj09IFdoYXQgZGlkbid0IGdvIHdlbGwKKiBNZXJnZWQgdG9vIG1hbnkgUFJzIHRvbyBsYXRlCiogTWlzc2VkIG1hbnkgZmVhdHVyZXMvaXNzdWVzCiogZGVmaW5pdGlvbiBvZiBkb25lCiogRXN0aW1hdGlvbiBoYXMgbm8gY29udGluZ2VuY3kKKiBXZSdsbCBoYXZlIHRvIGRvIGl0IGFnYWluIHdpdGggQnJvYWRjb20KKiBvbmx5IG9uZSBUVgoqIGNoYW5nZSBvZiBxdWFsaXR5IGV4cGVjdGF0aW9uIGxhc3QgbWludXRlCiogVW5jbGVhciBvd25lcnNoaXAKKiBubyBldmVudCBtYXJraW5nIHRoZSBkZWxpdmVyeQoqIGhhY2tzIHdlcmUgbWFkZQoKPT0gbW9zdCB2b3RlZCBmb3IgZGlzY3Vzc2lvbgoxLiBkZWZpbml0aW9uIG9mIGRvbmUgd2FzIG5vdCBjbGVhcgoJKiBkaWRuJ3Qga25vdyB3aGF0IGxldmVsIHNob3VsZCBiZSBhY2hpZXZlZCBlYXJseSBlbm91Z2gKMS4gVW5jbGVhciBvd25lcnNoaXAKCSogZG9uJ3Qga25vdyB3aGF0IG93bmVyc2hpcCBtZWFucwoJKiB0aGVyZSB3YXMgbm8gb25lIHBlcnNvbgoJKiBkZWZpbml0aW9uIG9mIG1pbGVzdG9uZSBvd25lciB3YXMgbm90IGNsZWFybHkgY29tbXVuaWNhdGVkCjEuIG9ubHkgb25lIFRWCgo9PSBpbXByb3ZlbWVudCBpZGVhCjEuIGRlZmluaXRpb24gb2YgZG9uZSB3YXMgbm90IGNsZWFyCgkqIGxpc3QgdGVzdCBjYXNlcyBiZWZvcmVoYW5kICogNQoJKiB3ZWVrbHkgc3RhdHVzIHJldmlldyBmb3IgdGhlIHdob2xlIHRlYW0KCSogYmFja3VwIHBsYW4gdG8gY2hvb3NlIHdoYXQgdG8gZ2l2ZSB1cCB3aGVuIG5lY2Vzc2FyeSAqIDMKCSogd2lraSBwYWdlIGZvciBzdGF0dXMgKiAyCgkqIGluY2x1ZGluZyB0ZXN0IHBsYW4gaW4gdGhlIG1pbGVzdG9uZSBvdXRwdXQKMS4gVW5jbGVhciBvd25lcnNoaXAKCSogZGlzY3VzcywgY2xhcmlmeSwgd3JpdGUgZG93biB0aGUgb3duZXJzaGlwIHJvbGUgKiA3CgkJKiBBQ1RJT04gb25lLXBhZ2UgZG9jIGZvciBkZWZpbml0aW9uIG9mIG1pbGVzdG9uZSBvd25lcnNoaXAKMS4gb25seSBvbmUgVFYKCSogY2hhbmdpbmcgdG8gQnJvYWRjb20gYXMgdGhlIHJlZmVyZW5jZQo=</text>
+        <text encoding="base64">ICAgIHNldF9zb3VyY2VfZmlsZXNfcHJvcGVydGllcyhtYWluLmNwcAogICAgICAgIFBST1BFUlRJRVMgQ09NUElMRV9GTEFHUyAiLXN0ZD1jKysxNCIpCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8hIEB9Cg==</text>
@@ -1912,7 +1912,7 @@
         <text encoding="base64">XDxfZmlsZV9uYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CmFkZF9jdXN0b21fdGFyZ2V0KGluc3RhbGxfYWxsCiAgICAiJHtDTUFLRV9DT01NQU5EfSIgLS1idWlsZCAiJHtDTUFLRV9CSU5BUllfRElSfSIgLS10YXJnZXQgaW5zdGFsbAogICAgQ09NTUVOVCAiSW5zdGFsbGluZyAke1BST0pFQ1RfTkFNRX0iKQoKYWRkX2N1c3RvbV90YXJnZXQoZGVwbG95CiAgICBERVBFTkRTIGluc3RhbGxfYWxsCiAgICBDT01NQU5EIHNzaCBsZ3R2IGtpbGxhbGwgLXcgLTkgaWduaXRpb24gfHwgdHJ1ZQogICAgQ09NTUFORCBzY3AgLUJyICR7Q01BS0VfSU5TVEFMTF9QUkVGSVh9LyogbGd0djovbWVkaWEvY3J5cHRvZnMvYXBwcy91c3IvcGFsbS9hcHBsaWNhdGlvbnMvYW1hem9uCiAgICApCgphZGRfY3VzdG9tX3RhcmdldChydW5fb25fZGV2aWNlCiAgICBDT01NQU5EIHNzaCBsZ3R2IGtpbGxhbGwgLXcgLTkgaWduaXRpb24gfHwgdHJ1ZQogICAgQ09NTUFORCBzc2ggbGd0diBcIlhER19SVU5USU1FX0RJUj0vdG1wL3hkZyBqYWlsZXIgLXQgbmF0aXZlX212cGQgLXAgL21lZGlhL2NyeXB0b2ZzL2FwcHMvdXNyL3BhbG0vYXBwbGljYXRpb25zL2FtYXpvbiAtaSBhbWF6b24gYmluL2lnbml0aW9uIC0tbG9nLWxldmVsPUFWUEssUkVHSVNURVI6REVCVUcgLS11c2UtbG9jYWwtbHVhIC0tYnlwYXNzLWJsdXItc2VydmVyXCIKICAgICkK</text>
+        <text encoding="base64">ICAgIHNldF9zb3VyY2VfZmlsZXNfcHJvcGVydGllcyhtYWluLmNwcAogICAgICAgIFBST1BFUlRJRVMgQ09NUElMRV9GTEFHUyAiLXN0ZD1jKysxNCIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aWYoTk9UICIke0lHTklURV9QT1JUSU5HfSIgU1RSRVFVQUwgInV3cCIpCiAgICBhZGRfc3ViZGlyZWN0b3J5KGxpYnMvZ3Rlc3QpCiAgICBhZGRfc3ViZGlyZWN0b3J5KGxpYnMvZ21vY2spCiAgICBlbmFibGVfdGVzdGluZygpCiAgICBhZGRfc3ViZGlyZWN0b3J5KHRlc3RzKQplbmRpZigpCg==</text>
