@@ -273,6 +273,14 @@
           <Count>20</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reword...">
+        <Item>
+          <IdeaActionID>Git.Reword.Commit</IdeaActionID>
+          <ShortCut>'F2' or '⇧F6'</ShortCut>
+          <Description>Reword...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'All in TextToSpeechTest.cpp'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
