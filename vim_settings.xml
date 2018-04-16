@@ -1592,8 +1592,8 @@
       <file name="$USER_HOME$/dev/ig/devicelinux/implementation/linux/internal/include/SecureStorageBackendContext.h" timestamp="1511541912732">
         <mark key="'" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1523895888575">
-        <mark key="'" line="1051" column="35" />
+      <file name="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" timestamp="1523896330649">
+        <mark key="'" line="99" column="0" />
         <mark key="[" line="844" column="19" />
         <mark key="]" line="844" column="21" />
         <mark key="." line="844" column="21" />
@@ -1736,8 +1736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="79" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
-      <jump line="71" column="53" filename="$USER_HOME$/dev/ignite/src/avpk/SecureStorageBackend.cpp" />
       <jump line="8" column="14" filename="$USER_HOME$/dev/ignite/portingplatforms/lg/cmake/platform-config.cmake" />
       <jump line="177" column="0" filename="$USER_HOME$/dev/ignite/tools/generate_project.py" />
       <jump line="3394" column="45" filename="$USER_HOME$/dev/ignite/cmake-build-debug/src/sharun/thirdparty/libcurl-prefix/src/libcurl-build/lib/CMakeFiles/libcurl.dir/build.make" />
@@ -1830,12 +1828,14 @@
       <jump line="1548" column="26" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="440" column="6" filename="/usr/include/c++/4.9/bits/basic_string.h" />
       <jump line="39" column="19" filename="$USER_HOME$/dev/ignite/src/megablast_native_apis.cpp" />
-      <jump line="3109" column="22" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="71" column="38" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="1016" column="15" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="914" column="18" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="1051" column="35" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
       <jump line="179" column="25" filename="$USER_HOME$/dev/ignite/src/script_engine/lua_engine.cpp" />
+      <jump line="1060" column="4" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="3109" column="22" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
+      <jump line="99" column="0" filename="$USER_HOME$/dev/ignite/src/megablast_roku.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
