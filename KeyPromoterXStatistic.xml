@@ -6,7 +6,7 @@
           <IdeaActionID>Build</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -319,6 +319,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ignition-device-layer-test wit...'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'install_all RELEASE'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'install_all RELEASE'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'install_ignite'">
