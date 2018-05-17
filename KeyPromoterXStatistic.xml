@@ -121,6 +121,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'run'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'run'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -286,7 +294,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -561,6 +569,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'run'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'run'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'test-deploy'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -569,12 +585,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop...">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Hierarchy">
