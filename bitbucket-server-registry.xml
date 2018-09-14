@@ -2,8 +2,10 @@
   <component name="BitbucketServerRegistry">
     <instances>
       <instance uuid="aa97dc16-8d0b-43c1-a227-7f065bf7c1f7" baseUri="https://stash-ext.amazondcl.com/" />
+      <instance uuid="696a3513-cba2-4935-9f12-b5136555fbd8" baseUri="https://bitbucket.amazondcl.com/" />
     </instances>
     <lookup>
+      <record scheme="ssh" hostname="bitbucket.amazondcl.com" port="8443" path="/" uuid="696a3513-cba2-4935-9f12-b5136555fbd8" />
       <record scheme="ssh" hostname="stash-ext.amazondcl.com" port="8443" path="/" uuid="aa97dc16-8d0b-43c1-a227-7f065bf7c1f7" />
     </lookup>
   </component>
