@@ -1,0 +1,9 @@
+<application>
+  <component name="CPPToolchains" version="3">
+    <toolchains detectedVersion="5">
+      <toolchain name="Default" debuggerKind="BUNDLED_LLDB" />
+      <toolchain name="LG m16p" customCMakePath="/usr/bin/cmake" customCCompilerPath="/home/hojin/dev/ignite/lg/platform/ignition/lg_m16p_sdk/arm-lg115x-linux-gnueabi/bin/arm-lg115x-linux-gnueabi-gcc" customCXXCompilerPath="/home/hojin/dev/ignite/lg/platform/ignition/lg_m16p_sdk/arm-lg115x-linux-gnueabi/bin/arm-lg115x-linux-gnueabi-g++" hostId="ebaefc6e-4f68-4fd3-9e5b-01c7507563a7" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
+      <toolchain name="linux ub" customCMakePath="/usr/bin/cmake" hostId="04a8ba76-d9bf-4931-b555-f91ec766c272" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
+    </toolchains>
+  </component>
+</application>

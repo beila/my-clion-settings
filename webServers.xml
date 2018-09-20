@@ -1,0 +1,16 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ebaefc6e-4f68-4fd3-9e5b-01c7507563a7" name="ssh://hojin@localhost:4022 (ebaefc6e-4f68-4fd3-9e5b-01c7507563a7)" url="http:///">
+        <fileTransfer host="localhost" port="4022" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="4022" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="04a8ba76-d9bf-4931-b555-f91ec766c272" name="ssh://hojin@localhost:4022 (04a8ba76-d9bf-4931-b555-f91ec766c272)" url="http:///">
+        <fileTransfer host="localhost" port="4022" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="4022" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
