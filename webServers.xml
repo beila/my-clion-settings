@@ -6,6 +6,11 @@
           <option name="port" value="4022" />
         </fileTransfer>
       </webServer>
+      <webServer id="4b97908e-157e-4235-8317-ab1e2b198abc" name="ssh://hojin@localhost:4022 (4b97908e-157e-4235-8317-ab1e2b198abc)" url="http:///">
+        <fileTransfer host="localhost" port="4022" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="4022" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
