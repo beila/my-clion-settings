@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="ActivateCMakeToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
   <action id="CMake.ReloadCMakeProject">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
