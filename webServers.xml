@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="ebaefc6e-4f68-4fd3-9e5b-01c7507563a7" name="LG m16p (ebaefc6e-4f68-4fd3-9e5b-01c7507563a7)" url="http:///">
-        <fileTransfer host="localhost" port="4022" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+        <fileTransfer host="localhostFFF" port="4022" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
           <option name="port" value="4022" />
         </fileTransfer>
       </webServer>
