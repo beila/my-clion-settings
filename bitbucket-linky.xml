@@ -4,13 +4,13 @@
   </component>
   <component name="BitbucketServerRegistry">
     <instances>
-      <instance baseUri="https://bitbucket.amazondcl.com:443/" />
-      <instance baseUri="https://stash-ext.amazondcl.com:443/" />
+      <instance uuid="a3e7dda2-5667-31fa-8963-d15682c0fc09" baseUri="https://stash-ext.amazondcl.com:443/" />
+      <instance uuid="ffdc392c-f1e0-345a-b526-6606068dd65c" baseUri="https://bitbucket.amazondcl.com:443/" />
     </instances>
     <lookup>
       <record scheme="ssh" hostname="bitbucket.amazondcl.com" port="8443" path="/" uuid="ffdc392c-f1e0-345a-b526-6606068dd65c" />
       <record scheme="ssh" hostname="stash-ext.amazondcl.com" port="8443" path="/" uuid="a3e7dda2-5667-31fa-8963-d15682c0fc09" />
     </lookup>
   </component>
-  <component name="Instance" id="d39135a3-e17e-42cf-be3c-4f01d1fe9ceb" version="6.1" />
+  <component name="Instance" id="d39135a3-e17e-42cf-be3c-4f01d1fe9ceb" version="6.2" />
 </application>
