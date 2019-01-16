@@ -1,5 +1,8 @@
 <code_scheme name="ignite" version="173">
   <option name="RIGHT_MARGIN" value="100" />
+  <CMakeCodeStyleSettings>
+    <option name="FORCE_COMMANDS_CASE" value="1" />
+  </CMakeCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
@@ -18,6 +21,10 @@
     <option name="SPACE_AFTER_REFERENCE_IN_DECLARATION" value="true" />
   </Objective-C>
   <codeStyleSettings language="CMake">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
