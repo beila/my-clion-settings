@@ -17,5 +17,20 @@
     <event name="CreatePullRequest" place="GoToAction" timestamp="2019-03-14T13:09:46.788Z">
       <attribute name="bitbucket">server</attribute>
     </event>
+    <event name="CreatePullRequest" place="EditorTabPopup" timestamp="2019-03-14T13:21:32.100Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="OpenFile" place="EditorTabPopup" timestamp="2019-03-14T13:21:45.004Z">
+      <attribute name="editor">false</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CopyLinkToFile" place="EditorTabPopup" timestamp="2019-03-14T13:25:33.146Z">
+      <attribute name="editor">false</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">server</attribute>
+    </event>
   </component>
 </application>
