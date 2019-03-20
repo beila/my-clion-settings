@@ -2,6 +2,7 @@
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
       <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" customCMakePath="/usr/bin/cmake" debuggerKind="BUNDLED_GDB" />
+      <toolchain name="m16p3" toolSetKind="SYSTEM_UNIX_TOOLSET" customCCompilerPath="$USER_HOME$/dev/lg-toolchain/w45_m16p3_324/x86_64-linux/usr/bin/arm-starfishmllib32-linux-gnueabi/arm-starfishmllib32-linux-gnueabi-gcc" customCXXCompilerPath="$USER_HOME$/dev/lg-toolchain/w45_m16p3_324/x86_64-linux/usr/bin/arm-starfishmllib32-linux-gnueabi/arm-starfishmllib32-linux-gnueabi-c++" debuggerKind="BUNDLED_GDB" />
     </toolchains>
   </component>
 </application>
