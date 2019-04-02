@@ -19,6 +19,9 @@
     <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
     <option name="SPACE_BEFORE_REFERENCE_IN_DECLARATION" value="false" />
     <option name="SPACE_AFTER_REFERENCE_IN_DECLARATION" value="true" />
+    <option name="CLASSES_AND_STRUCTS_NAMING_CONVENTION">
+      <value prefix="" style="PASCAL_CASE" suffix="" />
+    </option>
   </Objective-C>
   <codeStyleSettings language="CMake">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
