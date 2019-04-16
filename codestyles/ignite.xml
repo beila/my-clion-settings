@@ -1,5 +1,5 @@
 <code_scheme name="ignite" version="173">
-  <option name="RIGHT_MARGIN" value="100" />
+  <option name="RIGHT_MARGIN" value="103" />
   <CMakeCodeStyleSettings>
     <option name="FORCE_COMMANDS_CASE" value="1" />
   </CMakeCodeStyleSettings>
@@ -19,7 +19,13 @@
     <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
     <option name="SPACE_BEFORE_REFERENCE_IN_DECLARATION" value="false" />
     <option name="SPACE_AFTER_REFERENCE_IN_DECLARATION" value="true" />
+    <option name="CLASSES_AND_STRUCTS_NAMING_CONVENTION">
+      <value prefix="" style="PASCAL_CASE" suffix="" />
+    </option>
   </Objective-C>
+  <clangFormatSettings>
+    <option name="ENABLED" value="true" />
+  </clangFormatSettings>
   <codeStyleSettings language="CMake">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
