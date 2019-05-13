@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="_mocha" type="JavaScript" />
       <mapping pattern="DeviceInteractionSecureStorageBackendTest_ShouldMigrateFromV0" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
