@@ -1,0 +1,14 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="print warning selected text in cmake">
+      <typing text-keycode="89:0;79:1">yO</typing>
+      <shortuct text="ESCAPE" />
+      <typing text-keycode="80:0;77:0;70:0;86:0;192:0;93:0;59:1;83:0;47:0;222:1;47:0;92:0;92:0;222:1;47:0;71:0">pmfv`]:s/&quot;/\\&quot;/g</typing>
+      <shortuct text="ENTER" />
+      <typing text-keycode="192:0;93:0;65:0;222:1;48:1">`]a&quot;)</typing>
+      <shortuct text="ESCAPE" />
+      <typing text-keycode="222:0;70:0;73:0;77:0;69:0;83:0;83:0;65:0;71:0;69:0;57:1;87:1;65:1;82:1;78:1;73:1;78:1;71:1;32:0;222:1">'fimessage(WARNING&amp;#x20;&quot;</typing>
+      <shortuct text="ESCAPE" />
+    </macro>
+  </component>
+</application>
